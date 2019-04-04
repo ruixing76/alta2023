@@ -15,10 +15,16 @@ export const HomePageTemplate = ({ home }) => {
     <>
       <section className="header">
         <div className="header-container  container">
-          {home.headerImage && <img className="header-image" src={home.headerImage.image} alt={home.headerImage.imageAlt} />}
-          <h3 className="header-tagline">
-            <span className="header-taglinePart">{home.title}</span>
-          </h3>
+          {home.headerImage && 
+            <img className="header-image" src={home.headerImage.image} alt={home.headerImage.imageAlt} />
+          }
+          <div className="header-text">
+            <h3 className="header-name">{home.title}</h3>
+            <h4 className="header-tagline">
+              <span className="header-taglinePart">{home.description}</span>
+            </h4>
+            <p className="header-extra-info">{home.extraInfo}</p>
+          </div>
         </div>
       </section>
      </>
@@ -66,6 +72,8 @@ export const pageQuery = graphql`
         node {
           frontmatter {
             title
+            description
+            extraInfo
             headerImage {
               image
               imageAlt

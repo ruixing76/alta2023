@@ -2,13 +2,13 @@
 @import "../../styles/mixins";
 
 .footer {
-  background-color: $background-dark;
+  background-color: $background-xlight;
   @include medium-font;
-  color: $body-light;
-  padding: 80px 20px;
+  color: $body-dark;
+  padding: 40px 20px;
 
   @include respond-to("small") {
-    padding: 40px 20px;
+    padding: 20px 20px;
     height: $footer-height;
   }
 
@@ -69,7 +69,7 @@
     @include medium-font;
     font-weight: 400;
     text-decoration: none;
-    color: $body-light;
+    color: $body-dark;
     display: flex;
     align-items: center;
   }

@@ -187,7 +187,8 @@ collections:
                 [
                   { label: "Image", name: "image", widget: "image" },
                   { label: "Image Description", name: "imageAlt", widget: "string" },
-                  { label: "Tagline", name: "tagline", widget: "string" },
+                  { label: "Taglines", name: "taglines", widget: "list" },
+                  { label: "Organisation Link", name: "orgLink", widget: "string" },
                 ],
             }
           - {

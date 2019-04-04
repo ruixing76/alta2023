@@ -23,7 +23,9 @@ export const HomePageTemplate = ({ home }) => {
             <h4 className="header-tagline">
               <span className="header-taglinePart">{home.description}</span>
             </h4>
-            <p className="header-extra-info">{home.extraInfo}</p>
+            <div className="header-extra-info">
+              {home.extraInfo.map(ei => <p>{ei}</p>)}
+            </div>
           </div>
         </div>
       </section>

@@ -10,13 +10,17 @@ export const FooterTemplate = ({ data }) => {
         <div className="footer-top">
           <div className="footer-about">
             <h4 className="footer-aboutTitle">
-              <img
-                className="footer-aboutTitleImg"
-                src={logoImage.image}
-                alt={logoImage.imageAlt}
-              />
+              <a href={logoImage.orgLink}>
+                <img
+                  className="footer-aboutTitleImg"
+                  src={logoImage.image}
+                  alt={logoImage.imageAlt}
+                />
+              </a>
             </h4>
-            <p className="footer-aboutDescription">{logoImage.tagline}</p>
+            <div className="footer-aboutDescription">
+              {logoImage.taglines.map(tl => <p>{tl}</p>)}
+            </div>
           </div>
           {socialLinks.length > 0 && (
             <ul className="footer-socialMenu">

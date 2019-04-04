@@ -28,7 +28,8 @@ export const query = graphql`
             logoImage {
               image
               imageAlt
-              tagline
+              taglines
+              orgLink
             }
             socialLinks {
               image

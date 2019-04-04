@@ -5,7 +5,9 @@ headerImage:
   imageAlt: University of Technology, Sydney
 title: ALTA 2019
 description: The 17th Annual Workshop of the Australasian Language Technology Association
-extraInfo: "4th – 6th December 2019 | University of Technology Sydney"
+extraInfo: 
+  - 4th – 6th December 2019
+  - University of Technology Sydney
 seo:
   browserTitle: ALTA 2019
   description: >-

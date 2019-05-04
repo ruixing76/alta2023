@@ -34,5 +34,10 @@
     &--active {
       color: $menu-active;
     }
+
+    &[aria-current="page"] {
+      font-weight: 600;
+      color: $menu-active;
+    }
   }
 }

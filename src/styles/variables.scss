@@ -21,6 +21,7 @@ $menu-inactive: $american-silver;
 
 $body-light: $coronation;
 $body-dark: $black-blueberry;
+$body-link: lighten($body-dark, 30%);
 
 $navbar-height: 50px;
 $footer-height: 250px;

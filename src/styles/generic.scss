@@ -17,8 +17,12 @@ body {
 }
 
 a {
-  color: inherit;
+  color: $body-link;
   text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .container {

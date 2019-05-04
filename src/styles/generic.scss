@@ -37,4 +37,10 @@ a {
 
 main {
   min-height: calc(100vh - #{$navbar-height} - #{$footer-height});
+  
+  p {
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+  }
 }
+

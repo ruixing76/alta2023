@@ -1,41 +1,30 @@
 ---
 templateKey: about-page
-title: Wakanda JavaScript Developer Meetup
-mainImage:
-  image: /img/teemu-paananen-376238-unsplash.jpg
-  imageAlt: Wakanda JavaScript developer presenting at a meetup.
-gallery:
-  - image: /img/neonbrand-509131-unsplash.jpg
-    imageAlt: Wakanda JavaScript developer presenting at a meetup.
-  - image: /img/jakob-dalbjorn-730178-unsplash.jpg
-    imageAlt: Wakanda JavaScript developer presenting at a meetup.
-  - image: /img/annie-spratt-608001-unsplash.jpg
-    imageAlt: Wakanda developers working together at a table.
-developerGroups: |-
-  ## Other Wakanda Developer Groups
-
-  * [React & React Native Meetup](https://www.google.com)
-  * [Python Meetup](https://www.google.com)
-  * [Google Developer Meetup](https://www.google.com)
-  * [Vue.js Meetup](https://www.google.com)
-  * [Ruby Meetup](https://www.google.com)
+title: About the ALTA 2019 Workshop
 organizers:
-  title: Group Organizers
+  title: Organizers
   gallery:
-    - image: /img/organizer-1.jpg
-      imageAlt: Tom Cruise
-      name: Tom Cruise
-    - image: /img/organizer-2.jpg
-      imageAlt: Tom Hanks
-      name: Tom Hanks
+    - image: ""
+      name: Massimo Piccardi
+      imageAlt: Massimo Piccardi
+      organization: University of Technology Sydney
+      role: Co-chair – Local Arrangements
+    - image: ""
+      imageAlt: Andy MacKinlay
+      name: Andy MacKinlay
+      organization: Culture Amp
+      role: Co-chair – General
+    - image: ""
+      imageAlt: Meladel Mistica
+      name: Meladel Mistica
+      organization: Monash University
+      role: Program Chair   
 seo:
-  browserTitle: About | JavaScript Wakanda
+  browserTitle: About | ALTA 2019
   description: >-
-    JavaScript Wakanda is a meetup group that holds monthly meetups where
-    JavaScript developers get together for presentations and to meet others in
-    the community.
-  title: About | JS Wakanda
+    ALTA is the Australasian Language Technology Association, which connects NLP researchers around Australia and New Zealand. On of the primary purposes of ALTA is organise the ALTA Workshop – the premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
+  title: About | ALTA 2019
 ---
-## Sharing Ideas and Meeting Others
+The ALTA Workshop is the premier venue in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome. The workshop is run annually, usually in December, under the auspices of the [Australasian Language Technology Association](https://www.alta.asn.au).
 
-JS Wakanda is a user group run by volunteers. We meet in borrowed spaces, graciously provided by different companies and organisations. Our purpose is to provide a place where our members have a good time talking about programming, sharing their knowledge and meeting other passionate folks. We keep it friendly, inclusive and positive.
+ALTA 2019 will be held at the University of Technology Sydney from the 4th to the 6th of December. A call for papers will be published here soon.

@@ -25,12 +25,10 @@ $breakpoints: (
 @mixin small-font() {
   font-weight: 300;
   font-size: 0.9rem;
-  letter-spacing: 0.4px;
   line-height: 1.4rem;
 
   @include respond-to("small") {
     font-size: 1rem;
-    letter-spacing: 0.5px;
     line-height: 1.5rem;
   }
 }
@@ -38,12 +36,10 @@ $breakpoints: (
 @mixin medium-font() {
   font-weight: 300;
   font-size: 1rem;
-  letter-spacing: 0.5px;
   line-height: 1.5rem;
 
   @include respond-to("small") {
     font-size: 1.25rem;
-    letter-spacing: 1px;
     line-height: 1.75rem;
   }
 }
@@ -51,12 +47,10 @@ $breakpoints: (
 @mixin large-font() {
   font-weight: 400;
   font-size: 1.75rem;
-  letter-spacing: 1px;
   line-height: 2.5rem;
 
   @include respond-to("small") {
     font-size: 2.25rem;
-    letter-spacing: 1.2px;
     line-height: 3rem;
   }
 }
@@ -64,12 +58,10 @@ $breakpoints: (
 @mixin xlarge-font() {
   font-weight: 400;
   font-size: 2rem;
-  letter-spacing: 0.5px;
   line-height: 2.5rem;
 
   @include respond-to("small") {
     font-size: 2.5rem;
-    letter-spacing: 1px;
     line-height: 3.25rem;
   }
 
@@ -80,14 +72,8 @@ $breakpoints: (
 }
 
 @mixin link-border() {
-  border-bottom: 2px solid $highlight;
   transition: all $transition-duration ease-in-out;
-
-  &:hover {
-    background-color: $highlight;
-  }
 }
 
 @mixin title-link-border() {
-  border-bottom: 3px solid $highlight;
 }

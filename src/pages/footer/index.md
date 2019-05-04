@@ -6,7 +6,7 @@ logoImage:
   orgLink: https://www.alta.asn.au
   taglines:
     - 17th Annual ALTA Workshop
-    - 4th-6th December, 2019 at UTS
+    - 4th - 6th December, 2019 at UTS
 socialLinks:
   - image: /img/email.svg
     imageAlt: Contact us by email

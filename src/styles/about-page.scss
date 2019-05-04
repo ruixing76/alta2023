@@ -29,8 +29,12 @@
     }
   }
 
-  .section {
-    p {
+  section.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    > div {
       max-width: 900px;
     }
   }
@@ -54,9 +58,7 @@
     padding: 0 20px 30px;
     @include medium-font();
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    max-width: 900px;
 
     @include respond-to("small") {
       text-align: left;

@@ -6,17 +6,19 @@ import Helmet from "react-helmet";
 
 import Layout from "../components/Layout";
 import HTMLContent from "../components/Content";
+import OrganizerSection from "../components/OrganizerSection";
 import "../styles/about-page.scss";
 
 export const AboutPageTemplate = props => {
   const { page } = props;
+  const { title, organizers } = page.frontmatter;
 
   return (
     <article className="about">
       <div className="about-container  container">
         <section className="about-header">
           <div className="about-titleWrapper">
-            <h1 className="about-title">{page.frontmatter.title}</h1>
+            <h1 className="about-title">{title}</h1>
           </div>
         </section>
         <section className="section">
@@ -29,25 +31,7 @@ export const AboutPageTemplate = props => {
           )}
         </section>
       </div>
-      <section className="section  organizers  about-organizers">
-        <div className="container  organizers-container">
-          <h2 className="organizers-title">{page.frontmatter.organizers.title}</h2>
-          <ul className="organizers-list">
-            {page.frontmatter.organizers.gallery.map((galleryImage, index) => (
-              <li key={index} className="organizers-listItem">
-                {/* <img
-                  className="organizers-listItemImage"
-                  src={galleryImage.image}
-                  alt={galleryImage.imageAlt}
-                /> */}
-                <span className="organizers-listItemName">{galleryImage.name}</span>
-                <span className="organizers-organization">{galleryImage.organization}</span>
-                <span className="organizers-role">{galleryImage.role}</span>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </section>
+      {organizers !== null ? (<OrganizerSection organizers={organizers} />) : null}
     </article>
   );
 };

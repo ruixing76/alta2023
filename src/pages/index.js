@@ -5,9 +5,6 @@ import Helmet from "react-helmet";
 import isAfter from "date-fns/is_after";
 
 import Layout from "../components/Layout";
-import Map from "../components/Map";
-import HeadshotPlaceholder from "../img/headshot-placeholder.svg";
-import CustomLink from "../components/CustomLink";
 import "../styles/home.scss";
 
 export const HomePageTemplate = ({ home }) => {

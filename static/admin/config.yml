@@ -38,7 +38,6 @@ collections:
                   { label: "Image Description", name: "imageAlt", widget: "string" },
                 ],
             }
-          - { label: "Developer Groups", name: "developerGroups", widget: "markdown" }
           - {
               label: "Meetup Organizers",
               name: "organizers",
@@ -86,75 +85,22 @@ collections:
                 ],
             }
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Upcoming Meetup Heading", name: "upcomingMeetupHeading", widget: "string" }
-          - { label: "No Upcoming Meetup Text", name: "noUpcomingMeetupText", hint: "This text will be displayed when there are no upcoming meetups", required: true, widget: "string" }
-          - { label: "Maps Note", name: "mapsNote", required: true, widget: "string" }
+      - file: "src/pages/sponsorship/index.md"
+        label: "Sponsorship"
+        name: "sponsorship"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page" }
           - {
-              label: "Call to Actions",
-              name: "callToActions",
-              required: true,
+              label: "Header Image",
+              name: "headerImage",
               widget: "object",
               fields:
                 [
-                  {
-                    label: "First CTA",
-                    name: "firstCTA",
-                    required: true,
-                    widget: "object",
-                    fields:
-                      [
-                        { label: "Heading", name: "heading", widget: "string" },
-                        { label: "Sub Heading", name: "subHeading", widget: "string" },
-                        {
-                          label: "Link Type",
-                          name: "linkType",
-                          widget: "select",
-                          options: ["internal", "external"],
-                        },
-                        {
-                          label: "Link URL",
-                          name: "linkURL",
-                          widget: "string",
-                          hint: "Use a relative URL (e.g. /about) if the link is an internal link.",
-                        }
-                      ]
-                  },
-                  {
-                    label: "Second CTA",
-                    name: "secondCTA",
-                    required: true,
-                    widget: "object",
-                    fields:
-                      [
-                        { label: "Heading", name: "heading", widget: "string" },
-                        { label: "Sub Heading", name: "subHeading", widget: "string" },
-                        {
-                          label: "Link Type",
-                          name: "linkType",
-                          widget: "select",
-                          options: ["internal", "external"],
-                        },
-                        {
-                          label: "Link URL",
-                          name: "linkURL",
-                          widget: "string",
-                          hint: "Use a relative URL (e.g. /about) if the link is an internal link.",
-                        }
-                      ]
-                  }
+                  { label: "Image", name: "image", widget: "image" },
+                  { label: "Image Description", name: "imageAlt", widget: "string" },
                 ],
             }
-          - {
-              label: "SEO & Meta",
-              name: "seo",
-              widget: "object",
-              fields:
-                [
-                  { label: "Browser Tab Title", name: "browserTitle", widget: "string"},
-                  { label: "Title", name: "title", widget: "string" },
-                  { label: "Description", name: "description", widget: "string" },
-                ],
-            }
+          - { label: "Title", name: "title", widget: "string" }
   - name: "navbarAndFooter"
     label: "Navbar & Footer"
     files:

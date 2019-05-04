@@ -1,11 +1,14 @@
 ---
 templateKey: navbar
 menuItems:
-  - label: home
+  - label: sponsorship
     linkType: internal
-    linkURL: /
+    linkURL: /sponsorship
   - label: about
     linkType: internal
     linkURL: /about
+  - label: home
+    linkType: internal
+    linkURL: /
 ---
 

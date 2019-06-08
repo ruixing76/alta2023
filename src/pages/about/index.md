@@ -5,11 +5,6 @@ organizers:
   title: Organizers
   gallery:
     - image: ""
-      name: Massimo Piccardi
-      imageAlt: Massimo Piccardi
-      organization: University of Technology Sydney
-      role: Co-chair – Local Arrangements
-    - image: ""
       imageAlt: Andy MacKinlay
       name: Andy MacKinlay
       organization: Culture Amp
@@ -18,7 +13,12 @@ organizers:
       imageAlt: Meladel Mistica
       name: Meladel Mistica
       organization: Monash University
-      role: Program Chair   
+      role: Program Chair
+    - image: ""
+      name: Massimo Piccardi
+      imageAlt: Massimo Piccardi
+      organization: University of Technology Sydney
+      role: Co-chair – Local Arrangements
 seo:
   browserTitle: About | ALTA 2019
   description: >-

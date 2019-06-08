@@ -31,7 +31,7 @@ export const FooterTemplate = ({ frontmatter, site }) => {
                 return (<Fragment>
                   <h4 className="footer-sponsor-level">{level} Sponsors</h4>
                   <ul className="footer-sponsors-at-level">
-                    {matching.map(s => <li><a href={s.link} title={s.longName}>{s.name}</a></li>)}
+                    {matching.map(s => <li className="footer-single-sponsor"><a href={s.link} title={s.longName}>{s.name}</a></li>)}
                   </ul>
                 </Fragment>);
               else

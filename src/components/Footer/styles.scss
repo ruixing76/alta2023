@@ -106,6 +106,12 @@
 
   &-sponsors-at-level {
     font-size: 1rem;
+
+    display: flex;
+  }
+
+  &-single-sponsor {
+    margin-right: 1rem;
   }
 
   &-sponsors {

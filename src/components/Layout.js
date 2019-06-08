@@ -6,15 +6,15 @@ import "../styles";
 import { Navbar } from "../components/Navbar";
 import { Footer } from "../components/Footer";
 
-const TemplateWrapper = ({ footerData = null, navbarData = null, children }) => (
+const TemplateWrapper = ({ footerData = null, navbarData = null, site = null, children }) => (
   <div>
     <Helmet>
       <html lang="en" />
-      <meta name="keywords" content="montreal, javascript, programming, meetup" />
+      <meta name="keywords" content="workshop nlp natural language processing australia conference" />
     </Helmet>
     <Navbar data={navbarData} />
     <main>{children}</main>
-    <Footer data={footerData} />
+    <Footer data={footerData} site={site} />
   </div>
 );
 
@@ -58,6 +58,16 @@ export const query = graphql`
           }
         }
       }
+    }
+    site {      
+      siteMetadata {       
+        sponsors {
+          name
+          longName
+          level
+          link
+        }
+      }    
     }
   }
 `;

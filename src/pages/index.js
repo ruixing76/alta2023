@@ -34,14 +34,14 @@ class HomePage extends React.Component {
   render() {
     const { data } = this.props;
     const {
-      data: { footerData, navbarData },
+      data: { footerData, navbarData, site },
     } = this.props;
     const { frontmatter: home } = data.homePageData.edges[0].node;
     const {
       seo: { title: seoTitle, description: seoDescription, browserTitle },
     } = home;
     return (
-      <Layout footerData={footerData} navbarData={navbarData}>
+      <Layout footerData={footerData} navbarData={navbarData} site={site}>
         <Helmet>
           <meta name="title" content={seoTitle} />
           <meta name="description" content={seoDescription} />

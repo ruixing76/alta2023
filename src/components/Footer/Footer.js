@@ -1,8 +1,10 @@
-import React from "react";
+import React, { Fragment } from "react";
 import "./styles.scss";
 
-export const FooterTemplate = ({ data }) => {
-  const { logoImage, socialLinks } = data;
+export const FooterTemplate = ({ frontmatter, site }) => {
+  const { logoImage, socialLinks } = frontmatter;
+  const { sponsors } = site.siteMetadata;
+  const footerSponsorLevels = ["Platinum", "Gold"];
 
   return (
     <nav className="footer">
@@ -21,6 +23,20 @@ export const FooterTemplate = ({ data }) => {
             <div className="footer-aboutDescription">
               {logoImage.taglines.map(tl => <p>{tl}</p>)}
             </div>
+          </div>
+          <div className="footer-sponsors">
+            {footerSponsorLevels.map(level => {
+              const matching = sponsors.filter(s => s.level === level);
+              if (matching.length > 0)
+                return (<Fragment>
+                  <h4 className="footer-sponsor-level">{level} Sponsors</h4>
+                  <ul className="footer-sponsors-at-level">
+                    {matching.map(s => <li><a href={s.link} title={s.longName}>{s.name}</a></li>)}
+                  </ul>
+                </Fragment>);
+              else
+                return null;
+            })}
           </div>
           {socialLinks.length > 0 && (
             <ul className="footer-socialMenu">
@@ -49,12 +65,11 @@ export const FooterTemplate = ({ data }) => {
   );
 };
 
-const Footer = props => {
-  if (!props.data) {
+const Footer = ({data, site}) => {
+  if (!data) 
     return null;
-  }
-  const data = props.data.edges[0].node.frontmatter;
-  return <FooterTemplate data={data} />;
+  const frontmatter = data.edges[0].node.frontmatter;
+  return <FooterTemplate frontmatter={frontmatter} site={site} />;
 };
 
 export { Footer };

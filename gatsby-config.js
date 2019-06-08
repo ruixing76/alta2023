@@ -1,6 +1,31 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "ALTA 2019 Workshop",
+    sponsors: [
+      { 
+        name: "Sintelix",
+        level: "Platinum",
+        link: "https://sintelix.com/"
+      },
+      { 
+        name: "Google",
+        level: "Gold",
+        link: "https://google.com"
+      },
+      { 
+        name: "DST",
+        longName: "Defence Science and Technology",
+        level: "Gold",
+        link: "https://www.dst.defence.gov.au/"
+      },
+      { 
+        name: "CSIRO",
+        longName: "CSIRO | Data61",
+        level: "Gold",
+        link: "https://www.data61.csiro.au/"
+      }
+    ],
+    sponsorLevels: ["Platinum", "Gold"]
   },
   plugins: [
     "gatsby-plugin-react-helmet",

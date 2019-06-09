@@ -12,6 +12,10 @@
     height: $footer-height;
   }
 
+  ul {
+    list-style: none;
+  }
+
   &-container {
     display: flex;
     flex-direction: column;
@@ -106,8 +110,9 @@
 
   &-sponsors-at-level {
     font-size: 1rem;
-
     display: flex;
+    margin: 0;
+    padding: 0;
   }
 
   &-single-sponsor {

@@ -44,6 +44,17 @@ $breakpoints: (
   }
 }
 
+@mixin medlarge-font() {
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 2rem;
+
+  @include respond-to("small") {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+}
+
 @mixin large-font() {
   font-weight: 400;
   font-size: 1.75rem;

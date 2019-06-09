@@ -53,7 +53,7 @@ Presentation abstracts should not be anonymised, any publications relating to th
 
 ## Guidelines
 
-Submissions must follow the two-column ACL format. We therefore strongly recommend you use LaTeX style files or Microsoft Word template (found here: http://www.acl2019.org/EN/call-for-papers.xhtml).
+Submissions must follow the two-column ACL format. We therefore strongly recommend you use [LaTeX style files](/files/acl2019-latex.zip) or [Microsoft Word template](/files/acl2019-word.zip).
 
 
 ## Topics

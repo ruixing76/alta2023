@@ -18,12 +18,6 @@ module.exports = {
         level: "Gold",
         link: "https://www.dst.defence.gov.au/"
       },
-      { 
-        name: "CSIRO",
-        longName: "CSIRO | Data61",
-        level: "Gold",
-        link: "https://www.data61.csiro.au/"
-      }
     ],
     sponsorLevels: ["Platinum", "Gold"]
   },

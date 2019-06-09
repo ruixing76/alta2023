@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "ALTA 2019 Workshop",
+    siteUrl: "https://alta2019.alta.asn.au",
     sponsors: [
       { 
         name: "Sintelix",
@@ -23,6 +24,7 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-sitemap",
     "gatsby-plugin-sass",
     {
       resolve: "gatsby-source-filesystem",

@@ -10,7 +10,8 @@ const TemplateWrapper = ({ footerData = null, navbarData = null, site = null, ch
   <div>
     <Helmet>
       <html lang="en" />
-      <meta name="keywords" content="workshop nlp natural language processing australia conference" />
+      <meta name="keywords" content="workshop nlp natural language processing australia conference alta 2019" />
+      <meta name="google-site-verification" content="oHsm8TfiBgX6DjW9BTIOFEfT80pknaoqfoAi0G7bmS4" />
     </Helmet>
     <Navbar data={navbarData} />
     <main>{children}</main>

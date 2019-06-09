@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React from "react";
 import "./styles.scss";
 
 export const FooterTemplate = ({ frontmatter, site }) => {
@@ -21,19 +21,19 @@ export const FooterTemplate = ({ frontmatter, site }) => {
               </a>
             </h4>
             <div className="footer-aboutDescription">
-              {logoImage.taglines.map(tl => <p>{tl}</p>)}
+              {logoImage.taglines.map((tl, idx) => <p key={idx}>{tl}</p>)}
             </div>
           </div>
           <div className="footer-sponsors">
             {footerSponsorLevels.map(level => {
               const matching = sponsors.filter(s => s.level === level);
               if (matching.length > 0)
-                return (<Fragment>
+                return (<div className="footer-sponsor-block" key={level}>
                   <h4 className="footer-sponsor-level">{level} Sponsors</h4>
                   <ul className="footer-sponsors-at-level">
-                    {matching.map(s => <li className="footer-single-sponsor"><a href={s.link} title={s.longName}>{s.name}</a></li>)}
+                    {matching.map(s => <li className="footer-single-sponsor" key={s.name}><a href={s.link} title={s.longName}>{s.name}</a></li>)}
                   </ul>
-                </Fragment>);
+                </div>);
               else
                 return null;
             })}

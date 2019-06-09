@@ -20,7 +20,7 @@ export const HomePageTemplate = ({ home }) => {
               <span className="header-taglinePart">{home.description}</span>
             </h4>
             <div className="header-extra-info">
-              {home.extraInfo.map(ei => <p>{ei}</p>)}
+              {home.extraInfo.map((ei, idx) => <p key={idx}>{ei}</p>)}
             </div>
           </div>
         </div>

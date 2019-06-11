@@ -14,7 +14,7 @@ module.exports = {
         link: "https://google.com"
       },
       { 
-        name: "DST",
+        name: "Defence Science and Technology",
         longName: "Defence Science and Technology",
         level: "Gold",
         link: "https://www.dst.defence.gov.au/"

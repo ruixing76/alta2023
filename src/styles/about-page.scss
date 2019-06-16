@@ -65,29 +65,13 @@
     }
 
     h2 {
-      text-align: center;
       margin-bottom: 20px;
-      @include large-font();
+      @include medlarge-font();
     }
-  }
-}
 
-.developerGroups {
-  background-color: $background-medium;
-  color: $body-light;
-  @include medium-font();
-
-  h2 {
-    @include large-font();
-    margin-bottom: 40px;
-  }
-
-  ul li {
-    margin-bottom: 20px;
-  }
-
-  a {
-    @include link-border();
+    h2, h3, h4, h5 {
+      margin-top: 2rem;
+    }
   }
 }
 

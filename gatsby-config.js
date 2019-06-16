@@ -26,6 +26,7 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
     "gatsby-plugin-sass",
+    "gatsby-plugin-remove-trailing-slashes",
     {
       resolve: "gatsby-source-filesystem",
       options: {

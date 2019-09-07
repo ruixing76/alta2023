@@ -5,32 +5,32 @@
   "author": "Robert Cooper",
   "dependencies": {
     "date-fns": "^1.29.0",
-    "gatsby": "^2.0.0",
-    "gatsby-cli": "^2.5.12",
+    "gatsby": "^2.15.9",
+    "gatsby-cli": "^2.7.44",
     "gatsby-plugin-favicon": "^3.1.6",
-    "gatsby-plugin-google-analytics": "^2.0.20",
-    "gatsby-plugin-netlify": "^2.0.0",
+    "gatsby-plugin-google-analytics": "^2.1.14",
+    "gatsby-plugin-netlify": "^2.1.11",
     "gatsby-plugin-netlify-cms": "^3.0.0",
-    "gatsby-plugin-react-helmet": "^3.0.0",
-    "gatsby-plugin-sass": "^2.0.1",
-    "gatsby-plugin-sharp": "^2.0.5",
-    "gatsby-plugin-sitemap": "^2.1.0",
+    "gatsby-plugin-react-helmet": "^3.1.6",
+    "gatsby-plugin-sass": "^2.1.13",
+    "gatsby-plugin-sharp": "^2.2.20",
+    "gatsby-plugin-sitemap": "^2.2.10",
     "gatsby-remark-images": "^2.0.1",
-    "gatsby-source-filesystem": "^2.0.1",
-    "gatsby-transformer-remark": "^2.1.1",
-    "gatsby-transformer-sharp": "^2.1.1",
-    "lodash": "^4.17.5",
+    "gatsby-source-filesystem": "^2.1.21",
+    "gatsby-transformer-remark": "^2.6.21",
+    "gatsby-transformer-sharp": "^2.2.13",
+    "lodash": "^4.17.15",
     "lodash-webpack-plugin": "^0.11.4",
-    "netlify-cms": "^2.1.1",
+    "netlify-cms": "^2.9.7",
     "node-sass": "^4.9.2",
     "parcel-bundler": "^1.9.4",
     "prop-types": "^15.6.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.4.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
     "react-google-maps": "^9.4.5",
     "react-helmet": "^5.2.0",
-    "react-markdown": "^4.0.3",
-    "uuid": "^3.2.1"
+    "react-markdown": "^4.2.2",
+    "uuid": "^3.3.3"
   },
   "keywords": [
     "gatsby"
@@ -47,8 +47,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "gatsby-plugin-remove-trailing-slashes": "^2.0.11",
-    "prettier": "^1.7.4",
-    "rimraf": "^2.6.2"
+    "gatsby-plugin-remove-trailing-slashes": "^2.1.5",
+    "prettier": "^1.18.2",
+    "rimraf": "^2.7.1"
   }
 }

@@ -1,5 +1,5 @@
 ---
-templateKey: about-page
+templateKey: default-page
 title: Sponsoring ALTA 2019
 description: Sponsorship Opportunities for ALTA
 seo:

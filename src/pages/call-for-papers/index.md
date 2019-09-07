@@ -1,5 +1,5 @@
 ---
-templateKey: about-page
+templateKey: default-page
 title: Call for Papers – ALTA 2019
 seo:
   browserTitle: Call for Papers | ALTA 2019

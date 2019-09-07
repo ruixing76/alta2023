@@ -85,9 +85,9 @@ collections:
                 ],
             }
           - { label: "Title", name: "title", widget: "string" }
-      - file: "src/pages/sponsorship/index.md"
-        label: "Sponsorship"
-        name: "sponsorship"
+      - file: "src/pages/sponsors/index.md"
+        label: "Sponsors"
+        name: "sponsors"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page" }
           - {

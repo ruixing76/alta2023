@@ -68,6 +68,7 @@ export const query = graphql`
           longName
           level
           link
+          image
         }
       }    
     }

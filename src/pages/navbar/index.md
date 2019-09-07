@@ -9,10 +9,10 @@ menuItems:
     longLabel: Call for Papers and Author Instructions
     linkType: internal
     linkURL: /call-for-papers
-  - label: sponsorship
+  - label: Sponsors
     longLabel: Sponsors and information about sponsoring ALTA
     linkType: internal
-    linkURL: /sponsorship
+    linkURL: /sponsors
   - label: about
     longLabel: Explanation of ALTA
     linkType: internal

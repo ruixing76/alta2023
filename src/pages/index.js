@@ -1,10 +1,29 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
-import Helmet from "react-helmet";
+import PageHelmet from "../components/PageHelmet";
+import ReactMarkdown from "react-markdown";
 
 import Layout from "../components/Layout";
 import "../styles/home.scss";
+
+const NewsItem = ({item}) => (
+  <li className="news-item">
+    <span className="news-date">{item.date}</span>
+    <ReactMarkdown className="news-text" source={item.text}/>
+  </li>
+)
+
+const NewsSection = ({items}) => (
+  <div className="news-section-wrapper">
+    <div className="news-section">
+      <h4>Latest News</h4>
+      <ul className="news-section-list">
+        {items.map(i => <NewsItem item={i}></NewsItem>)}
+      </ul>
+    </div>
+  </div>
+)
 
 export const HomePageTemplate = ({ home }) => {
   return (
@@ -25,6 +44,7 @@ export const HomePageTemplate = ({ home }) => {
           </div>
         </div>
       </section>
+      <NewsSection items={home.newsItems}/>
      </>
   );
 };
@@ -36,16 +56,9 @@ class HomePage extends React.Component {
       data: { footerData, navbarData, site },
     } = this.props;
     const { frontmatter: home } = data.homePageData.edges[0].node;
-    const {
-      seo: { title: seoTitle, description: seoDescription, browserTitle },
-    } = home;
     return (
       <Layout footerData={footerData} navbarData={navbarData} site={site}>
-        <Helmet>
-          <meta name="title" content={seoTitle} />
-          <meta name="description" content={seoDescription} />
-          <title>{browserTitle}</title>
-        </Helmet>
+        <PageHelmet page={{frontmatter: home}} />
         <HomePageTemplate home={home} />
       </Layout>
     );
@@ -80,6 +93,10 @@ export const pageQuery = graphql`
               browserTitle
               title
               description
+            }
+            newsItems {
+              date(formatString: "YYYY-MM-DD")
+              text
             }
           }
         }

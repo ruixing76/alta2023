@@ -84,7 +84,7 @@ We particularly encourage submissions that broaden the scope of our community th
 
 Original research papers that are under review for other publication venues or that you intend to submit elsewhere may be submitted in parallel to ALTA. We require that you declare at submission that your paper is submitted to another venue, and identify the venue. Should your paper be accepted to both ALTA and another venue, we allow you to decide whether the paper should be published in the ALTA proceedings, or if it should be treated as a Presentation (without archival publication). In this case you would still be able to present a research talk at the ALTA workshop. This is to encourage more internationally leading research to be presented at the workshop.
 
-## Instructions for Authors
+<h2 id="instructions-for-authors">Instructions for Authors</h2>
 
 ### Paper Submission
 

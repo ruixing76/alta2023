@@ -2,11 +2,11 @@
 @import "./mixins.scss";
 
 .header {
-  height: 450px;
+  height: 400px;
   background-color: $background-light;
 
   @include respond-to("medium") {
-    height: 575px;
+    height: 500px;
   }
 
   &-container {
@@ -73,3 +73,29 @@
   }
 }
 
+.news {
+  &-section {
+    max-width: 900px;
+    margin: auto;
+
+    > h4 { 
+      font-size: 0.8rem;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+  }
+
+  &-section-wrapper {
+    display: flex;
+    margin-bottom: 50px;
+  }
+
+  &-text, &-text > p {
+    display: inline;
+  }
+
+  &-date {
+    margin-right: 1rem;
+    font-weight: bold;
+  }
+}

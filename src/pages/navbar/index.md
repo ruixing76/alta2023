@@ -1,6 +1,9 @@
 ---
 templateKey: navbar
 menuItems:
+  - label: PC
+    linkType: internal
+    linkURL: /pc
   - label: call for papers
     linkType: internal
     linkURL: /call-for-papers

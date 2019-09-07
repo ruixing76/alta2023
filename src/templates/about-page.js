@@ -2,11 +2,11 @@ import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import ReactMarkdown from "react-markdown";
-import Helmet from "react-helmet";
 
 import Layout from "../components/Layout";
 import HTMLContent from "../components/Content";
 import OrganizerSection from "../components/OrganizerSection";
+import PageHelmet from "../components/PageHelmet";
 import "../styles/about-page.scss";
 
 export const AboutPageTemplate = props => {
@@ -22,13 +22,7 @@ export const AboutPageTemplate = props => {
           </div>
         </section>
         <section className="section">
-          {/* The page.html is actually markdown when viewing the page from the netlify CMS,
-              so we must use the ReactMarkdown component to parse the mardown in that case  */}
-          {page.bodyIsMarkdown ? (
-            <ReactMarkdown className="about-description" source={page.html} />
-          ) : (
-            <HTMLContent className="about-description" content={page.html} />
-          )}
+          {props.children}
         </section>
       </div>
       {organizers !== null ? (<OrganizerSection organizers={organizers} />) : null}
@@ -38,20 +32,13 @@ export const AboutPageTemplate = props => {
 
 const AboutPage = ({ data }) => {
   const { markdownRemark: page, footerData, navbarData, site } = data;
-  const {
-    frontmatter: {
-      seo: { title: seoTitle, description: seoDescription, browserTitle },
-    },
-  } = page;
 
   return (
     <Layout footerData={footerData} navbarData={navbarData} site={site}>
-      <Helmet>
-        <meta name="title" content={seoTitle} />
-        <meta name="description" content={seoDescription} />
-        <title>{browserTitle}</title>
-      </Helmet>
-      <AboutPageTemplate page={{ ...page, bodyIsMarkdown: false }} />
+      <PageHelmet page={page} />
+      <AboutPageTemplate page={{ ...page }}>
+        <HTMLContent className="about-description" content={page.html} />
+      </AboutPageTemplate>
     </Layout>
   );
 };

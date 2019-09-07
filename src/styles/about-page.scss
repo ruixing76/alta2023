@@ -129,3 +129,23 @@
     font-weight: 400;
   }
 }
+
+.default-content {
+  padding: 0 20px 30px;
+
+  max-width: 900px;
+
+  @include respond-to("small") {
+    text-align: left;
+  }
+
+  h2 {
+    margin-bottom: 20px;
+    @include medium-font();
+  }
+
+  h2, h3, h4, h5 {
+    margin-top: 2rem;
+    font-weight: bold;
+  }
+}

@@ -17,7 +17,7 @@ const DefaultPage = ({ data }) => {
     <Layout footerData={footerData} navbarData={navbarData} site={site}>
       <PageHelmet page={page} />
       <StandardPageTemplate page={{ ...page }}>
-        <HTMLContent className="about-description" content={page.html} />
+        <HTMLContent className="default-content" content={page.html} />
       </StandardPageTemplate>
     </Layout>
   );

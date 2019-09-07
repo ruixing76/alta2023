@@ -10,7 +10,7 @@ seo:
 
 ## Overview
 
-The 17th Annual Workshop of the Australian Language Technology Association will be held on the 5th and 6th of December at the University of Technology Sydney, Australia, colocated with the Australian Document Computing Symposium 2019.
+The 17th Annual Workshop of the Australian Language Technology Association will be held on the 5th and 6th of December at the University of Technology Sydney, Australia, colocated with the [Australian Document Computing Symposium 2019](http://adcs-conference.org/).
 
 The ALTA 2019 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers. 
 
@@ -51,11 +51,6 @@ To encourage broader participation and facilitate local socialisation of interna
 Presentation abstracts should not be anonymised, any publications relating to the work should be cited in the submission, and the person who will give the presentation should be clearly stated.
 
 
-## Guidelines
-
-Submissions must follow the two-column ACL format. We therefore strongly recommend you use [LaTeX style files](/files/acl2019-latex.zip) or [Microsoft Word template](/files/acl2019-word.zip).
-
-
 ## Topics
 
 ALTA invites the submission of papers and presentations on all aspects of natural language processing, including, but not limited to:
@@ -88,3 +83,31 @@ We particularly encourage submissions that broaden the scope of our community th
 ## Multiple Submission Policy
 
 Original research papers that are under review for other publication venues or that you intend to submit elsewhere may be submitted in parallel to ALTA. We require that you declare at submission that your paper is submitted to another venue, and identify the venue. Should your paper be accepted to both ALTA and another venue, we allow you to decide whether the paper should be published in the ALTA proceedings, or if it should be treated as a Presentation (without archival publication). In this case you would still be able to present a research talk at the ALTA workshop. This is to encourage more internationally leading research to be presented at the workshop.
+
+## Instructions for Authors
+
+### Paper Submission
+
+Paper submission will be done via the [submission page](https://easychair.org/conferences/submission_new?a=23164716) on the [ALTA Easychair site](https://easychair.org/my/conference?conf=alta2019)
+
+There are 3 tracks in EasyChair this year:
+  - **[ALTA 2019 (Long)](https://easychair.org/conferences/submission_track?track=244798&a=23164716)** – use this for **long** papers
+  - **[ALTA 2019 (Short)](https://easychair.org/conferences/submission_track?track=247138&a=23164716)** – use this for **short** papers
+  - **[ALTA 2019 (Abstracts)](https://easychair.org/conferences/submission_track?track=247139&a=23164716)** – use this for **abstracts**
+
+
+### Formatting Guidelines
+
+Submissions must follow the two-column ACL format. We therefore strongly recommend you use [LaTeX style files](/files/acl2019-latex.zip) or [Microsoft Word template](/files/acl2019-word.zip).
+
+### Paper Length
+
+  - Long papers should be 6-8 pages
+  - Short papers should be 3-4 pages
+  - Both short and long papers may include up to 2 pages of references in addition to the page count requirements
+  - Abstracts ideally should be a few paragraphs and no more than 1 page
+
+### Anonymisation
+
+  - Short and long papers must be anonymised.
+  - Abstracts are NOT to be anonymised and must include the author's/authors' affiliation

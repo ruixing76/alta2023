@@ -9,7 +9,7 @@ export const NavbarTemplate = ({ data }) => (
       {data.menuItems.length > 0 && (
         <ul className="navbar-menu">
           {data.menuItems.map(menuItem => (
-            <li key={menuItem.linkURL} className="navbar-menuItem">
+            <li key={menuItem.linkURL} className="navbar-menuItem" title={menuItem.longLabel}>
               <CustomLink
                 linkType={menuItem.linkType}
                 linkURL={menuItem.linkURL}

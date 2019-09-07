@@ -55,6 +55,7 @@ export const query = graphql`
               label
               linkType
               linkURL
+              longLabel
             }
           }
         }

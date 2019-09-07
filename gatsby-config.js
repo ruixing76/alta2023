@@ -6,12 +6,14 @@ module.exports = {
       { 
         name: "Sintelix",
         level: "Platinum",
-        link: "https://sintelix.com/"
+        link: "https://sintelix.com/",
+        image: "sintelix.png"
       },
       { 
         name: "Google",
         level: "Gold",
-        link: "https://google.com"
+        link: "https://google.com",
+        image: "google.png"
       },
       { 
         name: "Defence Science and Technology",

@@ -88,12 +88,12 @@ Original research papers that are under review for other publication venues or t
 
 ### Paper Submission
 
-Paper submission will be done via the [submission page](https://easychair.org/conferences/submission_new?a=23164716) on the [ALTA Easychair site](https://easychair.org/my/conference?conf=alta2019)
+Paper submission will be done via the submission page on the [ALTA Easychair site](https://easychair.org/my/conference?conf=alta2019) (after logging in to EasyChair you may need to visit this URL again)
 
 There are 3 tracks in EasyChair this year:
-  - **[ALTA 2019 (Long)](https://easychair.org/conferences/submission_track?track=244798&a=23164716)** – use this for **long** papers
-  - **[ALTA 2019 (Short)](https://easychair.org/conferences/submission_track?track=247138&a=23164716)** – use this for **short** papers
-  - **[ALTA 2019 (Abstracts)](https://easychair.org/conferences/submission_track?track=247139&a=23164716)** – use this for **abstracts**
+  - **ALTA 2019 (Long)** – use this for **long** papers
+  - **ALTA 2019 (Short)** – use this for **short** papers
+  - **ALTA 2019 (Abstracts)** – use this for **abstracts**
 
 
 ### Formatting Guidelines

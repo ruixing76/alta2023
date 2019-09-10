@@ -88,7 +88,7 @@ Original research papers that are under review for other publication venues or t
 
 ### Paper Submission
 
-Paper submission will be done via the submission page on the [ALTA Easychair site](https://easychair.org/my/conference?conf=alta2019) (after logging in to EasyChair you may need to visit this URL again)
+Authors should submit their papers via [Easychair](https://easychair.org/conferences/?conf=alta2019).
 
 There are 3 tracks in EasyChair this year:
   - **ALTA 2019 (Long)** – use this for **long** papers

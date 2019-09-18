@@ -15,10 +15,10 @@ The 17th Annual Workshop of the Australian Language Technology Association will 
 The ALTA 2019 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers. 
 
 
-## Key Dates
+<h2 id="key-dates">Key Dates</h2>
 
  - Submission Deadline:    
-	 - 19th September, 2019 (long papers)
+	 - ~~19th September~~ 26th September, 2019 (long papers)
 	 - 3rd October, 2019 (short papers and abstracts)
  - Author Notification:    
 	 - 18th October, 2019 (long papers)

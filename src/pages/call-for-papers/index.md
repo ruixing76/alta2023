@@ -27,6 +27,7 @@ The ALTA 2019 workshop is the key local forum for socialising research results i
  - Tutorials:              4th December, 2019
  - Main Conference:        5th-6th December, 2019
 
+_Submission deadlines are UTC-11_
 
 ## Format
 We invite submissions of two different formats: (1) Original Research Papers and (2) Abstract-based Presentations.

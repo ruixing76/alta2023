@@ -1,3 +1,26 @@
+.sponsors {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.sponsor-listing {
+  margin: auto;
+}
+
+.level-platinum {
+  .sponsor {
+    &-tile {
+      width: 240px;
+      height: 120px;  
+    }
+
+    &-image {
+      max-width: 220px;
+      max-height: 100px;
+    }  
+  }
+}
+
 .sponsor {
   &-tile {
     width: 180px;

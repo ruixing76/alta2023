@@ -19,6 +19,7 @@ module.exports = {
         name: "Defence Science and Technology",
         longName: "Defence Science and Technology",
         level: "Gold",
+        image: "dst.png",
         link: "https://www.dst.defence.gov.au/"
       },
     ],

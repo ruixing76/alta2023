@@ -1,6 +1,10 @@
 ---
 templateKey: navbar
 menuItems:
+  - label: Registration
+    longLabel: Registration
+    linkType: internal
+    linkURL: /registration
   - label: PC
     longLabel: Programme Committee
     linkType: internal

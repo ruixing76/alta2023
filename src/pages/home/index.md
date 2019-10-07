@@ -14,8 +14,10 @@ seo:
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2019
 newsItems:
-  - date: 2018-09-17
+  - date: 2019-10-05
+    text: "[Information about registration](/registration) is available and the [registration site](https://www.trybooking.com/book/sessions?eid=561083&embed=true) is now open"
+  - date: 2019-09-17
     text: The [long paper submission deadline](/call-for-papers/#key-dates) has been extended to 26th September, 2019
-  - date: 2018-08-07
+  - date: 2019-08-07
     text: Submission instructions for authors are [now available](/call-for-papers/#instructions-for-authors)
 ---

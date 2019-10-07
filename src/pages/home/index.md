@@ -14,6 +14,8 @@ seo:
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2019
 newsItems:
+  - date: 2019-10-07
+    text: We are pleased to announce that Mark Johnson will deliver one of the [keynotes](/keynotes)
   - date: 2019-10-05
     text: "[Information about registration](/registration) is available and the [registration site](https://www.trybooking.com/book/sessions?eid=561083&embed=true) is now open"
   - date: 2019-09-17

@@ -9,6 +9,10 @@ menuItems:
     longLabel: Programme Committee
     linkType: internal
     linkURL: /pc
+  - label: Keynotes
+    longLabel: Invited Keynote Talks
+    linkType: internal
+    linkURL: /keynotes
   - label: call for papers
     longLabel: Call for Papers and Author Instructions
     linkType: internal

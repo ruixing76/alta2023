@@ -13,6 +13,10 @@ menuItems:
     longLabel: Invited Keynote Talks
     linkType: internal
     linkURL: /keynotes
+  - label: Tutorial
+    longLabel: Tutorial
+    linkType: internal
+    linkURL: /tutorial
   - label: call for papers
     longLabel: Call for Papers and Author Instructions
     linkType: internal

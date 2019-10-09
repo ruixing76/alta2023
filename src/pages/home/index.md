@@ -14,6 +14,8 @@ seo:
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2019
 newsItems:
+  - date: 2019-10-09
+    text: Sarvnaz Karimi and Aditya Joshi will deliver a [tutorial on BioNLP](/tutorial)
   - date: 2019-10-07
     text: We are pleased to announce that Mark Johnson will deliver one of the [keynotes](/keynotes)
   - date: 2019-10-05

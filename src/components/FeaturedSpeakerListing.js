@@ -1,11 +1,11 @@
 import React from "react";
-import FeaturedSpeaker from "./FeaturedSpeaker"
+import FeaturedTalk from "./FeaturedTalk"
 
-const FeaturedSpeakerListing = ({ title, speakers }) => (
+const FeaturedSpeakerListing = ({ title, talks }) => (
   <>
     <h2>{title}</h2>
     <div className="featured-speaker-multi-listing">
-      {speakers.map(sp => <FeaturedSpeaker {...sp} />)}
+      {talks.map(t => <FeaturedTalk {...t} />)}
     </div>
   </>
 )

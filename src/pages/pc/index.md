@@ -62,6 +62,9 @@ members:
   - name: "Jennifer Biggs"
     affiliation: "DSTG"
 
+  - name: "Jeremy Nicholson"
+    affiliation: "The University of Melbourne"
+
   - name: "Jey-Han Lau"
     affiliation: "The University of Melbourne"
 

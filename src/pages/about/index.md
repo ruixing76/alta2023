@@ -12,7 +12,7 @@ organizers:
     - image: ""
       imageAlt: Meladel Mistica
       name: Meladel Mistica
-      organization: Monash University
+      organization: The University of Melbourne
       role: Program Chair
     - image: ""
       name: Massimo Piccardi

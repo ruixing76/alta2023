@@ -22,6 +22,19 @@ module.exports = {
         image: "dst.png",
         link: "https://www.dst.defence.gov.au/"
       },
+      { 
+        name: "UTS Engineering and IT",
+        longName: "UTS Faculty of Engineering and IT",
+        level: "Gold",
+        image: "uts.png",
+        link: "https://feit.uts.edu.au"
+      },
+      { 
+        name: "IBM Research Australia",
+        longName: "IBM Research Australia",
+        level: "Bronze",
+        link: "https://www.research.ibm.com/labs/australia/index.shtml"
+      }
     ],
     sponsorLevels: ["Platinum", "Gold"]
   },

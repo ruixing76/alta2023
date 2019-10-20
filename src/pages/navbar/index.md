@@ -1,6 +1,10 @@
 ---
 templateKey: navbar
 menuItems:
+  - label: Attending
+    longLabel: Information for Attendees
+    linkType: internal
+    linkURL: /attending
   - label: Registration
     longLabel: Registration
     linkType: internal

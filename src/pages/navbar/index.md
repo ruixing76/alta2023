@@ -21,7 +21,7 @@ menuItems:
     longLabel: Tutorial
     linkType: internal
     linkURL: /tutorial
-  - label: call for papers
+  - label: CFP
     longLabel: Call for Papers and Author Instructions
     linkType: internal
     linkURL: /call-for-papers

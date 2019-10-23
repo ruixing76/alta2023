@@ -13,7 +13,7 @@ seo:
 
 * [Register Now](https://www.trybooking.com/book/sessions?eid=561083&embed=true)
 
-Registration is AUD75 for standard registration and free for students, thanks to the generosity of our sponsors. If you believe you are entitled to a free registration due to your organisation being a sponsor, please [contact us](mailto:workshop@alta.asn).
+Registration is AUD75 for standard registration and free for students, thanks to the generosity of our sponsors. If you believe you are entitled to a free registration due to your organisation being a sponsor, please [contact us](mailto:workshop@alta.asn.au).
 
 ## Inclusions
 

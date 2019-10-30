@@ -138,7 +138,7 @@ members:
     affiliation: "KTH Royal Institute of Technology"
 
   - name: "Sunghwan Mac Kim"
-    affiliation: "CSIRO"
+    affiliation: "Lorica Health"
 
   - name: "Timothy Baldwin"
     affiliation: "The University of Melbourne"

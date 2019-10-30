@@ -25,6 +25,10 @@ menuItems:
     longLabel: Call for Papers and Author Instructions
     linkType: internal
     linkURL: /call-for-papers
+  - label: For Authors
+    longLabel: Information for Authors of Accepted Papers
+    linkType: internal
+    linkURL: /for-authors
   - label: about
     longLabel: Explanation of ALTA
     linkType: internal

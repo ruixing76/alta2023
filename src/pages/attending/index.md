@@ -10,7 +10,7 @@ seo:
 
 ## Location
 
-ALTA will be held at [UTS](https://www.uts.edu.au) which is [conveniently located](https://goo.gl/maps/JmrWwc8WjEdfTJ7C7) in central Sydney.
+ALTA will be held in the [UTS](https://www.uts.edu.au) Engineering and IT Building (Building 11) which is conveniently located [in central Sydney](https://goo.gl/maps/ixQRd94JR9BU8d2z9). The building has two entrances, one at the corner of Broadway and Jones St, and the other at the corner of Broadway and Wattle St.
 
 ## Food and Drink
 

@@ -9,10 +9,10 @@ menuItems:
     longLabel: Registration
     linkType: internal
     linkURL: /registration
-  - label: PC
-    longLabel: Programme Committee
+  - label: For Authors
+    longLabel: Information for Authors of Accepted Papers
     linkType: internal
-    linkURL: /pc
+    linkURL: /for-authors
   - label: Keynotes
     longLabel: Invited Keynote Talks
     linkType: internal
@@ -21,14 +21,14 @@ menuItems:
     longLabel: Tutorial
     linkType: internal
     linkURL: /tutorial
+  - label: PC
+    longLabel: Programme Committee
+    linkType: internal
+    linkURL: /pc
   - label: CFP
     longLabel: Call for Papers and Author Instructions
     linkType: internal
-    linkURL: /call-for-papers
-  - label: For Authors
-    longLabel: Information for Authors of Accepted Papers
-    linkType: internal
-    linkURL: /for-authors
+    linkURL: /call-for-papers\
   - label: about
     longLabel: Explanation of ALTA
     linkType: internal

@@ -33,6 +33,7 @@ module.exports = {
         name: "IBM Research Australia",
         longName: "IBM Research Australia",
         level: "Bronze",
+        image: "ibm.svg",
         link: "https://www.research.ibm.com/labs/australia/index.shtml"
       }
     ],

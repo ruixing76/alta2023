@@ -17,7 +17,7 @@ newsItems:
   - date: 2019-10-30
     text: "**Reminder**: Camera-ready versions of successful submissions are due on the 8th of November. [Instructions](/for-authors) are available."
   - date: 2019-10-29
-    text: We are pleased to announce that Nicholas Evans of ANU will deliver a [keynote presentation](/keynotes)
+    text: We are pleased to announce that Nicholas Evans of ANU and Ben Foley of UQ will deliver a joint [keynote presentation](/keynotes) 
   - date: 2019-10-09
     text: Sarvnaz Karimi and Aditya Joshi will deliver a [tutorial on BioNLP](/tutorial)
   - date: 2019-10-07

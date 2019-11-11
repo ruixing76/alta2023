@@ -1,4 +1,5 @@
 import React from "react";
+import ReactMarkdown from "react-markdown";
 
 const FeaturedSpeakerDetails = ({ name, affiliation, photo }) => (
   <>
@@ -11,7 +12,7 @@ const FeaturedSpeakerDetails = ({ name, affiliation, photo }) => (
 )
 
 const FeaturedSpeakerBio = ({ bio }) => (
-  <div className="featured-speaker-bio">{bio}</div>
+  <ReactMarkdown className="featured-speaker-bio">{bio}</ReactMarkdown>
 )
 
 const FeaturedTalk = ({ speakers, title, abstract }) => (
@@ -19,7 +20,7 @@ const FeaturedTalk = ({ speakers, title, abstract }) => (
     {speakers.map(sp => <FeaturedSpeakerDetails {...sp} />)}
     <div className="featured-speaker-talk">
       <div className="featured-speaker-title">{title}</div>
-      <div className="featured-speaker-abstract">{abstract}</div>
+      <ReactMarkdown className="featured-speaker-abstract">{abstract}</ReactMarkdown>
     </div>
     {speakers.map(sp => <FeaturedSpeakerBio {...sp} />)}
   </div>

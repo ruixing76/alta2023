@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="14.874 11.324 258.735 103.778" width="258.735" height="103.778" xmlns="http://www.w3.org/2000/svg">
+  <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" style="" transform="matrix(1.451021, 0, 0, 1.451021, -66.540375, -147.190338)">
+    <g>
+      <polygon id="Rectangle-path" points="63 172.475 94.511 172.475 94.511 177 63 177" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="63 163.835 94.511 163.835 94.511 168.361 63 168.361" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="72.003 155.196 85.508 155.196 85.508 159.722 72.003 159.722" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="72.003 146.557 85.508 146.557 85.508 151.082 72.003 151.082" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="72.003 137.918 85.508 137.918 85.508 142.443 72.003 142.443" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="72.003 129.278 85.508 129.278 85.508 133.804 72.003 133.804" fill="#061F80" fill-rule="nonzero"/>
+      <rect id="Rectangle-path" x="63" y="120.639" width="31.511" height="4.525" fill="#061F80" fill-rule="nonzero"/>
+      <rect id="Rectangle-path" x="63" y="112" width="31.511" height="4.525" fill="#061F80" fill-rule="nonzero"/>
+      <path d="M 99.012 168.361 L 147.465 168.361 C 148.283 166.962 148.897 165.44 149.266 163.835 L 99.012 163.835 L 99.012 168.361 Z" id="Shape" fill="#061F80" fill-rule="nonzero"/>
+      <path d="M 143.7 146.557 L 108.015 146.557 L 108.015 151.082 L 147.465 151.082 C 146.442 149.354 145.173 147.832 143.7 146.557 Z" id="Shape" fill="#061F80" fill-rule="nonzero"/>
+      <path d="M 108.015 137.918 L 108.015 142.443 L 143.7 142.443 C 145.214 141.168 146.483 139.646 147.465 137.918 L 108.015 137.918 Z" id="Shape" fill="#061F80" fill-rule="nonzero"/>
+      <path d="M 147.465 120.639 L 99.012 120.639 L 99.012 125.165 L 149.266 125.165 C 148.856 123.56 148.242 122.038 147.465 120.639 Z" id="Shape" fill="#061F80" fill-rule="nonzero"/>
+      <path d="M 132.569 112 L 99.012 112 L 99.012 116.525 L 144.15 116.525 C 141.122 113.728 137.03 112 132.569 112 Z" id="Shape" fill="#061F80" fill-rule="nonzero"/>
+      <rect id="Rectangle-path" x="108.015" y="129.278" width="13.505" height="4.525" fill="#061F80" fill-rule="nonzero"/>
+      <path d="M 135.024 133.804 L 149.143 133.804 C 149.552 132.364 149.757 130.842 149.757 129.278 L 135.024 129.278 L 135.024 133.804 Z" id="Shape" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="108.015 155.196 121.52 155.196 121.52 159.722 108.015 159.722" fill="#061F80" fill-rule="nonzero"/>
+      <path d="M 135.024 155.196 L 135.024 159.722 L 149.757 159.722 C 149.757 158.158 149.552 156.636 149.143 155.196 L 135.024 155.196 Z" id="Shape" fill="#061F80" fill-rule="nonzero"/>
+      <path d="M 99.012 176.959 L 132.569 177 C 137.07 177 141.122 175.272 144.15 172.475 L 99.012 172.475 L 99.012 176.959 Z" id="Shape" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="153.03 172.475 175.538 172.475 175.538 177 153.03 177" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="153.03 163.835 175.538 163.835 175.538 168.361 153.03 168.361" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="162.033 155.196 175.538 155.196 175.538 159.722 162.033 159.722" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="162.033 146.557 175.538 146.557 175.538 151.082 162.033 151.082" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Shape" points="181.799 120.639 153.03 120.639 153.03 125.165 183.354 125.165" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Shape" points="178.812 112 153.03 112 153.03 116.525 180.367 116.525" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="202.547 172.475 225.055 172.475 225.055 177 202.547 177" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="202.547 163.835 225.055 163.835 225.055 168.361 202.547 168.361" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="202.547 155.196 216.052 155.196 216.052 159.722 202.547 159.722" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Rectangle-path" points="202.547 146.557 216.052 146.557 216.052 151.082 202.547 151.082" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Shape" points="202.547 142.443 216.052 142.443 216.052 137.918 202.547 137.918 202.547 137.918 190.311 137.918 189.043 141.579 187.774 137.918 175.538 137.918 175.538 137.918 162.033 137.918 162.033 142.443 175.538 142.443 175.538 138.288 176.97 142.443 201.115 142.443 202.547 138.288" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Shape" points="216.052 129.278 193.299 129.278 191.744 133.804 216.052 133.804" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Shape" points="199.273 112 197.718 116.525 225.055 116.525 225.055 112" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Shape" points="189.043 176.959 190.598 172.475 187.488 172.475" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Shape" points="186.055 168.361 192.03 168.361 193.626 163.835 184.459 163.835" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Shape" points="183.027 159.722 195.058 159.722 196.654 155.196 181.431 155.196" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Shape" points="179.999 151.082 198.087 151.082 199.642 146.557 178.444 146.557" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Shape" points="162.033 133.804 186.342 133.804 184.787 129.278 162.033 129.278" fill="#061F80" fill-rule="nonzero"/>
+      <polygon id="Shape" points="194.731 125.165 225.055 125.165 225.055 120.639 196.286 120.639" fill="#061F80" fill-rule="nonzero"/>
+    </g>
+  </g>
+</svg>

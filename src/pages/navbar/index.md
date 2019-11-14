@@ -1,6 +1,9 @@
 ---
 templateKey: navbar
 menuItems:
+  - label: Programme
+    linkType: internal
+    linkURL: /programme
   - label: Attending
     longLabel: Information for Attendees
     linkType: internal
@@ -9,10 +12,6 @@ menuItems:
     longLabel: Registration
     linkType: internal
     linkURL: /registration
-  - label: For Authors
-    longLabel: Information for Authors of Accepted Papers
-    linkType: internal
-    linkURL: /for-authors
   - label: Keynotes
     longLabel: Invited Keynote Talks
     linkType: internal
@@ -28,7 +27,7 @@ menuItems:
   - label: CFP
     longLabel: Call for Papers and Author Instructions
     linkType: internal
-    linkURL: /call-for-papers\
+    linkURL: /call-for-papers
   - label: about
     longLabel: Explanation of ALTA
     linkType: internal

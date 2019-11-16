@@ -1,0 +1,34 @@
+@import "./variables.scss";
+@import "./mixins.scss";
+
+
+
+h3.track-name {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.paper-listing {
+  margin-top: 0.5rem;
+}
+
+.single-paper-listing {
+  margin-top: 0.4rem;
+  margin-bottom: 0.4rem;
+
+  & .paper-authors {
+    display: block;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+  }
+
+  & .paper-title {
+    display: block;
+    font-style: italic;
+  }
+}
+
+.track-paper-listing {
+  width: 75%;
+}

@@ -8,7 +8,7 @@ import "../styles/papers-page.scss";
 const trackNames = {
   1: "Long Papers",
   2: "Short Papers",
-  3: "Abstracts (Presentation only)"
+  3: "Unpublished Abstracts (Presentation Only)"
 }
 
 const SinglePaperListing = ({ paper }) => (

@@ -67,6 +67,14 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        path: `${__dirname}/src/data`,
+        name: "data",
+      },
+    },
+    "gatsby-transformer-csv",
+    {
       resolve: "gatsby-plugin-google-analytics",
       options: {
         trackingId: "UA-141744087-1",

@@ -1,0 +1,103 @@
+number,trackNumber,trackName,title,authors,keywords,abstract
+2,1,ALTA 2019 (Long),Towards A Robust Morphological Analyzer for Kunwinjku,William Lane and Steven Bird,"computational morphology
+low resource language
+finite state model
+polysynthetic language","Kunwinjku is an indigenous Australian language spoken in northern Australia which exhibits agglutinative and polysynthetic properties. Members of the community have expressed interest in co-developing language applications that promote their values and priorities. Modeling the morphology of the Kunwinjku language is an important step towards accomplishing the community's goals. 
+Finite State Transducers have long been the go-to method for modeling morphologically rich languages, and in this paper we discuss some of the distinct modeling challenges present in the morphosyntax of verbs in Kunwinjku. We show that a fairly straightforward implementation using standard features of the foma toolkit can account for much of the verb structure.
+Continuing challenges include robustness in the face of variation and unseen vocabulary, as well as how to handle complex reduplicative processes. Our future work will build off the baseline and challenges presented here."
+6,1,ALTA 2019 (Long),Red-faced ROUGE: Examining the Suitability of ROUGE for Opinion Summary Evaluation,"Wenyi Tay, Aditya Joshi, Xiuzhen Zhang, Sarvnaz Karimi and Stephen Wan","evaluation
+opinion summarisation
+ROUGE","One of the most common metrics to automatically evaluate opinion summaries is ROUGE, a  metric  developed  for  text  summarisation. ROUGE counts the overlap of word or word units  between  a  candidate  summary  against reference summaries.  This formulation treats all  words  in  the  reference  summary  equally.In opinion summaries, however, not all words in the reference are equally important.  Opinion  summarisation  requires  to  correctly  pair two types of semantic information:  (1) aspect or  opinion  target;  and  (2)  polarity  of  candidate and reference summaries.  We investigate the suitability of ROUGE for evaluating opin-ion summaries of online reviews.  Using three simulation-based experiments, we evaluate the behaviour  of  ROUGE  for  opinion  summarisation on the ability to match aspect and polarity.   We  show  that  ROUGE  cannot  distinguish opinion summaries of similar or opposite polarities for the same aspect.  Moreover,ROUGE  scores  have  significant  variance  under different configuration settings.   As a result, we present three recommendations for future work that uses ROUGE to evaluate opinion summarisation."
+7,2,ALTA 2019 (Short),"A neural joint model for Vietnamese word segmentation, POS tagging and dependency parsing",Dat Quoc Nguyen,"Multi-task learning
+Vietnamese
+Word segmentation
+POS tagging
+Dependency parsing",
+8,2,ALTA 2019 (Short),A multi-constraint structured hinge loss for named-entity recognition,Hanieh Poostchi and Massimo Piccardi,"structured hinge loss
+multi-constraint structured hinge loss
+training objectives
+sequential labeling
+named-entity recognition",
+10,1,ALTA 2019 (Long),Detecting Chemical Reactions in Patents,"Hiyori Yoshikawa, Dat Quoc Nguyen, Zenan Zhai, Christian Druckenbrodt, Camilo Thorne, Saber A. Akhondi, Timothy Baldwin and Karin Verspoor","information extraction
+text segmentation
+biochemical text mining","Extracting chemical reactions from patents is a crucial task for chemists working on chemical exploration. In this paper we introduce the novel task of detecting the textual spans that describe or refer to chemical reactions within patents. We formulate this task as a paragraph-level sequence tagging problem, where the system is required to return a sequence of paragraphs which contain a description of a reaction. To address this new task, we construct an annotated dataset from an existing proprietary database of chemical reactions manually extracted from patents. We introduce several baseline methods for the task and evaluate them over our dataset. Through error analysis, we discuss what makes the task complex and challenging, and suggest possible directions for future research."
+11,1,ALTA 2019 (Long),From Shakespeare to Li-Bai: Adapting a Sonnet Model to Chinese Poetry,"Zhuohan Xie, Jey Han Lau and Trevor Cohn","Chinese
+poetry generation
+RNN
+LSTM","In this paper, we adapt Deep-speare, a joint
+neural network model for English sonnets, to
+Chinese poetry. We illustrate characteristics of
+Chinese quatrain and explain our architecture
+as well as training and generation procedure,
+which differs from Shakespeare sonnets in several
+aspects. We analyse the generated poetry
+and find that model works well for Chinese poetry,
+as it can: (1) generate coherent 4-line quatrains
+of different topics; and (2) capture rhyme
+automatically (to a certain extent)."
+12,1,ALTA 2019 (Long),Improved Document Modelling with a Neural Discourse Parser,"Fajri Koto, Jey Han Lau and Timothy Baldwin","discourse representation
+abstractive summarization
+document classification
+sequence-to-sequence model","Despite the success of attention-based neural models for natural language generation and classification tasks, they are unable to capture the discourse structure of larger documents. We hypothesize that explicit discourse representations have utility for NLP tasks over longer documents or document sequences, which sequence-to-sequence models are unable to capture. For abstractive summarization, for instance, conventional neural models simply match source documents and the summary in a latent space without explicit representation of text structure or relations. In this paper, we propose to use neural discourse representations obtained from a rhetorical structure theory (RST) parser to enhance document representations. Specifically, document representations are generated for discourse spans, known as the elementary discourse units (EDUs). We empirically investigate the benefit of the proposed approach on two different tasks: abstractive summarization and popularity prediction of online petitions. We find that the proposed approach leads to substantial improvements in all cases."
+13,2,ALTA 2019 (Short),A Pointer Network Architecture for Context-Dependent Semantic Parsing,"Xuanli He, Quan Tran and Gholamreza Haffari","deep learning
+semantic parsing
+pointer network",
+15,1,ALTA 2019 (Long),Readability of Twitter Tweets for Second Language Learners,Patrick Jacob and Alexandra Uitdenbogerd,"readability
+lexical complexity
+user models","Optimal language acquisition via reading requires the learners to read slightly above their current language skill level. Identifying material at the right level is the essential role of automatic readability measurement.
+Short message platforms such as Twitter offer the opportunity for language practice while reading about current topics and engaging in conversation in small doses, and can be filtered according to linguistic criteria to suit the learner. 
+In this research, we explore how readable tweets are for English language learners and which factors contribute to their readability. With participants from six language groups, we collected 14,659 data points, each representing a tweet from a pool of 4100 tweets, and a judgement of perceived readability.
+Traditional readability measures and features failed on the data-set, but demographic data showed that judgements were largely genuine and reflected reported language skill, which is consistent with other recent studies. We report on the properties of the data set and implications for future research."
+17,1,ALTA 2019 (Long),Does an LSTM forget more than a CNN? An empirical study of catastrophic forgetting in NLP,"Gaurav Arora, Afshin Rahimi and Timothy Baldwin","Catastrophic forgetting
+Text Classification
+Continual Learning
+Transfer Learning","Catastrophic forgetting --- whereby a model trained on one task is fine-tuned on a second, and in doing so, suffers a ``catastrophic'' drop in performance over the first task ---  is a hurdle in the development of better transfer learning techniques. Despite impressive progress in reducing catastrophic forgetting, we have limited understanding of how different architectures and hyper-parameters affect forgetting in a network. With this study, we aim to understand factors which cause forgetting during sequential training. Our primary finding is that CNNs forget less than LSTMs. We show that max-pooling is the underlying operation which helps CNNs alleviate forgetting compared to LSTMs. We also found that curriculum learning~\cite{bengio2009curriculum}, placing a hard task towards the end of task sequence, reduces forgetting. We analysed the effect of fine-tuning contextual embeddings on catastrophic forgetting and found that using embeddings as feature extractor is preferable to fine-tuning in continual learning setup."
+19,1,ALTA 2019 (Long),Identifying Patients with Pain in Emergency Departments using Conventional Machine Learning and Deep Learning,"Thanh Vu, Anthony Nguyen, Nathan Brown and James Hughes","Pain
+Emergency Departments
+Patient Data
+EHR
+Classification
+Conventional Machine Learning
+Deep Learning
+Support Vector Machine
+Random Forest
+Recurrent Neural Network
+Convolutional Neural Network
+Character-level word embeddings
+Pretrained word embeddings
+SVM
+RF
+RNN
+CNN
+DNN","Pain is the main symptom that patients present with to the emergency department (ED). Pain management, however, is often poorly done aspect of emergency care and patients with painful conditions can endure long waits before their pain is assessed or treated. To improve pain management quality, identifying whether or not an ED patient presents with pain is an important task and allows for further investigation of the quality of care provided. In this paper, machine learning was utilised to handle the task of automatically detecting patients who present at EDs with pain from retrospective data. Experimental results on a manually annotated dataset show that our proposed machine learning models achieve high performances, in which the highest accuracy and macro-averaged F1 are 91.00% and 90.96%, respectively."
+25,2,ALTA 2019 (Short),Domain Adaptation for Low-Resource Neural Semantic Parsing,"Alvin Kennardi, Gabriela Ferraro and Qing Wang","Semantic Parsing
+Domain Adaptation
+Transfer Learning
+Low Resource Data Set
+Sequence-to-sequence",
+29,2,ALTA 2019 (Short),Modeling Political Framing Across Policy Issues and Contexts,"Shima Khanehzar, Andrew Turpin and Gosia Mikolajczak","Political text analysis
+Political framing
+Natural language processing algorithms",
+32,3,ALTA 2019 (Abstracts),Discontinuous Entity Recognition using a Transition-based Model,"Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris","Discontinuous entity recognition
+Transition-based model
+Biomedical NLP","Unlike widely used Named Entity Recognition (NER) data sets in generic domains, biomedical NER data sets often contain mentions consisting of discontinuous spans.
+Conventional sequence tagging techniques encode Markov assumptions that are efficient but preclude recovery of these mentions. We propose a transition-based model with generic neural encoding that can effectively recognize discontinuous mentions. Experimental results over three data sets show that our model improves absolute $F_1$ score by two points on average over the previous state of the art. "
+33,2,ALTA 2019 (Short),Feature-guided Neural Model Training for Supervised Document Representation Learning,"Aili Shen, Bahar Salehi, Jianzhong Qi and Timothy Baldwin","feature-guided network
+document representation
+hand-crafted features
+quality assessment of Wikipedia articles
+popularity prediction of online petitions",
+38,3,ALTA 2019 (Abstracts),Box Embeddings for Inferring Predicate Entailment,"Ian Wood, Mark Johnson, Stephen Wan, Javad Housseini and Mark Steedman","box embeddings
+embedding
+entailment","Box embeddings are a recently developed embedding approach that naturally encodes transitive relations between embedded concepts and has had success in knowledge graph link prediction tasks. We are working towards utilisation of box embeddings in the task of unsupervised detection of predicate entailments, building on previous work for the task using heuristic entailment metrics. We utilise a combination of box representations for predicates and point embeddings for their arguments, introducing several new approaches to infer meaningful configurations. Initial experiments with fixed point embeddings provided by standard word embeddings at point of writing have shown a weak signal, and we have reason to believe further experimentation with alternative inference and scoring techniques will show stronger performance whilst avoiding expensive transitive closure calculations."
+40,2,ALTA 2019 (Short),Modelling Tibetan Verbal Morphology,"Qianji Di, Ekaterina Vylomova and Tim Baldwin","morphology
+morphological reinflection
+NLP
+Tibetan
+transducer
+low-resource
+dataset
+corpus",
+42,3,ALTA 2019 (Abstracts),Grounding learning of modifier dynamics: An application to color naming,"Xudong Han, Philip Shultz and Trevor Cohn","NLP
+Grounding
+modifiers","The short paper ‘Grounding learning of modifier dynamics: An application to color naming’ (Han et al., 2019) has accepted at EMNLP 2019."

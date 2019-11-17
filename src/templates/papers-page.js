@@ -3,6 +3,7 @@ import StandardPageTemplate from "../components/StandardPageTemplate";
 import React from "react";
 import Layout from "../components/Layout";
 import PageHelmet from "../components/PageHelmet";
+import HTMLContent from "../components/Content";
 import "../styles/papers-page.scss";
 
 const trackNames = {
@@ -41,6 +42,7 @@ const PapersPage = ({ data }) => {
     <Layout footerData={footerData} navbarData={navbarData} site={site}>
       <PageHelmet page={page} />
       <StandardPageTemplate page={{ ...page }}>
+        <HTMLContent className="default-content" content={page.html} />
         {tracks.map(({ track, papers }) => <TrackPaperListing track={track} papers={papers}/>)}
       </StandardPageTemplate>
     </Layout>

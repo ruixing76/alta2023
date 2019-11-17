@@ -1,6 +1,10 @@
 ---
 templateKey: navbar
 menuItems:
+  - label: Papers
+    longLabel: Papers accepted for oral or poster presentation
+    linkType: internal
+    linkURL: /papers
   - label: Programme
     linkType: internal
     linkURL: /programme

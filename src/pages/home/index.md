@@ -15,7 +15,7 @@ seo:
   title: ALTA 2019
 newsItems:
   - date: 2019-11-17
-    text: "The [list of accepted papers](/papers) is now available."
+    text: "The [list of papers accepted for oral presentation](/papers) is now available."
   - date: 2019-11-14
     text: "The [draft programme](/programme) is now available."
   - date: 2019-10-30

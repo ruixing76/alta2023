@@ -9,7 +9,12 @@ import "../styles/papers-page.scss";
 const trackNames = {
   1: "Long Papers",
   2: "Short Papers",
-  3: "Unpublished Abstracts (Presentation Only)"
+  3: "Unpublished Abstracts"
+}
+
+const formats = {
+  oral: "Oral Presentation",
+  poster: "Poster"
 }
 
 const SinglePaperListing = ({ paper }) => (
@@ -19,9 +24,9 @@ const SinglePaperListing = ({ paper }) => (
   </article>
 );
 
-const TrackPaperListing = ({ track, papers }) => (
+const TrackPaperListing = ({ track, papers, format }) => (
   <section className="track-paper-listing">
-    <h3 className="track-name">{track}</h3>
+    <h3 className="track-name">{track}: {format}</h3>
     <section className="papers-in-track">
       { papers.map(p => <SinglePaperListing paper={p} key={p.number} />) }
     </section>
@@ -32,10 +37,12 @@ const PapersPage = ({ data }) => {
   const { footerData, navbarData, site, markdownRemark: page } = data;
   const { group: tracksFromGql } = data.allSubmissionCsv;
   const tracks = tracksFromGql.map ( tfg => {
-    const { edges: paperNodes, fieldValue: trackNumber } = tfg;
+    const { edges: paperNodes, fieldValue: trackAndFormat } = tfg;
     const papers = paperNodes.map(pn => pn.node);
+    const [trackNumber, formatName] = trackAndFormat.split(' ')
     const track = trackNames[trackNumber];
-    return { papers, track };
+    const format = formats[formatName];
+    return { papers, track, format };
   })
 
   return (
@@ -43,7 +50,7 @@ const PapersPage = ({ data }) => {
       <PageHelmet page={page} />
       <StandardPageTemplate page={{ ...page }}>
         <HTMLContent className="default-content" content={page.html} />
-        {tracks.map(({ track, papers }) => <TrackPaperListing track={track} papers={papers}/>)}
+        {tracks.map(({ track, papers, format }) => <TrackPaperListing track={track} papers={papers} format={format}/>)}
       </StandardPageTemplate>
     </Layout>
   );
@@ -65,7 +72,7 @@ export const submissionsQuery = graphql`
       }
     }
     allSubmissionCsv(sort: {fields: number}) {
-      group(field: trackNumber) {
+      group(field: trackFormat) {
         edges {
           node {
             number

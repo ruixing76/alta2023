@@ -10,4 +10,4 @@ seo:
 ---
 
 
-The following papers have been accepted for oral presentation at ALTA 2019. Poster presentations will be added soon.
+The following papers have been accepted for oral or poster presentation at ALTA 2019.

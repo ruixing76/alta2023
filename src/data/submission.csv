@@ -110,7 +110,7 @@ Natural language processing algorithms",,oral,2 oral
 32,3,ALTA 2019 (Abstracts),Discontinuous Entity Recognition using a Transition-based Model,"Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris","Discontinuous entity recognition
 Transition-based model
 Biomedical NLP","Unlike widely used Named Entity Recognition (NER) data sets in generic domains, biomedical NER data sets often contain mentions consisting of discontinuous spans.
-Conventional sequence tagging techniques encode Markov assumptions that are efficient but preclude recovery of these mentions. We propose a transition-based model with generic neural encoding that can effectively recognize discontinuous mentions. Experimental results over three data sets show that our model improves absolute $F_1$ score by two points on average over the previous state of the art. ",oral,3 oral
+Conventional sequence tagging techniques encode Markov assumptions that are efficient but preclude recovery of these mentions. We propose a transition-based model with generic neural encoding that can effectively recognize discontinuous mentions. Experimental results over three data sets show that our model improves absolute $F_1$ score by two points on average over the previous state of the art. ",abstract,3 abstract
 33,2,ALTA 2019 (Short),Feature-guided Neural Model Training for Supervised Document Representation Learning,"Aili Shen, Bahar Salehi, Jianzhong Qi and Timothy Baldwin","feature-guided network
 document representation
 hand-crafted features
@@ -130,7 +130,7 @@ Question Entailment
 MEDIQA",,poster,2 poster
 38,3,ALTA 2019 (Abstracts),Box Embeddings for Inferring Predicate Entailment,"Ian Wood, Mark Johnson, Stephen Wan, Javad Housseini and Mark Steedman","box embeddings
 embedding
-entailment","Box embeddings are a recently developed embedding approach that naturally encodes transitive relations between embedded concepts and has had success in knowledge graph link prediction tasks. We are working towards utilisation of box embeddings in the task of unsupervised detection of predicate entailments, building on previous work for the task using heuristic entailment metrics. We utilise a combination of box representations for predicates and point embeddings for their arguments, introducing several new approaches to infer meaningful configurations. Initial experiments with fixed point embeddings provided by standard word embeddings at point of writing have shown a weak signal, and we have reason to believe further experimentation with alternative inference and scoring techniques will show stronger performance whilst avoiding expensive transitive closure calculations.",oral,3 oral
+entailment","Box embeddings are a recently developed embedding approach that naturally encodes transitive relations between embedded concepts and has had success in knowledge graph link prediction tasks. We are working towards utilisation of box embeddings in the task of unsupervised detection of predicate entailments, building on previous work for the task using heuristic entailment metrics. We utilise a combination of box representations for predicates and point embeddings for their arguments, introducing several new approaches to infer meaningful configurations. Initial experiments with fixed point embeddings provided by standard word embeddings at point of writing have shown a weak signal, and we have reason to believe further experimentation with alternative inference and scoring techniques will show stronger performance whilst avoiding expensive transitive closure calculations.",abstract,3 abstract
 39,2,ALTA 2019 (Short),A string-to-graph constructive alignment algorithm for discrete and probabilistic language modeling,Andrey Shcherbakov and Ekaterina Vylomova,"Automata learning
 Regular expression
 Finite State Automaton
@@ -148,4 +148,4 @@ dataset
 corpus",,oral,2 oral
 42,3,ALTA 2019 (Abstracts),Grounding learning of modifier dynamics: An application to color naming,"Xudong Han, Philip Shultz and Trevor Cohn","NLP
 Grounding
-modifiers","The short paper ‘Grounding learning of modifier dynamics: An application to color naming’ (Han et al., 2019) has accepted at EMNLP 2019.",oral,3 oral
+modifiers","The short paper ‘Grounding learning of modifier dynamics: An application to color naming’ (Han et al., 2019) has accepted at EMNLP 2019.",abstract,3 abstract

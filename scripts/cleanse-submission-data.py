@@ -17,7 +17,12 @@ def cleanse_csv(input_fname, output_fname):
     fields = [replacements.get(f, f) for f in reader.fieldnames if f not in blacklisted_fields] + ['format', 'trackFormat']
 
     for r in rows:
-        r['format'] = 'poster' if r['decision'] == 'probably accept' else 'oral'
+        if r['track #'] == '3':
+            r['format'] = 'abstract'
+        elif r['decision'] == 'probably accept':
+            r['format'] = 'poster'
+        elif r['decision'] == 'accept':
+            r['format'] = 'oral'
         for f in blacklisted_fields:
             del r[f]
         for k, v in replacements.items():

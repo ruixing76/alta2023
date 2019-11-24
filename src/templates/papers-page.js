@@ -14,7 +14,8 @@ const trackNames = {
 
 const formats = {
   oral: "Oral Presentation",
-  poster: "Poster"
+  poster: "Poster",
+  abstract: "Poster or Presentation"
 }
 
 const SinglePaperListing = ({ paper }) => (

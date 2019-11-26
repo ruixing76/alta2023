@@ -22,7 +22,7 @@ _ALTA long papers are 20 minutes and short papers are 12 minutes. ADCS papers (a
 
 * 8:15 Registration
 * 9:00 Opening Talk
-* 9:15 ALTA [Keynote](/keynotes) – Nicholas Evans with Ben Foley: _New wings for the Library of Babel: The transcription challenge for the world’s 7000+ languages_
+* 9:15 ALTA [Keynote](/keynotes) – Nicholas Evans with Ben Foley: _New wings for the Library of Babel: The transcription challenge for the world’s 7000+ languages_ (Session Chair: Tim Baldwin)  
 * 10:15 **Morning Tea**
 * 10:45 Session 1 – Linguistic Diversity in NLP (Session Chair: Mark Dras) 
   * _Towards a Robust Morphological Analyser for Kunwinjku._
@@ -47,7 +47,7 @@ _ALTA long papers are 20 minutes and short papers are 12 minutes. ADCS papers (a
   * _A multi-constraint hinge loss for named-entity recognition._
     Hanieh Poostchi and Massimo Piccardi 
 * 15:30 **Afternoon Tea**
-* 16:00 Session 3 – Application and Evaluation (Session Chair: Reza Haffari) 
+* 16:00 Session 3 – Application and Evaluation (Session Chairs: Andy MacKinlay and Massimo Piccardi) 
   * _Short grounding learning of modifier dynamics: an application to color naming._
     Xudong Han, Philip Shultz and Trevor Cohn
   * _Red-faced ROUGE: Examining the Suitability of ROUGE for Opinion Summary Evaluation._
@@ -61,21 +61,21 @@ _ALTA long papers are 20 minutes and short papers are 12 minutes. ADCS papers (a
 
 ## 6th December (Friday) Day 2
 
-* 9:00 ALTA [Keynote](/keynotes) – Mark Johnson: _Building new kinds of Natural Language Understanding and Conversational AI with Deep Learning_
+* 9:00 ALTA [Keynote](/keynotes) – Mark Johnson: _Building new kinds of Natural Language Understanding and Conversational AI with Deep Learning_ (Session Chair: Reza Haffari)  
 * 10:00 **Morning Tea And Poster Session**
 * 11:00 Session 4 – Parsing and Sequential Modelling (Session Chair: Trevor Cohn)   
   * _Improved Document Modelling with a Neural Discourse Parser._
     Fajri Koto, Jey Han Lau and Timothy Baldwin 
   * _Does an LSTM forget more than a CNN?._
-    Gaurav Arora, Afshin rahimi and Timothy Baldwin
+    Gaurav Arora, Afshin Rahimi and Timothy Baldwin
   * _Domain Adaptation for Low-Resource Neural Semantic Parsing._
     Alvin Kennardi, Gabriela Ferraro and Qing Wang
-  * _A Pointer Network Achitecture for Context Dependent Semantic Parsing._
+  * _A Pointer Network Architecture for Context Dependent Semantic Parsing._
     Xuanli He, Quan Tran and Gholamreza Haffari 
 * 12:05 **Lunch**
 * 13:00 ADCS Keynote
 * 14:00 Session 5 – Science and Medicine (Shared ADCS Session, Session Chair: Sarvnaz Karimi) 
-  * _Detecting Chemical Reaction Schemes in Patents._
+  * _Detecting Chemical Reactions in Patents._
     Hiyori Yoshikawa, Dat Quoc Nguyen, Zenan Zhai, Christian Druckenbrodt, Camilo Thorne, Saber A. Akhondi, Timothy Baldwin and Karin Verspoor
   * _Identifying Patients with Pain in Emergency Departments Using Conventional Machine Learning and Deep Learning._
     Thanh Vu, Anthony Nguyen, Nathan Brown and James Hughes

@@ -61,7 +61,7 @@ _ALTA long papers are 20 minutes and short papers are 12 minutes. ADCS papers (a
 
 ## 6th December (Friday) Day 2
 
-* 9:00 ALTA [Keynote](/keynotes) – Mark Johnson: _Building new kinds of Natural Language Understanding and Conversational AI with Deep Learning_ (Session Chair: Reza Haffari)  
+* 9:00 ALTA [Keynote](/keynotes) – Mark Johnson: _Building new kinds of Natural Language Understanding and Conversational AI with Deep Learning_ (Session Chair: Diego Molla Aliod)  
 * 10:00 **Morning Tea And Poster Session**
 * 11:00 Session 4 – Parsing and Sequential Modelling (Session Chair: Trevor Cohn)   
   * _Improved Document Modelling with a Neural Discourse Parser._

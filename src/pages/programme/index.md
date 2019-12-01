@@ -51,12 +51,14 @@ _ALTA long papers are 20 minutes and short papers are 12 minutes. ADCS papers (a
   * _Short grounding learning of modifier dynamics: an application to color naming._
     Xudong Han, Philip Shultz and Trevor Cohn
   * _Red-faced ROUGE: Examining the Suitability of ROUGE for Opinion Summary Evaluation._
-    Wenyi Tay, Aditya Joshi, Xiuzhen Zhang, Sarvnaz Karimi and Stephen Wan   
+    Wenyi Tay, Aditya Joshi, Xiuzhen Zhang, Sarvnaz Karimi and Stephen Wan
+  * _Feature-guided Neural Model Training for Supervised Document Representation Learning_
+     Aili Shen, Bahar Salehi, Jianzhong Qi and Timothy Baldwin 
   * _Modeling Political Framing Across Policy Issues and Contexts._
     Shima Khanehzar, Andrew Turpin and Gosia Mikolajczak  
   * _Long Box Embeddings for Inferring Predicate Entailment._
     Ian Wood, Mark Johnson, Stephen Wan, Javad Housseini and Mark Steedman 
-* 17:05 End of Academic Program for Day 1
+* 17:25 End of Academic Program for Day 1
 * 19:00 Dinner
 
 ## 6th December (Friday) Day 2
@@ -79,7 +81,7 @@ _ALTA long papers are 20 minutes and short papers are 12 minutes. ADCS papers (a
     Hiyori Yoshikawa, Dat Quoc Nguyen, Zenan Zhai, Christian Druckenbrodt, Camilo Thorne, Saber A. Akhondi, Timothy Baldwin and Karin Verspoor
   * _Identifying Patients with Pain in Emergency Departments Using Conventional Machine Learning and Deep Learning._
     Thanh Vu, Anthony Nguyen, Nathan Brown and James Hughes
-  * _Learning inter-sentence, disorder-centric, biomedical relationships from medical literature.._
+  * _Learning inter-sentence, disorder-centric, biomedical relationships from medical literature._
     Anton van der Vegt, Guido Zuccon, Bevan Koopman 
 * 15:05 **Afternoon Tea**
 * 15:30 General Meeting

@@ -30,6 +30,13 @@ module.exports = {
         link: "https://feit.uts.edu.au"
       },
       { 
+        name: "Data61",
+        longName: "CSIRO Data61",
+        level: "Gold",
+        image: "data61.png",
+        link: "https://data61.csiro.au/"
+      },
+      { 
         name: "IBM Research Australia",
         longName: "IBM Research Australia",
         level: "Bronze",

@@ -112,12 +112,14 @@
   &-sponsors-at-level {
     font-size: 1rem;
     display: flex;
+    flex-wrap: wrap;
     margin: 0;
     padding: 0;
   }
 
   &-single-sponsor {
-    margin-right: 1rem;
+    margin-right: 1.5rem;
+    white-space: nowrap;
   }
 
   &-sponsors {

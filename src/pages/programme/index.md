@@ -20,6 +20,10 @@ _The tutorial will be in room CB11.B2.102 – In [UTS Building 11](https://goo.
 * 14:50 [BioNLP Tutorial](/tutorial) Part 2
 * 16:30 End
 
+Tutorial attendees are encouraged to fill out [this feedback form](https://forms.gle/Z8Tt6vzwvnm9u7729) after the tutorial.
+
+There is a [Sydney NLP Meetup event](https://www.meetup.com/Sydney-Natural-Language-Processing-Meetup/events/266866710) showcasing some previews of ALTA talks on Wednesday evening which ALTA participants are encouraged to attend if they want to join a fun social event with members of the NLP community in Sydney (or cannot attend all of the talks at the conference itself).
+
 ## 5th December (Thursday) Day 1
 
 _The ALTA sessions and shared sessions will be in room CB11.00.405 – In [UTS Building 11](https://goo.gl/maps/ixQRd94JR9BU8d2z9) on the ground floor. The [concurrent ADCS sessions](http://adcs-conference.org/2019/programme.html) will be close by in CB11.00.401_
@@ -63,7 +67,7 @@ _The ALTA sessions and shared sessions will be in room CB11.00.405 – In [UTS 
   * _Long Box Embeddings for Inferring Predicate Entailment._
     Ian Wood, Mark Johnson, Stephen Wan, Javad Housseini and Mark Steedman 
 * 17:25 End of Academic Program for Day 1
-* 19:00 ALTA/ADCS Dinner – [The Eight Chinese Restaurant, 9-13 Hay St, Haymarket](https://goo.gl/maps/Dc5XwZarV3gYeCZ88)
+* 19:00 ALTA/ADCS Dinner – [The Eight Chinese Restaurant, 9-13 Hay St, Haymarket](https://goo.gl/maps/Dc5XwZarV3gYeCZ88). Attendees who are early for dinner may wish to meet at [The Mountbatten Hotel](https://goo.gl/maps/Fz2BNdxNvPByLkX8A) beforehand (Drinks at either venue must be paid for by attendees).
 
 ## 6th December (Friday) Day 2
 

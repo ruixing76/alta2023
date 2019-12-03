@@ -12,6 +12,8 @@ _ALTA long papers are 20 minutes and short papers are 12 minutes. ADCS papers (a
  
 ## 4th December (Wednesday) Tutorial Day
 
+_The tutorial will be in room CB11.B2.102 – In [UTS Building 11](https://goo.gl/maps/ixQRd94JR9BU8d2z9) on level B2_
+
 * 12:30 Venue opens
 * 13:00 [BioNLP Tutorial](/tutorial) Part 1
 * 14:30 **Afternoon Tea**
@@ -19,6 +21,8 @@ _ALTA long papers are 20 minutes and short papers are 12 minutes. ADCS papers (a
 * 16:30 End
 
 ## 5th December (Thursday) Day 1
+
+_The ALTA sessions and shared sessions will be in room CB11.00.405 – In [UTS Building 11](https://goo.gl/maps/ixQRd94JR9BU8d2z9) on the ground floor. The [concurrent ADCS sessions](http://adcs-conference.org/2019/programme.html) will be close by in CB11.00.401_
 
 * 8:15 Registration
 * 9:00 Opening Talk
@@ -62,6 +66,8 @@ _ALTA long papers are 20 minutes and short papers are 12 minutes. ADCS papers (a
 * 19:00 Dinner
 
 ## 6th December (Friday) Day 2
+
+_The ALTA sessions and shared sessions will be in room CB11.00.405 – In [UTS Building 11](https://goo.gl/maps/ixQRd94JR9BU8d2z9) on the ground floor. The [concurrent ADCS sessions](http://adcs-conference.org/2019/programme.html) will be close by in CB11.00.401_
 
 * 9:00 ALTA [Keynote](/keynotes) – Mark Johnson: _Building new kinds of Natural Language Understanding and Conversational AI with Deep Learning_ (Session Chair: Diego Molla Aliod)  
 * 10:00 **Morning Tea And Poster Session**

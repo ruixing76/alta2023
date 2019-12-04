@@ -64,7 +64,7 @@ _The ALTA sessions and shared sessions will be in room CB11.00.405 – In [UTS 
      Aili Shen, Bahar Salehi, Jianzhong Qi and Timothy Baldwin 
   * _Modeling Political Framing Across Policy Issues and Contexts._
     Shima Khanehzar, Andrew Turpin and Gosia Mikolajczak  
-  * _Long Box Embeddings for Inferring Predicate Entailment._
+  * _Box Embeddings for Inferring Predicate Entailment._
     Ian Wood, Mark Johnson, Stephen Wan, Javad Housseini and Mark Steedman 
 * 17:25 End of Academic Program for Day 1
 * 19:00 ALTA/ADCS Dinner – [The Eight Chinese Restaurant, 9-13 Hay St, Haymarket](https://goo.gl/maps/Dc5XwZarV3gYeCZ88). Attendees who are early for dinner may wish to meet at [The Mountbatten Hotel](https://goo.gl/maps/Fz2BNdxNvPByLkX8A) beforehand (Drinks at either venue must be paid for by attendees).

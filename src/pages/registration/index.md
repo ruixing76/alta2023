@@ -17,4 +17,4 @@ Registration is AUD75 for standard registration and free for students, thanks to
 
 ## Inclusions
 
-Registration includes daytime catering (morning tea, lunch and afternoon tea) for the two days of the main conference, as well as the conference dinner on the evening of the 5th of December. Naturally, it also includes entry to all of the presentations, [keynote talks](/keynotes), poster sessions and the [tutorial](/tutorial) on the 4th of December.
+Registration includes daytime catering (morning tea, lunch and afternoon tea) for the two days of the main conference, as well as the conference dinner on the evening of the 5th of December (due to capacity constraints, this may not be available for late registrations). Naturally, it also includes entry to all of the presentations, [keynote talks](/keynotes), poster sessions and the [tutorial](/tutorial) on the 4th of December.

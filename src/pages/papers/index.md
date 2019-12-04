@@ -9,5 +9,6 @@ seo:
   title: Accepted Papers – ALTA 2019
 ---
 
+[Draft proceedings are now available](/files/ALTA2019-proceedings-draft.pdf).
 
 The following papers have been accepted for oral or poster presentation at ALTA 2019.

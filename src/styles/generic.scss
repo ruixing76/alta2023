@@ -48,3 +48,35 @@ main {
   }
 }
 
+.badge {
+  background-color: $background-medium;
+  color: white;
+  border-radius: 2px;
+  font-size: 0.7rem;
+  padding: 0.15rem 0.25rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-right: 0.6rem;
+
+  &-long::after {
+    content: "Long";
+  }
+
+  &-abstract::after {
+    content: "Abstract";
+  }
+
+  &-short::after {
+    content: "Short";
+  }
+
+  &-adcs-encore::after {
+    content: "ADCS Encore";
+  }
+
+  &-adcs-short::after {
+    content: "ADCS Short";
+  }
+  
+}
+

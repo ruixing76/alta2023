@@ -15,6 +15,8 @@ seo:
   title: ALTA 2019
 newsItems:
   - date: 2019-12-05
+    text: ADCS participants can now [pay online for the combined ALTA/ADCS dinner](https://www.trybooking.com/BHGJD)
+  - date: 2019-12-05
     text: "A limited number of extra [registration](/registration) slots are available."
   - date: 2019-12-04
     text: "[Draft proceedings](/files/ALTA2019-proceedings-draft.pdf)  are now available."

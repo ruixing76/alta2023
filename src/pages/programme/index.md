@@ -62,8 +62,8 @@ _The ALTA sessions and shared sessions will be in room CB11.00.405 – In [UTS 
     Wenyi Tay, Aditya Joshi, Xiuzhen Zhang, Sarvnaz Karimi and Stephen Wan 
   * <span class="badge badge-short"></span> _Feature-guided Neural Model Training for Supervised Document Representation Learning_
      Aili Shen, Bahar Salehi, Jianzhong Qi and Timothy Baldwin 
-  * span class="badge badge-short"></span> _Modeling Political Framing Across Policy Issues and Contexts._
-    Shima Khanehzar, Andrew Turpin and Gosia Mikolajczak <
+  * <span class="badge badge-short"></span> _Modeling Political Framing Across Policy Issues and Contexts._
+    Shima Khanehzar, Andrew Turpin and Gosia Mikolajczak
   * <span class="badge badge-abstract"></span> _Box Embeddings for Inferring Predicate Entailment._ 
     Ian Wood, Mark Johnson, Stephen Wan, Javad Housseini and Mark Steedman 
 * 17:25 End of Academic Program for Day 1

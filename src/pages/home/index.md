@@ -4,7 +4,7 @@ headerImage:
   image: /img/utssky-ascentstage.jpg
   imageAlt: University of Technology, Sydney
 title: ALTA 2020
-description: The 17th Annual Workshop of the Australasian Language Technology Association
+description: The 18th Annual Workshop of the Australasian Language Technology Association
 extraInfo: 
   - 9th – 11th December 2020
   - Royal Melbourne Institute of Technology

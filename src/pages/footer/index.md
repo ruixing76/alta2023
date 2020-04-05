@@ -5,8 +5,8 @@ logoImage:
   imageAlt: Australasian Language Technology Association (ALTA)
   orgLink: https://www.alta.asn.au
   taglines:
-    - 17th Annual ALTA Workshop
-    - 4th - 6th December, 2019 at UTS
+    - 18th Annual ALTA Workshop
+    - 9th - 11th December, 2020 at RMIT
 socialLinks:
   - image: /img/email.svg
     imageAlt: Contact us by email

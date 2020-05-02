@@ -1,30 +1,30 @@
 ---
 templateKey: about-page
-title: About the ALTA 2019 Workshop
+title: About the ALTA 2020 Workshop
 organizers:
   title: Organisers
   gallery:
     - image: ""
-      imageAlt: Andy MacKinlay
-      name: Andy MacKinlay
-      organization: Culture Amp
-      role: Co-chair – General
+      imageAlt: Maria Kim
+      name: Maria Kim
+      organization: Defence Science and Technology
+      role: Co-chair
+    - image: ""
+      name: Daniel Beck
+      imageAlt: Daniel Beck
+      organization: The University of Melbourne
+      role: Co-chair
     - image: ""
       imageAlt: Meladel Mistica
       name: Meladel Mistica
       organization: The University of Melbourne
-      role: Program Chair
-    - image: ""
-      name: Massimo Piccardi
-      imageAlt: Massimo Piccardi
-      organization: University of Technology Sydney
-      role: Co-chair – Local Arrangements
+      role: Co-chair
 seo:
-  browserTitle: About | ALTA 2019
+  browserTitle: About | ALTA 2020
   description: >-
-    ALTA is the Australasian Language Technology Association, which connects NLP researchers around Australia and New Zealand. On of the primary purposes of ALTA is organise the ALTA Workshop – the premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
-  title: About | ALTA 2019
+    ALTA is the Australasian Language Technology Association, which connects NLP researchers around Australia and New Zealand. One of the primary purposes of ALTA is organising the ALTA Workshop – the premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
+  title: About | ALTA 2020
 ---
-The ALTA Workshop is the premier venue in Australia, New Zealand and the surrounding region for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome. The workshop is run annually, usually in December, under the auspices of the [Australasian Language Technology Association](https://www.alta.asn.au).
+The ALTA Workshop is the premier workshop in Australia, New Zealand and the surrounding region for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome. The workshop is run annually, usually in December, under the auspices of the [Australasian Language Technology Association](https://www.alta.asn.au).
 
-ALTA 2019 will be held at University of Technology Sydney from the 4th to the 6th of December. The [call for papers](/call-for-papers) is now available.
+Due to the Coronavirus pandemic crisis in 2020, however, the physical workshop of ALTA 2020 will be held at the University of Melbourne from the 13th to the 15th of January while ALTA 2020 proceedings will be published during December 2020. The [call for papers](/call-for-papers) is now available.

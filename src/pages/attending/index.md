@@ -10,13 +10,13 @@ seo:
 
 ## Location
 
-ALTA will be held in the [RMIT](https://www.rmit.edu.au/) [Building 80] (https://www.rmit.edu.au/maps/melbourne-city-campus/building-80) (Swanston Academic Building) which is conveniently located [in central Sydney](https://goo.gl/maps/ixQRd94JR9BU8d2z9). The building has two entrances, one at the corner of Broadway and Jones St, and the other at the corner of Broadway and Wattle St.
+ALTA will be held in the [University of Melbourne](https://www.unimelb.edu.au/) [Building - TBA] (https://www.unimelb.edu.au/) which is conveniently located Parkville, an inner suburb north of the Melbourne central business district. The building has X  entrances, one at the corner of X and , and the other at the corner of X and X.
 
 ## Food and Drink
 
-Meals as well as afternoon and morning tea will be provided for both days of the main conference. There is also a conference dinner on Thursday 5th December, and the cost of this is included in registration. 
+Meals as well as afternoon and morning tea will be provided for both days of the main conference. There is also a conference dinner on Thursday 14th January 2021, and the cost of this is included in registration. 
 
 ## Accomodation
 
-There are many suitable local hotels in Melbourne available for attendees. XXX Sancta Sophia College offers [casual accommodation](https://www.sanctasophiacollege.edu.au/accommodation/) with a lower room rate available for PhD students attending ALTA (simply mention the conference name on the booking form).
+There are many suitable local hotels in Melbourne available for attendees. More details will be updated soon.
 

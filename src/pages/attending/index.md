@@ -10,7 +10,7 @@ seo:
 
 ## Location
 
-ALTA will be held in the [University of Melbourne](https://www.unimelb.edu.au/) [Building - TBA] (https://www.unimelb.edu.au/) which is conveniently located Parkville, an inner suburb north of the Melbourne central business district. The building has X  entrances, one at the corner of X and , and the other at the corner of X and X.
+ALTA will be held in the [University of Melbourne](https://www.unimelb.edu.au/) [Building X] which is conveniently located Parkville, an inner suburb north of the Melbourne central business district. The building has X  entrances, one at the corner of X and , and the other at the corner of X and X.
 
 ## Food and Drink
 

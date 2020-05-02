@@ -27,4 +27,4 @@ seo:
 ---
 The ALTA Workshop is the premier workshop in Australia, New Zealand and the surrounding region for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome. The workshop is run annually, usually in December, under the auspices of the [Australasian Language Technology Association](https://www.alta.asn.au).
 
-Due to the Coronavirus pandemic crisis in 2020, however, the physical workshop of ALTA 2020 will be held at the University of Melbourne from the 13th to the 15th of January while ALTA 2020 proceedings will be published during December 2020. The [call for papers](/call-for-papers) is now available.
+Due to the Coronavirus pandemic crisis in 2020, however, the physical workshop of ALTA 2020 will be held at the University of Melbourne from the 13th to the 15th of January 2021 while ALTA 2020 proceedings will be published during December 2020. The [call for papers](/call-for-papers) is now available.

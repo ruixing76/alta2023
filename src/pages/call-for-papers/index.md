@@ -1,31 +1,31 @@
 ---
 templateKey: default-page
-title: Call for Papers – ALTA 2019
+title: Call for Papers – ALTA 2029
 seo:
-  browserTitle: Call for Papers | ALTA 2019
+  browserTitle: Call for Papers | ALTA 2020
   description: >-
     ALTA is the Australasian Language Technology Association, which connects NLP researchers around Australia and New Zealand. On of the primary purposes of ALTA is organise the ALTA Workshop – the premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
-  title: Call for Papers | ALTA 2019
+  title: Call for Papers | ALTA 2020
 ---
 
 ## Overview
 
-The 17th Annual Workshop of the Australian Language Technology Association will be held on the 5th and 6th of December at the University of Technology Sydney, Australia, colocated with the [Australian Document Computing Symposium 2019](http://adcs-conference.org/).
+Due to the Coronavirus pandemic crisis, the 18th Annual Workshop of the Australian Language Technology Association will be held from 13th to 15th of January 2021 at the University of Melbourne, Australia while the ALTA 2020 proceedings will be published during December 2020.
 
-The ALTA 2019 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers. 
+The ALTA 2020 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers. 
 
 
 <h2 id="key-dates">Key Dates</h2>
 
  - Submission Deadline:    
-	 - ~~19th September~~ 26th September, 2019 (long papers)
-	 - 3rd October, 2019 (short papers and abstracts)
+	 - 19th September, 2020 (long papers)
+	 - 3rd October, 2020 (short papers and abstracts)
  - Author Notification:    
-	 - 18th October, 2019 (long papers)
-	 - 25th October, 2019 (short papers and abstracts)
- - Camera-Ready Deadline:  8th November, 2019
- - Tutorials:              4th December, 2019
- - Main Conference:        5th-6th December, 2019
+	 - 18th October, 2020 (long papers)
+	 - 25th October, 2020 (short papers and abstracts)
+ - Camera-Ready Deadline:  8th November, 2020
+ - Tutorials:              13th January, 2021
+ - Main Conference:        14th-15th January, 2021
 
 _Submission deadlines are UTC-11_
 
@@ -89,12 +89,12 @@ Original research papers that are under review for other publication venues or t
 
 ### Paper Submission
 
-Authors should submit their papers via [Easychair](https://easychair.org/conferences/?conf=alta2019).
+Authors should submit their papers via [Easychair](https://easychair.org/conferences/?conf=alta2020).
 
 There are 3 tracks in EasyChair this year:
-  - **ALTA 2019 (Long)** – use this for **long** papers
-  - **ALTA 2019 (Short)** – use this for **short** papers
-  - **ALTA 2019 (Abstracts)** – use this for **abstracts**
+  - **ALTA 2020 (Long)** – use this for **long** papers
+  - **ALTA 2020 (Short)** – use this for **short** papers
+  - **ALTA 2020 (Abstracts)** – use this for **abstracts**
 
 
 ### Formatting Guidelines

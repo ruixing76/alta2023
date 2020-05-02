@@ -6,7 +6,7 @@ logoImage:
   orgLink: https://www.alta.asn.au
   taglines:
     - 18th Annual ALTA Workshop
-    - 9th - 11th December, 2020 at RMIT
+    - 13th - 15th January, 2021 at the University of Melbourne
 socialLinks:
   - image: /img/email.svg
     imageAlt: Contact us by email

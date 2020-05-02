@@ -13,5 +13,6 @@ seo:
   description: >-
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2020
+  newsItems:
 
 ---

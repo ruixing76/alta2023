@@ -1,6 +1,6 @@
 ---
 templateKey: default-page
-title: Call for Papers – ALTA 2029
+title: Call for Papers – ALTA 2020
 seo:
   browserTitle: Call for Papers | ALTA 2020
   description: >-

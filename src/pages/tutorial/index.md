@@ -3,8 +3,8 @@ templateKey: featured-speakers-page
 title: Keynotes
 talks:
   - speakers:
-    - name: 
-      bio: 
+    - name: TBD
+      bio: TBD
       affiliation: 
     title: TBD
     abstract: 

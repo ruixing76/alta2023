@@ -2,7 +2,12 @@
 templateKey: featured-speakers-page
 title: Keynotes
 talks:
-
+  - speakers:
+    - name: TBD
+      bio: ""
+      affiliation: "TBD"
+    title: TBD
+    abstract:
 seo:
   browserTitle: Keynotes | ALTA 2020
   description: >-

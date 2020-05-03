@@ -4,7 +4,7 @@ title: Keynotes
 talks:
   - speakers:
     - name: 
-      bio: "Sarvnaz is a senior researcher at CSIRO’s Data61 in Sydney, with expertise in Information Retrieval, Natural Language Processing (NLP), and Machine Learning. She has over 10 years of experience of  research in biomedical NLP.  She has led a number of different projects, such as Adverse Drug Reaction Discovery from patient reports (information extraction from social media), and Medical decision support within precision health future science platform. Before CSIRO, Sarvnaz was a researcher at NICTA (2008-2012) working on search and information retrieval in the medical domain (BioTALA project)."
+      bio: 
       affiliation: "CSIRO | Data61"
     - name: Aditya Joshi
       bio: "Aditya Joshi is a Postdoctoral Fellow at CSIRO's Data61 in Sydney. He was awarded a joint PhD degree by Indian Institute of Technology Bombay, India and Monash University, Australia, in 2018. His research interests are sentiment analysis and health informatics. He currently works on early detection of epidemics using social media streams: a work that combines natural language processing with statistical time series monitoring. Based on his PhD thesis on computational sarcasm, Aditya presented a tutorial on ‘Computational Sarcasm’ at EMNLP 2017, and a TEDx talk titled ‘Detecting sarcasm, combating hate’ that interleaved his PhD research with his experiences as an out LGBTQ student in an Indian university."

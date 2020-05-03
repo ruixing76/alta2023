@@ -4,9 +4,13 @@ title: Keynotes
 talks:
   - speakers:
     - name: 
-      bio: 
-      affiliation: 
- 
+      bio: ""
+      affiliation: ""
+    - name: 
+      bio: ""
+      affiliation: ""    
+    title: 
+    abstract: ""
 seo:
   browserTitle: Keynotes | ALTA 2020
   description: >-

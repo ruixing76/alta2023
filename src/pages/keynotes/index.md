@@ -3,22 +3,22 @@ templateKey: featured-speakers-page
 title: Keynotes
 talks:
   - speakers:
-    - name: TBA
-      bio: "TBA"
-      affiliation: "TBA"
+    - name: 
+      bio: 
+      affiliation: 
       photo: keynote_speaker1.jpeg
-    title: TBD
-    abstract: "TBD"
+    title: 
+    abstract: 
   - speakers:
-    - name: TBA
-      bio: "TBA"
+    - name: 
+      bio: 
       photo: keynote_speaker2.jpeg
-      affiliation: "TBA"
+      affiliation: 
       
-    title: "TBD"
+    title: 
     abstract: >
 
-      TBD
+     
 
 seo:
   browserTitle: Keynotes | ALTA 2020

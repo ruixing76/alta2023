@@ -5,7 +5,7 @@ talks:
   - speakers:
     - name: 
       bio: 
-      affiliation: "CSIRO | Data61"
+      affiliation: ""
     - name: Aditya Joshi
       bio: "Aditya Joshi is a Postdoctoral Fellow at CSIRO's Data61 in Sydney. He was awarded a joint PhD degree by Indian Institute of Technology Bombay, India and Monash University, Australia, in 2018. His research interests are sentiment analysis and health informatics. He currently works on early detection of epidemics using social media streams: a work that combines natural language processing with statistical time series monitoring. Based on his PhD thesis on computational sarcasm, Aditya presented a tutorial on ‘Computational Sarcasm’ at EMNLP 2017, and a TEDx talk titled ‘Detecting sarcasm, combating hate’ that interleaved his PhD research with his experiences as an out LGBTQ student in an Indian university."
       affiliation: "CSIRO | Data61"    

@@ -1,12 +1,12 @@
 ---
 templateKey: pc-page
-title: Programme Committee for ALTA 2019
+title: Programme Committee for ALTA 2020
 description: Programme Committee
 seo:
-  browserTitle: Programme Committee for ALTA 2019
+  browserTitle: Programme Committee for ALTA 2020
   description: >-
     The following people have generously offered their time to act as programme committee members for ALTA
-  title: Programme Committee for ALTA 2019
+  title: Programme Committee for ALTA 2020
 members:
   - name: "Abeed Sarker"
     affiliation: "Emory University"
@@ -60,7 +60,7 @@ members:
     affiliation: "Fujitsu and The University of Melbourne"
 
   - name: "Jennifer Biggs"
-    affiliation: "DSTG"
+    affiliation: "Defence Science and Technology"
 
   - name: "Jeremy Nicholson"
     affiliation: "The University of Melbourne"
@@ -101,8 +101,8 @@ members:
   - name: "Michael Witbrock"
     affiliation: "The University of Auckland"
 
-  - name: "Myunghee Kim"
-    affiliation: "Defence Science Technology Group"
+  - name: "Maria Kim"
+    affiliation: "Defence Science Technology"
 
   - name: "Nitika Mathur"
     affiliation: "The University of Melbourne"

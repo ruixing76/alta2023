@@ -14,7 +14,7 @@ seo:
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2020
 newsItems:
-  - date: 2020-12-05
-    text: ADCS participants can now [pay online for the combined ALTA/ADCS dinner](https://www.trybooking.com/BHGJD)
+  - date: 2020-05-20
+    text: ALTA announces [Call for Papers](https://alta2020.netlify.app/call-for-papers) for the ALTA 2020 workshop, which will be held at the University of Melbourne from 13th to 15th of January 2021. 
  
 ---

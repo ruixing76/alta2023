@@ -5,8 +5,8 @@ talks:
   - speakers:
     - name: TBD
       bio: ""
-      affiliation: "TBD"
-    title: TBD
+      affiliation: ""
+    title: ""
     abstract:
 seo:
   browserTitle: Keynotes | ALTA 2020

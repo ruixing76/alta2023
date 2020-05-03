@@ -4,7 +4,7 @@ title: Keynotes
 talks:
   - speakers:
     - name: TBD
-      bio: "TBD"
+      bio: 
       affiliation: "TBD"
     title: TBD
     abstract: 

@@ -18,4 +18,3 @@ seo:
   title: Keynotes | ALTA 2019
 ---
 
-ALTA is pleased to announce that two presenters have offered to deliver a tutorial session on the afternoon of the 4th of December. 

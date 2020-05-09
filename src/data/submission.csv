@@ -1,52 +1,14 @@
 number,trackNumber,trackName,title,authors,keywords,abstract,format,trackFormat
 1,1,ALTA 2020 (Long),"","","","",poster,1 poster
-2,1,ALTA 2019 (Long),Towards A Robust Morphological Analyzer for Kunwinjku,William Lane and Steven Bird,"computational morphology
-low resource language
-finite state model
-polysynthetic language","Kunwinjku is an indigenous Australian language spoken in northern Australia which exhibits agglutinative and polysynthetic properties. Members of the community have expressed interest in co-developing language applications that promote their values and priorities. Modeling the morphology of the Kunwinjku language is an important step towards accomplishing the community's goals. 
-Finite State Transducers have long been the go-to method for modeling morphologically rich languages, and in this paper we discuss some of the distinct modeling challenges present in the morphosyntax of verbs in Kunwinjku. We show that a fairly straightforward implementation using standard features of the foma toolkit can account for much of the verb structure.
-Continuing challenges include robustness in the face of variation and unseen vocabulary, as well as how to handle complex reduplicative processes. Our future work will build off the baseline and challenges presented here.",oral,1 oral
-4,1,ALTA 2019 (Long),An Improved  Coarse-to-Fine Method for Solving Generation Tasks,"Wenyv Guan, Qianying Liu, Guangzhi Han, Bin Wang and Sujian Li","seq-to-seq
-sketch
-coarse-to-fine
-semantic parsing
-math word problem","The coarse-to-fine (coarse2fine) methods have recently been widely used in the generation tasks. The methods first generate a rough sketch in the coarse stage and then use the sketch to get the final result in the fine stage. However, they usually lack the correction ability when getting a wrong sketch. To solve this problem, in this paper, we propose an improved coarse2fine model with a control mechanism, with which our method can control the influence of the sketch on the final results in the fine stage. Even if the sketch is wrong, our model still has the opportunity to get a correct result. We have experimented our model on the tasks of semantic parsing and math word problem solving. The results have shown the effectiveness of our proposed model.",poster,1 poster
-6,1,ALTA 2019 (Long),Red-faced ROUGE: Examining the Suitability of ROUGE for Opinion Summary Evaluation,"Wenyi Tay, Aditya Joshi, Xiuzhen Zhang, Sarvnaz Karimi and Stephen Wan","evaluation
-opinion summarisation
-ROUGE","One of the most common metrics to automatically evaluate opinion summaries is ROUGE, a  metric  developed  for  text  summarisation. ROUGE counts the overlap of word or word units  between  a  candidate  summary  against reference summaries.  This formulation treats all  words  in  the  reference  summary  equally.In opinion summaries, however, not all words in the reference are equally important.  Opinion  summarisation  requires  to  correctly  pair two types of semantic information:  (1) aspect or  opinion  target;  and  (2)  polarity  of  candidate and reference summaries.  We investigate the suitability of ROUGE for evaluating opin-ion summaries of online reviews.  Using three simulation-based experiments, we evaluate the behaviour  of  ROUGE  for  opinion  summarisation on the ability to match aspect and polarity.   We  show  that  ROUGE  cannot  distinguish opinion summaries of similar or opposite polarities for the same aspect.  Moreover,ROUGE  scores  have  significant  variance  under different configuration settings.   As a result, we present three recommendations for future work that uses ROUGE to evaluate opinion summarisation.",oral,1 oral
-7,2,ALTA 2019 (Short),"A neural joint model for Vietnamese word segmentation, POS tagging and dependency parsing",Dat Quoc Nguyen,"Multi-task learning
-Vietnamese
-Word segmentation
-POS tagging
-Dependency parsing",,oral,2 oral
-8,2,ALTA 2019 (Short),A multi-constraint structured hinge loss for named-entity recognition,Hanieh Poostchi and Massimo Piccardi,"structured hinge loss
-multi-constraint structured hinge loss
-training objectives
-sequential labeling
-named-entity recognition",,oral,2 oral
-9,2,ALTA 2019 (Short),Neural Versus Non-Neural Text Simplification: A Case Study,"Islam Nassar, Michelle Ananda-Rajah and Gholamreza Haffari","text simplification
-neural machine translation
-neural text simplification
-medical text simplification
-rule-based simplification systems",,poster,2 poster
-10,1,ALTA 2019 (Long),Detecting Chemical Reactions in Patents,"Hiyori Yoshikawa, Dat Quoc Nguyen, Zenan Zhai, Christian Druckenbrodt, Camilo Thorne, Saber A. Akhondi, Timothy Baldwin and Karin Verspoor","information extraction
-text segmentation
-biochemical text mining","Extracting chemical reactions from patents is a crucial task for chemists working on chemical exploration. In this paper we introduce the novel task of detecting the textual spans that describe or refer to chemical reactions within patents. We formulate this task as a paragraph-level sequence tagging problem, where the system is required to return a sequence of paragraphs which contain a description of a reaction. To address this new task, we construct an annotated dataset from an existing proprietary database of chemical reactions manually extracted from patents. We introduce several baseline methods for the task and evaluate them over our dataset. Through error analysis, we discuss what makes the task complex and challenging, and suggest possible directions for future research.",oral,1 oral
-11,1,ALTA 2019 (Long),From Shakespeare to Li-Bai: Adapting a Sonnet Model to Chinese Poetry,"Zhuohan Xie, Jey Han Lau and Trevor Cohn","Chinese
-poetry generation
-RNN
-LSTM","In this paper, we adapt Deep-speare, a joint
-neural network model for English sonnets, to
-Chinese poetry. We illustrate characteristics of
-Chinese quatrain and explain our architecture
-as well as training and generation procedure,
-which differs from Shakespeare sonnets in several
-aspects. We analyse the generated poetry
-and find that model works well for Chinese poetry,
-as it can: (1) generate coherent 4-line quatrains
-of different topics; and (2) capture rhyme
-automatically (to a certain extent).",oral,1 oral
-12,1,ALTA 2019 (Long),Improved Document Modelling with a Neural Discourse Parser,"Fajri Koto, Jey Han Lau and Timothy Baldwin","discourse representation
+2,1,ALTA 2020 (Long),"","","",oral,1 oral
+4,1,ALTA 2020 (Long),"","","","",poster,1 poster
+6,1,ALTA 2020 (Long),"","","","",oral,1 oral
+7,2,ALTA 2020 (Short),"","","","",oral,2 oral
+8,2,ALTA 2020 (Short),"","","",,oral,2 oral
+9,2,ALTA 2020 (Short),"","","",,poster,2 poster
+10,1,ALTA 2020 (Long),"","","","",oral,1 oral
+11,1,ALTA 2020 (Long),"","","","",oral,1 oral
+12,1,ALTA 2020 (Long),Improved Document Modelling with a Neural Discourse Parser,"Fajri Koto, Jey Han Lau and Timothy Baldwin","discourse representation
 abstractive summarization
 document classification
 sequence-to-sequence model","Despite the success of attention-based neural models for natural language generation and classification tasks, they are unable to capture the discourse structure of larger documents. We hypothesize that explicit discourse representations have utility for NLP tasks over longer documents or document sequences, which sequence-to-sequence models are unable to capture. For abstractive summarization, for instance, conventional neural models simply match source documents and the summary in a latent space without explicit representation of text structure or relations. In this paper, we propose to use neural discourse representations obtained from a rhetorical structure theory (RST) parser to enhance document representations. Specifically, document representations are generated for discourse spans, known as the elementary discourse units (EDUs). We empirically investigate the benefit of the proposed approach on two different tasks: abstractive summarization and popularity prediction of online petitions. We find that the proposed approach leads to substantial improvements in all cases.",oral,1 oral

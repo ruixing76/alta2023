@@ -1,8 +1,5 @@
 number,trackNumber,trackName,title,authors,keywords,abstract,format,trackFormat
-1,1,ALTA 2019 (Long),Does Multi-Task Learning Always Help?: An Evaluation on Health Informatics,"Aditya Joshi, Sarvnaz Karimi, Ross Sparks, Cecile Paris and C Raina MacIntyre","multi-task learning
-health informatics
-health mention detection
-social media","Multi-Task Learning (MTL) has been an attractive approach to deal with limited labeled datasets or leverage related tasks, for a variety of NLP problems. We examine the benefit of MTL for three specific pairs of health informatics tasks that deal with: (a) overlapping symptoms for the same classification problem (personal health mention classification for influenza and for a set of symptoms); (b) overlapping medical concepts for related classification problems (vaccine usage and drug usage detection); and, (c) related classification problems (vaccination intent and vaccination relevance detection). We experiment with a simple neural architecture: a shared layer followed by task-specific dense layers. The novelty of this work is that it compares alternatives for shared layers for these pairs of tasks. While our observations agree with the promise of MTL as compared to single-task learning, for health informatics, we show that the benefit also comes with caveats in terms of the choice of shared layers and the relatedness between the participating tasks.",poster,1 poster
+1,1,ALTA 2020 (Long),"","","","",poster,1 poster
 2,1,ALTA 2019 (Long),Towards A Robust Morphological Analyzer for Kunwinjku,William Lane and Steven Bird,"computational morphology
 low resource language
 finite state model

@@ -7,7 +7,7 @@ logoImage:
   taglines:
     - 18th Annual ALTA Workshop
     - 13th - 15th January, 2021 
-    - at the University of Melbourne
+    - University of Melbourne
 socialLinks:
   - image: /img/email.svg
     imageAlt: Contact us by email

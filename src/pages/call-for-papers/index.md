@@ -10,7 +10,7 @@ seo:
 
 ## Overview
 
-Due to the Coronavirus pandemic crisis, the 18th Annual Workshop of the Australian Language Technology Association will be held from 13th to 15th of January 2021 at the University of Melbourne, Australia while the ALTA 2020 proceedings will be published during December 2020.
+Due to the Coronavirus pandemic crisis, the 18th Annual Workshop of the Australian Language Technology Association will be held from the 13th to the 15th of January 2021 at the University of Melbourne, Australia while the ALTA 2020 proceedings will be published in December 2020.
 
 The ALTA 2020 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers. 
 
@@ -99,7 +99,7 @@ There are 3 tracks in EasyChair this year:
 
 ### Formatting Guidelines
 
-Submissions must follow the two-column ACL format. We therefore strongly recommend you use [LaTeX style files](/files/acl2019-latex.zip) or [Microsoft Word template](/files/acl2019-word.zip).
+Submissions must follow the two-column ACL format. We therefore strongly recommend you use [LaTeX style files](/files/acl2020-latex.zip) or [Microsoft Word template](/files/acl2020-word.zip).
 
 ### Paper Length
 

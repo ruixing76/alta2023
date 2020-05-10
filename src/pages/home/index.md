@@ -15,6 +15,6 @@ seo:
   title: ALTA 2020
 newsItems:
   - date: 2020-05-15
-    text: The [call for papers] (/call-for-papers) for the ALTA 2020 is out now!
+    text: The [call for papers] (/call-for-papers) is out now!
  
 ---

@@ -14,7 +14,7 @@ seo:
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2020
 newsItems:
-  - date: 2020-05-20
-    text: ALTA announces [Call for Papers](/call-for-papers) for the ALTA 2020 workshop, which will be held at the University of Melbourne from the 13th to the 15th of January 2021. 
+  - date: ""
+    text: "" 
  
 ---

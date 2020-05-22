@@ -6,7 +6,7 @@ talks:
     - name: 
       bio: 
       affiliation: 
-      photo: keynote_speaker1.jpeg
+      photo: 
     title: 
     abstract: 
   - speakers:

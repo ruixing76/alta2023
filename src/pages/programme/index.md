@@ -11,11 +11,11 @@ seo:
 _ALTA long papers are 20 minutes and short papers are 12 minutes._
  
 ## 13th January (Wednesday) Tutorial Day
-
+TBA
 
 ## 14th January (Thursday) Workshop Day 1
-
+TBA
 
 ## 15th January (Friday) Workshop Day 2
-
+TBA
 

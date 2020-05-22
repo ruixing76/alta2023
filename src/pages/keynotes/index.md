@@ -12,7 +12,7 @@ talks:
   - speakers:
     - name: 
       bio: 
-      photo: keynote_speaker2.jpeg
+      photo: 
       affiliation: 
       
     title: 

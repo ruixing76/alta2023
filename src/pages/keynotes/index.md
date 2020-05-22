@@ -12,7 +12,7 @@ talks:
   - speakers:
     - name: 
       bio: 
-      photo: 
+      photo: blah.jpg
       affiliation: 
       
     title: 

@@ -9,10 +9,6 @@ menuItems:
     longLabel: Call for Papers and Author Instructions
     linkType: internal
     linkURL: /call-for-papers
-  - label: Papers
-    longLabel: Papers accepted for oral or poster presentation
-    linkType: internal
-    linkURL: /papers
   - label: Programme
     linkType: internal
     linkURL: /programme

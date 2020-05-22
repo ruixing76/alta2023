@@ -1,13 +1,13 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/Uni_Melbourne_1.jpg
-  imageAlt: University of Melbourne
+  image: ""
+  imageAlt: ""
 title: ALTA 2020
 description: The 18th Annual Workshop of the Australasian Language Technology Association
 extraInfo: 
   - 13th – 15th January 2021
-  - University of Melbourne
+  - **TBA**
 seo:
   browserTitle: ALTA 2020
   description: >-

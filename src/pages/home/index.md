@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 headerImage:
-  image: 
+  image: \img\Uni_Melbourne_1.jpg
   imageAlt: TBA
 title: ALTA 2020
 description: The 18th Annual Workshop of the Australasian Language Technology Association

@@ -4,44 +4,44 @@ module.exports = {
     siteUrl: "https://alta2019.alta.asn.au",
     sponsors: [
       { 
-        name: "Sintelix",
-        level: "Platinum",
-        link: "https://sintelix.com/",
-        image: "sintelix.png"
-      },
-      { 
-        name: "Google",
-        level: "Gold",
-        link: "https://google.com",
-        image: "google.png"
-      },
-      { 
         name: "Defence Science and Technology",
-        longName: "Defence Science and Technology",
-        level: "Gold",
-        image: "dod.png",
-        link: "https://www.dst.defence.gov.au/"
+        level: "Platinum",
+        link: "https://www.dst.defence.gov.au/",
+        image: "dod.png"
       },
       { 
-        name: "UTS Engineering and IT",
-        longName: "UTS Faculty of Engineering and IT",
-        level: "Gold",
-        image: "uts.png",
-        link: "https://feit.uts.edu.au"
+        name: "",
+        level: "",
+        link: "",
+        image: ""
       },
       { 
-        name: "Data61",
-        longName: "CSIRO Data61",
-        level: "Gold",
-        image: "data61.png",
-        link: "https://data61.csiro.au/"
+        name: "",
+        longName: "",
+        level: "",
+        image: "",
+        link: ""
       },
       { 
-        name: "IBM Research Australia",
-        longName: "IBM Research Australia",
-        level: "Bronze",
-        image: "ibm.svg",
-        link: "https://www.research.ibm.com/labs/australia/index.shtml"
+        name: "",
+        longName: "",
+        level: "",
+        image: "",
+        link: ""
+      },
+      { 
+        name: "",
+        longName: "",
+        level: "",
+        image: "",
+        link: ""
+      },
+      { 
+        name: "",
+        longName: "",
+        level: "",
+        image: "",
+        link: ""
       }
     ],
     sponsorLevels: ["Platinum", "Gold"]

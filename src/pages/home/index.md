@@ -1,8 +1,8 @@
 ---
 templateKey: home-page
 headerImage:
-  image: ""
-  imageAlt: ""
+  image: 
+  imageAlt: TBA
 title: ALTA 2020
 description: The 18th Annual Workshop of the Australasian Language Technology Association
 extraInfo: 

@@ -9,5 +9,9 @@ menuItems:
     longLabel: Explanation of ALTA
     linkType: internal
     linkURL: /about
+  - label: CFP
+    longLabel: Call for Papers and Author Instructions
+    linkType: internal
+    linkURL: /call-for-papers
 ---
 

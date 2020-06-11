@@ -10,10 +10,10 @@ module.exports = {
         image: "dod.png"
       },
       { 
-        name: "",
-        level: "",
-        link: "",
-        image: ""
+        name: "Sintelix",
+        level: "Silver",
+        link: "https://sintelix.com/",
+        image: "sintelix.png"
       },
       { 
         name: "",

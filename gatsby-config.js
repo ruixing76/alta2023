@@ -44,7 +44,7 @@ module.exports = {
         link: ""
       }
     ],
-    sponsorLevels: ["Platinum", "Gold"]
+    sponsorLevels: ["Platinum", "Gold", "Silver"]
   },
   plugins: [
     "gatsby-plugin-react-helmet",

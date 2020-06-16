@@ -10,15 +10,15 @@ seo:
 
 ## Overview
 
-Due to the COVID-19 pandemic, the 18th Annual Workshop of the Australian Language Technology Association will be held from the 13th to the 15th of January 2021 (Venue: TBA), Australia while the ALTA 2020 proceedings will be published in December 2020.
+Due to the COVID-19 pandemic, the 18th Annual Workshop of the Australian Language Technology Association will be held from the 13th to the 15th of January 2021 in Melbourne, Australia while the ALTA 2020 proceedings will be published in December 2020.
 
 The ALTA 2020 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers. 
 
 
 <h2 id="key-dates">Key Dates</h2>
 
- - Submission Deadline:    2nd October, 2020 (long and short papers and abstracts) 
- - Author Notification:    6th November, 2020 (long and short papers and abstracts)
+ - Submission Deadline:    2nd October, 2020
+ - Author Notification:    6th November, 2020
  - Camera-Ready Deadline:  27th November, 2020
  - Tutorials:              13th January, 2021
  - Main Conference:        14th-15th January, 2021

@@ -16,11 +16,10 @@ module.exports = {
         image: "sintelix.png"
       },
       { 
-        name: "",
-        longName: "",
-        level: "",
-        image: "",
-        link: ""
+        name: "Google",
+        level: "Silver",
+        image: "Google Logo.png",
+        link: "https://www.google.com/"
       },
       { 
         name: "",

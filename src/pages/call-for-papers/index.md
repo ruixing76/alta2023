@@ -10,9 +10,13 @@ seo:
 
 ## Overview
 
-Due to the COVID-19 pandemic, the 18th Annual Workshop of the Australasian Language Technology Association will be held from the 13th to the 15th of January 2021 in Australia while the ALTA 2020 proceedings will be published in December 2020.
+Due to the COVID-19 pandemic, the 18th Annual Workshop of the Australasian Language Technology Association will be held **virtually** from the 13th to the 15th of January 2021 while the ALTA 2020 proceedings will be published in December 2020.
 
 The ALTA 2020 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers. 
+
+Note that ALTA is listed in recently updated CORE 2020 Conference Rankings as Australasian B. See details from [CORE Rankings Portal](https://www.core.edu.au/conference-portal).
+
+
 
 
 <h2 id="key-dates">Key Dates</h2>

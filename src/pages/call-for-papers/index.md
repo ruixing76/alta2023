@@ -103,9 +103,8 @@ Submissions must follow the two-column ACL format. We therefore strongly recomme
 
 ### Paper Length
 
-  - Long papers should be 6-8 pages
-  - Short papers should be 3-4 pages
-  - Both short and long papers may include up to 2 pages of references in addition to the page count requirements
+  - Long papers should be 6-8 pages (with up to additional 2 pages for references)
+  - Short papers should be 3-4 pages (with up to additional 2 pages for references)
   - Abstracts ideally should be a few paragraphs and no more than 2 pages (with up to additional 1 page for references)
 
 ### Anonymisation

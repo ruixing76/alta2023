@@ -15,9 +15,9 @@ seo:
   title: ALTA 2020
 newsItems:
   - date: 2020-09-30
-    text:Paper submission deadline is now extended to **9th October 2020**. Check [call for papers] (/call-for-papers).
+    text: Paper submission deadline is now extended to **9th October 2020**. Check [call for papers] (/call-for-papers).
   - date: 2020-06-11
-    text:The [call for papers] (/call-for-papers) is out now!
+    text: The [call for papers] (/call-for-papers) is out now!
 
  
 ---

@@ -7,7 +7,7 @@ logoImage:
   taglines:
     - 18th Annual ALTA Workshop
     - 13th - 15th January, 2021 
-    - TBA
+    - **Virtual Workshop**
 socialLinks:
   - image: /img/email.svg
     imageAlt: Contact us by email

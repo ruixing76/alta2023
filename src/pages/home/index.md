@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 headerImage:
-  image: \img\
+  image: /img/alta-logo.svg
   imageAlt: ""
 title: ALTA 2020
 description: The 18th Annual Workshop of the Australasian Language Technology Association

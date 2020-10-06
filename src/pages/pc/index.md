@@ -69,7 +69,7 @@ members:
     affiliation: "RMIT University"
     
   - name: "Lea Frermann"
-    affiliation: ""
+    affiliation: "The University of Melbourne"
     
   - name: "Lizhen Qu"
     affiliation: "Monash University"

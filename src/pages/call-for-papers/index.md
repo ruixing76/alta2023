@@ -56,27 +56,28 @@ Presentation abstracts should not be anonymised, any publications relating to th
 
 ALTA invites the submission of papers and presentations on all aspects of natural language processing, including, but not limited to:
 
-- phonology, morphology, syntax, semantics, pragmatics, and discourse;
-- speech understanding and generation;
-- interpreting spoken and written language;
-- natural language generation;
-- linguistic, mathematical, and psychological models of language;
-- NLP-based information extraction and retrieval;
-- corpus-based and statistical language modelling;
-- machine translation and translation aids;
-- question answering and information extraction;
-- natural language interfaces and dialogue systems;
-- natural language and multimodal systems;
-- message and narrative understanding systems;
-- evaluations of language systems;
-- embodied conversational agents;
-- computational lexicography;
-- summarisation;
-- language resources;
-- topic modelling and unsupervised language analysis;
-- social media analysis and processing;
-- domain-specific adaptation of natural language processing algorithms; and
-- applied natural language processing and/or applications in industry.
+- phonology, morphology, syntax, semantics, pragmatics, and discourse
+- speech understanding and generation
+- interpreting spoken and written language
+- natural language generation
+- linguistic, mathematical, and psychological models of language
+- NLP-based information extraction and retrieval
+- corpus-based and statistical language modelling
+- machine translation and translation aids
+- question answering and information extraction
+- natural language interfaces and dialogue systems
+- natural language and multimodal systems
+- message and narrative understanding systems
+- evaluations of language systems
+- embodied conversational agents
+- computational lexicography
+- summarisation
+- language resources
+- topic modelling and unsupervised language analysis
+- social media analysis and processing
+- search and information retrieval
+- domain-specific adaptation of natural language processing algorithms
+- applied natural language processing and/or applications in industry
 
 We particularly encourage submissions that broaden the scope of our community through the consideration of practical applications of language technology and through multi-disciplinary research. We also specifically encourage submissions from industry.
 

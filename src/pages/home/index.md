@@ -14,6 +14,8 @@ seo:
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2020
 newsItems:
+  - date: 2020-10-16
+    text: The Author notification date has been changed to **13th November 2020**. Check [call for papers] (/call-for-papers).
   - date: 2020-09-30
     text: Paper submission deadline is now extended to **9th October 2020**. Check [call for papers] (/call-for-papers).
   - date: 2020-06-11

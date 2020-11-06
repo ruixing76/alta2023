@@ -29,6 +29,9 @@ members:
   - name: "Brian Hur"
     affiliation: "The University of Melbourne"
     
+  - name: "Cecile Paris"
+    affiliation: "CSIRO"
+    
   - name: "Daniel Beck"
     affiliation: "The University of Melbourne"
     

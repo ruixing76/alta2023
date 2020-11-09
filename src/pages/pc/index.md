@@ -84,7 +84,7 @@ members:
     affiliation: "Defence Science and Technology"
     
   - name: "Michael Witbrock"
-    affiliation: "IBM"
+    affiliation: "The University of Auckland"
     
   - name: "Nitika Mathur"
     affiliation: "The University of Melbourne"

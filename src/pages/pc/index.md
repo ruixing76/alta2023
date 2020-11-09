@@ -77,9 +77,6 @@ members:
   - name: "Lizhen Qu"
     affiliation: "Monash University"
     
-  - name: "Mahsa Mohaghegh"
-    affiliation: "Auckland University of Technology"
-    
   - name: "Maria Kim"
     affiliation: "Defence Science and Technology"
     

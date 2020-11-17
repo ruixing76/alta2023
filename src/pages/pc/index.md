@@ -102,7 +102,7 @@ members:
     affiliation: "CSIRO"
     
   - name: "Sunghwan Mac Kim"
-    affiliation: "Lorica Health"
+    affiliation: "Hara Research Lab"
     
   - name: "Timothy Baldwin"
     affiliation: "The University of Melbourne"

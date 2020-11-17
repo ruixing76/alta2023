@@ -57,7 +57,7 @@ members:
     affiliation: "Fujitsu Laboratories Ltd."
     
   - name: "Jennifer Biggs"
-    affiliation: "Defence Science and Technology"
+    affiliation: "Defence Science and Technology Group"
     
   - name: "Karin Verspoor"
     affiliation: "The University of Melbourne"
@@ -78,7 +78,7 @@ members:
     affiliation: "Monash University"
     
   - name: "Maria Kim"
-    affiliation: "Defence Science and Technology"
+    affiliation: "Defence Science and Technology Group"
     
   - name: "Michael Witbrock"
     affiliation: "The University of Auckland"

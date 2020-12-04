@@ -6,7 +6,7 @@ headerImage:
 title: ALTA 2020
 description: The 18th Annual Workshop of the Australasian Language Technology Association
 extraInfo: 
-  - 13th – 15th January 2021
+  - 14th – 15th January 2021
   - Virtual Workshop
 seo:
   browserTitle: ALTA 2020

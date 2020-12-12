@@ -11,13 +11,13 @@ seo:
 
 ## 14th January (Thursday) Workshop Day 1 (all times AEDT)
 
-* 10:30 Opening Talk
+* 10:30 **Opening Talk**
 
-* 11:00 ALTA [Keynote](/keynotes) – Andrew Perfors: TBD (Session Chair: Daniel Beck)
+* 11:00 **ALTA [Keynote](/keynotes)** – Andrew Perfors: TBD (Session Chair: Daniel Beck)
 
 * 12:00 **Lunch & Virtual Networking**
 
-* 13:00 Session 1 – Long Papers (Session Chair: TBD) 
+* 13:00 **Session 1 – Long Papers** (Session Chair: TBD) 
   * <span class="badge badge-long"></span> _Domain Adaptative Causality Encoder._     
     Farhad Moghimifar, Gholamreza Haffari and Mahsa Baktashmotlagh 
     
@@ -30,7 +30,7 @@ seo:
   * <span class="badge badge-long"></span> _Feature-Based Forensic Text Comparison Using a Poisson Model for Likelihood Ratio Estimation._     
     Michael Carne and Shunichi Ishihara
     
-* 14:00 **Afternoon Break & Poster Session**
+* 14:00 **Afternoon Break & Poster Session & Virtual Networking**
   * <span class="badge badge-short"></span> _Learning Causal Bayesian Networks from Text._
   Farhad Moghimifar, Afshin Rahimi, Mahsa Baktashmotlagh and Xue Li
   
@@ -52,7 +52,7 @@ seo:
   * <span class="badge badge-abstract"></span> _Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media._
   Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris
 
-* 15:30 Session 2 – Doctoral Consortium
+* 15:30 **Session 2 – Doctoral Consortium**
   * <span class="badge badge-doctoral"></span> _Recognizing Biomedical Names: Challenges and Solutions._
     Xiang Dai
     
@@ -69,11 +69,11 @@ seo:
 ## 15th January (Friday) Workshop Day 2 (all times AEDT)
 
 
-* 11:00 ALTA [Keynote](/keynotes) – Kendra Vant: TBD (Session Chair: Maria Kim)  
+* 11:00 **ALTA [Keynote](/keynotes)** – Kendra Vant: TBD (Session Chair: Maria Kim)  
 
 * 12:00 **Lunch & Virtual Networking**
 
-* 13:00 Session 3 – Long papers (Session Chair: Trevor Cohn)   
+* 13:00 **Session 3 – Long papers** (Session Chair: Trevor Cohn)   
   * <span class="badge badge-long"></span> _Modelling Verbal Morphology in Nen._
     Saliha Muradoglu, Nicholas Evans and Ekaterina Vylomova
     
@@ -86,7 +86,7 @@ seo:
   * <span class="badge badge-long"></span> _A machine-learning based model to identify PhD-level skills in job ads._
     Li'An Chen, Inger Mewburn and Hanna Suonimen 
     
-* 14:00 - 15:30 **Afternoon Break & Poster Session**
+* 14:00 **Afternoon Break & Poster Session & Virtual Networking**
   * <span class="badge badge-short"></span> _Transformer Semantic Parsing._
   Gabriela Ferraro and Hanna Suominen
   
@@ -100,7 +100,7 @@ seo:
   Andrei Shcherbakov, Saliha Muradoglu and Ekaterina Vylomova
 
 
-* 15:30 Session 4 – Shared Task, AGM, Best Paper and Closing
+* 15:30 **Session 4 – Shared Task, AGM, Best Paper and Closing**
   * Shared Task (Chair: Diego Mollá-Aliod)
   * AGM (Chair: Sarvnaz Karimi)
   * Best Paper Awards (Chair: Maria Kim)

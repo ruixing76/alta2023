@@ -1,10 +1,14 @@
 ---
 templateKey: navbar
 menuItems:
-  - label: home
+  - label: Home
     longLabel: Landing Page
     linkType: internal
     linkURL: /
+  - label: Program
+    longLabel: Landing Page
+    linkType: internal
+    linkURL: /program
   - label: About
     longLabel: Explanation of ALTA
     linkType: internal

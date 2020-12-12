@@ -9,6 +9,10 @@ menuItems:
     longLabel: Landing Page
     linkType: internal
     linkURL: /programme
+  - label: Keynotes
+    longLabel: Landing Page
+    linkType: internal
+    linkURL: /keynotes
   - label: About
     longLabel: Explanation of ALTA
     linkType: internal

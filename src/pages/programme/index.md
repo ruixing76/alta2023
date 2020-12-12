@@ -43,23 +43,23 @@ seo:
   * <span class="badge badge-short"></span> _Pandemic Literature Search: Finding Information on COVID-19._
   Vincent Nguyen, Maciek Rybinski, Sarvnaz Karimi and Zhenchang Xing
   
-  * <span class="badge badge-presentation"></span> _Leveraging Discourse Rewards for Document-Level Neural Machine Translation._
+  * <span class="badge badge-abstract"></span> _Leveraging Discourse Rewards for Document-Level Neural Machine Translation._
   Inigo Jauregi Unanue, Nazanin Esmaili, Gholamreza Haffari and Massimo Piccardi
   
-  * <span class="badge badge-presentation"></span> _The Open Domain Interviewing Agent._
+  * <span class="badge badge-abstract"></span> _The Open Domain Interviewing Agent._
   Ming-Bin Chen and Michael Witbrock
   
-  * <span class="badge badge-presentation"></span> _Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media._
+  * <span class="badge badge-abstract"></span> _Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media._
   Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris
 
 * 15:30 Session 2 – Doctoral Consortium
-  * <span class="badge badge-phD"></span> _Recognizing Biomedical Names: Challenges and Solutions._
+  * <span class="badge badge-doctoral"></span> _Recognizing Biomedical Names: Challenges and Solutions._
     Xiang Dai
     
-  *  <span class="badge badge-phD"></span> _Ngana Wubulku Junkurr-Jiku Balkaway-Ka: The Intergenerational Co-Design of a Tangible Technology to Keep Active Use of the Kuku Yalanji Aboriginal Language Strong._
+  *  <span class="badge badge-doctoral"></span> _Ngana Wubulku Junkurr-Jiku Balkaway-Ka: The Intergenerational Co-Design of a Tangible Technology to Keep Active Use of the Kuku Yalanji Aboriginal Language Strong._
     Jennyfer Lawrence Taylor
     
-  * <span class="badge badge-phD"></span> _Automatic Generation of Security-Centric Description for Cyber Threats._
+  * <span class="badge badge-doctoral"></span> _Automatic Generation of Security-Centric Description for Cyber Threats._
     Tingmin Wu
     
 

@@ -5,10 +5,10 @@ menuItems:
     longLabel: Landing Page
     linkType: internal
     linkURL: /
-  - label: Program
+  - label: Programme
     longLabel: Landing Page
     linkType: internal
-    linkURL: /program
+    linkURL: /programme
   - label: About
     longLabel: Explanation of ALTA
     linkType: internal
@@ -17,7 +17,7 @@ menuItems:
     longLabel: Call for Papers and Author Instructions
     linkType: internal
     linkURL: /call-for-papers
-  - label: PC
+  - label: Committee
     longLabel: Programme Committee
     linkType: internal
     linkURL: /pc

@@ -3,20 +3,20 @@ templateKey: featured-speakers-page
 title: Keynotes
 talks:
   - speakers:
-    - name: 
-      bio: 
-      affiliation: 
+    - name: Andrew Perfors
+      bio: TBD
+      affiliation: University of Melbourne
       photo: 
-    title: 
-    abstract: 
+    title: TBD
+    abstract: TBD
+    
   - speakers:
-    - name: 
-      bio: 
-      photo: ""
-      affiliation: 
-      
-    title: 
-    abstract: >
+    - name: Kendra Vant
+      bio: TBD
+      affiliation: Xero
+      photo:  
+    title: TBD
+    abstract: TBD
 
      
 

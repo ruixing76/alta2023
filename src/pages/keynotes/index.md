@@ -4,18 +4,18 @@ title: Keynotes
 talks:
   - speakers:
     - name: Andrew Perfors
-      bio: 
+      bio: ""
       affiliation: "University of Melbourne"
-      photo: 
+      photo: ""
     title: TBD
-    abstract: 
+    abstract: ""
   - speakers:
     - name: Kendra Vant
-      bio: 
-      photo: 
+      bio: ""
+      photo: ""
       affiliation: "Xero"
     title: "TBD"
-    abstract: 
+    abstract: ""
 
 seo:
   browserTitle: Keynotes | ALTA 2020

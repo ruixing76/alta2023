@@ -7,7 +7,7 @@ organizers:
     - image: ""
       imageAlt: Maria Kim
       name: Maria Kim
-      organization: Defence Science and Technology
+      organization: Defence Science and Technology Group
       role: Co-chair
     - image: ""
       name: Daniel Beck

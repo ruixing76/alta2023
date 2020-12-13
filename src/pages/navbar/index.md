@@ -9,6 +9,10 @@ menuItems:
     longLabel: Landing Page
     linkType: internal
     linkURL: /programme
+  - label: Registration
+    longLabel: Registration
+    linkType: internal
+    linkURL: /registration
   - label: Keynotes
     longLabel: Landing Page
     linkType: internal

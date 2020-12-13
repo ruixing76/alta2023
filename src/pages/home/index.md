@@ -15,7 +15,9 @@ seo:
   title: ALTA 2020
 newsItems:
   - date: 2020-12-13
-    text: Virtual ALTA 2020 **FREE** registration is now open. Check [Registration](/registration).
+    text: Full workshop programme is now available. Check [Programme](/programme).
+  - date: 2020-12-13
+    text: Virtual ALTA 2020 Workshop **FREE** registration is now open. Check [Registration](/registration).
   - date: 2020-12-13
     text: The list of accepted papers is now available here. Check [Papers](/papers).
   - date: 2020-10-16

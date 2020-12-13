@@ -54,7 +54,7 @@ seo:
   * <span class="badge badge-abstract"></span> _Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media._  
     Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris
 
-* 15:30 **Session 2 – Doctoral Presentations** (Session Chair: Stephen Wan)
+* 15:30 **Session 2 – Doctoral Symposium** (Session Chair: Stephen Wan)
 
   * <span class="badge badge-doctoral"></span> _Recognizing Biomedical Names: Challenges and Solutions._  
     Xiang Dai

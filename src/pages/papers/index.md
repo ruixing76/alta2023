@@ -28,7 +28,7 @@ _Feature-Based Forensic Text Comparison Using a Poisson Model for Likelihood Rat
 _Modelling Verbal Morphology in Nen._  
 
 * Xinyuan Chao, Charbel El-Khaissi, Nicholas Kuo, Priscilla Kan John and Hanna Suominen  
-_ An Automatic Vowel Space Generator for Language Learner Pronunciation Acquisition and Correction._  
+_An Automatic Vowel Space Generator for Language Learner Pronunciation Acquisition and Correction._  
 
 * Abhishek Das and Wei Emma Zhang  
 _ABSA-Bench: Towards the Unified Evaluation of Aspect-based Sentiment Analysis Research._  
@@ -63,7 +63,7 @@ _Popularity Prediction of Online Petitions using a Multimodal DeepRegression Mod
 _Exploring Looping Effects in RNN-based Architectures._  
 
 
-## Abstract: Poster Presentation
+## Abstracts: Poster Presentation
 
 * Inigo Jauregi Unanue, Nazanin Esmaili, Gholamreza Haffari and Massimo Piccardi  
 _Leveraging Discourse Rewards for Document-Level Neural Machine Translation._  
@@ -75,7 +75,7 @@ _The Open Domain Interviewing Agent._
 _Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media._  
 
 
-## Doctoral Consortium: Oral and Poster Presentations
+## Doctoral Presentations: Oral and Poster Presentations
 
 * Xiang Dai  
 _Recognizing Biomedical Names: Challenges and Solutions._  

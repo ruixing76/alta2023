@@ -5,6 +5,10 @@ menuItems:
     longLabel: Landing Page
     linkType: internal
     linkURL: /
+  - label: Papers
+    longLabel: Papers accepted for oral or poster presentation
+    linkType: internal
+    linkURL: /papers
   - label: Programme
     longLabel: Landing Page
     linkType: internal

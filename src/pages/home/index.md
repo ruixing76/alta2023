@@ -14,6 +14,8 @@ seo:
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2020
 newsItems:
+  - date: 2020-12-13
+    text: Virtual ALTA 2020 **FREE** Registration is now open. Check [Registration](/registration).
   - date: 2020-10-16
     text: The Author notification date has been changed to **13th November 2020**. Check [call for papers] (/call-for-papers).
   - date: 2020-09-30

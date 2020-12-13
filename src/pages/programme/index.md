@@ -18,6 +18,7 @@ seo:
 * 12:00 **Lunch & Virtual Networking**
 
 * 13:00 **Session 1 – Long Papers** (Session Chair: TBD) 
+
   * <span class="badge badge-long"></span> _Domain Adaptative Causality Encoder._     
     Farhad Moghimifar, Gholamreza Haffari and Mahsa Baktashmotlagh 
     
@@ -31,28 +32,30 @@ seo:
     Michael Carne and Shunichi Ishihara
     
 * 14:00 **Afternoon Break & Poster Session & Virtual Networking**
-  * <span class="badge badge-short"></span> _Learning Causal Bayesian Networks from Text._
+
+  * <span class="badge badge-short"></span> _Learning Causal Bayesian Networks from Text._  
     Farhad Moghimifar, Afshin Rahimi, Mahsa Baktashmotlagh and Xue Li
   
-  * <span class="badge badge-short"></span> _Information Extraction from Legal Documents: A Study in the Context of Common Law Court Judgements._
+  * <span class="badge badge-short"></span> _Information Extraction from Legal Documents: A Study in the Context of Common Law Court Judgements._  
     Meladel Mistica, Geordie Z. Zhang, Hui Chia, Kabir Manandhar Shrestha, Rohit Kumar Gupta, Saket Khandelwal, Jeannie Paterson, Timothy Baldwin and Daniel Beck
   
-  * <span class="badge badge-short"></span> _Benchmarking of Transformer-Based Pre-Trained Models on Social Media Text Classification Datasets._
+  * <span class="badge badge-short"></span> _Benchmarking of Transformer-Based Pre-Trained Models on Social Media Text Classification Datasets._  
     Yuting Guo, Xiangjue Dong, Mohammed Ali Al-Garadi, Abeed Sarker, Cecile Paris and Diego Mollá Aliod
   
-  * <span class="badge badge-short"></span> _Pandemic Literature Search: Finding Information on COVID-19._
+  * <span class="badge badge-short"></span> _Pandemic Literature Search: Finding Information on COVID-19._  
     Vincent Nguyen, Maciek Rybinski, Sarvnaz Karimi and Zhenchang Xing
   
-  * <span class="badge badge-abstract"></span> _Leveraging Discourse Rewards for Document-Level Neural Machine Translation._
+  * <span class="badge badge-abstract"></span> _Leveraging Discourse Rewards for Document-Level Neural Machine Translation._  
     Inigo Jauregi Unanue, Nazanin Esmaili, Gholamreza Haffari and Massimo Piccardi
   
-  * <span class="badge badge-abstract"></span> _The Open Domain Interviewing Agent._
+  * <span class="badge badge-abstract"></span> _The Open Domain Interviewing Agent._  
     Ming-Bin Chen and Michael Witbrock
   
-  * <span class="badge badge-abstract"></span> _Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media._
+  * <span class="badge badge-abstract"></span> _Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media._  
     Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris
 
 * 15:30 **Session 2 – Doctoral Consortium** (Session Chair: Stephen Wan)
+
   * <span class="badge badge-doctoral"></span> _Recognizing Biomedical Names: Challenges and Solutions._
     Xiang Dai
     
@@ -74,6 +77,7 @@ seo:
 * 12:00 **Lunch & Virtual Networking**
 
 * 13:00 **Session 3 – Long papers** (Session Chair: Trevor Cohn)   
+
   * <span class="badge badge-long"></span> _Modelling Verbal Morphology in Nen._
     Saliha Muradoglu, Nicholas Evans and Ekaterina Vylomova
     
@@ -87,6 +91,7 @@ seo:
     Li'An Chen, Inger Mewburn and Hanna Suonimen 
     
 * 14:00 **Afternoon Break & Poster Session & Virtual Networking**
+
   * <span class="badge badge-short"></span> _Transformer Semantic Parsing._
     Gabriela Ferraro and Hanna Suominen
   
@@ -96,11 +101,12 @@ seo:
   * <span class="badge badge-short"></span> _Popularity Prediction of Online Petitions using a Multimodal DeepRegression Model._
     Kotaro Kitayama, Shivashankar Subramanian and Timothy Baldwin
   
-  * <span class="badge badge-short"></span> _Exploring Looping Effects in RNN-based Architectures._
+  * <span class="badge badge-short"></span> _Exploring Looping Effects in RNN-based Architectures._ 
     Andrei Shcherbakov, Saliha Muradoglu and Ekaterina Vylomova
 
 
 * 15:30 **Session 4 – Shared Task, AGM, Best Paper and Closing**
+
   * Shared Task (Chair: Diego Mollá-Aliod)
   * AGM (Chair: Sarvnaz Karimi)
   * Best Paper Awards (Chair: Maria Kim)

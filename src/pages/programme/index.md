@@ -56,13 +56,13 @@ seo:
 
 * 15:30 **Session 2 – Doctoral Consortium** (Session Chair: Stephen Wan)
 
-  * <span class="badge badge-doctoral"></span> _Recognizing Biomedical Names: Challenges and Solutions._
+  * <span class="badge badge-doctoral"></span> _Recognizing Biomedical Names: Challenges and Solutions._  
     Xiang Dai
     
-  *  <span class="badge badge-doctoral"></span> _Ngana Wubulku Junkurr-Jiku Balkaway-Ka: The Intergenerational Co-Design of a Tangible Technology to Keep Active Use of the Kuku Yalanji Aboriginal Language Strong._
+  *  <span class="badge badge-doctoral"></span> _Ngana Wubulku Junkurr-Jiku Balkaway-Ka: The Intergenerational Co-Design of a Tangible Technology to Keep Active Use of the Kuku Yalanji Aboriginal Language Strong._  
     Jennyfer Lawrence Taylor
     
-  * <span class="badge badge-doctoral"></span> _Automatic Generation of Security-Centric Description for Cyber Threats._
+  * <span class="badge badge-doctoral"></span> _Automatic Generation of Security-Centric Description for Cyber Threats._  
     Tingmin Wu
     
 
@@ -78,30 +78,30 @@ seo:
 
 * 13:00 **Session 3 – Long papers** (Session Chair: Trevor Cohn)   
 
-  * <span class="badge badge-long"></span> _Modelling Verbal Morphology in Nen._
+  * <span class="badge badge-long"></span> _Modelling Verbal Morphology in Nen._  
     Saliha Muradoglu, Nicholas Evans and Ekaterina Vylomova
     
-  * <span class="badge badge-long"></span> _An Automatic Vowel Space Generator for Language Learner Pronunciation Acquisition and Correction._
+  * <span class="badge badge-long"></span> _An Automatic Vowel Space Generator for Language Learner Pronunciation Acquisition and Correction._  
     Xinyuan Chao, Charbel El-Khaissi, Nicholas Kuo, Priscilla Kan John and Hanna Suominen 
     
-  * <span class="badge badge-long"></span> _ABSA-Bench: Towards the Unified Evaluation of Aspect-based Sentiment Analysis Research._
+  * <span class="badge badge-long"></span> _ABSA-Bench: Towards the Unified Evaluation of Aspect-based Sentiment Analysis Research._  
     Abhishek Das and Wei Emma Zhang.  
     
-  * <span class="badge badge-long"></span> _A machine-learning based model to identify PhD-level skills in job ads._
+  * <span class="badge badge-long"></span> _A machine-learning based model to identify PhD-level skills in job ads._  
     Li'An Chen, Inger Mewburn and Hanna Suonimen 
     
 * 14:00 **Afternoon Break & Poster Session & Virtual Networking**
 
-  * <span class="badge badge-short"></span> _Transformer Semantic Parsing._
+  * <span class="badge badge-short"></span> _Transformer Semantic Parsing._  
     Gabriela Ferraro and Hanna Suominen
   
-  * <span class="badge badge-short"></span> _Convolutional and Recurrent Neural Networks for Spoken Emotion Recognition._
+  * <span class="badge badge-short"></span> _Convolutional and Recurrent Neural Networks for Spoken Emotion Recognition._  
     Aaron Keesing, Ian Watson and Michael Witbrock
   
-  * <span class="badge badge-short"></span> _Popularity Prediction of Online Petitions using a Multimodal DeepRegression Model._
+  * <span class="badge badge-short"></span> _Popularity Prediction of Online Petitions using a Multimodal DeepRegression Model._  
     Kotaro Kitayama, Shivashankar Subramanian and Timothy Baldwin
   
-  * <span class="badge badge-short"></span> _Exploring Looping Effects in RNN-based Architectures._ 
+  * <span class="badge badge-short"></span> _Exploring Looping Effects in RNN-based Architectures._   
     Andrei Shcherbakov, Saliha Muradoglu and Ekaterina Vylomova
 
 

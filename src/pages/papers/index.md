@@ -75,7 +75,7 @@ _The Open Domain Interviewing Agent._
 _Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media._  
 
 
-## Doctoral Presentations: Oral and Poster Presentations
+## Doctoral Symposium: Oral and Poster Presentations
 
 * Xiang Dai  
 _Recognizing Biomedical Names: Challenges and Solutions._  

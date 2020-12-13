@@ -1,5 +1,5 @@
 ---
-templateKey: papers-page
+templateKey: default-page
 title: Accepted Papers – ALTA 2020
 description: Papers accepted for presentation at ALTA 2020
 seo:

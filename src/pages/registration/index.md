@@ -13,7 +13,9 @@ seo:
 
 * [Register Now](https://www.trybooking.com/BNKQF)
 
-Virtual ALTA 2020 Workshop registration is Free for ALL, thanks to the generosity of our sponsors. If you have any trouble with registration, please [contact us](mailto:workshop@alta.asn.au).
+**Virtual** ALTA 2020 Workshop registration is **Free** for ALL, thanks to the generosity of our sponsors. 
+
+If you have any issue with registration, please [contact us](mailto:workshop@alta.asn.au).
 
 
 

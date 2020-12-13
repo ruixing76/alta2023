@@ -32,25 +32,25 @@ seo:
     
 * 14:00 **Afternoon Break & Poster Session & Virtual Networking**
   * <span class="badge badge-short"></span> _Learning Causal Bayesian Networks from Text._
-  Farhad Moghimifar, Afshin Rahimi, Mahsa Baktashmotlagh and Xue Li
+    Farhad Moghimifar, Afshin Rahimi, Mahsa Baktashmotlagh and Xue Li
   
   * <span class="badge badge-short"></span> _Information Extraction from Legal Documents: A Study in the Context of Common Law Court Judgements._
-  Meladel Mistica, Geordie Z. Zhang, Hui Chia, Kabir Manandhar Shrestha, Rohit Kumar Gupta, Saket Khandelwal, Jeannie Paterson, Timothy Baldwin and Daniel Beck
+    Meladel Mistica, Geordie Z. Zhang, Hui Chia, Kabir Manandhar Shrestha, Rohit Kumar Gupta, Saket Khandelwal, Jeannie Paterson, Timothy Baldwin and Daniel Beck
   
   * <span class="badge badge-short"></span> _Benchmarking of Transformer-Based Pre-Trained Models on Social Media Text Classification Datasets._
-  Yuting Guo, Xiangjue Dong, Mohammed Ali Al-Garadi, Abeed Sarker, Cecile Paris and Diego Mollá Aliod
+    Yuting Guo, Xiangjue Dong, Mohammed Ali Al-Garadi, Abeed Sarker, Cecile Paris and Diego Mollá Aliod
   
   * <span class="badge badge-short"></span> _Pandemic Literature Search: Finding Information on COVID-19._
-  Vincent Nguyen, Maciek Rybinski, Sarvnaz Karimi and Zhenchang Xing
+    Vincent Nguyen, Maciek Rybinski, Sarvnaz Karimi and Zhenchang Xing
   
   * <span class="badge badge-abstract"></span> _Leveraging Discourse Rewards for Document-Level Neural Machine Translation._
-  Inigo Jauregi Unanue, Nazanin Esmaili, Gholamreza Haffari and Massimo Piccardi
+    Inigo Jauregi Unanue, Nazanin Esmaili, Gholamreza Haffari and Massimo Piccardi
   
   * <span class="badge badge-abstract"></span> _The Open Domain Interviewing Agent._
-  Ming-Bin Chen and Michael Witbrock
+    Ming-Bin Chen and Michael Witbrock
   
   * <span class="badge badge-abstract"></span> _Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media._
-  Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris
+    Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris
 
 * 15:30 **Session 2 – Doctoral Consortium** (Session Chair: Stephen Wan)
   * <span class="badge badge-doctoral"></span> _Recognizing Biomedical Names: Challenges and Solutions._
@@ -88,16 +88,16 @@ seo:
     
 * 14:00 **Afternoon Break & Poster Session & Virtual Networking**
   * <span class="badge badge-short"></span> _Transformer Semantic Parsing._
-  Gabriela Ferraro and Hanna Suominen
+    Gabriela Ferraro and Hanna Suominen
   
   * <span class="badge badge-short"></span> _Convolutional and Recurrent Neural Networks for Spoken Emotion Recognition._
-  Aaron Keesing, Ian Watson and Michael Witbrock
+    Aaron Keesing, Ian Watson and Michael Witbrock
   
   * <span class="badge badge-short"></span> _Popularity Prediction of Online Petitions using a Multimodal DeepRegression Model._
-  Kotaro Kitayama, Shivashankar Subramanian and Timothy Baldwin
+    Kotaro Kitayama, Shivashankar Subramanian and Timothy Baldwin
   
   * <span class="badge badge-short"></span> _Exploring Looping Effects in RNN-based Architectures._
-  Andrei Shcherbakov, Saliha Muradoglu and Ekaterina Vylomova
+    Andrei Shcherbakov, Saliha Muradoglu and Ekaterina Vylomova
 
 
 * 15:30 **Session 4 – Shared Task, AGM, Best Paper and Closing**

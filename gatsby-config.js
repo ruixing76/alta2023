@@ -4,7 +4,7 @@ module.exports = {
     siteUrl: "https://alta2020.alta.asn.au",
     sponsors: [
       { 
-        name: "Defence Science and Technology",
+        name: "Defence Science and Technology Group",
         level: "Platinum",
         link: "https://www.dst.defence.gov.au/",
         image: "dod.png"

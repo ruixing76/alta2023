@@ -17,7 +17,7 @@ seo:
 
 * 12:00 **Lunch & Virtual Networking**
 
-* 13:00 **Session 1 – Long Papers** (Session Chair: TBD) 
+* 13:00 **Session 1 – Long Papers** (Session Chair: Cecile Paris) 
 
   * <span class="badge badge-long"></span> _Domain Adaptative Causality Encoder._     
     Farhad Moghimifar, Gholamreza Haffari and Mahsa Baktashmotlagh 
@@ -46,7 +46,7 @@ seo:
     Vincent Nguyen, Maciek Rybinski, Sarvnaz Karimi and Zhenchang Xing
   
   * <span class="badge badge-abstract"></span> _Leveraging Discourse Rewards for Document-Level Neural Machine Translation._  
-    Inigo Jauregi Unanue, Nazanin Esmaili, Gholamreza Haffari and Massimo Piccardi
+     Inigo Jauregi Unanue, Nazanin Esmaili, Gholamreza Haffari and Massimo Piccardi
   
   * <span class="badge badge-abstract"></span> _The Open Domain Interviewing Agent._  
     Ming-Bin Chen and Michael Witbrock

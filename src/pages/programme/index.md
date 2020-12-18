@@ -13,7 +13,7 @@ seo:
 
 * 10:30 **Opening Talk**
 
-* 11:00 **ALTA [Keynote](/keynotes)** – Andrew Perfors: TBD (Session Chair: Daniel Beck)
+* 11:00 **ALTA [Keynote](/keynotes)** – Kendra Vant: TBD (Session Chair: Daniel Beck)
 
 * 12:00 **Lunch & Virtual Networking**
 
@@ -72,7 +72,7 @@ seo:
 ## 15th January (Friday) Workshop Day 2 (all times AEDT)
 
 
-* 11:00 **ALTA [Keynote](/keynotes)** – Kendra Vant: TBD (Session Chair: Maria Kim)  
+* 11:00 **ALTA [Keynote](/keynotes)** – Andrew Perfors: TBD (Session Chair: Maria Kim)  
 
 * 12:00 **Lunch & Virtual Networking**
 

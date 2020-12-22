@@ -15,7 +15,7 @@ seo:
   title: ALTA 2020
 newsItems:
   - date: 2020-12-22
-    text: Draft proceedings are now available. Check [here](/files/ALTA2020-proceedings-draft.pdf).
+    text: Draft proceedings are now available. Click [here](/files/ALTA2020-proceedings-draft.pdf).
   - date: 2020-12-13
     text: Full workshop programme is now available. Check [Programme](/programme).
   - date: 2020-12-13

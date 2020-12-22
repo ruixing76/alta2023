@@ -31,7 +31,7 @@ seo:
   * <span class="badge badge-long"></span> _Feature-Based Forensic Text Comparison Using a Poisson Model for Likelihood Ratio Estimation._     
     Michael Carne and Shunichi Ishihara
     
-* 14:00 **Afternoon Break & Poster Session & Virtual Networking**
+* 14:00 **Afternoon Break & Poster Session & Virtual Networking** (includes papers from Session 1)
 
   * <span class="badge badge-short"></span> _Learning Causal Bayesian Networks from Text._  
     Farhad Moghimifar, Afshin Rahimi, Mahsa Baktashmotlagh and Xue Li
@@ -90,7 +90,7 @@ seo:
   * <span class="badge badge-long"></span> _A machine-learning based model to identify PhD-level skills in job ads._  
     Li'An Chen, Inger Mewburn and Hanna Suonimen 
     
-* 14:00 **Afternoon Break & Poster Session & Virtual Networking**
+* 14:00 **Afternoon Break & Poster Session & Virtual Networking** (includes papers from Sessions 2 & 3)
 
   * <span class="badge badge-short"></span> _Transformer Semantic Parsing._  
     Gabriela Ferraro and Hanna Suominen

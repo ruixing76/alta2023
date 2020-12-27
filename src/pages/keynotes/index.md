@@ -12,7 +12,7 @@ After doctoral research in experimental quantum physics at MIT and postdoctoral 
       photo: kendra_vant.png
       affiliation: "Xero"
     title: "Commercial machine learning at scale - the joys and the pitfalls"
-    abstract: "The art and science of applying machine learning techniques inside a for profit company is a world away from pursuing algorithm improvement and fundamental in a research setting. I will talk about the end to end process of building smart products within a SaaS company today."
+    abstract: "The art and science of applying machine learning techniques inside for a profit company is a world away from pursuing algorithm improvement and fundamental in a research setting. I will talk about the end to end process of building smart products within a SaaS company today."
   - speakers:
     - name: Andrew Perfors
       bio: ""

@@ -14,8 +14,10 @@ seo:
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2020
 newsItems:
+  - date: 2021-01-04
+    text: Updated draft proceedings are now available. Click [here](/files/ALTA2020-proceedings-draft2.pdf).
   - date: 2020-12-22
-    text: Draft proceedings are now available. Click [here](/files/ALTA2020-proceedings-draft.pdf).
+    text: Draft proceedings are now available. 
   - date: 2020-12-13
     text: Full workshop programme is now available. Check [Programme](/programme).
   - date: 2020-12-13

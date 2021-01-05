@@ -13,7 +13,7 @@ seo:
 
 * 10:30 **Opening Talk**
 
-* 11:00 **ALTA [Keynote](/keynotes)** – Kendra Vant: _Commercial machine learning at scale - the joys and the pitfalls_ (Session Chair: Daniel Beck)
+* 11:00 **ALTA [Keynote](/keynotes)** – Kendra Vant: _Commercial machine learning at scale - the joys and the pitfalls_ (Session Chair: Maria Kim)
 
 * 12:00 **Lunch & Virtual Networking**
 
@@ -72,7 +72,7 @@ seo:
 ## 15th January (Friday) Workshop Day 2 (all times AEDT)
 
 
-* 11:00 **ALTA [Keynote](/keynotes)** – Andrew Perfors: TBD (Session Chair: Maria Kim)  
+* 11:00 **ALTA [Keynote](/keynotes)** – Andrew Perfors: Beyond corpus data: Language as the result of active, theory-driven, environmentally-grounded inference (Session Chair: Daniel Beck)  
 
 * 12:00 **Lunch & Virtual Networking**
 
@@ -107,8 +107,16 @@ seo:
 
 * 15:30 **Session 4 – Shared Task, AGM, Best Paper and Closing**
 
-  * Shared Task (Chair: Diego Mollá-Aliod)
-  * AGM (Chair: Sarvnaz Karimi)
+  * <span class="badge badge-sharedTask"></span>_Overview of the ALTA 2020 Shared Task: Assess Human Behaviour._
+  Diego Mollá-Aliod
+  * <span class="badge badge-sharedTask"></span> _Automatically Predicting Judgement Dimensions of Human Behaviour._
+  Segun Taofeek Aroyehun and Alexander Gelbukh
+  * <span class="badge badge-sharedTask"></span> _Classifying JUDGEMENTS using Transfer Learning._
+  Pradeesh Parameswaran, Andrew Trotman, Veronica Liesaputra and David Eyers
+  * <span class="badge badge-sharedTask"></span> _Human Behavior Assessment using Ensemble Models._
+  Abdullah Faiz Ur Rahman Khilji, Rituparna Khaund and Utkarsh Sinha
+  
+  * Annual General Meeting (Chair: Sarvnaz Karimi)
   * Best Paper Awards (Chair: Maria Kim)
   * Closing (Chair: Daniel Beck)
 

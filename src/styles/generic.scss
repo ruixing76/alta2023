@@ -73,9 +73,9 @@ main {
   &-doctoral::after {
     content: "Doctoral";
   }
-
-  &-adcs-short::after {
-    content: "ADCS Short";
+  
+  &-sharedTask::after {
+    content: "Shared Task";
   }
   
 }

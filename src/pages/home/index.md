@@ -15,7 +15,7 @@ seo:
   title: ALTA 2020
 newsItems:
   - date: 2021-01-04
-    text: Updated draft proceedings are now available. Click [here](/files/ALTA2020-proceedings-draft2.pdf).
+    text: Updated draft proceedings are now available. Click [here](/files/ALTA2020-proceedings-draft.pdf).
   - date: 2020-12-22
     text: Draft proceedings are now available. 
   - date: 2020-12-13

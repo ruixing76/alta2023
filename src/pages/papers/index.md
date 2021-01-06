@@ -8,7 +8,7 @@ seo:
   title: Accepted Papers – ALTA 2020
 ---
 
-[Draft proceedings are now available](/files/ALTA2020-proceedings-draft2.pdf).
+[Draft proceedings are now available](/files/ALTA2020-proceedings-draft.pdf).
 
 The following papers have been accepted for oral or poster presentation at ALTA 2020.
 

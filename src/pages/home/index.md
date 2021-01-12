@@ -16,6 +16,8 @@ seo:
 newsItems:
   - date: 2021-01-13
     text: ALTA 2020 Virtual Workshop instructions will be sent today to all the registered participants. 
+  - date: 2021-01-13
+    text: Papers and Posters are now available. Check [Programme](/programme).
   - date: 2021-01-04
     text: Updated draft proceedings are now available. Click [here](/files/ALTA2020-proceedings-draft.pdf).
   - date: 2020-12-22

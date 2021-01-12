@@ -21,37 +21,37 @@ seo:
 
   * <span class="badge badge-long"></span> _Domain Adaptative Causality Encoder._     
     Farhad Moghimifar, Gholamreza Haffari and Mahsa Baktashmotlagh   
-    **[Paper](/files/ALTA2020_paper_16_L1.pdf)**
+    **[Paper](/files/ALTA2020_paper_16_L1.pdf)**    **[Poster](/files/ALTA2020_poster_16_L1.pdf)**
     
   * <span class="badge badge-long"></span> _Automated Detection of Cyberbullying Against Women and Immigrants and Cross-domain Adaptability._     
     Thushari Atapattu, Mahen Herath, Georgia Zhang and Katrina Falkner   
-    **[Paper](/files/ALTA2020_paper_24_L2.pdf)**
+    **[Paper](/files/ALTA2020_paper_24_L2.pdf)**    **[Poster](/files/ALTA2020_poster_24_L2.pdf)**
  
   * <span class="badge badge-long"></span> _The Influence of Background Data Size on the Performance of a Score-based Likelihood Ratio System: A Case of Forensic Text Comparison._     
     Shunichi Ishihara   
-    **[Paper](/files/ALTA2020_paper_5_L3.pdf)**
+    **[Paper](/files/ALTA2020_paper_5_L3.pdf)**    **[Poster](/files/ALTA2020_poster_5_L3.pdf)**
     
   * <span class="badge badge-long"></span> _Feature-Based Forensic Text Comparison Using a Poisson Model for Likelihood Ratio Estimation._     
     Michael Carne and Shunichi Ishihara    
-    **[Paper](/files/ALTA2020_paper_6_L4.pdf)**
+    **[Paper](/files/ALTA2020_paper_6_L4.pdf)**    **[Poster](/files/ALTA2020_poster_6_L4.pdf)**
     
 * 14:00 **Afternoon Break & Poster Session & Virtual Networking** (includes papers from Session 1)
 
   * <span class="badge badge-short"></span> _Learning Causal Bayesian Networks from Text._  
     Farhad Moghimifar, Afshin Rahimi, Mahsa Baktashmotlagh and Xue Li   
-    **[Paper](/files/ALTA2020_paper_17_S1.pdf)**
+    **[Paper](/files/ALTA2020_paper_17_S1.pdf)**    **[Paper](/files/ALTA2020_poster_17_S1.pdf)**
   
   * <span class="badge badge-short"></span> _Information Extraction from Legal Documents: A Study in the Context of Common Law Court Judgements._  
     Meladel Mistica, Geordie Z. Zhang, Hui Chia, Kabir Manandhar Shrestha, Rohit Kumar Gupta, Saket Khandelwal, Jeannie Paterson, Timothy Baldwin and Daniel Beck   
-    **[Paper](/files/ALTA2020_paper_22_S2.pdf)**
+    **[Paper](/files/ALTA2020_paper_22_S2.pdf)**    **[Paper](/files/ALTA2020_poster_22_S2.pdf)**
   
   * <span class="badge badge-short"></span> _Benchmarking of Transformer-Based Pre-Trained Models on Social Media Text Classification Datasets._  
     Yuting Guo, Xiangjue Dong, Mohammed Ali Al-Garadi, Abeed Sarker, Cecile Paris and Diego Mollá Aliod   
-    **[Paper](/files/ALTA2020_paper_25_S3.pdf)**
+    **[Paper](/files/ALTA2020_paper_25_S3.pdf)**    **[Paper](/files/ALTA2020_poster_25_S3.pdf)**
   
   * <span class="badge badge-short"></span> _Pandemic Literature Search: Finding Information on COVID-19._  
     Vincent Nguyen, Maciek Rybinski, Sarvnaz Karimi and Zhenchang Xing   
-    **[Paper](/files/ALTA2020_paper_27_S4.pdf)**
+    **[Paper](/files/ALTA2020_paper_27_S4.pdf)**    **[Paper](/files/ALTA2020_poster_27_S4.pdf)**
   
   * <span class="badge badge-abstract"></span> _Leveraging Discourse Rewards for Document-Level Neural Machine Translation._  
      Inigo Jauregi Unanue, Nazanin Esmaili, Gholamreza Haffari and Massimo Piccardi
@@ -88,37 +88,37 @@ seo:
 
   * <span class="badge badge-long"></span> _Modelling Verbal Morphology in Nen._  
     Saliha Muradoglu, Nicholas Evans and Ekaterina Vylomova   
-    **[Paper](/files/ALTA2020_paper_28_L5.pdf)**
+    **[Paper](/files/ALTA2020_paper_28_L5.pdf)**    **[Poster](/files/ALTA2020_poster_28_L5.pdf)**
     
   * <span class="badge badge-long"></span> _An Automatic Vowel Space Generator for Language Learner Pronunciation Acquisition and Correction._  
     Xinyuan Chao, Charbel El-Khaissi, Nicholas Kuo, Priscilla Kan John and Hanna Suominen   
-    **[Paper](/files/ALTA2020_paper_9_L6.pdf)**
+    **[Paper](/files/ALTA2020_paper_9_L6.pdf)**    **[Poster](/files/ALTA2020_poster_9_L6.pdf)**
     
   * <span class="badge badge-long"></span> _ABSA-Bench: Towards the Unified Evaluation of Aspect-based Sentiment Analysis Research._  
     Abhishek Das and Wei Emma Zhang   
-    **[Paper](/files/ALTA2020_paper_18_L7.pdf)**
+    **[Paper](/files/ALTA2020_paper_18_L7.pdf)**    **[Poster](/files/ALTA2020_poster_18_L7.pdf)**
     
   * <span class="badge badge-long"></span> _A machine-learning based model to identify PhD-level skills in job ads._  
     Li'An Chen, Inger Mewburn and Hanna Suonimen  
-    **[Paper](/files/ALTA2020_paper_11_L8.pdf)**
+    **[Paper](/files/ALTA2020_paper_11_L8.pdf)**    **[Poster](/files/ALTA2020_poster_11_L8.pdf)**
     
 * 14:00 **Afternoon Break & Poster Session & Virtual Networking** (includes papers from Sessions 2 & 3)
 
   * <span class="badge badge-short"></span> _Transformer Semantic Parsing._  
     Gabriela Ferraro and Hanna Suominen   
-    **[Paper](/files/ALTA2020_paper_2_S5.pdf)**
+    **[Paper](/files/ALTA2020_paper_2_S5.pdf)**    **[Paper](/files/ALTA2020_poster_2_S5.pdf)**
   
   * <span class="badge badge-short"></span> _Convolutional and Recurrent Neural Networks for Spoken Emotion Recognition._  
     Aaron Keesing, Ian Watson and Michael Witbrock   
-    **[Paper](/files/ALTA2020_paper_20_S6.pdf)**
+    **[Paper](/files/ALTA2020_paper_20_S6.pdf)**    **[Paper](/files/ALTA2020_poster_20_S6.pdf)**
   
   * <span class="badge badge-short"></span> _Popularity Prediction of Online Petitions using a Multimodal DeepRegression Model._  
     Kotaro Kitayama, Shivashankar Subramanian and Timothy Baldwin   
-    **[Paper](/files/ALTA2020_paper_21_S7.pdf)**
+    **[Paper](/files/ALTA2020_paper_21_S7.pdf)**    **[Paper](/files/ALTA2020_poster_21_S7.pdf)**
   
   * <span class="badge badge-short"></span> _Exploring Looping Effects in RNN-based Architectures._   
     Andrei Shcherbakov, Saliha Muradoglu and Ekaterina Vylomova   
-    **[Paper](/files/ALTA2020_paper_29_S8.pdf)**
+    **[Paper](/files/ALTA2020_paper_29_S8.pdf)**    **[Paper](/files/ALTA2020_poster_29_S8.pdf)**
 
 
 * 15:30 **Session 4 – Shared Task, AGM, Best Paper and Closing**

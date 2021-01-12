@@ -21,6 +21,7 @@ seo:
 
   * <span class="badge badge-long"></span> _Domain Adaptative Causality Encoder._     
     Farhad Moghimifar, Gholamreza Haffari and Mahsa Baktashmotlagh 
+    [Paper](/files/ALTA2020_paper_16_L1.pdf)
     
   * <span class="badge badge-long"></span> _Automated Detection of Cyberbullying Against Women and Immigrants and Cross-domain Adaptability._     
     Thushari Atapattu, Mahen Herath, Georgia Zhang and Katrina Falkner 

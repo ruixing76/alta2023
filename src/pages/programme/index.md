@@ -142,7 +142,7 @@ seo:
 
   * <span class="badge badge-sharedTask"></span> _Human Behavior Assessment using Ensemble Models._  
   Abdullah Faiz Ur Rahman Khilji, Rituparna Khaund and Utkarsh Sinha    
-  **[Poster](/files/ALTA2020_poster_104.pdf)**
+  **[Paper](/files/ALTA2020_paper_104.pdf)**    **[Poster](/files/ALTA2020_poster_104.pdf)**
   
   * Annual General Meeting (Chair: Sarvnaz Karimi)
   * Best Paper Awards (Chair: Maria Kim)

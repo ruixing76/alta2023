@@ -4,19 +4,19 @@ An example website built using Gatsby V2 and Netlify CMS. The website is a fake 
 
 The purpose of the repository is to provide an idea of how a Gatsby project is structured with Netlify CMS. You can easily deploy your own instance of this application by clicking the button below:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/robertcoopercode/gatsby-netlify-cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alta2021/alta2021)
 
 ## Local Development
 
 ### Prerequisites
 
-- Node (see [.nvmrc](./.nvmrc) for version)
+- Node>=12 (see [.nvmrc](./.nvmrc) for version)
 
 ### Run the project
 
 ```
-$ git clone git@github.com:robertcoopercode/gatsby-netlify-cms.git
-$ cd gatsby-netlify-cms
+$ git clone git@github.com:alta2021/alta2021.git
+$ cd alta2021
 $ yarn
 $ yarn develop
 ```

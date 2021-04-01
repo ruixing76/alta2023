@@ -5,9 +5,9 @@ logoImage:
   imageAlt: Australasian Language Technology Association (ALTA)
   orgLink: https://www.alta.asn.au
   taglines:
-    - 18th Annual ALTA Workshop
-    - 14th - 15th January, 2021 
-    - Virtual Workshop
+    - 19th Annual ALTA Workshop
+    - Dates forthcoming 
+    - In-Person/Virtual Workshop
 socialLinks:
   - image: /img/email.svg
     imageAlt: Contact us by email

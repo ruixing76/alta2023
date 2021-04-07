@@ -1,31 +1,28 @@
 ---
 templateKey: default-page
-title: Call for Papers – ALTA 2020
+title: Call for Papers – ALTA 2021
 seo:
-  browserTitle: Call for Papers | ALTA 2020
+  browserTitle: Call for Papers | ALTA 2021
   description: >-
     ALTA is the Australasian Language Technology Association, which connects NLP researchers around Australia and New Zealand. On of the primary purposes of ALTA is organise the ALTA Workshop – the premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
-  title: Call for Papers | ALTA 2020
+  title: Call for Papers | ALTA 2021
 ---
 
 ## Overview
 
-Due to the COVID-19 pandemic, the 18th Annual Workshop of the Australasian Language Technology Association will be held **virtually** from the 13th to the 15th of January 2021 while the ALTA 2020 proceedings will be published in December 2020.
+Due to the ongoing COVID-19 pandemic, the 19th Annual Workshop of the Australasian Language Technology Association will likely be held **virtually** from {date range} with the ALTA 2021 proceedings being published in December 2021.
 
-The ALTA 2020 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers. 
+The ALTA 2021 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers. 
 
 Note that ALTA is listed in recently updated CORE 2020 Conference Rankings as Australasian B. See details from [CORE Rankings Portal](https://www.core.edu.au/conference-portal).
 
-
-
-
 <h2 id="key-dates">Key Dates</h2>
 
- - Submission Deadline:    ~~2nd October, 2020~~ 9th October, 2020
- - Author Notification:    ~~6th November, 2020~~ 13th November, 2020
- - Camera-Ready Deadline:  27th November, 2020
- - Tutorials:              13th January, 2021
- - Main Conference:        14th-15th January, 2021
+ - Submission Deadline:    2nd October, 2021 9th October, 2021
+ - Author Notification:    6th November, 2021 13th November, 2021
+ - Camera-Ready Deadline:  27th November, 2021
+ - Tutorials:              13th January, 2022
+ - Main Conference:        14th-15th January, 2022
 
 _Submission deadlines are UTC-11_
 

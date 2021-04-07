@@ -7,11 +7,11 @@ title: ALTA 2021
 description: The 19th Annual Workshop of the Australasian Language Technology Association
 extraInfo: 
   - Dates Forthcoming!
-  - In-person Workshop with virtual option (fingers crossed!)
+  - (In-person Workshop with virtual option ?)
 seo:
   browserTitle: ALTA 2021
   description: >-
-    The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Lingustics. Submissions from students, academics and industry researchers are welcome.
+    The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Linguistics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2021
 newsItems:
   - date: 2021-04-01

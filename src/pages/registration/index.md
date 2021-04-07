@@ -1,19 +1,20 @@
 ---
 templateKey: default-page
-title: Registration – ALTA 2020
+title: Registration – ALTA 2021
 seo:
-  browserTitle: Registration | ALTA 2020
+  browserTitle: Registration | ALTA 2021
   description: >-
     Register for the ALTA workshop to connect with NLP researchers around Australia and New Zealand.
-  title: Registration | ALTA 2020
+  title: Registration | ALTA 2021
 ---
 
 
 ## Registration Site
 
-* [Register Now](https://www.trybooking.com/BNKQF)
+* Registration will open soon, please check back in a few weeks :]
+<!-- * [Register Now](https://www.trybooking.com/BNKQF) -->
 
-**Virtual** ALTA 2020 Workshop registration is **Free** for ALL, thanks to the generosity of our sponsors. 
+<!-- **Virtual** ALTA 2021 Workshop registration is **Free** for ALL, thanks to the generosity of our sponsors.  -->
 
 If you have any issue with registration, please [contact us](mailto:workshop@alta.asn.au).
 

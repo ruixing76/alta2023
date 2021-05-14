@@ -10,7 +10,7 @@ seo:
 
 ## Overview
 
-Due to the ongoing COVID-19 pandemic, the 19th Annual Workshop of the Australasian Language Technology Association will likely be held **virtually** from {date range} with the ALTA 2021 proceedings being published in December 2021.
+<!-- Due to the ongoing COVID-19 pandemic, the 19th Annual Workshop of the Australasian Language Technology Association will likely be held **virtually** from {date range} with the ALTA 2021 proceedings being published in December 2021. -->
 
 The ALTA 2021 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers. 
 
@@ -18,11 +18,11 @@ Note that ALTA is listed in recently updated CORE 2020 Conference Rankings as Au
 
 <h2 id="key-dates">Key Dates</h2>
 
- - Submission Deadline:    2nd October, 2021 9th October, 2021
- - Author Notification:    6th November, 2021 13th November, 2021
- - Camera-Ready Deadline:  27th November, 2021
- - Tutorials:              13th January, 2022
- - Main Conference:        14th-15th January, 2022
+ - Submission Deadline:   TBD
+ - Author Notification:    TBD
+ - Camera-Ready Deadline:  TBD
+ - Tutorials:              TBD
+ - Main Conference:        TBD
 
 _Submission deadlines are UTC-11_
 
@@ -87,17 +87,18 @@ Original research papers that are under review for other publication venues or t
 
 ### Paper Submission
 
-Authors should submit their papers via [Easychair](https://easychair.org/conferences/?conf=alta2020).
+Details forthcoming.
+<!-- Authors should submit their papers via [Easychair](https://easychair.org/conferences/?conf=alta2020). -->
 
-There are 3 tracks in EasyChair this year:
+<!-- There are 3 tracks in EasyChair this year:
   - **ALTA 2020 (Long)** – use this for **long** papers
   - **ALTA 2020 (Short)** – use this for **short** papers
-  - **ALTA 2020 (Abstracts)** – use this for **abstracts**
+  - **ALTA 2020 (Abstracts)** – use this for **abstracts** -->
 
 
 ### Formatting Guidelines
-
-Submissions must follow the two-column ACL format. We therefore strongly recommend you use [LaTeX style files](/files/acl2020-latex.zip) or [Microsoft Word template](/files/acl2020-word.zip).
+Details forthcoming.
+<!-- Submissions must follow the two-column ACL format. We therefore strongly recommend you use [LaTeX style files](/files/acl2020-latex.zip) or [Microsoft Word template](/files/acl2020-word.zip). -->
 
 ### Paper Length
 

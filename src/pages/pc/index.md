@@ -8,9 +8,7 @@ seo:
     The following people have generously offered their time to act as programme committee members for ALTA
   title: Programme Committee for ALTA 2020
 members:
-  - name: "Abeed Sarker"
-    affiliation: "Emory University"
-    
+
   - name: "Afshin Rahimi"
     affiliation: "The University of Queensland"
     

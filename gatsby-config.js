@@ -9,18 +9,18 @@ module.exports = {
         link: "https://www.dst.defence.gov.au/",
         image: "dod.png"
       },
-      { 
-        name: "Sintelix",
-        level: "Silver",
-        link: "https://sintelix.com/",
-        image: "sintelix.png"
-      },
-      { 
-        name: "Google",
-        level: "Silver",
-        image: "Google Logo.png",
-        link: "https://www.google.com/"
-      },
+      // { 
+      //   name: "Sintelix",
+      //   level: "Silver",
+      //   link: "https://sintelix.com/",
+      //   image: "sintelix.png"
+      // },
+      // { 
+      //   name: "Google",
+      //   level: "Silver",
+      //   image: "Google Logo.png",
+      //   link: "https://www.google.com/"
+      // },
       { 
         name: "",
         longName: "",

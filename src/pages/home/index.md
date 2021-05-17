@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/alta_seattle.jpg
+  image: /img/alta-melbourne.svg
   imageAlt: ""
 title: ALTA 2021
 description: The 19th Annual Workshop of the Australasian Language Technology Association

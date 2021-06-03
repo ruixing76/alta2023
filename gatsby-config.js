@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "ALTA 2020 Workshop",
-    siteUrl: "https://alta2020.alta.asn.au",
+    title: "ALTA 2021 Workshop",
+    siteUrl: "https://alta2021.alta.asn.au",
     sponsors: [
       { 
         name: "Defence Science and Technology Group",

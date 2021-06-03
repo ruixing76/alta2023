@@ -14,8 +14,6 @@ seo:
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Linguistics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2021
 newsItems:
-  - date: 2021-04-01
-    text: Welcome to the new site! Call for papers will be out soon! 
   # - date: 2021-01-13
   #   text: ALTA 2020 Virtual Workshop instructions will be sent today to all the registered participants. 
   # - date: 2021-01-13
@@ -34,8 +32,8 @@ newsItems:
   #   text: The Author notification date has been changed to **13th November 2020**. Check [call for papers] (/call-for-papers).
   # - date: 2020-09-30
   #   text: Paper submission deadline is now extended to **9th October 2020**. Check [call for papers] (/call-for-papers).
-  # - date: 2020-06-11
-  #   text: The [call for papers] (/call-for-papers) is out now!
+  - date: 2021-06-03
+    text: The [call for papers] (/call-for-papers) is out now!
 
  
 ---

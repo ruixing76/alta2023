@@ -18,11 +18,11 @@ Note that ALTA is listed in recently updated CORE 2020 Conference Rankings as Au
 
 <h2 id="key-dates">Key Dates</h2>
 
- - Submission Deadline:   TBD
- - Author Notification:    TBD
- - Camera-Ready Deadline:  TBD
- - Tutorials:              TBD
- - Main Conference:        TBD
+ - Submission Deadline:   17 September, 2021
+ - Author Notification:   8 October, 2021
+ - Camera-Ready Deadline:  22 October, 2021
+ - Tutorials:              8 December, 2021
+ - Main Conference:        9-10 December, 2021
 
 _Submission deadlines are UTC-11_
 

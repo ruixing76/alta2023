@@ -6,7 +6,7 @@ headerImage:
 title: ALTA 2021
 description: The 19th Annual Workshop of the Australasian Language Technology Association
 extraInfo: 
-  - Dates Forthcoming!
+  - 9 - 10 December, 2021
   - (In-person Workshop with virtual option ?)
 seo:
   browserTitle: ALTA 2021

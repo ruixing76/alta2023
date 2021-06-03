@@ -9,12 +9,12 @@ module.exports = {
         link: "https://www.dst.defence.gov.au/",
         image: "dod.png"
       },
-      // { 
-      //   name: "Sintelix",
-      //   level: "Silver",
-      //   link: "https://sintelix.com/",
-      //   image: "sintelix.png"
-      // },
+      { 
+        name: "CSIRO",
+        level: "Silver",
+        link: "https://www.csiro.au/",
+        image: "csiro.png"
+      },
       // { 
       //   name: "Google",
       //   level: "Silver",

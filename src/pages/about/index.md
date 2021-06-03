@@ -5,20 +5,21 @@ organizers:
   title: Organisers
   gallery:
     - image: ""
-      imageAlt: Maria Kim
-      name: Maria Kim
-      organization: Defence Science and Technology Group
+      imageAlt: Ashfin Rahimi
+      name: Ashfin Rahimi
+      organization: University of Queensland
       role: Co-chair
     - image: ""
-      name: Daniel Beck
-      imageAlt: Daniel Beck
-      organization: The University of Melbourne
+      imageAlt: Guido Zuccon
+      name: Guido Zuccon
+      organization: University of Queensland
       role: Co-chair
     - image: ""
-      imageAlt: Meladel Mistica
-      name: Meladel Mistica
-      organization: The University of Melbourne
-      role: Program-advisor
+      name: William Lane
+      imageAlt: William Lane
+      organization: Charles Darwin University
+      role: Co-chair
+
 seo:
   browserTitle: About | ALTA 2021
   description: >-

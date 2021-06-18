@@ -5,8 +5,8 @@ organizers:
   title: Organisers
   gallery:
     - image: ""
-      imageAlt: Ashfin Rahimi
-      name: Ashfin Rahimi
+      imageAlt: Afshin Rahimi
+      name: Afshin Rahimi
       organization: University of Queensland
       role: Co-chair
     - image: ""

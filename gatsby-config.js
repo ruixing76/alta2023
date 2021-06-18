@@ -13,7 +13,7 @@ module.exports = {
         name: "CSIRO",
         level: "Silver",
         link: "https://www.csiro.au/",
-        image: "csiro.png"
+        image: "csiro-logo.png"
       },
       // { 
       //   name: "Google",

@@ -7,7 +7,7 @@ logoImage:
   taglines:
     - 19th Annual ALTA Workshop
     - 9-10 December, 2021 
-    - In-Person/Virtual Workshop
+    - Virtual Workshop
 socialLinks:
   - image: /img/email.svg
     imageAlt: Contact us by email

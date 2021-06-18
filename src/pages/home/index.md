@@ -7,7 +7,7 @@ title: ALTA 2021
 description: The 19th Annual Workshop of the Australasian Language Technology Association
 extraInfo: 
   - 9 - 10 December, 2021
-  - (In-person Workshop with virtual option ?)
+  - Virtual Workshop
 seo:
   browserTitle: ALTA 2021
   description: >-
@@ -30,8 +30,8 @@ newsItems:
   #   text: The list of accepted papers is now available here. Check [Papers](/papers).
   # - date: 2020-10-16
   #   text: The Author notification date has been changed to **13th November 2020**. Check [call for papers] (/call-for-papers).
-  # - date: 2020-09-30
-  #   text: Paper submission deadline is now extended to **9th October 2020**. Check [call for papers] (/call-for-papers).
+  - date: 2020-06-18
+    text: Learn more about the opportunity to sponsor ALTA2021 [here](/files/ALTA-Sponsorship-Document-2021.pdf)
   - date: 2021-06-03
     text: The [call for papers] (/call-for-papers) is out now!
 

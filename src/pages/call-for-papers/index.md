@@ -18,7 +18,8 @@ Note that ALTA is listed in recently updated CORE 2020 Conference Rankings as Au
 
 <h2 id="key-dates">Key Dates</h2>
 
- - Submission Deadline:   17 September, 2021
+ - Submission Deadline (short and long papers):   10 September, 2021
+ - Submission Deadline (abstracts): 24 September, 2021
  - Author Notification:   8 October, 2021
  - Camera-Ready Deadline:  22 October, 2021
  - Tutorials:              8 December, 2021

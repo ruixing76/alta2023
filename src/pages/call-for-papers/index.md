@@ -88,24 +88,24 @@ Original research papers that are under review for other publication venues or t
 
 ### Paper Submission
 
-Details forthcoming.
-<!-- Authors should submit their papers via [Easychair](https://easychair.org/conferences/?conf=alta2020). -->
+Authors should submit their papers via [Easychair](https://easychair.org/conferences/?conf=alta2021).
 
-<!-- There are 3 tracks in EasyChair this year:
-  - **ALTA 2020 (Long)** – use this for **long** papers
-  - **ALTA 2020 (Short)** – use this for **short** papers
-  - **ALTA 2020 (Abstracts)** – use this for **abstracts** -->
+There are 3 tracks in EasyChair this year:
 
+- **ALTA 2020 (Long)** – use this for **long** papers
+- **ALTA 2020 (Short)** – use this for **short** papers
+- **ALTA 2020 (Abstracts)** – use this for **abstracts**
 
 ### Formatting Guidelines
+
 Details forthcoming.
 <!-- Submissions must follow the two-column ACL format. We therefore strongly recommend you use [LaTeX style files](/files/acl2020-latex.zip) or [Microsoft Word template](/files/acl2020-word.zip). -->
 
 ### Paper Length
 
-  - Long papers should be 6-8 pages (with up to additional 2 pages for references)
-  - Short papers should be 3-4 pages (with up to additional 2 pages for references)
-  - Abstracts ideally should be a few paragraphs and no more than 2 pages (with up to additional 1 page for references)
+- Long papers should be 6-8 pages (with up to additional 2 pages for references)
+- Short papers should be 3-4 pages (with up to additional 2 pages for references)
+- Abstracts ideally should be a few paragraphs and no more than 2 pages (with up to additional 1 page for references)
 
 ### Anonymisation
 

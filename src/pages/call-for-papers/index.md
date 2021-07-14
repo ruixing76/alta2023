@@ -15,7 +15,7 @@ seo:
  - Author Notification:   8 October, 2021
  - Camera-Ready Deadline:  22 October, 2021
  - Tutorials:              8 December, 2021
- - Main Conference:        8-10 December, 2021
+ - Main Conference:        9-10 December, 2021
 
 _Submission deadlines are UTC-11_
 

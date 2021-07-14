@@ -6,7 +6,7 @@ logoImage:
   orgLink: https://www.alta.asn.au
   taglines:
     - 19th Annual ALTA Workshop
-    - 9-10 December, 2021 
+    - 8-10 December, 2021 
     - Virtual Workshop
 socialLinks:
   - image: /img/email.svg

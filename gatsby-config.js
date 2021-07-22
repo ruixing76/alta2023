@@ -5,7 +5,7 @@ module.exports = {
     sponsors: [
       { 
         name: "Defence Science and Technology Group",
-        level: "Platinum",
+        level: "Gold",
         link: "https://www.dst.defence.gov.au/",
         image: "dod.png"
       },

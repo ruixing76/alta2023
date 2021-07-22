@@ -97,7 +97,7 @@ There are 3 tracks in EasyChair this year:
 
 ### Formatting Guidelines
 
-Submissions must follow the two-column ACL format. We therefore strongly recommend you use [LaTeX style files](/files/acl2020-latex.zip) or [Microsoft Word template](/files/acl2020-word.zip).
+Submissions must follow the two-column ACL format. We therefore strongly recommend you use [LaTeX style files](/files/acl2021-latex.zip) or [Microsoft Word template](/files/acl2021-word.zip).
 
 ### Paper Length
 

@@ -28,9 +28,11 @@ newsItems:
   #   text: Virtual ALTA 2020 Workshop **FREE** registration is now open. Check [Registration](/registration).
   # - date: 2020-12-13
   #   text: The list of accepted papers is now available here. Check [Papers](/papers).
-  - date: 2020-07-14
+  - date: 2021-09-03
+    text: Submission deadlines have been extended! See The [call for papers] (/call-for-papers) for details
+  - date: 2021-07-14
     text: Paper submission is now open on [Easychair](https://easychair.org/conferences/?conf=alta2021).
-  - date: 2020-06-18
+  - date: 2021-06-18
     text: Learn more about the opportunity to sponsor ALTA2021 [here](/files/ALTA-Sponsorship-Document-2021.pdf)
   - date: 2021-06-03
     text: The [call for papers] (/call-for-papers) is out now!

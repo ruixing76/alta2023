@@ -10,12 +10,11 @@ seo:
 
 <h2 id="key-dates">Important Dates</h2>
 
- - Submission Deadline (short and long papers):   10 September, 2021
- - Submission Deadline (abstracts): 24 September, 2021
- - Author Notification:   8 October, 2021
- - Camera-Ready Deadline:  22 October, 2021
- - Tutorials:              8 December, 2021
- - Main Conference:        9-10 December, 2021
+ - Submission Deadline (short and long papers):   <s>10 September, 2021</s> <b>Extended: 1 October, 2021</b>
+ - Submission Deadline (abstracts) 5 October, 2021
+ - Author Notification:   <s>8 October, 2021</s> 22 October, 2021
+ - Camera-Ready Deadline: 12 November, 2021
+ - Workshop:        8-10 December, 2021
 
 _Submission deadlines are UTC-11_
 
@@ -101,9 +100,9 @@ Submissions must follow the two-column ACL format. We therefore strongly recomme
 
 ### Paper Length
 
-- Long papers should be 6-8 pages (with up to additional 2 pages for references)
-- Short papers should be 3-4 pages (with up to additional 2 pages for references)
-- Abstracts ideally should be a few paragraphs and no more than 2 pages (with up to additional 1 page for references)
+- Long papers should be 6-8 pages
+- Short papers should be 3-4 pages
+- Abstracts ideally should be a few paragraphs and no more than 2 pages
 
 ### Anonymisation
 

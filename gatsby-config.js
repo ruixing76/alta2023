@@ -22,11 +22,10 @@ module.exports = {
         link: "https://www.go1.com/"
       },
       { 
-        name: "",
-        longName: "",
-        level: "",
-        image: "",
-        link: ""
+        name: "Google",
+        level: "Gold",
+        image: "Google Logo.png",
+        link: "https://careers.google.com/"
       },
       { 
         name: "",

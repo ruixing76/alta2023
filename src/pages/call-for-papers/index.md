@@ -12,8 +12,8 @@ seo:
 
  - Submission Deadline (short and long papers):   <s>10 September, 2021</s> <b>Extended: 1 October, 2021</b>
  - Submission Deadline (abstracts) 5 October, 2021
- - Author Notification:   <s>8 October, 2021</s> 22 October, 2021
- - Camera-Ready Deadline: 12 November, 2021
+ - Author Notification:   <s>8 October, 2021</s> 1 November, 2021
+ - Camera-Ready Deadline: 15 November, 2021
  - Workshop:        8-10 December, 2021
 
 _Submission deadlines are UTC-11_

@@ -11,7 +11,7 @@ seo:
 
 ## Registration Site
 
-* Registration will open soon, please check back in a few weeks :]
+* Registration will open soon, please check back soon :]
 <!-- * [Register Now](https://www.trybooking.com/BNKQF) -->
 
 <!-- **Virtual** ALTA 2021 Workshop registration is **Free** for ALL, thanks to the generosity of our sponsors.  -->

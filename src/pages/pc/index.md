@@ -25,7 +25,7 @@ members:
     affiliation: "Macquarie University"
   
   - name: "Gabriela Ferraro"
-    affiliation: "NICTA and Australian National University"
+    affiliation: "CSIRO"
 
   - name: "Gholamreza Haffari"
     affiliation: "Monash University"
@@ -43,7 +43,7 @@ members:
     affiliation: "Defence Science and Technology Group"
     
   - name: "Jey Han Lau"
-    affiliation: "King's College London"
+    affiliation: "University of Melbourne"
 
   - name: "Karin Verspoor"
     affiliation: "RMIT University"
@@ -94,7 +94,7 @@ members:
     affiliation: "Monash University"
     
   - name: "Xiang Dai"
-    affiliation: "CSIRO"
+    affiliation: "University of Copenhagen"
  
 ---
 

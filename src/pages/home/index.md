@@ -24,10 +24,10 @@ newsItems:
   #   text: Draft proceedings are now available. 
   # - date: 2020-12-13
   #   text: Full workshop programme is now available. Check [Programme](/programme).
-  # - date: 2020-12-13
-  #   text: Virtual ALTA 2020 Workshop **FREE** registration is now open. Check [Registration](/registration).
-  # - date: 2020-12-13
-  #   text: The list of accepted papers is now available here. Check [Papers](/papers).
+  - date: 2020-11-03
+    text: Virtual ALTA 2021 Workshop **FREE** registration is now open. Check [Registration](/registration).
+  - date: 2021-11-03
+    text: The list of accepted papers is now available here. Check [Papers](/papers).
   - date: 2021-09-03
     text: Submission deadlines have been extended! See The [call for papers] (/call-for-papers) for details
   - date: 2021-07-14

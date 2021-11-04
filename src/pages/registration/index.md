@@ -11,10 +11,11 @@ seo:
 
 ## Registration Site
 
-* Registration will open soon, please check back soon :]
-<!-- * [Register Now](https://www.trybooking.com/BNKQF) -->
+<!-- * Registration will open soon, please check back soon :] -->
+Registration for ALTA 2021 is handled through trybooking.com:
+* [Register Now](https://www.trybooking.com/BVIUN)
 
-<!-- **Virtual** ALTA 2021 Workshop registration is **Free** for ALL, thanks to the generosity of our sponsors.  -->
+**Virtual** ALTA 2021 Workshop registration is **Free** for ALL, thanks to the generosity of our sponsors. 
 
 If you have any issue with registration, please [contact us](mailto:workshop@alta.asn.au).
 

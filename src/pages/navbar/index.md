@@ -9,10 +9,10 @@ menuItems:
     longLabel: Papers accepted for oral or poster presentation
     linkType: internal
     linkURL: /papers
-  - label: Programme
-    longLabel: Landing Page
-    linkType: internal
-    linkURL: /programme
+  # - label: Programme
+  #   longLabel: Landing Page
+  #   linkType: internal
+  #   linkURL: /programme
   - label: Registration
     longLabel: Registration
     linkType: internal

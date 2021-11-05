@@ -24,17 +24,23 @@ members:
   - name: "Diego Molla"
     affiliation: "Macquarie University"
   
+  - name: "Dominique Estival"
+    affiliation: "Western Sydney University"
+  
+  - name: "Fajri Koto"
+    affiliation: "The University of Melbourne"
+  
   - name: "Gabriela Ferraro"
     affiliation: "CSIRO"
 
   - name: "Gholamreza Haffari"
     affiliation: "Monash University"
+
+  - name: "Hamed Hassanzadeh"
+    affiliation: "The Australian e-Health Research Centre, CSIRO"
   
   - name: "Guido Zuccon"
     affiliation: "University of Queensland"
-
-  - name: "Hamed Hassanzadeh"
-    affiliation: "CSIRO"
     
   - name: "Hiyori Yoshikawa"
     affiliation: "Fujitsu Laboratories Ltd."

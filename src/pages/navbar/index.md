@@ -13,6 +13,10 @@ menuItems:
   #   longLabel: Landing Page
   #   linkType: internal
   #   linkURL: /programme
+  - label: For Authors
+    longLabel: Information for Authors of Papers
+    linkType: internal
+    linkURL: /for-authors
   - label: Registration
     longLabel: Registration
     linkType: internal

@@ -13,9 +13,9 @@ All authors have now been notified whether their paper has been accepted. Congra
 
 ## Presentations
 
-If your acceptance notification says that you have a presentation, you will be given a presentation slot. Exact timings will be announced, but provisional timeslots are around 12 minutes for short papers and 20 minutes for long papers. Presenters can use their own laptops or the provided machine in the conference venue.
+If your acceptance notification says that you have a presentation, you will be given a presentation slot. Long paper presentations will be 10 minutes + 3 minutes QA, and Short Paper presentations will be 8 minutes + 3 minutes QA. Presenters can use their own laptops or the provided machine in the conference venue.
 
 ## Posters
 
-If you have been notified that your paper has been accepted as a poster, you are required to print and bring your own poster with you, and to be available during the poster session. Posters should be no wider than 91 cm and no higher than 122 cm, in vertical/portrait orientation. A0 paper (in vertical/portrait orientation) meets these requirements.
+If you have been notified that your paper has been accepted as a poster, you are required to provide a poster in PDF format (size A0).
 

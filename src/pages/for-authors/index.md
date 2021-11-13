@@ -13,9 +13,10 @@ All authors have now been notified whether their paper has been accepted. Congra
 
 ## Presentations
 
-If your acceptance notification says that you have a presentation, you will be given a presentation slot. Long paper presentations will be 10 minutes + 3 minutes QA, and Short Paper presentations will be 8 minutes + 3 minutes QA. Presenters can use their own laptops or the provided machine in the conference venue.
+All accepted papers will present both an oral and a poster presentation. Long paper presentation will be 10 minutes + 3 minutes QA, and short paper presentations will be 8 minutes + 2 minutes QA. Oral presentations are expected to be live, however, in exceptional circumstances, we accept a recorded video if the authors can not present live (please communicate with the organisers, and share your video link with them if you can not present live).
 
 ## Posters
 
-If you have been notified that your paper has been accepted as a poster, you are required to provide a poster in PDF format (size A0).
+In addition to the live presentations, all papers should submit their poster as a PDF file named with paper number (e.g. 22.pdf) to william@alta.asn.au. The posters will be installed at
+the social gathering platform.
 

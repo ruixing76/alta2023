@@ -12,7 +12,7 @@ seo:
 
 The following papers have been accepted for oral or poster presentation at ALTA 2021.
 
-## Long Papers: Oral and Poster Presentations
+## Long Papers: 
 
 * Rongxin Zhu, Jey Han Lau and Jianzhong Qi. 
 _Findings on Conversation Disentanglement_ 
@@ -62,7 +62,7 @@ _Exploring the Vulnerability of Natural Language Processing Models via Universal
 * Abdus Salam, Rolf Schwitter and Mehmet Orgun.
 _Generating and Modifying Natural Language Explanations_
 
-## Short Papers: Poster Presentation
+## Short Papers: 
 
 * Shiwei Zhang and Xiuzhen Zhang.
 _Does QA-based intermediate training help fine-tuning language models for text classification?_
@@ -85,7 +85,7 @@ _BERT's The Word : Sarcasm Target Detection using BERT_
 * Vincent Nguyen, Sarvnaz Karimi, Maciej Rybinski and Zhenchang Xing.
 _Cross-Domain Language Modeling: An Empirical Investigation_
 
-## Abstracts: Poster Presentation
+## Abstracts: 
 
 * Uri Berger, Gabriel Stanovsky, Omri Abend and Lea Frermann.
 _A Computational Acquisition Model for Multi-modal Word Learning from Scratch_

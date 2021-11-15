@@ -63,7 +63,7 @@ We invite submissions of two different formats: (1) Original Research Papers and
 
 We invite the submission of papers on original and unpublished research on all aspects of natural language processing.
 
-Long papers should be 6-8 pages and short papers should be 3-4 pages. Accepted papers will either be delivered as an oral presentation or as a poster presentation. Both short and long papers may include up to 2 pages of references in addition to the page count requirements.
+Long papers should be 6-8 pages and short papers should be 3-4 pages. Accepted papers will either be delivered as an oral presentation or as a poster presentation. Both short and long papers may include unlimited pages of references in addition to the page count requirements.
 
 Note that the review process is double-blind, and accordingly submitted papers should not include the identity of author(s) and the text should be suitably anonymised, e.g. using third person wording for self-citations, not providing URLs to your person website, etc. Original research papers will be included in the workshop proceedings, which will be published online in the ACL anthology and the ALTA website. Long papers will be distinguished from short papers in the proceedings.
 

@@ -15,11 +15,11 @@ In this talk, I will outline possible ways to go about these challenges to tackl
 
   - speakers:
     - name: Ben Hutchinson
-      bio: "Ben Hutchinson is a Senior Engineer in Google's Research & Machine Intelligence group, working on artificial intelligence, data, fairness, accountability and safety, in Google's Ethical AI team. His interdisciplinary research includes learning from social sciences to inform the ethical development of AI. Prior to joining Google Research, he spent ten years working on a variety of products such as Google Wave, Google Maps, Knowledge Graph, Google Search, Social Impact, and others. He now uses this experience to work closely with product teams as a consultant on responsible practices and the development of fair machine learning models. He has a PhD in Natural Language Processing from the University of Edinburgh."
+      bio: "Ben Hutchinson is a Senior Researcher in Google's Research Center for Responsible AI and Human-Centered Technology. Based in Sydney, he works on topics of AI ethics, fairness, accountability and safety, adopting a broad research lens that spans disciplines. Prior to joining Google Research, he spent ten years working as a Software Engineer on products such as Google Maps, Google Wave, Google Knowledge Graph, Google Search, and others. He uses this engineering experience to work closely with research and product teams on practices for Responsible AI. He has undergraduate degrees in linguistics and mathematics, and a PhD in Natural Language Processing from the University of Edinburgh."
       affiliation: "Google"
       photo: ben-hutchinson.jpg
-    title: "Talk Title TBD"
-    abstract: "Talk abstract TBD"
+    title: "Putting NLP Ethics Into Context"
+    abstract: "In order to consider the societal and ethical consequences of biases in NLP models, it is necessary to consider how the models will be integrated into user-facing AI systems and products. We also need to consider who those systems will be used by, on and with. In the first part of this talk, I will adopt a wide lens and consider technology ethics within various social, cultural and historical contexts, using examples from my research. In the second part of this talk, I will zoom in to discuss practical challenges that arise when building NLP systems that are contextually appropriate and responsible."
 
   - speakers:
     - name: Dirk Hovy

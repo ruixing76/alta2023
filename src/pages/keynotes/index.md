@@ -15,7 +15,7 @@ In this talk, I will outline possible ways to go about these challenges to tackl
 
   - speakers:
     - name: Ben Hutchinson
-      bio: "Ben Hutchinson is a Senior Researcher in Google's Research Center for Responsible AI and Human-Centered Technology. Based in Sydney, he works on topics of AI ethics, fairness, accountability and safety, adopting a broad research lens that spans disciplines. Prior to joining Google Research, he spent ten years working as a Software Engineer on products such as Google Maps, Google Wave, Google Knowledge Graph, Google Search, and others. He uses this engineering experience to work closely with research and product teams on practices for Responsible AI. He has undergraduate degrees in linguistics and mathematics, and a PhD in Natural Language Processing from the University of Edinburgh."
+      bio: "Ben Hutchinson is a Senior Researcher at Google Research Australia. Based in Google's Center for Responsible AI and Human-Centered Technology, he works on topics of AI ethics, fairness, accountability and safety, adopting a broad research lens that spans disciplines. Prior to joining Google Research, he spent ten years working as a Software Engineer on products such as Google Maps, Google Wave, Google Knowledge Graph, Google Search, and others. He uses this engineering experience to work closely with research and product teams on practices for Responsible AI. He has undergraduate degrees in linguistics and mathematics, and a PhD in Natural Language Processing from the University of Edinburgh."
       affiliation: "Google"
       photo: ben-hutchinson.jpg
     title: "Putting NLP Ethics Into Context"

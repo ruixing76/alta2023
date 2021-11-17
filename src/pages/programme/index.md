@@ -109,7 +109,7 @@ seo:
 
 * 10:05 **Oral Presentations 3 (Long: 10m + 3m QA, Short: 8m + 2m)** 
 
-  * <span class="badge badge-long"></span> _Inductive Biases for Low Data VQA: A Data Augmentation Approach_  
+  * <span class="badge badge-abstract"></span> _Inductive Biases for Low Data VQA: A Data Augmentation Approach_  
     Narjes Askarian, Ehsan Abbasnejad, Ingrid Zukerman, Wray Buntine and Reza Haffari   
     <!-- **[Paper](/files/ALTA2021_paper_28_L5.pdf)**    **[Poster](/files/ALTA2021_poster_28_L5.pdf)** -->
 
@@ -147,7 +147,7 @@ seo:
     Rongxin Zhu, Jey Han Lau and Jianzhong Qi  
     <!-- **[Paper](/files/ALTA2021_paper_11_L8.pdf)**    **[Poster](/files/ALTA2021_poster_11_L8.pdf)** -->
     
-* 14:22 **Shared Task Overview** – Diego Molla-Aliod
+* 14:22 **Overview of the 2021 ALTA Shared Task: Automatic Grading of Evidence, 10 Years Later** – Diego Molla-Aliod
 
   *  _Quick, get me a Dr. BERT: Automatic Grading of Evidence using Transfer Learning_  
    Pradeesh Parameswaran, Andrew Trotman, Veronica Liesaputra, David Eyers   

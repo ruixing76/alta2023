@@ -13,7 +13,7 @@ seo:
 
 * 14:00 **Tutorial on Machine Translation and Summarization** – Inigo Jauregi, Jacob Parnell, and Massimo Piccardi
 
-* 16:00 **Social Gathering/Mentoring** – Kumospace
+* 16:30 **Social Gathering/Mentoring** – Kumospace
 
 * 17:00 **End of Day 1**
 

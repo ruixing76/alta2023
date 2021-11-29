@@ -103,7 +103,7 @@ seo:
 
 * 17:30 **End of Day 2**
 
-## 10th December (Friday) Workshop Day 3 (all times AEDT)
+## 10th December (Friday) Workshop Day 3 (all times AEDT) (Chaired by Jey Han Lau)
 
 * 10:00 **Welcome to Day 3**
 

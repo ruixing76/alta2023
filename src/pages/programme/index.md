@@ -51,9 +51,9 @@ seo:
     Antonio Jimeno Yepes, Ameer Albahem and Karin Verspoor    
     <!-- **[Paper](/files/ALTA2021_paper_6_L4.pdf)**    **[Poster](/files/ALTA2021_poster_6_L4.pdf)** -->
     
-* 11:52 **Afternoon Break/Lunch/Social Gathering/Mentorship** (includes papers from Session 1)
+* 11:52 **Afternoon Break/Lunch/Social Gathering/Mentorship** 
 
-* 14:00 **Oral Presentations 2 (Long: 10m + 3m QA, Short: 8m + 2m)** 
+* 14:00 **Oral Presentations 2 (Long: 10m + 3m QA, Short: 8m + 2m)** (Chaired by Guido Zuccon)
 
   * <span class="badge badge-long"></span> _An Approach to the Frugal Use of Human Annotators to Scale up Auto-coding for Text Classification Tasks_  
     Li'An Chen and Hanna Suominen   
@@ -99,7 +99,7 @@ seo:
     Thanh Vu and Dai Quoc Nguyen    
     <!-- **[Poster](/files/ALTA2021_poster_13_A3.pdf)**  -->
 
-* 16:07 **Poster Session (all papers in Oral presentations 1 and 2)** 
+* 16:07 **Poster Session (all papers in Oral presentations 1, 2, and 3)** 
 
 * 17:30 **End of Day 2**
 

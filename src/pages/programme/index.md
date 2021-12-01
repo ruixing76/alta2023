@@ -57,7 +57,7 @@ seo:
 
   * <span class="badge badge-long"></span> _An Approach to the Frugal Use of Human Annotators to Scale up Auto-coding for Text Classification Tasks_  
     Li'An Chen and Hanna Suominen   
-    **[Paper](/files/ALTA2021_paper_17_S1.pdf)**    **[Poster](/files/ALTA2021_poster_17_S1.pdf)**
+    <!-- **[Paper](/files/ALTA2021_paper_17_S1.pdf)**    **[Poster](/files/ALTA2021_poster_17_S1.pdf)** -->
   
   * <span class="badge badge-long"></span> _Exploring the Vulnerability of Natural Language Processing Models via Universal Adversarial Texts_  
     Xinzhe Li, Ming Liu, Xingjun Ma and Longxiang Gao   

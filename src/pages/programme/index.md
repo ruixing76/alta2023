@@ -103,11 +103,11 @@ seo:
 
 * 17:30 **End of Day 2**
 
-## 10th December (Friday) Workshop Day 3 (all times AEDT) (Chaired by Jey Han Lau)
+## 10th December (Friday) Workshop Day 3 (all times AEDT)
 
 * 10:00 **Welcome to Day 3**
 
-* 10:05 **Oral Presentations 4 (Long: 10m + 3m QA, Short: 8m + 2m)** 
+* 10:05 **Oral Presentations 4 (Long: 10m + 3m QA, Short: 8m + 2m)** (Chaired by Jey Han Lau)
 
   * <span class="badge badge-abstract"></span> _Inductive Biases for Low Data VQA: A Data Augmentation Approach_  
     Narjes Askarian, Ehsan Abbasnejad, Ingrid Zukerman, Wray Buntine and Reza Haffari   
@@ -129,7 +129,7 @@ seo:
 
 * 12:00 **Break/Lunch/Social Gathering/Mentorship** – Kumospace
 
-* 13:30 **Oral Presentation 5 (Long: 10m + 3m QA, Short: 8m + 2m)**   
+* 13:30 **Oral Presentation 5 (Long: 10m + 3m QA, Short: 8m + 2m)**  (Chaired by Jey Han Lau) 
 
   * <span class="badge badge-long"></span> _Harnessing Privileged Information for Hyperbole Detection_  
     Rhys Biddle, Maciek Rybinski, Qian Li, Cecile Paris and Guandong Xu   

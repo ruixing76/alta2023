@@ -25,7 +25,7 @@ seo:
 
 * 10:30 **Welcome to Day 2**
 
-* 10:40 **Oral Presentations 1 (Long: 10m + 3m QA, Short: 8m + 2m)** 
+* 10:40 **Oral Presentations 1 (Long: 10m + 3m QA, Short: 8m + 2m)** (Chaired by Trevor Cohn)
 
   * <span class="badge badge-long"></span> _Combining Shallow and Deep Representations for Text-Pair Classification_     
     Vincent Nguyen, Sarvnaz Karimi and Zhenchang Xing   

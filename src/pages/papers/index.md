@@ -8,7 +8,7 @@ seo:
   title: Accepted Papers – ALTA 2021
 ---
 
-<!-- [Draft proceedings are now available](/files/ALTA2021-proceedings-draft.pdf). -->
+[Draft proceedings are now available](/files/ALTA2021-proceedings-draft.pdf).
 
 The following papers have been accepted for oral or poster presentation at ALTA 2021.
 

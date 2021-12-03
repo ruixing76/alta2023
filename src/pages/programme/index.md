@@ -35,6 +35,7 @@ seo:
     Rinaldo Gagiano, Maria Myung-Hee Kim, Xiuzhen Zhang and Jennifer Biggs
     <!-- **[Paper](/files/ALTA2021_paper_24_L2.pdf)**    **[Poster](/files/ALTA2021_poster_24_L2.pdf)** -->
     _Poster session 1a_ 
+
   * <span class="badge badge-long"></span> _Using Word Embeddings to Quantify Ethnic Stereotypes in 12 years of Spanish News._     
     Danielly Sorato, Diana Zavala-Rojas and Maria del Carme Colominas Ventura   
     <!-- **[Paper](/files/ALTA2021_paper_5_L3.pdf)**    **[Poster](/files/ALTA2021_poster_5_L3.pdf)** -->
@@ -99,8 +100,8 @@ seo:
   
   * <span class="badge badge-abstract"></span> _A Computational Acquisition Model for Multi-modal Word Learning from Scratch_  
     Uri Berger, Gabriel Stanovsky, Omri Abend and Lea Frermann
-    _Poster session 1c_    
     <!-- **[Poster](/files/ALTA2021_poster_13_A3.pdf)**  -->
+    _Poster session 1c_ 
   
   * <span class="badge badge-short"></span> _Retrodiction as Delayed Recurrence: the Case of Adjectives in Italian and English_  
     Raquel G. Alhama, Francesca Zermiani and Atiqah Khaliq    
@@ -116,7 +117,9 @@ seo:
 
 * 17:30 **End of Day 2**
 
-## 10th December (Friday)  Workshop Day 3 (all times AEDT)**
+## 10th December (Friday)  Workshop Day 3 (all times AEDT)
+
+* 10:00 **Welcome to Day 3**
 
 * 10:05 **Oral Presentations 4 (Long: 10m + 3m QA, Short: 8m + 2m)** (Chaired by Jey Han Lau)
 
@@ -137,6 +140,7 @@ seo:
     Najam Zaidi, Trevor Cohn and Gholamreza Haffari   
     <!-- **[Paper](/files/ALTA2021_paper_28_L5.pdf)**    **[Poster](/files/ALTA2021_poster_28_L5.pdf)** -->
     _Poster session 2a_ 
+
 * 11:00 **ALTA [Keynote](/keynotes)** – Ben Hutchinson: NLP Ethics Into Context
 
 * 12:00 **Break/Lunch/Social Gathering/Mentorship** – Kumospace

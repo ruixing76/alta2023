@@ -98,7 +98,7 @@ seo:
     _Poster session 1c_ 
   
   * <span class="badge badge-abstract"></span> _A Computational Acquisition Model for Multi-modal Word Learning from Scratch_  
-    Uri Berger, Gabriel Stanovsky, Omri Abend and Lea Frermann 
+    Uri Berger, Gabriel Stanovsky, Omri Abend and Lea Frermann
     _Poster session 1c_    
     <!-- **[Poster](/files/ALTA2021_poster_13_A3.pdf)**  -->
   
@@ -116,8 +116,7 @@ seo:
 
 * 17:30 **End of Day 2**
 
-## 10th December (Friday)    _Poster session_   
-3**
+## 10th December (Friday)  Workshop Day 3 (all times AEDT)**
 
 * 10:05 **Oral Presentations 4 (Long: 10m + 3m QA, Short: 8m + 2m)** (Chaired by Jey Han Lau)
 
@@ -178,7 +177,7 @@ seo:
     Fajri Koto, Biaoyan Fang   
     <!-- **[Paper](/files/ALTA2021_paper_21_S7.pdf)**    **[Poster](/files/ALTA2021_poster_21_S7.pdf)** -->
   _Poster session 2b_
-  
+
 * 15:02 **ALTA General Meeting** 
 
 * 15:17 **Best Paper Awards** 

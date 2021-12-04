@@ -126,6 +126,7 @@ seo:
   * <span class="badge badge-abstract"></span> _Inductive Biases for Low Data VQA: A Data Augmentation Approach_  
     Narjes Askarian, Ehsan Abbasnejad, Ingrid Zukerman, Wray Buntine and Reza Haffari   
     **[Paper](/files/ALTW_2021_paper_21.pdf)**    **[Poster](/files/posters/21.pdf)**
+    _Poster session 2a_
 
   * <span class="badge badge-long"></span> _Evaluation of Review Summaries via Question-Answering_  
     Nannan Huang and Xiuzhen Zhang   
@@ -135,6 +136,7 @@ seo:
   * <span class="badge badge-long"></span> _Curriculum Learning Effectively Improves Low Data VQA_  
     Narjes Askarian, Ehsan Abbasnejad, Ingrid Zukerman, Wray Buntine and Reza Haffari   
     **[Paper](/files/ALTW_2021_paper_23.pdf)**    **[Poster](/files/posters/23.pdf)**
+    _Poster session 2a_
 
   * <span class="badge badge-long"></span> _Document Level Hierarchical Transformer_  
     Najam Zaidi, Trevor Cohn and Gholamreza Haffari   

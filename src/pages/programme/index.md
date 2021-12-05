@@ -100,7 +100,7 @@ seo:
   
   * <span class="badge badge-abstract"></span> _A Computational Acquisition Model for Multi-modal Word Learning from Scratch_  
     Uri Berger, Gabriel Stanovsky, Omri Abend and Lea Frermann      
-    **[Poster](/files/posters/5.pdf)**
+    **[Paper](/files/ALTW_2021_paper_5.pdf)** **[Poster](/files/posters/5.pdf)**
     _Poster session 1c_ 
   
   * <span class="badge badge-short"></span> _Retrodiction as Delayed Recurrence: the Case of Adjectives in Italian and English_  

@@ -152,20 +152,22 @@ seo:
   * <span class="badge badge-long"></span> _Harnessing Privileged Information for Hyperbole Detection_  
     Rhys Biddle, Maciek Rybinski, Qian Li, Cecile Paris and Guandong Xu   
     **[Paper](/files/ALTW_2021_paper_25.pdf)**    **[Poster](/files/posters/25.pdf)**
-    
+    _Poster session 2b_
+
   * <span class="badge badge-long"></span> _Principled Analysis of Energy Discourse across Domains with Thesaurus-based Automatic Topic Labeling_  
     Thomas Scelsi, Alfonso Martinez Arranz and Lea Frermann   
     **[Paper](/files/ALTW_2021_paper_27.pdf)**    **[Poster](/files/posters/27.pdf)**
-    
+    _Poster session 2b_
+
   * <span class="badge badge-long"></span> _Generating and Modifying Natural Language Explanations_  
     Abdus Salam, Rolf Schwitter and Mehmet Orgun   
     **[Paper](/files/ALTW_2021_paper_28.pdf)**    **[Poster](/files/posters/28.pdf)**
-    _Poster session 2a_
+    _Poster session 2b_
 
   * <span class="badge badge-long"></span> _Findings on Conversation Disentanglement_  
     Rongxin Zhu, Jey Han Lau and Jianzhong Qi  
     **[Paper](/files/ALTW_2021_paper_30.pdf)**    **[Poster](/files/posters/30.pdf)**
-    _Poster session 2a_
+    _Poster session 2b_
 
 * 14:22 **Overview of the 2021 ALTA Shared Task: Automatic Grading of Evidence, 10 Years Later** – Diego Molla-Aliod
     **[Paper](/files/ALTW_2021_paper_32.pdf)**  
@@ -174,17 +176,17 @@ seo:
   *  _Quick, get me a Dr. BERT: Automatic Grading of Evidence using Transfer Learning_  
    Pradeesh Parameswaran, Andrew Trotman, Veronica Liesaputra, David Eyers   
     **[Paper](/files/ALTW_2021_paper_33.pdf)**    **[Poster](/files/posters/33.pdf)**
-  _Poster session 2b_
+  _Poster session 2c_
 
   * _An Ensemble Model for Automatic Grading of Evidence_  
     Yuting Guo, Yao Ge, Ruqi Liao, Abeed Sarker  
     **[Paper](/files/ALTW_2021_paper_34.pdf)**    **[Poster](/files/posters/34.pdf)**
-  _Poster session 2b_
+  _Poster session 2c_
 
   * _Handling Variance of Pretrained Language Models in Grading Evidence in the Medical Literature_  
     Fajri Koto, Biaoyan Fang   
     **[Paper](/files/ALTW_2021_paper_35.pdf)**    **[Poster](/files/posters/35.pdf)**
-  _Poster session 2b_
+  _Poster session 2c_
 
 * 15:02 **ALTA General Meeting** 
 

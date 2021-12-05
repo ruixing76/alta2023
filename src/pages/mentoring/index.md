@@ -6,6 +6,7 @@ seo:
   description: ALTA Mentoring Program | ALTA 2021
   title: ALTA Mentoring Program | ALTA 2021
 ---
+
 ### What is mentoring?
 Mentoring is generally considered to be a voluntary relationship that gives people the
 opportunity to share their skills, knowledge and experiences, both personal and professional.
@@ -43,12 +44,11 @@ Professional and ethical behaviour is expected at all times in a mentor relation
 | Jey Han Lau      | University of Melbourne                 | Lecturer                 | jeyhan.lau@gmail.com              |
 | Maria Kim        | Defence Science and Technology Group&nbsp;&nbsp;    | Defence Scientist        | maria.kim@dst.defence.gov.au      |
 | Massimo Piccardi&nbsp;&nbsp;&nbsp;&nbsp;| University of Technology Sydney         | Professor                | massimo.piccardi@uts.edu.au       |
-| Meladel Mistica  | University of Melbourne                 | Research Data Specialist | misticalm@unimelb.edu.au          |
-| Sarvnaz Karimi   | CSIRO                                   | Principal Scientist         | sarvnaz.karrimi@csiro.au          |
+| Meladel Mistica  | University of Melbourne                 | Research Data Specialist&nbsp; | misticam@unimelb.edu.au          |
+| Sarvnaz Karimi   | CSIRO                                   | Principal Scientist         | sarvnaz.karimi@csiro.au          |
 | Stephen Wan      | CSIRO                                   | Senior Scientist         | stephen.wan@data61.csiro.au       |
 | Timothy Baldwin  | University of Melbourne                 | Professor                | tb@ldwin.net                      |
 | Xiuzhen Zhang    | Royal Melbourne Institute of Technology&nbsp;&nbsp; | Professor                | xiuzhen.zhang@rmit.edu.au         |
-
 
 <br><br><br>
 _If you have any questions regarding the ALTA mentoring program, please contact president@alta.asn.au._

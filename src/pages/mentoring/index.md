@@ -11,7 +11,6 @@ seo:
 Mentoring is generally considered to be a voluntary relationship that gives people the
 opportunity to share their skills, knowledge and experiences, both personal and professional.
 
-
 ### Three key benefits for the mentor
 * Improve interpersonal skills in counselling, listening, modelling, and leading.
 * Access new perspectives, information, and knowledge.
@@ -30,7 +29,6 @@ Step 1: Choose a mentor from the ALTA mentor list.
 Step 2: Contact him/her via an email or Slack channel of the workshop. 
 
 Step 3: Organise a mentoring session either virtually (e.g., Zoom, Kumospace or Slack) or in person.
-  * The [Slack channel](https://join.slack.com/t/slack-8hv5920/shared_invite/zt-zwgwmzwx-dAeCuQbwWFOwvtcOzit_3Q) can be used for mentorship communication during ALTA 2021.
 
 ### Boundaries of the mentor relationship
 Professional and ethical behaviour is expected at all times in a mentor relationship. A mentor and a mentee should treat the relationship with respect and maintain privacy/confidentiality of conversations. It is important that the mentee makes his/her own decisions and is responsible for his/her own actions. 
@@ -54,5 +52,8 @@ Professional and ethical behaviour is expected at all times in a mentor relation
 | Xiuzhen Zhang    | Royal Melbourne Institute of Technology&nbsp;&nbsp; | Professor                | xiuzhen.zhang@rmit.edu.au         | Yes            |
 
 *Mentors: When you are no longer accepting mentees, send an email to exec@alta.asn.au to have your status updated.
+
+The [Slack channel](https://join.slack.com/t/slack-8hv5920/shared_invite/zt-zwgwmzwx-dAeCuQbwWFOwvtcOzit_3Q) can be used for mentorship communication during ALTA 2021.
+
 <br><br><br>
 _If you have any questions regarding the ALTA mentoring program, please contact president@alta.asn.au._

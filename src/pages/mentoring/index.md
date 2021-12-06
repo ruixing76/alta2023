@@ -52,6 +52,6 @@ Professional and ethical behaviour is expected at all times in a mentor relation
 | Timothy Baldwin  | University of Melbourne                 | Professor                | tb@ldwin.net                      | Yes            |
 | Xiuzhen Zhang    | Royal Melbourne Institute of Technology&nbsp;&nbsp; | Professor                | xiuzhen.zhang@rmit.edu.au         | Yes            |
 
-*Mentors: When you are no longer accepting mentees, send an email to william@alta.asn.au to have your status updated.
+*Mentors: When you are no longer accepting mentees, send an email to exec@alta.asn.au to have your status updated.
 <br><br><br>
 _If you have any questions regarding the ALTA mentoring program, please contact president@alta.asn.au._

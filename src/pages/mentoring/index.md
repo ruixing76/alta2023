@@ -38,6 +38,7 @@ Professional and ethical behaviour is expected at all times in a mentor relation
 | Name             | Affiliation                             | Position                 | Email                             |
 |------------------------------|-----------------------------------------|--------------------------|-----------------------------------|
 | Afshin Rahimi    | University of Queensland                | Lecturer                 | a.rahimi@uq.edu.au                |
+| Bahar Salehi    | Go1                | Senior Data Scientist                 | bahar.salehi@go1.com                |
 | Daniel Beck      | University of Melbourne                 | Lecturer                 | d.beck@unimelb.edu.au             |
 | Diego Molla      | Macquarie University                    | Senior Lecturer          | diego.molla-aliod@mq.edu.au       |
 | Jennifer Biggs   | Defence Science and Technology Group&nbsp;&nbsp;    | Defence Scientist        | jennifer.biggs@dst.defence.gov.au |

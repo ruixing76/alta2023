@@ -30,7 +30,7 @@ Step 1: Choose a mentor from the ALTA mentor list.
 Step 2: Contact him/her via an email or Slack channel of the workshop. 
 
 Step 3: Organise a mentoring session either virtually (e.g., Zoom, Kumospace or Slack) or in person.
-  * The [Slack channel](https://join.slack.com/t/slack-8hv5920/shared_invite/zt-zwgwmzwx-dAeCuQbwWFOwvtcOzit_3Q) can be used for mentorship communication
+  * The [Slack channel](https://join.slack.com/t/slack-8hv5920/shared_invite/zt-zwgwmzwx-dAeCuQbwWFOwvtcOzit_3Q) can be used for mentorship communication during ALTA 2021.
 
 ### Boundaries of the mentor relationship
 Professional and ethical behaviour is expected at all times in a mentor relationship. A mentor and a mentee should treat the relationship with respect and maintain privacy/confidentiality of conversations. It is important that the mentee makes his/her own decisions and is responsible for his/her own actions. 

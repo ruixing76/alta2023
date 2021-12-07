@@ -16,16 +16,16 @@ module.exports = {
         image: "csiro-logo.png"
       },
       { 
-        name: "GO1",
-        level: "Gold",
-        image: "GO1_Logo_Petrol_Green_RGB.png",
-        link: "https://www.go1.com/"
-      },
-      { 
         name: "Google",
         level: "Gold",
         image: "Google Logo.png",
         link: "https://careers.google.com/"
+      },
+      { 
+        name: "GO1",
+        level: "Gold",
+        image: "GO1_Logo_Petrol_Green_RGB.png",
+        link: "https://www.go1.com/"
       },
       { 
         name: "",

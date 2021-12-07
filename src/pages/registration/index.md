@@ -19,6 +19,7 @@ Registration for ALTA 2021 is handled through trybooking.com:
 
 If you have any issue with registration, please [contact us](mailto:workshop@alta.asn.au).
 
+If you register after the conference has started, please contact treasurer@alta.asn.au to receive session links and other conference-related details.
 
 
 

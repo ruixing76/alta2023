@@ -82,7 +82,7 @@ seo:
 
 * 14:52 **Break: Social Gathering/Mentorship**
 
-* 15:07 **Oral Presentations 3 (Long: 10m + 3m QA, Short: 8m + 2m)** 
+* 15:07 **Oral Presentations 3 (Long: 10m + 3m QA, Short: 8m + 2m)** (Chaired by Gabriela Ferraro)
 
   * <span class="badge badge-short"></span> _Evaluating Hierarchical Document Categorisation_  
     Qian Sun, Aili Shen, Hiyori Yoshikawa, Chunpeng Ma, Daniel Beck, Tomoya Iwakura and Timothy Baldwin  

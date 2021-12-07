@@ -50,9 +50,6 @@ _Principled Analysis of Energy Discourse across Domains with Thesaurus-based Aut
 * Rinaldo Gagiano, Maria Myung-Hee Kim, Xiuzhen Zhang and Jennifer Biggs
 _Robustness Analysis of Grover for Machine-Generated Fake News Detection_.
 
-* Narjes Askarian, Ehsan Abbasnejad, Ingrid Zukerman, Wray Buntine and Reza Haffari.
-_Inductive Biases for Low Data VQA: A Data Augmentation Approach_
-
 * Najam Zaidi, Trevor Cohn and Gholamreza Haffari.
 _Document Level Hierarchical Transformer_
 
@@ -89,3 +86,6 @@ _Cross-Domain Language Modeling: An Empirical Investigation_
 
 * Uri Berger, Gabriel Stanovsky, Omri Abend and Lea Frermann.
 _A Computational Acquisition Model for Multi-modal Word Learning from Scratch_
+
+* Narjes Askarian, Ehsan Abbasnejad, Ingrid Zukerman, Wray Buntine and Reza Haffari.
+_Inductive Biases for Low Data VQA: A Data Augmentation Approach_

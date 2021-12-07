@@ -188,7 +188,7 @@ seo:
     **[Paper](/files/ALTW_2021_paper_35.pdf)**    **[Poster](/files/posters/35.pdf)**
   _Poster session 2c_
 
-* 15:02 **ALTA General Meeting** 
+* 15:02 **ALTA Annual General Meeting** 
 
 * 15:17 **Best Paper Awards** 
 

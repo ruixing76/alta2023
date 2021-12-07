@@ -198,5 +198,5 @@ seo:
 
 * 18:00 **Social Gathering/Mentorship** – Kumospace
 
-* 16:30 **End of Day 3**
+* 18:30 **End of Day 3**
 

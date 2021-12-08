@@ -7,7 +7,8 @@ seo:
   title: ALTA Mentoring Program | ALTA 2021
 ---
 
-###The [Slack channel](https://join.slack.com/t/slack-8hv5920/shared_invite/zt-zwgwmzwx-dAeCuQbwWFOwvtcOzit_3Q) can be used for mentorship communication during ALTA 2021.
+<span style="color:red">This [Slack channel](https://join.slack.com/t/slack-8hv5920/shared_invite/zt-zwgwmzwx-dAeCuQbwWFOwvtcOzit_3Q) can be used for mentorship communication during ALTA 2021.</span>
+
 Note: The above Slack link works on computers, but for some reason does not work on mobile. We are working on figuring out the problem, but in the mean time, use a computer to join the Slack channel.
 
 ### What is mentoring?

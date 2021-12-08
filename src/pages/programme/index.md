@@ -121,7 +121,7 @@ seo:
 
 * 10:00 **Welcome to Day 3**
 
-* 10:05 **Oral Presentations 4 (Long: 10m + 3m QA, Short: 8m + 2m)** (Chaired by Jey Han Lau)
+* 10:05 **Oral Presentations 4 (Long: 10m + 3m QA, Short: 8m + 2m)** (Chaired by Bahar Salehi)
 
   * <span class="badge badge-abstract"></span> _Inductive Biases for Low Data VQA: A Data Augmentation Approach_  
     Narjes Askarian, Ehsan Abbasnejad, Ingrid Zukerman, Wray Buntine and Reza Haffari   

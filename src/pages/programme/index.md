@@ -29,7 +29,7 @@ seo:
 
   * <span class="badge badge-long"></span> _Combining Shallow and Deep Representations for Text-Pair Classification_     
     Vincent Nguyen, Sarvnaz Karimi and Zhenchang Xing   
-    **[Paper](/files/ALTW_2021_paper_3.pdf)**
+    **[Paper](/files/ALTW_2021_paper_3.pdf)** **[Poster](/files/posters/3.pdf)**
     
   * <span class="badge badge-long"></span> _Robustness Analysis of Grover for Machine-Generated News Detection_     
     Rinaldo Gagiano, Maria Myung-Hee Kim, Xiuzhen Zhang and Jennifer Biggs     
@@ -91,7 +91,7 @@ seo:
   
   * <span class="badge badge-short"></span> _Cross-Domain Language Modeling: An Empirical Investigation_  
     Vincent Nguyen, Sarvnaz Karimi, Maciej Rybinski and Zhenchang Xing  
-    **[Paper](/files/ALTW_2021_paper_14.pdf)**
+    **[Paper](/files/ALTW_2021_paper_14.pdf)** **[Poster](/files/posters/14.pdf)**
   
   * <span class="badge badge-short"></span> _BERT's The Word : Sarcasm Target Detection using BERT_  
     Pradeesh Parameswaran, Andrew Trotman, Veronica Liesaputra and David Eyers  

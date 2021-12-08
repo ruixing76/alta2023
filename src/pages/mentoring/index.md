@@ -53,7 +53,8 @@ Professional and ethical behaviour is expected at all times in a mentor relation
 
 *Mentors: When you are no longer accepting mentees, send an email to exec@alta.asn.au to have your status updated.
 
-The [Slack channel](https://join.slack.com/t/slack-8hv5920/shared_invite/zt-zwgwmzwx-dAeCuQbwWFOwvtcOzit_3Q) can be used for mentorship communication during ALTA 2021.
+###The [Slack channel](https://join.slack.com/t/slack-8hv5920/shared_invite/zt-zwgwmzwx-dAeCuQbwWFOwvtcOzit_3Q) can be used for mentorship communication during ALTA 2021.
+Note: The above Slack link works on computers, but for some reason does not work on mobile. We are working on figuring out the problem, but in the mean time, use a computer to join the Slack channel.
 
 <br><br><br>
 _If you have any questions regarding the ALTA mentoring program, please contact president@alta.asn.au._

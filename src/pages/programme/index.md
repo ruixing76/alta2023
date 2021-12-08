@@ -29,7 +29,7 @@ seo:
 
   * <span class="badge badge-long"></span> _Combining Shallow and Deep Representations for Text-Pair Classification_     
     Vincent Nguyen, Sarvnaz Karimi and Zhenchang Xing   
-    **[Paper](/files/ALTW_2021_paper_3.pdf)**    **[Poster](/files/posters/3.pdf)**
+    **[Paper](/files/ALTW_2021_paper_3.pdf)**
     
   * <span class="badge badge-long"></span> _Robustness Analysis of Grover for Machine-Generated News Detection_     
     Rinaldo Gagiano, Maria Myung-Hee Kim, Xiuzhen Zhang and Jennifer Biggs     

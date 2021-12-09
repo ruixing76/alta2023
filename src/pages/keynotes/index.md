@@ -8,6 +8,7 @@ talks:
       photo: barbara-plank.png
       affiliation: "IT University of Copenhagen"
     title: "Tackling scarce and biased data for more inclusive Natural Language Processing"
+    slides: "files/ALTA2021-scarce-and-biased.pdf"
     abstract: "Deep neural networks have revolutionised our field in recent years. Particularly contextualised representations obtained from large-scale language models have pushed frontiers. Despite of these advances, many challenges and research problems remain, due to the rich variability of language and a dreadful lack and bias in resources.
 
 In this talk, I will outline possible ways to go about these challenges to tackle scarce data and label bias. I will draw upon recent research in cross-lingual learning, data selection and learning from disagreement and present (on-going) work applied to NLP tasks such as syntactic processing, named entity recognition and task-oriented dialogue, showing how weak supervision and multi-task learning can help remedy some of these challenges.

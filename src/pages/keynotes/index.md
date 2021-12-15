@@ -29,6 +29,7 @@ In this talk, I will outline possible ways to go about these challenges to tackl
       affiliation: "Bocconi University"
       photo: dirk-hovy.jpg
     title: "More than words – Integrating social factors into language modeling"
+    slides: "files/social-aspects-alta.pdf"
     abstract: "Language is a social construct. We use it to achieve various conversational goals. Only one among them is to convey information. However, natural language processing has traditionally focused only on this informational aspect, ignoring all social aspects of language. That restriction was partially necessary to make modeling progress. However, I argue that as modeling power increases, we might want to revisit the issue. Social aspects of language can help disambiguate meaning, add more nuance to our models, and are becoming increasingly important in all aspects of generation.
     In this talk, I will outline several of the social dimensions that influence language use, how they affect NLP models, and what efforts are already underway to incorporate them. 
     I will conclude with some open questions and ideas for future directions. If we manage to include social aspects of language into NLP, I believe we will open new research avenues, improve performance, and create fairer language technology."

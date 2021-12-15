@@ -20,6 +20,7 @@ In this talk, I will outline possible ways to go about these challenges to tackl
       affiliation: "Google"
       photo: ben-hutchinson.jpg
     title: "Putting NLP Ethics Into Context"
+    slides: "files/ben-hutchinson-keynote.pdf"
     abstract: "In order to consider the societal and ethical consequences of biases in NLP models, it is necessary to consider how the models will be integrated into user-facing AI systems and products. We also need to consider who those systems will be used by, on and with. In the first part of this talk, I will adopt a wide lens and consider technology ethics within various social, cultural and historical contexts, using examples from my research. In the second part of this talk, I will zoom in to discuss practical challenges that arise when building NLP systems that are contextually appropriate and responsible."
 
   - speakers:

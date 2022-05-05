@@ -3,16 +3,16 @@ templateKey: home-page
 headerImage:
   image: /img/alta-melbourne.svg
   imageAlt: ""
-title: ALTA 2021
-description: The 19th Annual Workshop of the Australasian Language Technology Association
+title: ALTA 2022
+description: The 20th Annual Workshop of the Australasian Language Technology Association
 extraInfo: 
-  - 8 - 10 December, 2021
+  - 13 - 15 December, 2022
   - Virtual Workshop
 seo:
-  browserTitle: ALTA 2021
+  browserTitle: ALTA 2022
   description: >-
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Linguistics. Submissions from students, academics and industry researchers are welcome.
-  title: ALTA 2021
+  title: ALTA 2022
 newsItems:
   # - date: 2021-01-13
   #   text: ALTA 2020 Virtual Workshop instructions will be sent today to all the registered participants. 

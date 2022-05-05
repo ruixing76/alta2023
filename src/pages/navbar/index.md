@@ -5,30 +5,30 @@ menuItems:
     longLabel: Landing Page
     linkType: internal
     linkURL: /
-  - label: Papers
-    longLabel: Papers accepted for oral or poster presentation
-    linkType: internal
-    linkURL: /papers
-  - label: Tutorial
-    longLabel: Tutorial description
-    linkType: internal
-    linkURL: /tutorial
-  - label: Programme
-    longLabel: Landing Page
-    linkType: internal
-    linkURL: /programme
-  - label: Mentoring
-    longLabel: Landing Page
-    linkType: internal
-    linkURL: /mentoring
+  # - label: Papers
+  #   longLabel: Papers accepted for oral or poster presentation
+  #   linkType: internal
+  #   linkURL: /papers
+  # - label: Tutorial
+  #   longLabel: Tutorial description
+  #   linkType: internal
+  #   linkURL: /tutorial
+  # - label: Programme
+  #   longLabel: Landing Page
+  #   linkType: internal
+  #   linkURL: /programme
+  # - label: Mentoring
+  #   longLabel: Landing Page
+  #   linkType: internal
+  #   linkURL: /mentoring
   - label: For Authors
     longLabel: Information for Authors of Papers
     linkType: internal
     linkURL: /for-authors
-  - label: Registration
-    longLabel: Registration
-    linkType: internal
-    linkURL: /registration
+  # - label: Registration
+  #   longLabel: Registration
+  #   linkType: internal
+  #   linkURL: /registration
   - label: Keynotes
     longLabel: Landing Page
     linkType: internal

@@ -3,30 +3,30 @@ module.exports = {
     title: "ALTA 2021 Workshop",
     siteUrl: "https://alta2021.alta.asn.au",
     sponsors: [
-      { 
-        name: "Defence Science and Technology Group",
-        level: "Gold",
-        link: "https://www.dst.defence.gov.au/",
-        image: "dod.png"
-      },
-      { 
-        name: "CSIRO",
-        level: "Silver",
-        link: "https://www.csiro.au/",
-        image: "csiro-logo.png"
-      },
-      { 
-        name: "Google",
-        level: "Gold",
-        image: "Google Logo.png",
-        link: "https://careers.google.com/"
-      },
-      { 
-        name: "GO1",
-        level: "Gold",
-        image: "GO1_Logo_Petrol_Green_RGB.png",
-        link: "https://www.go1.com/"
-      },
+      // { 
+      //   name: "Defence Science and Technology Group",
+      //   level: "Gold",
+      //   link: "https://www.dst.defence.gov.au/",
+      //   image: "dod.png"
+      // },
+      // { 
+      //   name: "CSIRO",
+      //   level: "Silver",
+      //   link: "https://www.csiro.au/",
+      //   image: "csiro-logo.png"
+      // },
+      // { 
+      //   name: "Google",
+      //   level: "Gold",
+      //   image: "Google Logo.png",
+      //   link: "https://careers.google.com/"
+      // },
+      // { 
+      //   name: "GO1",
+      //   level: "Gold",
+      //   image: "GO1_Logo_Petrol_Green_RGB.png",
+      //   link: "https://www.go1.com/"
+      // },
       { 
         name: "",
         longName: "",

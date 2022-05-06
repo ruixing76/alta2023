@@ -6,8 +6,8 @@ logoImage:
   orgLink: https://www.alta.asn.au
   taglines:
     - 19th Annual ALTA Workshop
-    - 8-10 December, 2021 
-    - Virtual Workshop
+    - 13-15 December, 2022 
+    - Flinders University, Adelaine 
 socialLinks:
   - image: /img/email.svg
     imageAlt: Contact us by email

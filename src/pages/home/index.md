@@ -7,7 +7,7 @@ title: ALTA 2022
 description: The 20th Annual Workshop of the Australasian Language Technology Association
 extraInfo: 
   - 13 - 15 December, 2022
-  - Virtual Workshop
+  - Flinders University, Adelaine
 seo:
   browserTitle: ALTA 2022
   description: >-

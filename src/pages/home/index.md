@@ -34,7 +34,7 @@ newsItems:
   #   text: Paper submission is now open on [Easychair](https://easychair.org/conferences/?conf=alta2021).
   # - date: 2021-06-18
   #   text: Learn more about the opportunity to sponsor ALTA2021 [here](/files/ALTA-Sponsorship-Document-2021.pdf)
-  - date: 2021-06-05
+  - date: 2022-06-05
     text: The [call for papers] (/call-for-papers) is out now!
 
  

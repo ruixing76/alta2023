@@ -1,28 +1,31 @@
 ---
 templateKey: default-page
-title: Call for Papers – ALTA 2021
+title: Call for Papers – ALTA 2022
 seo:
-  browserTitle: Call for Papers | ALTA 2021
+  browserTitle: Call for Papers | ALTA 2022
   description: >-
     ALTA is the Australasian Language Technology Association, which connects NLP researchers around Australia and New Zealand. On of the primary purposes of ALTA is organise the ALTA Workshop – the premier workshop in Australasia for sharing research in Natural Language Processing and Computational Linguistics. Submissions from students, academics and industry researchers are welcome.
-  title: Call for Papers | ALTA 2021
+  title: Call for Papers | ALTA 2022
 ---
 
 <h2 id="key-dates">Important Dates</h2>
 
- - Submission Deadline (short and long papers):   <s>10 September, 2021</s> <b>Extended: 1 October, 2021</b>
- - Submission Deadline (abstracts) 5 October, 2021
- - Author Notification:   <s>8 October, 2021</s> 1 November, 2021
+ - Submission Deadline (short and long papers):   <s>15 September, 2022</s> 
+ <!-- <b>Extended: 1 October, 2021</b> -->
+ - Submission Deadline (abstracts) 5 October, 2022
+ - Author Notification:   1 November, 2021
  - Camera-Ready Deadline: 15 November, 2021
- - Workshop:        8-10 December, 2021
+ - Workshop:        13 December, 2022
 
 _Submission deadlines are UTC-11_
 
 ## Overview
 
-Due to the COVID-19 pandemic, the 19th Annual Workshop of the Australasian Language Technology Association will be held virtually from the 8th to the 10th of December 2021.
+The 20th Annual Workshop of the Australasian Language Technology Association will be held in a hybrid format. ALTA will be held from the 13th to the 15th of December 2022.
 
-The ALTA 2021 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers.
+he hybrid format gives participants a valuable opportunity to socialise in-person. The online venue, too, gives participants the chance to network with those unable to attend the in-person session.
+
+The ALTA 2022 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers.
 
 
 Note that ALTA is listed in recently updated CORE 2020 Conference Rankings as Australasian B. See details from [CORE Rankings Portal](https://www.core.edu.au/conference-portal).

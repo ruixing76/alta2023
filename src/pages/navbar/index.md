@@ -38,9 +38,9 @@ menuItems:
   #   linkType: internal
   #   linkURL: /about
   # - label: Call for Papers
-  #   longLabel: Call for Papers and Author Instructions
-  #   linkType: internal
-  #   linkURL: /call-for-papers
+    longLabel: Call for Papers and Author Instructions
+    linkType: internal
+    linkURL: /call-for-papers
   # - label: Committee
   #   longLabel: Programme Committee
   #   linkType: internal

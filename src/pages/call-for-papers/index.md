@@ -15,13 +15,13 @@ seo:
  - Submission Deadline (abstracts) 5 October, 2022
  - Author Notification:   1 November, 2021
  - Camera-Ready Deadline: 15 November, 2021
- - Workshop:        13 December, 2022
+ - Workshop:        14 December, 2022
 
 _Submission deadlines are UTC-11_
 
 ## Overview
 
-The 20th Annual Workshop of the Australasian Language Technology Association will be held in a hybrid format. ALTA will be held from the 13th to the 15th of December 2022.
+The 20th Annual Workshop of the Australasian Language Technology Association will be held in a hybrid format. ALTA will be held from the 14th to the 16th of December 2022.
 
 he hybrid format gives participants a valuable opportunity to socialise in-person. The online venue, too, gives participants the chance to network with those unable to attend the in-person session.
 

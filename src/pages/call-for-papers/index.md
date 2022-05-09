@@ -10,7 +10,7 @@ seo:
 
 <h2 id="key-dates">Important Dates</h2>
 
- - Submission Deadline (short and long papers):   <s>15 September, 2022</s> 
+ - Submission Deadline (short and long papers): 15 September, 2022
  <!-- <b>Extended: 1 October, 2021</b> -->
  - Submission Deadline (abstracts) 5 October, 2022
  - Author Notification:   1 November, 2021

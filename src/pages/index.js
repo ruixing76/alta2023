@@ -10,23 +10,23 @@ import "../styles/home.scss";
 
 const sponsorLevels = ["Platinum", "Gold", "Silver", "Bronze"];
 
-// const NewsItem = ({item}) => (
-//   <li className="news-item">
-//     <span className="news-date">{item.date}</span>
-//     <ReactMarkdown className="news-text" source={item.text}/>
-//   </li>
-// )
+const NewsItem = ({item}) => (
+  <li className="news-item">
+    <span className="news-date">{item.date}</span>
+    <ReactMarkdown className="news-text" source={item.text}/>
+  </li>
+)
 
-// const NewsSection = ({items}) => (
-//   <div className="news-section-wrapper">
-//     <div className="news-section">
-//       <h4>Latest News</h4>
-//       <ul className="news-section-list">
-//         {items.map(i => <NewsItem item={i}></NewsItem>)}
-//       </ul>
-//     </div>
-//   </div>
-//)
+const NewsSection = ({items}) => (
+  <div className="news-section-wrapper">
+    <div className="news-section">
+      <h4>Latest News</h4>
+      <ul className="news-section-list">
+        {items.map(i => <NewsItem item={i}></NewsItem>)}
+      </ul>
+    </div>
+  </div>
+)
 
 
 const SponsorImageLink = (props) => (
@@ -149,10 +149,10 @@ export const pageQuery = graphql`
               title
               description
             }
-            // newsItems {
-            //   date(formatString: "YYYY-MM-DD")
-            //   text
-            // }
+            newsItems {
+              date(formatString: "YYYY-MM-DD")
+              text
+            }
           }
         }
       }

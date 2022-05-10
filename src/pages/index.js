@@ -132,6 +132,11 @@ HomePage.propTypes = {
 
 export default HomePage;
 
+// newsItems {
+//   date(formatString: "YYYY-MM-DD")
+//   text
+// }
+
 export const pageQuery = graphql`
   query HomePageQuery {
     ...LayoutFragment
@@ -150,10 +155,6 @@ export const pageQuery = graphql`
               browserTitle
               title
               description
-            }
-            newsItems {
-              date(formatString: "YYYY-MM-DD")
-              text
             }
           }
         }

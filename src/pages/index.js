@@ -149,10 +149,10 @@ export const pageQuery = graphql`
               title
               description
             }
-            newsItems {
-              date(formatString: "YYYY-MM-DD")
-              text
-            }
+            // newsItems {
+            //   date(formatString: "YYYY-MM-DD")
+            //   text
+            // }
           }
         }
       }

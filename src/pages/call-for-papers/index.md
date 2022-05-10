@@ -13,8 +13,8 @@ seo:
  - Submission Deadline (short and long papers): 15 September, 2022
  <!-- <b>Extended: 1 October, 2021</b> -->
  - Submission Deadline (abstracts) 5 October, 2022
- - Author Notification:   1 November, 2021
- - Camera-Ready Deadline: 15 November, 2021
+ - Author Notification:   1 November, 2022
+ - Camera-Ready Deadline: 15 November, 2022
  - Workshop:        14 December, 2022
 
 _Submission deadlines are UTC-11_

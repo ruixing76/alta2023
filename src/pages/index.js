@@ -95,7 +95,7 @@ export const HomePageTemplate = ({ home, sponsors }) => {
           </div>
         </div>
       </section>
-      {/* <NewsSection items={home.newsItems}/> */}
+      <NewsSection items={home.newsItems}/>
       <section className="sponsors">
         <SponsorListing sponsors={sponsors} />
       </section>

@@ -76,6 +76,8 @@ const SponsorListing = (props) => {
 }
 
 export const HomePageTemplate = ({ home, sponsors }) => {
+  //      <NewsSection items={home.newsItems}/>
+
 
   return (
     <>
@@ -95,7 +97,7 @@ export const HomePageTemplate = ({ home, sponsors }) => {
           </div>
         </div>
       </section>
-      <NewsSection items={home.newsItems}/>
+
       <section className="sponsors">
         <SponsorListing sponsors={sponsors} />
       </section>

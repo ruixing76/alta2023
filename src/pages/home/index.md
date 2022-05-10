@@ -35,7 +35,7 @@ newsItems:
   # - date: 2021-06-18
   #   text: Learn more about the opportunity to sponsor ALTA2021 [here](/files/ALTA-Sponsorship-Document-2021.pdf)
   - date:  2022-05-06
-    text:  hello
+    text:  
 
  
 ---

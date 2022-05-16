@@ -5,7 +5,7 @@ logoImage:
   imageAlt: Australasian Language Technology Association (ALTA)
   orgLink: https://www.alta.asn.au
   taglines:
-    - 19th Annual ALTA Workshop
+    - 20th Annual ALTA Workshop
     - 14-16 December, 2022 
     - Flinders University, Adelaide 
 socialLinks:

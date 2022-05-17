@@ -7,7 +7,7 @@ html {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   text-size-adjust: 100%;
-  background-color: $background-dark;
+  background-color: $background-light;
 }
 
 body {
@@ -29,6 +29,7 @@ a {
   max-width: $container-width;
   padding: 0 $container-padding;
   margin: auto;
+  background-color: $grey;
 }
 
 .section {

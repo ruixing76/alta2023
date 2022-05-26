@@ -15,12 +15,12 @@ module.exports = {
       //   link: "https://www.csiro.au/",
       //   image: "csiro-logo.png"
       // },
-      // { 
-      //   name: "Google",
-      //   level: "Gold",
-      //   image: "Google Logo.png",
-      //   link: "https://careers.google.com/"
-      // },
+      { 
+        name: "Google",
+        level: "Gold",
+        image: "Google Logo.png",
+        link: "https://careers.google.com/"
+      },
       // { 
       //   name: "GO1",
       //   level: "Gold",

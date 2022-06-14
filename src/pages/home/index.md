@@ -13,11 +13,11 @@ seo:
   description: >-
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Linguistics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2022
-# newsItems:
+newsItems:
 #   # - date: 2021-01-13
 #   #   text: ALTA 2020 Virtual Workshop instructions will be sent today to all the registered participants. 
-#   # - date: 2021-01-13
-#   #   text: Papers and Posters are now available. Check [Programme](/programme).
+  - date: 2022-06-15
+    text: Call for Papers is out. See [call for papers](/call-for-papers) for details
 #   # - date: 2021-01-04
 #   #   text: Updated draft proceedings are now available. Click [here](/files/ALTA2020-proceedings-draft.pdf).
 #   # - date: 2020-12-22

@@ -76,8 +76,6 @@ const SponsorListing = (props) => {
 }
 
 export const HomePageTemplate = ({ home, sponsors }) => {
-  //      <NewsSection items={home.newsItems}/>
-
 
   return (
     <>
@@ -97,7 +95,7 @@ export const HomePageTemplate = ({ home, sponsors }) => {
           </div>
         </div>
       </section>
-
+      <NewsSection items={home.newsItems}/>
       <section className="sponsors">
         <SponsorListing sponsors={sponsors} />
       </section>
@@ -132,11 +130,6 @@ HomePage.propTypes = {
 
 export default HomePage;
 
-// newsItems {
-//   date(formatString: "YYYY-MM-DD")
-//   text
-// }
-
 export const pageQuery = graphql`
   query HomePageQuery {
     ...LayoutFragment
@@ -155,6 +148,10 @@ export const pageQuery = graphql`
               browserTitle
               title
               description
+            }
+            newsItems {
+              date(formatString: "YYYY-MM-DD")
+              text
             }
           }
         }

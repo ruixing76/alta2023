@@ -15,7 +15,8 @@ seo:
  - Submission Deadline (presentation abstracts) 7 October, 2022
  - Author Notification:   7 November, 2022
  - Camera-Ready Deadline: 15 November, 2022
- - Workshop:        14 December, 2022
+ - Tutorials: 14 December, 2022
+ - Main Conference: 15-16 December, 2022
 
 _Submission deadlines are UTC-11_
 

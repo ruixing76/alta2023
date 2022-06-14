@@ -5,19 +5,19 @@ organizers:
   title: Organisers
   gallery:
     - image: ""
-      imageAlt: Afshin Rahimi
-      name: Afshin Rahimi
-      organization: University of Queensland
+      imageAlt: David Powers
+      name: David Powers
+      organization: Flinders University
       role: Co-chair
     - image: ""
       imageAlt: Guido Zuccon
-      name: Guido Zuccon
-      organization: University of Queensland
+      name: Jennifer Biggs
+      organization: Defence Science and Technology Group
       role: Co-chair
     - image: ""
-      name: William Lane
-      imageAlt: William Lane
-      organization: Charles Darwin University
+      name: Pradeesh Parameswaran
+      imageAlt: Pradeesh Parameswaran
+      organization: University of Otago
       role: Co-chair
 
 seo:
@@ -27,5 +27,7 @@ seo:
   title: About | ALTA 2022
 ---
 The ALTA Workshop is the premier workshop in Australia, New Zealand and the surrounding regions for sharing research in Natural Language Processing and Computational Linguistics. Submissions from students, academics and industry researchers are welcome. The workshop is run annually, usually in December, under the auspices of the [Australasian Language Technology Association](https://www.alta.asn.au).
+
+ALTA 2019 will be held at University of Technology Sydney from the 14th to the 16th of December. The ALTA 2022 proceedings will be published in December 2022. The [call for papers](/call-for-papers) is now available.
 
 <!-- The workshop of ALTA 2021 is likely to be held in-person with a virtual option, from the 14th to the 15th of December 2021, Australia while ALTA 2021 proceedings will be published in December 2021. The [call for papers](/call-for-papers) is now available. -->

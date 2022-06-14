@@ -4,7 +4,7 @@ title: Call for Papers – ALTA 2022
 seo:
   browserTitle: Call for Papers | ALTA 2022
   description: >-
-    ALTA is the Australasian Language Technology Association, which connects NLP researchers around Australia and New Zealand. On of the primary purposes of ALTA is organise the ALTA Workshop – the premier workshop in Australasia for sharing research in Natural Language Processing and Computational Linguistics. Submissions from students, academics and industry researchers are welcome.
+    ALTA is the Australasian Language Technology Association, which connects NLP researchers around Australia and New Zealand. One of the primary purposes of ALTA is to organise the ALTA Workshop – the premier workshop in Australasia for sharing research in Natural Language Processing and Computational Linguistics. Submissions from students, academics and industry researchers are welcome.
   title: Call for Papers | ALTA 2022
 ---
 
@@ -12,7 +12,7 @@ seo:
 
  - Submission Deadline (short and long papers): 30 September, 2022
  <!-- <b>Extended: 1 October, 2021</b> -->
- - Submission Deadline (abstracts) 7 October, 2022
+ - Submission Deadline (presentation abstracts) 7 October, 2022
  - Author Notification:   7 November, 2022
  - Camera-Ready Deadline: 15 November, 2022
  - Workshop:        14 December, 2022
@@ -21,21 +21,22 @@ _Submission deadlines are UTC-11_
 
 ## Overview
 
-The 20th Annual Workshop of the Australasian Language Technology Association will be held in a hybrid format. ALTA will be held from the 14th to the 16th of December 2022.
+The 20th Annual Workshop of the Australasian Language Technology Association will be held in a hybrid format from the 14th to the 16th of December 2022.
 
-he hybrid format gives participants a valuable opportunity to socialise in-person. The online venue, too, gives participants the chance to network with those unable to attend the in-person session.
+The hybrid format gives participants a valuable opportunity to socialise either in-person or online venue.
 
-The ALTA 2022 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government department researchers and developers.
+The ALTA 2022 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government researchers and developers.
 
+<!-- ALTA supports the equal opportunity of all its members for the development of their career and support of their family. ALTA invites its members who have primary carer responsibilities, or require additional care in order to travel, to apply for funding support to cover additional cost -->
 
-Note that ALTA is listed in recently updated CORE 2020 Conference Rankings as Australasian B. See details from [CORE Rankings Portal](https://www.core.edu.au/conference-portal).
+Note that ALTA is listed in recently updated CORE 2021 Conference Rankings as Australasian B. See details from [CORE Rankings Portal](https://www.core.edu.au/conference-portal).
 
 ## Topics
 
 ALTA invites the submission of papers and presentations on all aspects of natural language processing, including, but not limited to:
 
 - phonology, morphology, syntax, semantics, pragmatics, and discourse
-- speech understanding and generation
+- speech recognition, understanding and generation
 - interpreting spoken and written language
 - natural language generation
 - linguistic, mathematical, and psychological models of language
@@ -51,7 +52,8 @@ ALTA invites the submission of papers and presentations on all aspects of natura
 - computational lexicography
 - summarisation
 - language resources
-- topic modelling and unsupervised language analysis
+- topic modelling, semantics and ontology
+- unsupervised language learning and analysis
 - social media analysis and processing
 - search and information retrieval
 - domain-specific adaptation of natural language processing algorithms
@@ -89,17 +91,17 @@ Original research papers that are under review for other publication venues or t
 
 ### Paper Submission
 
-Authors should submit their papers via [Easychair](https://easychair.org/conferences/?conf=alta2021).
+Authors should submit their papers via [Easychair](https://easychair.org/conferences/?conf=alta2022).
 
 There are 3 tracks in EasyChair this year:
 
-- **ALTA 2021 (Long)** – use this for **long** papers
-- **ALTA 2021 (Short)** – use this for **short** papers
-- **ALTA 2021 (Abstracts)** – use this for **abstracts**
+- **ALTA 2022 (Long)** – use this for **long** papers
+- **ALTA 2022 (Short)** – use this for **short** papers
+- **ALTA 2022 (Abstracts)** – use this for **abstracts**
 
 ### Formatting Guidelines
 
-Submissions must follow the two-column ACL format. We therefore strongly recommend you use [LaTeX style files](/files/acl2021-latex.zip) or [Microsoft Word template](/files/acl2021-word.zip).
+Submissions must follow the two-column ACL format. We therefore strongly recommend you use [LaTeX style files](/files/acl2022-latex.zip) or [Microsoft Word template](/files/acl2022-word.zip).
 
 ### Paper Length
 

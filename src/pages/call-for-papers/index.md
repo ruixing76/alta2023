@@ -92,7 +92,7 @@ Original research papers that are under review for other publication venues or t
 
 ### Paper Submission
 
-Authors should submit their papers via [Easychair](https://easychair.org/conferences/?conf=alta2022).
+Authors should submit their papers via [Easychair](https://easychair.org/cfp/alta2022).
 
 There are 3 tracks in EasyChair this year:
 

@@ -16,6 +16,8 @@ seo:
 newsItems:
 #   # - date: 2021-01-13
 #   #   text: ALTA 2020 Virtual Workshop instructions will be sent today to all the registered participants. 
+  - date: 2022-07-30
+    text: Information for Attendees is out. See [attending](/attending) for details
   - date: 2022-06-15
     text: Call for Papers is out. See [call for papers](/call-for-papers) for details
 #   # - date: 2021-01-04

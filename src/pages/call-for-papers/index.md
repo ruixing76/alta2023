@@ -22,7 +22,7 @@ _Submission deadlines are UTC-11_
 
 ## Overview
 
-The 20th Annual Workshop of the Australasian Language Technology Association will be held in a hybrid format from the 14th to the 16th of December 2022.
+The 20th Annual Workshop of the Australasian Language Technology Association will be held in a hybrid format at Flinders University, Adelaide, from the 14th to the 16th of December 2022
 
 The hybrid format gives participants a valuable opportunity to socialise either in-person or online venue.
 
@@ -92,7 +92,7 @@ Original research papers that are under review for other publication venues or t
 
 ### Paper Submission
 
-Authors should submit their papers via [Easychair](https://easychair.org/conferences/?conf=alta2022).
+Authors should submit their papers via [Easychair](https://easychair.org/cfp/alta2022).
 
 There are 3 tracks in EasyChair this year:
 

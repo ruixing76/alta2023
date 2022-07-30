@@ -17,6 +17,10 @@ menuItems:
   #   longLabel: Landing Page
   #   linkType: internal
   #   linkURL: /programme
+  - label: Attending
+    longLabel: Landing Page
+    linkType: internal
+    linkURL: /attending
   # - label: Mentoring
   #   longLabel: Landing Page
   #   linkType: internal

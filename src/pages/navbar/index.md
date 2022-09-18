@@ -21,10 +21,10 @@ menuItems:
     longLabel: Landing Page
     linkType: internal
     linkURL: /attending
-  # - label: Mentoring
-  #   longLabel: Landing Page
-  #   linkType: internal
-  #   linkURL: /mentoring
+  - label: SharedTask
+    longLabel: Shared Task
+    linkType: external
+    linkURL: http://www.alta.asn.au/events/sharedtask2022/
   # - label: For Authors
   #   longLabel: Information for Authors of Papers
   #   linkType: internal

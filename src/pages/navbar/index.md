@@ -21,7 +21,7 @@ menuItems:
     longLabel: Landing Page
     linkType: internal
     linkURL: /attending
-  - label: SharedTask
+  - label: Shared Task
     longLabel: Shared Task
     linkType: external
     linkURL: http://www.alta.asn.au/events/sharedtask2022/

@@ -14,6 +14,9 @@ seo:
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Linguistics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2022
 newsItems:
+  - date: 2022-09-27
+    text: 
+Paper submission deadline is now extended to 10th October 2022. See [call for papers](/call-for-papers) for details
   - date: 2022-09-18
     text: Call for [ALTA 2022 Shared Task](http://www.alta.asn.au/events/sharedtask2022/)
   - date: 2022-07-30

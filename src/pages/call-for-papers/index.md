@@ -10,8 +10,8 @@ seo:
 
 <h2 id="key-dates">Important Dates</h2>
 
- - Submission Deadline (short and long papers): ~~30 September, 2022~~ <b>Extended: 10 October, 2021</b>
- - Submission Deadline (presentation abstracts) ~~7 October, 2022~~ <b>Extended: 10 October, 2021</b>
+ - Submission Deadline (short and long papers): ~~30 September, 2022~~ <b>Extended: 10 October, 2022</b>
+ - Submission Deadline (presentation abstracts) ~~7 October, 2022~~ <b>Extended: 10 October, 2022</b>
  - Author Notification:   7 November, 2022
  - Camera-Ready Deadline: 15 November, 2022
  - Tutorials: 14 December, 2022

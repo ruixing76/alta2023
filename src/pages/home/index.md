@@ -15,8 +15,7 @@ seo:
   title: ALTA 2022
 newsItems:
   - date: 2022-09-27
-    text: 
-Paper submission deadline is now extended to 10th October 2022. See [call for papers](/call-for-papers) for details
+    text: Paper submission deadline is now extended to 10th October 2022. See [call for papers](/call-for-papers) for details
   - date: 2022-09-18
     text: Call for [ALTA 2022 Shared Task](http://www.alta.asn.au/events/sharedtask2022/)
   - date: 2022-07-30

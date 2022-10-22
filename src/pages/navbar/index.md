@@ -13,10 +13,10 @@ menuItems:
   #   longLabel: Tutorial description
   #   linkType: internal
   #   linkURL: /tutorial
-  # - label: Programme
-  #   longLabel: Landing Page
-  #   linkType: internal
-  #   linkURL: /programme
+  - label: Programme
+    longLabel: Landing Page
+    linkType: internal
+    linkURL: /programme
   - label: Attending
     longLabel: Landing Page
     linkType: internal

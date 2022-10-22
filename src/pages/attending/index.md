@@ -24,7 +24,7 @@ Visa requirements vary by country of citizenship. Please check out [this page](h
 15-16 December: ALTA main conference will be held in the Flinders' [Tonsley campus](https://www.flinders.edu.au/campus/tonsley), located in Tonsley. The Tonsley campus is just 10 km from Adelaide’s CBD with a direct [rail link and bus services](https://www.adelaidemetro.com.au/) available. 
 
 ## Food and Drink
-There are many food and drink venues of various kinds around both the City and Tonsley sites as well as in the Glenelg precint a tramride away (where the conference dinner will be held). Morning and afternoon tea will be provided on site for registrants.
+There are many food and drink venues of various kinds around both the City and Tonsley sites as well as in the Glenelg precint a tramride away (where the conference dinner will be held). Lunch, Morning and afternoon tea will be provided on site for registrants.
 
 ## Accomodation
 There are many suitable local hotels in central Adelaide available for attendees. Participants of ALTA can enjoy a 10% discount on the following hotels by using the following promo code **FLINDERSUNI2022 **

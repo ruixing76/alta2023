@@ -54,12 +54,6 @@ The session will be at Flinders University at Tonsley
 * 18:30 **ALTA/ADCS Dinner @ Chrysler Bar**
 
 
-* 17:00 **ALTA [Keynote](/keynotes)** – Dirk Hovy: More than words – Integrating social factors into language modeling
-
-* 18:00 **Social Gathering/Mentorship** – Kumospace
-
-* 18:30 **End of Day 3**
-
 ## 16th December (Thursday) Day 2 (all times ACDT)
 
 * 09:00 **ALTA Keynote and Rolling Discussion**

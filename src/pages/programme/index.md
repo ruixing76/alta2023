@@ -39,7 +39,7 @@ The session will be at Flinders University at Tonsley
 
 * 10:30 **Morning Tea** 
 
-* 10:30 **Oral Presentations #1**
+* 11:00 **Oral Presentations #1**
 
 * 12:30 **Lunch**
 
@@ -55,6 +55,9 @@ The session will be at Flinders University at Tonsley
 
 
 ## 16th December (Thursday) Day 2 (all times ACDT)
+
+The session will be at Flinders University at Tonsley
+
 
 * 09:00 **ALTA Keynote and Rolling Discussion**
 

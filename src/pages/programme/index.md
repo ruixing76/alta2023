@@ -45,16 +45,16 @@ The session will be at Flinders University at Tonsley
 
 * 13:30 **ALTA Keynote**
 
-* 15:30 **Afternoon Tea**
+* 14:30 **Poster Session**
+
+* 15:30 **Afternoon Tea **
 
 * 16:00 **Oral Presentations #2**
-
-* 17:00 **Poster Session**
 
 * 18:30 **ALTA/ADCS Dinner @ Chrysler Bar**
 
 
-## 16th December (Thursday) Day 2 (all times ACDT)
+## 16th December (Friday) Day 2 (all times ACDT)
 
 The session will be at Flinders University at Tonsley
 

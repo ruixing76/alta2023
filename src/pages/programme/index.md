@@ -47,7 +47,7 @@ The session will be at Flinders University at Tonsley
 
 * 14:30 **Poster Session**
 
-* 15:30 **Afternoon Tea **
+* 15:30 **Afternoon Tea**
 
 * 16:00 **Oral Presentations #2**
 

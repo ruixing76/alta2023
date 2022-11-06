@@ -20,7 +20,10 @@ const FeaturedTalk = ({ speakers, title, slides, abstract }) => (
     {speakers.map(sp => <FeaturedSpeakerDetails {...sp} />)}
     <div className="featured-speaker-talk">
       <div className="featured-speaker-title">{title}</div>
+      <div name="divHrefB" style="height: 0px;width: 0px;overflow:hidden;">
       <a href={slides}>slides</a>
+      </div>
+  
       <ReactMarkdown className="featured-speaker-abstract">{abstract}</ReactMarkdown>
     </div>
     {speakers.map(sp => <FeaturedSpeakerBio {...sp} />)}

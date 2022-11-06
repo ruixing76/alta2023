@@ -37,7 +37,7 @@ export const featuredSpeakersPageQuery = graphql`
       frontmatter {
         talks {
           title
-          // slides
+          slides
           abstract
           speakers {
             name

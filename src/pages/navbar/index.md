@@ -29,7 +29,7 @@ menuItems:
   #   longLabel: Information for Authors of Papers
   #   linkType: internal
   #   linkURL: /for-authors
-  # - label: Registration
+  - label: Registration
     longLabel: Registration
     linkType: internal
     linkURL: /registration

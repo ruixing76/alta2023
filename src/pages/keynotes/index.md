@@ -23,7 +23,7 @@ talks:
 
   - speakers:
     - name: Thora Tenbrink
-      bio: "Thora Tenbrink is Professor of Linguistics at Bangor University (Wales, UK), and uses linguistic analysis to understand how people think. She is author of “Cognitive Discourse Analysis:  An Introduction” (Cambridge University Press, 2020) and 'Space, Time, and the Use of Language' (Mouton de Gruyter, 2007), has co-edited various further books on spatial language, representation, and dialogue, and published more than 40 peer-reviewed journal papers on a wide range of interdisciplinary topics. Personal professional website: http://knirb.net; t.tenbrink[at]bangor[dot]ac[dot]uk"
+      bio: "Thora Tenbrink is Professor of Linguistics at Bangor University (Wales, UK), and uses linguistic analysis to understand how people think. She is author of “Cognitive Discourse Analysis:  An Introduction” (Cambridge University Press, 2020) and 'Space, Time, and the Use of Language' (Mouton de Gruyter, 2007), has co-edited various further books on spatial language, representation, and dialogue, and published more than 40 peer-reviewed journal papers on a wide range of interdisciplinary topics. Personal professional website: http://knirb.net; t.tenbrink@bangor.ac.uk"
       affiliation: "Bangor University"
       photo: Thora.jpg
     title: "Beyond physical robots: How to achieve joint spatial reference with a smart environment"

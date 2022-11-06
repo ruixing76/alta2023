@@ -43,7 +43,7 @@ The session will be at Flinders University at Tonsley
 
 * 12:30 **Lunch**
 
-* 13:30 **ALTA Keynote**
+* 13:30 **ALTA/ADCS Joint Session**
 
 * 14:30 **Poster Session**
 

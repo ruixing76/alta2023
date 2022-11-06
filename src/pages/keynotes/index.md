@@ -2,43 +2,49 @@
 templateKey: featured-speakers-page
 title: Keynotes
 talks:
-  - speakers:
-    - name: Barbara Plank
-      bio: "Barbara is Professor in the Computer Science Department at ITU (IT University of Copenhagen). She is also the Head of the Master in Data Science Program. She received her PhD in Computational Linguistics from the University of Groningen. Her research interests focus on Natural Language Processing, in particular transfer learning and adaptatiosn, learning from beyond the text, and in general learning under limited supervision and fortuitous data sources. She (co)-organised several workshops and international conferences, amongst which the PEOPLES workshop (since 2016) and the first European NLP Summit (EurNLP 2019). Barbara was general chair of the 22nd Northern Computational Linguistics conference (NoDaLiDa 2019) and workshop chair for ACL in 2019. Barbara is member of the advisory board of the European Association for Computational Linguistics (EACL) and vice-president of the Northern European Association for Language Technology (NEALT)."
-      photo: barbara-plank.png
-      affiliation: "IT University of Copenhagen"
-    title: "Tackling scarce and biased data for more inclusive Natural Language Processing"
-    slides: "files/ALTA2021-scarce-and-biased.pdf"
-    abstract: "Deep neural networks have revolutionised our field in recent years. Particularly contextualised representations obtained from large-scale language models have pushed frontiers. Despite of these advances, many challenges and research problems remain, due to the rich variability of language and a dreadful lack and bias in resources.
-
-In this talk, I will outline possible ways to go about these challenges to tackle scarce data and label bias. I will draw upon recent research in cross-lingual learning, data selection and learning from disagreement and present (on-going) work applied to NLP tasks such as syntactic processing, named entity recognition and task-oriented dialogue, showing how weak supervision and multi-task learning can help remedy some of these challenges.
-"
 
   - speakers:
-    - name: Ben Hutchinson
-      bio: "Ben Hutchinson is a Senior Researcher at Google Research Australia. Based in Google's Center for Responsible AI and Human-Centered Technology, he works on topics of AI ethics, fairness, accountability and safety, adopting a broad research lens that spans disciplines. Prior to joining Google Research, he spent ten years working as a Software Engineer on products such as Google Maps, Google Wave, Google Knowledge Graph, Google Search, and others. He uses this engineering experience to work closely with research and product teams on practices for Responsible AI. He has undergraduate degrees in linguistics and mathematics, and a PhD in Natural Language Processing from the University of Edinburgh."
-      affiliation: "Google"
-      photo: ben-hutchinson.jpg
-    title: "Putting NLP Ethics Into Context"
-    slides: "files/ben-hutchinson-keynote.pdf"
-    abstract: "In order to consider the societal and ethical consequences of biases in NLP models, it is necessary to consider how the models will be integrated into user-facing AI systems and products. We also need to consider who those systems will be used by, on and with. In the first part of this talk, I will adopt a wide lens and consider technology ethics within various social, cultural and historical contexts, using examples from my research. In the second part of this talk, I will zoom in to discuss practical challenges that arise when building NLP systems that are contextually appropriate and responsible."
+    - name: Barbara Tversky
+      bio: "Barbara Tversky is a cognitive scientist who has been fascinated by memory, categorization, language, spatial thinking, event perception and cognition, diagrammatic reasoning, design, creativity. She has enjoyed collaborations with neuroscientists, computer scientists, linguists, philosophers, domain scientists, artists, and designers. She has served on many editorial boards, governing boards, conference committees, won a couple of prizes, is fellow of several societies, and served as President of the Association for Psychological Science. She has held positions, some long, some short, at the Hebrew University, University of Michigan, Stanford University, Columbia Teachers College, Malardalen University, and the Ecole Normale for Social Sciences."
+      affiliation: "Stanford University"
+      photo: barbara.jpg
+    title: "Mind in Motion: How Action Shapes Thought"
+    # slides: "files/ben-hutchinson-keynote.pdf"
+    abstract: "I will present a case that actions in space and with the things in it are the foundation of thought, not the entire edifice, but the foundation. To this end, I will bring evidence from neuroscience, from behavior, from language, and from gesture."
 
   - speakers:
-    - name: Dirk Hovy
-      bio: "Dirk Hovy is associate professor of computer science at Bocconi University in Milan, Italy. Before that, he was faculty and a postdoc in Copenhagen, got a PhD from USC, and a linguistics masters in Germany. He is interested in the interaction between language, society, and machine learning, or what language can tell us about society, and what computers can tell us about language. He recently received an ERC Starting grant to explore the effect of sociodemographic variation on NLP models. Dirk has authored over 70 articles on these topics, including 3 best paper awards. He has organized one conference and several workshops (on abusive language, ethics in NLP, and computational social science). Outside of work, Dirk enjoys cooking, running, and leather-crafting. For updated information, see http://www.dirkhovy.com"
-      affiliation: "Bocconi University"
-      photo: dirk-hovy.jpg
-    title: "More than words – Integrating social factors into language modeling"
-    slides: "files/social-aspects-alta.pdf"
-    abstract: "Language is a social construct. We use it to achieve various conversational goals. Only one among them is to convey information. However, natural language processing has traditionally focused only on this informational aspect, ignoring all social aspects of language. That restriction was partially necessary to make modeling progress. However, I argue that as modeling power increases, we might want to revisit the issue. Social aspects of language can help disambiguate meaning, add more nuance to our models, and are becoming increasingly important in all aspects of generation.
-    In this talk, I will outline several of the social dimensions that influence language use, how they affect NLP models, and what efforts are already underway to incorporate them. 
-    I will conclude with some open questions and ideas for future directions. If we manage to include social aspects of language into NLP, I believe we will open new research avenues, improve performance, and create fairer language technology."
+    - name: Eduard Hovy 
+      # bio: "Barbara is Professor in the Computer Science Department at ITU (IT University of Copenhagen). She is also the Head of the Master in Data Science Program. She received her PhD in Computational Linguistics from the University of Groningen. Her research interests focus on Natural Language Processing, in particular transfer learning and adaptatiosn, learning from beyond the text, and in general learning under limited supervision and fortuitous data sources. She (co)-organised several workshops and international conferences, amongst which the PEOPLES workshop (since 2016) and the first European NLP Summit (EurNLP 2019). Barbara was general chair of the 22nd Northern Computational Linguistics conference (NoDaLiDa 2019) and workshop chair for ACL in 2019. Barbara is member of the advisory board of the European Association for Computational Linguistics (EACL) and vice-president of the Northern European Association for Language Technology (NEALT)."
+      photo: Ed.png
+      affiliation: "University of Melbourne and Carnegie Mellon University "
+    title: "On the complementarity of neural and symbolic approaches, and on how to transfer between them"
+    # slides: "files/ALTA2021-scarce-and-biased.pdf"
+    abstract: "Today’s neural NLP can do amazing things, leading some people to expect human-level performance soon. But it also fails spectacularly, in ways we find hard to predict and explain.  Is perfection just a matter of doing additional neural architecture engineering and more-advanced training to overcome these problems, or are there deeper reasons for the failures?  I argue that trying to understand the nature and reason for failures by couching the necessary operations in terms of symbolic reasoning is a good way to discover what neural networks will remain unable to do despite additional architecture engineering and training."
+
+  - speakers:
+    - name: Thora Tenbrink
+      bio: "Thora Tenbrink is Professor of Linguistics at Bangor University (Wales, UK), and uses linguistic analysis to understand how people think. She is author of “Cognitive Discourse Analysis:  An Introduction” (Cambridge University Press, 2020) and 'Space, Time, and the Use of Language' (Mouton de Gruyter, 2007), has co-edited various further books on spatial language, representation, and dialogue, and published more than 40 peer-reviewed journal papers on a wide range of interdisciplinary topics. Personal professional website: http://knirb.net;"
+      affiliation: "Laboratoire de psychologie cognitive (CNRS)"
+      photo: Thora.jpg
+    title: "Beyond physical robots: How to achieve joint spatial reference with a smart environment"
+    # slides: "files/social-aspects-alta.pdf"
+    abstract: "Interacting with a smart environment involves joint understanding of where things and people are or where they should be. Face-to-face interaction between humans, or between humans and robots, implies clearly identifiable perspectives on the environment that can be used to establish such a joint understanding. A smart environment, in contrast, is ubiquitous and thus perspective-independent. In this talk I will review the implications of this situation in terms of the challenges for establishing joint spatial reference between humans and smart systems, and present a somewhat unconventional solution as an opportunity."
+
+
+  - speakers:
+    - name: Stephane Dufau
+      bio: "Stephane Dufau is a research engineer working for the CNRS (French National Centre for Scientific Research) in the Cognitive psychology lab in Marseille, France (UMR7290, CNRS & Aix-Marseille University). He is currently on sabbatical at Queensland Brain Institute, The University of Queensland, Australia. His main research interests include computational models of the cognitive processes involved in reading."
+      affiliation: "Laboratoire de psychologie cognitive (CNRS)"
+      photo: Stephane.png
+    title: "How a reading brain works: insights from experimental studies and modelling"
+    # slides: "files/social-aspects-alta.pdf"
+    abstract: "Understanding how a human brain processes language in its written form has been at the heart of numerous research efforts over the last century, from the experimental works carried on in the first psychology labs to the use of modern computational models. In my talk, I will briefly review the research domain in an historical perspective and discuss the current concepts that help frame our understanding of our ability to read. I will argue that, in order to deeply represent the interaction between the core reading processes found in perception, attention, and language functions, reading is better investigated with a set of simple models rather than modelled with fully integrated neural networks. Whether computational or not, such simple models are built on basic principles like delta rule and random walks and are constrained by patterns of experimental results from both psycho- and neuro-linguistics. A series of research showcasing the method will be presented, with applications related to Natural Language Processing. More specifically, I will illustrate how text simplification has helped children with reading difficulties read better."
   
 
 seo:
-  browserTitle: Keynotes | ALTA 2021
+  browserTitle: Keynotes | ALTA 2022
   description: >-
     Keynote talks at ALTA, Australasia's Premier NLP conference
-  title: Keynotes | ALTA 2021
+  title: Keynotes | ALTA 2022
 ---
 

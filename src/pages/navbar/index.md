@@ -30,9 +30,9 @@ menuItems:
   #   linkType: internal
   #   linkURL: /for-authors
   # - label: Registration
-  #   longLabel: Registration
-  #   linkType: internal
-  #   linkURL: /registration
+    longLabel: Registration
+    linkType: internal
+    linkURL: /registration
   # - label: Keynotes
   #   longLabel: Landing Page
   #   linkType: internal

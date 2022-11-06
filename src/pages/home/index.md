@@ -15,6 +15,8 @@ seo:
   title: ALTA 2022
 newsItems:
   - date: 2022-06-11
+    text: We are pleased to announce that announce Barbara Tversky, Eduard Hovy, Thora Tenbrink and Stephane Dufau as our keynote speakers. See [Keynotes](/keynotes) for details
+  - date: 2022-06-11
     text: ALTA 2022 Workshop registration is now open. See [registration](/registration) for details
   - date: 2022-10-22
     text: Draft programme is now avaliable. See [programme](/programme) for details

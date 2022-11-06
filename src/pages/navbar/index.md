@@ -33,10 +33,10 @@ menuItems:
     longLabel: Registration
     linkType: internal
     linkURL: /registration
-  # - label: Keynotes
-  #   longLabel: Landing Page
-  #   linkType: internal
-  #   linkURL: /keynotes
+  - label: Keynotes
+    longLabel: Landing Page
+    linkType: internal
+    linkURL: /keynotes
   - label: About
     longLabel: Explanation of ALTA
     linkType: internal

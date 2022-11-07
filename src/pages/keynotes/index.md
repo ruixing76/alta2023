@@ -25,7 +25,7 @@ talks:
     - name: Thora Tenbrink
       bio: "Thora Tenbrink is Professor of Linguistics at Bangor University (Wales, UK), and uses linguistic analysis to understand how people think. She is author of “Cognitive Discourse Analysis:  An Introduction” (Cambridge University Press, 2020) and 'Space, Time, and the Use of Language' (Mouton de Gruyter, 2007), has co-edited various further books on spatial language, representation, and dialogue, and published more than 40 peer-reviewed journal papers on a wide range of interdisciplinary topics. Personal professional website: http://knirb.net; t.tenbrink@bangor.ac.uk"
       affiliation: "Bangor University"
-      photo: Thora.jpg
+      photo: Thora.png
     title: "Beyond physical robots: How to achieve joint spatial reference with a smart environment"
     slides: ""
     abstract: "Interacting with a smart environment involves joint understanding of where things and people are or where they should be. Face-to-face interaction between humans, or between humans and robots, implies clearly identifiable perspectives on the environment that can be used to establish such a joint understanding. A smart environment, in contrast, is ubiquitous and thus perspective-independent. In this talk I will review the implications of this situation in terms of the challenges for establishing joint spatial reference between humans and smart systems, and present a somewhat unconventional solution as an opportunity."

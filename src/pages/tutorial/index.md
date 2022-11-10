@@ -7,7 +7,7 @@ seo:
   title: Tutorial | ALTA 2022
 ---
 
-## Combating misinformation on the social media from detection to mitigation
+## "Combating misinformation on the social media: from detection to mitigation"
 
 
 ### Abstract

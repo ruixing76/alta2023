@@ -1,6 +1,6 @@
 ---
 templateKey: default-page
-title: Combating misinformation on the social media: from detection to mitigation
+title: Combating misinformation on the social media from detection to mitigation
 seo:
   browserTitle: Information for Authors | ALTA 2022
   description: Information for Authors | ALTA 2022

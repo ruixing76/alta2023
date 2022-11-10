@@ -47,10 +47,11 @@ Professional and ethical behaviour is expected at all times in a mentor relation
 | Massimo Piccardi&nbsp;&nbsp;&nbsp;&nbsp;| University of Technology Sydney         | Professor                | massimo.piccardi@uts.edu.au       |  Yes            |
 | Meladel Mistica  | University of Melbourne                 | Research Data Specialist&nbsp; | misticam@unimelb.edu.au          |  Yes            |
 | Sarvnaz Karimi   | CSIRO                                   | Principal Scientist         | sarvnaz.karimi@csiro.au          | Yes            |
+| Shunichi Ishihara    | Australian National University      | Associate Professor      | shunichi.ishihara@anu.edu.au      | Yes            |
 | Stephen Wan      | CSIRO                                   | Senior Scientist         | stephen.wan@data61.csiro.au       |   Yes            |
 | Timothy Baldwin  | University of Melbourne                 | Professor                | tb@ldwin.net                      | Yes            |
 | Xiuzhen Zhang    | Royal Melbourne Institute of Technology&nbsp;&nbsp; | Professor                | xiuzhen.zhang@rmit.edu.au         | Yes            |
-| Shunichi Ishihara    | Australian National University      | Associate Professor      | shunichi.ishihara@anu.edu.au      | Yes            |
+
 
 *Mentors: When you are no longer accepting mentees, send an email to exec@alta.asn.au to have your status updated.
 

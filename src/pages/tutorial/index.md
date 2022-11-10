@@ -1,11 +1,15 @@
 ---
 templateKey: default-page
-title: Combating misinformation on the social media from detection to mitigation
+title: Tutorial
 seo:
-  browserTitle: Information for Authors | ALTA 2022
-  description: Information for Authors | ALTA 2022
-  title: Information for Authors | ALTA 2022
+  browserTitle: Tutorial | ALTA 2022
+  description: Tutorial | ALTA 2022
+  title: Tutorial | ALTA 2022
 ---
+
+## Combating misinformation on the social media from detection to mitigation
+
+
 ### Abstract
 
 The spread of misinformation — i.e. false or misleading information — has a profound impact on our society, and in the age of social media, its effect is amplified due to the ease of information sharing. The COVID-19 pandemic is perhaps the latest instance that showed us concrete ramifications of misinformation (e.g. vaccine hesitancy), and more broadly how misinformation can cause social division and undermine public trust in governments. The topical diversity, multi-modality and multi-linguality of misinformation and its complex interaction with humans on social media platforms presents significant challenges and attracts research from the Data Science and NLP communities to combat misinformation. In this tutorial, we present machine learning, text mining and natural language processing techniques as well as recommender system technologies for the detection and mitigation of misinformation on social media. The tutorial will comprise three parts; (1) misinformation and human perception; (2) misinformation detection; and (3) misinformation mitigation.

@@ -29,9 +29,15 @@ module.exports = {
       //  },
       { 
         name: "University of Melbourne",
-        level: "Supported By",
+        level: "Event",
         image: "MDAP.png",
         link: "https://mdap.unimelb.edu.au/"
+      },
+      { 
+        name: "Flinders University",
+        level: "Event",
+        image: "flinders.png",
+        link: "https://www.flinders.edu.au/"
       },
       { 
         name: "",

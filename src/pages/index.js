@@ -8,7 +8,7 @@ import "../styles/sponsors-page.scss";
 import Layout from "../components/Layout";
 import "../styles/home.scss";
 
-const sponsorLevels = ["Platinum", "Gold", "Silver", "Bronze","Supported By"];
+const sponsorLevels = ["Platinum", "Gold", "Silver", "Bronze","Event"];
 
 const NewsItem = ({item}) => (
   <li className="news-item">

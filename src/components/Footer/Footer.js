@@ -4,7 +4,7 @@ import "./styles.scss";
 export const FooterTemplate = ({ frontmatter, site }) => {
   const { logoImage, socialLinks } = frontmatter;
   const { sponsors } = site.siteMetadata;
-  const footerSponsorLevels = ["Platinum", "Gold", "Silver","Bronze"];
+  const footerSponsorLevels = ["Platinum", "Gold", "Silver","Bronze","Supported By"];
 
   return (
     <nav className="footer">

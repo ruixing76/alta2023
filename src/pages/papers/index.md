@@ -9,7 +9,7 @@ seo:
 ---
 
 
-The following papers have been accepted for oral or poster presentation at ALTA 2021.
+The following papers have been accepted for oral or poster presentation at ALTA 2022.
 
 ## Long Papers: 
 
@@ -41,7 +41,7 @@ _Improving Text-based Early Prediction by Distillation from Privileged Time-Seri
 _A DistilBERTopic Model for Short Text Documents_
 
 * Bryan Gregorius and Takeshi Okadome.
-_ Generating Code-Switched Text from Monolingual Text with Dependency Tree_
+_Generating Code-Switched Text from Monolingual Text with Dependency Tree_
 
 * Susan Brown and Shunichi Ishihara.
 _Stability of Forensic Text Comparison System_
@@ -50,13 +50,13 @@ _Stability of Forensic Text Comparison System_
 _Academic Curriculum Generation using Wikipedia for External Knowledge_
 
 * Jiayi Dai, Mi-Young Kim and Randy Goebel.
-_ Interactive Rationale Extraction for Text Classification_
+_Interactive Rationale Extraction for Text Classification_
 
 * Rui Xing, Shraey Bhatia, Timothy Baldwin and Jey Han Lau.
 _Automatic Explanation Generation For Climate Science Claims_
 
 * Yishan Huang and Gwendolyn Hyslop.
-_ Zhangzhou Implosives and Their Variations_
+_Zhangzhou Implosives and Their Variations_
 
 * Gisela Vallejo, Timothy Baldwin and Lea Frermann.
 _Evaluating the Examiner: The Perils of Pearson Correlation for Validating Text Similarity Metrics_
@@ -65,7 +65,7 @@ _Evaluating the Examiner: The Perils of Pearson Correlation for Validating Text 
 _Can Language Models Help in System Security? Investigating Log Anomaly Detection using BERT_
 
 * Lucas Domingos and Paulo Santos.
-_ A Semantics of Spatial Expressions for interacting with unmanned aerial vehicles_
+_A Semantics of Spatial Expressions for interacting with unmanned aerial vehicles_
 
 * Shunichi Ishihara, Satoru Tsuge, Mitsuyuki Inaba and Wataru Zaitsu
 _Estimating the Strength of Authorship Evidence with a Deep-Learning-Based Approach_
@@ -74,7 +74,7 @@ _Estimating the Strength of Authorship Evidence with a Deep-Learning-Based Appro
 _Textstar: a Fast and Lightweight Graph-Based Algorithm for Extractive Summarization and Keyphrase Extraction_
 
 * Thanh Tran, Maelic Neau, Paulo Santos and David Powers.
-_ Contrastive Visual and Language Learning for Visual Relationship Detection_
+_Contrastive Visual and Language Learning for Visual Relationship Detection_
 
 ## Abstracts: 
 
@@ -82,10 +82,13 @@ _ Contrastive Visual and Language Learning for Visual Relationship Detection_
 _A Multi-Faceted Reward for Adversarial Attacks on Text Classifiers_
 
 * Michael Dorin and Judith Dorin.
-_ Extended Abstract: Verifying Urarina Language Phonemes With TensorFlow_
+_Extended Abstract: Verifying Urarina Language Phonemes With TensorFlow_
 
 * Nathan White
 _Probing of Quantitative Values in Abstractive Summarization Models_
 
 * Qiaoyang Luo and Lingqiao Liu
-_ Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship Descriptor_
+_Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship Descriptor_
+
+* Charbel El-Khaissi
+_Writing Progress in Australian Schools: An Experimental Proof-of-concept Application_

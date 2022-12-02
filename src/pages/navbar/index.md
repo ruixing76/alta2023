@@ -5,10 +5,10 @@ menuItems:
     longLabel: Landing Page
     linkType: internal
     linkURL: /
-  # - label: Papers
-  #   longLabel: Papers accepted for oral or poster presentation
-  #   linkType: internal
-  #   linkURL: /papers
+  - label: Papers
+    longLabel: Papers accepted for oral or poster presentation
+    linkType: internal
+    linkURL: /papers
   - label: Tutorial
     longLabel: Tutorial description
     linkType: internal

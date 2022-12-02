@@ -42,6 +42,7 @@ Professional and ethical behaviour is expected at all times in a mentor relation
 | Daniel Beck      | University of Melbourne                 | Lecturer                 | d.beck@unimelb.edu.au             | Yes            |
 | David Powers     | Flinders University                     | Professor                | david.powers@flinders.edu.au      | Yes            |
 | Diego Molla      | Macquarie University                    | Senior Lecturer          | diego.molla-aliod@mq.edu.au       | Yes            |
+| Gabriela Ferraro      | CSIRO Data61                    | Researcher      | gabriela.ferraro@data61.csiro.au       | Yes            |
 | Jennifer Biggs   | Defence Science and Technology Group&nbsp;&nbsp;    | Defence Scientist        | jennifer.biggs@dst.defence.gov.au | Yes            |
 | Jey Han Lau      | University of Melbourne                 | Lecturer                 | jeyhan.lau@gmail.com              | Yes            |
 | Maria Kim        | Defence Science and Technology Group&nbsp;&nbsp;    | Defence Scientist        | maria.kim@dst.defence.gov.au      | Yes            |

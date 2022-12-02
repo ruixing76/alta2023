@@ -40,12 +40,16 @@ Professional and ethical behaviour is expected at all times in a mentor relation
 | Bahar Salehi    | Go1                | Senior Data Scientist                 | bahar.salehi@go1.com                |  Yes            |
 | Borhan Kazimipour    | Australian Taxation Office                | Director of Data Science                 | Borhan.Kazimipour@ato.gov.au                |  Yes            |
 | Daniel Beck      | University of Melbourne                 | Lecturer                 | d.beck@unimelb.edu.au             | Yes            |
+| David Powers     | Flinders University                     | Professor                | david.powers@flinders.edu.au      | Yes            |
 | Diego Molla      | Macquarie University                    | Senior Lecturer          | diego.molla-aliod@mq.edu.au       | Yes            |
+| Gabriela Ferraro      | CSIRO Data61                    | Researcher      | gabriela.ferraro@data61.csiro.au       | Yes            |
 | Jennifer Biggs   | Defence Science and Technology Group&nbsp;&nbsp;    | Defence Scientist        | jennifer.biggs@dst.defence.gov.au | Yes            |
 | Jey Han Lau      | University of Melbourne                 | Lecturer                 | jeyhan.lau@gmail.com              | Yes            |
 | Maria Kim        | Defence Science and Technology Group&nbsp;&nbsp;    | Defence Scientist        | maria.kim@dst.defence.gov.au      | Yes            |
 | Massimo Piccardi&nbsp;&nbsp;&nbsp;&nbsp;| University of Technology Sydney         | Professor                | massimo.piccardi@uts.edu.au       |  Yes            |
 | Meladel Mistica  | University of Melbourne                 | Research Data Specialist&nbsp; | misticam@unimelb.edu.au          |  Yes            |
+| Paulo E. Santos  | Flinders University                     | Associate Professor      | paulo.santos@flinders.edu.au      |  Yes            |
+| Richard Leibbrandt   | Flinders University                 | Lecturer                 | Richard.leibbrandt@flinders.edu.au      |  Yes            |
 | Sarvnaz Karimi   | CSIRO                                   | Principal Scientist         | sarvnaz.karimi@csiro.au          | Yes            |
 | Shunichi Ishihara    | Australian National University      | Associate Professor      | shunichi.ishihara@anu.edu.au      | Yes            |
 | Stephen Wan      | CSIRO                                   | Senior Scientist         | stephen.wan@data61.csiro.au       |   Yes            |

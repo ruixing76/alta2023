@@ -24,7 +24,10 @@ _Fine-tuning a Subtle Parsing Distinction Using a Probabilistic Decision Tree: t
 _Robustness of Hybrid Models in Cross-domain Readability Assessments_
 
 * Pradeesh Parameswaran, Andrew Trotman, Veronica Liesaputra and David Eyers.
-_Revisiting the ALTA 2020 Shared Task: Using Aspect-Based Sentiment Analysis to Classify Attitude-bearing Words_  
+_Revisiting the ALTA 2020 Shared Task: Using Aspect-Based Sentiment Analysis to Classify Attitude-bearing Words_
+
+* Tom Roth, Inigo Jauregi Unanue, Alsharif Abuadbba and Massimo Piccardi
+_A Multi-Faceted Reward for Adversarial Attacks on Text Classifiers_
 
 * Rolf Schwitter.
 _Specifying Optimisation Problems for Declarative Programs in Precise Natural Language_

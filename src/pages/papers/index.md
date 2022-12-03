@@ -11,8 +11,6 @@ seo:
 
 The following papers have been accepted for oral or poster presentation at ALTA 2022.
 
-## Long Papers: 
-
 * Manny Rayner, Belinda Chiera and Cathy Chua. 
 _Using public domain resources and off-the-shelf tools to produce high-quality multimedia texts_ 
 
@@ -27,9 +25,6 @@ _Robustness of Hybrid Models in Cross-domain Readability Assessments_
 
 * Pradeesh Parameswaran, Andrew Trotman, Veronica Liesaputra and David Eyers.
 _Revisiting the ALTA 2020 Shared Task: Using Aspect-Based Sentiment Analysis to Classify Attitude-bearing Words_  
-
-
-## Short Papers: 
 
 * Rolf Schwitter.
 _Specifying Optimisation Problems for Declarative Programs in Precise Natural Language_
@@ -67,7 +62,7 @@ _Can Language Models Help in System Security? Investigating Log Anomaly Detectio
 * Lucas Domingos and Paulo Santos.
 _A Semantics of Spatial Expressions for interacting with unmanned aerial vehicles_
 
-* Shunichi Ishihara, Satoru Tsuge, Mitsuyuki Inaba and Wataru Zaitsu
+* Shunichi Ishihara, Satoru Tsuge, Mitsuyuki Inaba and Wataru Zaitsu.
 _Estimating the Strength of Authorship Evidence with a Deep-Learning-Based Approach_
 
 * David Brock, Ali Khan, Tam Doan, Alicia Lin, Yifan Guo and Paul Tarau.

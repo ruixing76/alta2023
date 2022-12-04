@@ -139,4 +139,4 @@ The session will be at Flinders University at Tonsley
   Aleney Khoo, Maciej Rybinski, Sarvnaz Karimi and Adam Dunn.
 
 
-* 16:00 **Best Paper Award/Shared Task Award/Closing**
+* 16:50 **Best Paper Award/Shared Task Award/Closing**

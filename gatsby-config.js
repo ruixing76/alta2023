@@ -40,11 +40,10 @@ module.exports = {
         link: "https://www.flinders.edu.au/"
       },
       { 
-        name: "",
-        longName: "",
-        level: "",
-        image: "",
-        link: ""
+        name: "CNRS International Research Lab CROSSING ",
+        level: "Event",
+        image: "crossing.png",
+        link: "https://crossing.cnrs.fr/"
       }
     ],
     sponsorLevels: ["Platinum", "Gold", "Silver", "Bronze"]

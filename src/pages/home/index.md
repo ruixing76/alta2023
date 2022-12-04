@@ -14,7 +14,13 @@ seo:
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Linguistics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2022
 newsItems:
-  - date: 2022-06-11
+  - date: 2022-12-04
+    text: Workshop programme is now available. Check [Programme](/programme).
+  - date: 2022-12-04
+    text: The list of accepted papers is now available here. Check [Papers](/papers).
+  - date: 2022-11-06
+    text: Sarvnaz Karimi and Aditya Joshi will deliver a tutorial on B[keynote](/keynotes) speakers.
+  - date: 2022-11-06
     text: We are pleased to announce that Barbara Tversky, Eduard Hovy, Thora Tenbrink and Stephane Dufau as our [keynote](/keynotes) speakers.
   - date: 2022-06-11
     text: ALTA 2022 Workshop registration is now open. See [registration](/registration) for details

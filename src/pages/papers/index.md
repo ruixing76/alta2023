@@ -14,20 +14,26 @@ The following papers have been accepted for oral or poster presentation at ALTA 
 * Manny Rayner, Belinda Chiera and Cathy Chua. 
 _Using public domain resources and off-the-shelf tools to produce high-quality multimedia texts_ 
 
+* Steven Coats.
+_The Corpus of Australian and New Zealand Spoken English: A new resource of naturalistic speech transcripts_
+
+* Aleney Khoo, Maciej Rybinski, Sarvnaz Karimi and Adam Dunn.
+_The Role of Context in Vaccine Stance Prediction for Twitter Users_
+
 * Fatemeh Shiri, Tongtong Wu, Yuanfang Li and Gholamreza Haffari. 
 _TCG-Event: Effective Task Conditioning for Generation-based Event Extraction_  
 
 * Xiao-Yu Guo, Yuan-Fang Li and Gholamreza Haffari.
-_Fine-tuning a Subtle Parsing Distinction Using a Probabilistic Decision Tree: the Case of Postnominal "that" in Noun Complement Clauses vs. Relative Clauses_  
+_Complex Reading Comprehension Through Question Decomposition_
+
+* Ho Hung Lim, Tianyuan Cai, John S. Y. Lee and Meichun Liu.
+_Robustness of Hybrid Models in Cross-domain Readability Assessment_
 
 * Zineddine Tighidet and Nicolas Ballier.
-_Robustness of Hybrid Models in Cross-domain Readability Assessments_
+_Fine-tuning a Subtle Parsing Distinction Using a Probabilistic Decision Tree: the Case of Postnominal "that" in Noun Complement Clauses vs. Relative Clauses_
 
 * Pradeesh Parameswaran, Andrew Trotman, Veronica Liesaputra and David Eyers.
 _Revisiting the ALTA 2020 Shared Task: Using Aspect-Based Sentiment Analysis to Classify Attitude-bearing Words_
-
-* Tom Roth, Inigo Jauregi Unanue, Alsharif Abuadbba and Massimo Piccardi
-_A Multi-Faceted Reward for Adversarial Attacks on Text Classifiers_
 
 * Rolf Schwitter.
 _Specifying Optimisation Problems for Declarative Programs in Precise Natural Language_

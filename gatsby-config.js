@@ -21,12 +21,12 @@ module.exports = {
         image: "Google Logo.png",
         link: "https://careers.google.com/"
       },
-       { 
-         name: "GO1",
-         level: "Bronze",
-         image: "GO1_Logo_Petrol_Green_RGB.png",
-         link: "https://www.go1.com/"
-       },
+      //  { 
+      //    name: "GO1",
+      //    level: "Bronze",
+      //    image: "GO1_Logo_Petrol_Green_RGB.png",
+      //    link: "https://www.go1.com/"
+      //  },
       { 
         name: "University of Melbourne",
         level: "Event",
@@ -39,12 +39,19 @@ module.exports = {
         image: "flinders.png",
         link: "https://www.flinders.edu.au/"
       },
-      // { 
-      //   name: "CNRS International Research Lab CROSSING ",
-      //   level: "Event",
-      //   image: "crossing.png",
-      //   link: "https://crossing.cnrs.fr/"
-      // },
+      { 
+        name: "CNRS International Research Lab CROSSING ",
+        level: "Event",
+        image: "crossing.png",
+        link: "https://crossing.cnrs.fr/"
+      },
+      { 
+        name: "",
+        longName: "",
+        level: "",
+        image: "",
+        link: ""
+      }
     ],
     sponsorLevels: ["Platinum", "Gold", "Silver", "Bronze"]
   },

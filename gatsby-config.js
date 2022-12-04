@@ -44,7 +44,7 @@ module.exports = {
         level: "Event",
         image: "crossing.png",
         link: "https://crossing.cnrs.fr/"
-      }
+      },
     ],
     sponsorLevels: ["Platinum", "Gold", "Silver", "Bronze"]
   },

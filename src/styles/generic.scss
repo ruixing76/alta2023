@@ -70,6 +70,10 @@ main {
     content: "Short";
   }
 
+  &-adcs::after {
+    content: "ADCS";
+  }
+
   &-doctoral::after {
     content: "Doctoral";
   }

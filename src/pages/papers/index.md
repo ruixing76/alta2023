@@ -96,3 +96,15 @@ _Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship De
 
 * Charbel El-Khaissi
 _Writing Progress in Australian Schools: An Experimental Proof-of-concept Application_
+
+
+## Shared Task: 
+
+* Biaoyan Fang and Fajri Koto
+_Context-Aware Sentence Classification in Evidence-Based Medicine_
+
+* Abdul Aziz, Md. Akram Hossain, and Abu Nowshed Chy
+_Enhancing the DeBERTa Transformers Model for Classifying Sentences from Biomedical Abstracts_
+
+* Necva Bolucu, Pinar Uskaner Hepsag
+_Automatic Classification of Evidence Based Medicine Using Transformers_

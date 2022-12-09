@@ -70,41 +70,43 @@ _Stability of Forensic Text Comparison System_
 
 # long paper - ALTA_2022_13.pdf 
 
-* Anurag Reddy Muthyala and Vikram Pudi.
-_Academic Curriculum Generation using Wikipedia for External Knowledge_
-
-# long paper - ALTA_2022_14.pdf 
-
-* Jiayi Dai, Mi-Young Kim and Randy Goebel.
-_Interactive Rationale Extraction for Text Classification_
-
-# long paper - ALTA_2022_15.pdf 
-
-* Rui Xing, Shraey Bhatia, Timothy Baldwin and Jey Han Lau.
-_Automatic Explanation Generation For Climate Science Claims_
-
-# long paper - ALTA_2022_16.pdf 
-
-* Yishan Huang and Gwendolyn Hyslop.
-_Zhangzhou Implosives and Their Variations_
-
-# long paper - ALTA_2022_17.pdf 
-
-* Gisela Vallejo, Timothy Baldwin and Lea Frermann.
-_Evaluating the Examiner: The Perils of Pearson Correlation for Validating Text Similarity Metrics_
-
-# long paper - ALTA_2022_18.pdf 
+* <span class="badge badge-long"></span> _Academic Curriculum Generation using Wikipedia for External Knowledge_
+  Anurag Reddy Muthyala and Vikram Pudi.
+  [**Paper**](/files/ALTA_2022_14.pdf)
 
 
-* Crispin Almodovar, Fariza Sabrina, Sarvnaz Karimi and Salahuddin Azad.
-_Can Language Models Help in System Security? Investigating Log Anomaly Detection using BERT_
+* <span class="badge badge-long"></span> _Interactive Rationale Extraction for Text Classification_
+  Jiayi Dai, Mi-Young Kim and Randy Goebel.
+  [**Paper**](/files/ALTA_2022_15.pdf)
+
+
+* <span class="badge badge-long"></span> _Automatic Explanation Generation For Climate Science Claims_
+  Rui Xing, Shraey Bhatia, Timothy Baldwin and Jey Han Lau.
+  [**Paper**](/files/ALTA_2022_16.pdf)
+
+
+* <span class="badge badge-long"></span> _Zhangzhou Implosives and Their Variations_
+  Yishan Huang and Gwendolyn Hyslop.
+  [**Paper**](/files/ALTA_2022_17.pdf)
+
+
+* <span class="badge badge-long"></span> _Evaluating the Examiner: The Perils of Pearson Correlation for Validating Text Similarity Metrics_
+  Gisela Vallejo, Timothy Baldwin and Lea Frermann.
+  [**Paper**](/files/ALTA_2022_18.pdf)
+
+
+
+* <span class="badge badge-short"></span> _Can Language Models Help in System Security? Investigating Log Anomaly Detection using BERT_
+  Crispin Almodovar, Fariza Sabrina, Sarvnaz Karimi and Salahuddin Azad.
+  [**Paper**](/files/ALTA_2022_19.pdf)
+
 
 # long paper - ALTA_2022_19.pdf 
 
-* Lucas Domingos and Paulo Santos.
-_A Semantics of Spatial Expressions for interacting with unmanned aerial vehicles_
+* <span class="badge badge-short"></span> _A Semantics of Spatial Expressions for interacting with unmanned aerial vehicles_
+  Lucas Domingos and Paulo Santos.
+  [**Paper**](/files/ALTA_2022_20.pdf)
 
-# long paper - ALTA_2022_20.pdf 
 
 * <span class="badge badge-short"></span> _Estimating the Strength of Authorship Evidence with a Deep-Learning-Based Approach_
   Shunichi Ishihara, Satoru Tsuge, Mitsuyuki Inaba and Wataru Zaitsu.
@@ -122,7 +124,6 @@ _A Semantics of Spatial Expressions for interacting with unmanned aerial vehicle
   Thanh Tran, Maelic Neau, Paulo Santos and David Powers.
   [**Paper**](/files/ALTA_2022_23.pdf)
 
-# long paper - ALTA_2022_23.pdf 
 
 
 ## Abstracts: 
@@ -154,17 +155,21 @@ _A Semantics of Spatial Expressions for interacting with unmanned aerial vehicle
 
 * <span class="badge badge-sharedTask"></span> _Overview of the 2022 ALTA Shared task: PIBOSO sentence classification, 10 years later_
   Diego Molla
+
   [**Paper**](/files/ALTA_2022_24.pdf)
 
 * <span class="badge badge-sharedTask"></span> _Context-Aware Sentence Classification in Evidence-Based Medicine_
   Biaoyan Fang and Fajri Koto
+
   [**Paper**](/files/ALTA_2022_25.pdf)
 
 * <span class="badge badge-sharedTask"></span> _Enhancing the DeBERTa Transformers Model for Classifying Sentences from Biomedical Abstracts_
   Abdul Aziz, Md. Akram Hossain, and Abu Nowshed Chy
+
   [**Paper**](/files/ALTA_2022_26.pdf)
 
 * <span class="badge badge-sharedTask"></span> _Automatic Classification of Evidence Based Medicine Using Transformers_
   Necva Bolucu, Pinar Uskaner Hepsag
+
   [**Paper**](/files/ALTA_2022_27.pdf)
 

@@ -14,20 +14,20 @@ The following long and short papers have been accepted for oral or poster presen
 
 ## Long Papers: 
 
-* <span class="badge badge-long"> [_Using public domain resources and off-the-shelf tools to produce high-quality multimedia texts_](/files/ALTA_2022_2.pdf)
+* <span class="badge badge-long"></span> [_Using public domain resources and off-the-shelf tools to produce high-quality multimedia texts_](/files/ALTA_2022_2.pdf)
   Manny Rayner, Belinda Chiera and Cathy Chua. 
 
 
-* <span class="badge badge-long"> [_TCG-Event: Effective Task Conditioning for Generation-based Event Extraction_](/files/ALTA_2022_6.pdf)
+* <span class="badge badge-long"></span> [_TCG-Event: Effective Task Conditioning for Generation-based Event Extraction_](/files/ALTA_2022_6.pdf)
   Fatemeh Shiri, Tongtong Wu, Yuanfang Li and Gholamreza Haffari. 
 
 
 
-* <span class="badge badge-long"> [_Complex Reading Comprehension Through Question Decomposition_](/files/ALTA_2022_4.pdf)
+* <span class="badge badge-long"></span> [_Complex Reading Comprehension Through Question Decomposition_](/files/ALTA_2022_4.pdf)
   Xiao-Yu Guo, Yuan-Fang Li and Gholamreza Haffari.
 
 
-* <span class="badge badge-long"> [_Fine-tuning a Subtle Parsing Distinction Using a Probabilistic Decision Tree: the Case of Postnominal "that" in Noun Complement Clauses vs. Relative Clauses_](/files/ALTA_2022_5.pdf)
+* <span class="badge badge-long"></span> [_Fine-tuning a Subtle Parsing Distinction Using a Probabilistic Decision Tree: the Case of Postnominal "that" in Noun Complement Clauses vs. Relative Clauses_](/files/ALTA_2022_5.pdf)
   Zineddine Tighidet and Nicolas Ballier.
 
 
@@ -76,14 +76,14 @@ Susan Brown and Shunichi Ishihara.
 
 ## Short Papers: 
 
-* <span class="badge badge-short"> [_The Corpus of Australian and New Zealand Spoken English: A new resource of naturalistic speech transcripts_](/files/ALTA_2022_1.pdf)
+* <span class="badge badge-short"></span> [_The Corpus of Australian and New Zealand Spoken English: A new resource of naturalistic speech transcripts_](/files/ALTA_2022_1.pdf)
   Steven Coats.
 
 
-* <span class="badge badge-short"> [_The Role of Context in Vaccine Stance Prediction for Twitter Users_](/files/ALTA_2022_3.pdf)
+* <span class="badge badge-short"></span> [_The Role of Context in Vaccine Stance Prediction for Twitter Users_](/files/ALTA_2022_3.pdf)
   Aleney Khoo, Maciej Rybinski, Sarvnaz Karimi and Adam Dunn.
 
-* <span class="badge badge-short"> [_Robustness of Hybrid Models in Cross-domain Readability Assessment_](/files/ALTA_2022_7.pdf)
+* <span class="badge badge-short"></span> [_Robustness of Hybrid Models in Cross-domain Readability Assessment_](/files/ALTA_2022_7.pdf)
   Ho Hung Lim, Tianyuan Cai, John S. Y. Lee and Meichun Liu.
 
 * <span class="badge badge-short"></span> [_A DistilBERTopic Model for Short Text Documents_](/files/ALTA_2022_11.pdf)

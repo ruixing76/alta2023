@@ -13,7 +13,7 @@ seo:
 
 The session will be at Flinders University at Victoria Square.
 
-* 09:00 **Registration (Room No 2.01)** 
+* 09:00 **Registration**  - Room No 2.01
 
 * 09:30 **Doctoral Symposium**
 
@@ -26,7 +26,7 @@ The session will be at Flinders University at Victoria Square.
   * <span class="badge badge-doctoral"></span> _A Discourse-Analytic Approach to the Study of Information Disorders: How Online Communities Legitimate Social Bonds When Communing Around Misinformation and Disinformation_     
     Olivia Inwood
   
-  * <span class="badge badge-doctoral"></span> _Learning to Adapt Neural Models with Limited Human Supervision in Natural Language Processing _     
+  * <span class="badge badge-doctoral"></span> _Learning to Adapt Neural Models with Limited Human Supervision in Natural Language Processing_     
     Thuy-Trang Vu
 
 * 11:00 **Morning Tea**
@@ -47,12 +47,13 @@ The session will be at Flinders University at Victoria Square.
 
 ## 15th December (Thursday) Day 1 (all times ACDT)
 
-The session will be at Flinders University at Tonsley
+The session will be at Flinders University at Tonsley (Tonsley Theatre 1 and 2, T1 Building).
+Morning/Afternoon Tea would be held in Room # 1.01-1.03
+Poster Session will be in Room # 1.01-1.03
 
 
 
-* 08:30 **Registration** 
-
+* 08:30 **Registration** - Tonsley Theatre 1, T1 Building 
 * 09:00 **ALTA/ADCS Opening** 
 
 * 09:30 **ALTA/ADCS Keynote #1** - Ed Hovy, On the complementarity of neural and symbolic approaches, and on how to transfer between them.
@@ -110,7 +111,8 @@ The session will be at Flinders University at Tonsley
 
 ## 16th December (Friday) Day 2 (all times ACDT)
 
-The session will be at Flinders University at Tonsley
+The session will be at Flinders University at Tonsley (Tonsley Theatre 1 and 2, T1 Building).
+Morning/Afternoon Tea would be held in Room # 1.01-1.03
 
 
 * 09:00 **ALTA Keynote #3** - Thora Tenbrink, Beyond physical robots: How to achieve joint spatial reference with a smart environment

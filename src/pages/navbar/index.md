@@ -45,11 +45,11 @@ menuItems:
     longLabel: Explanation of ALTA
     linkType: internal
     linkURL: /about
-  - label: Call for Papers
+  - label: CFP
     longLabel: Call for Papers and Author Instructions
     linkType: internal
     linkURL: /call-for-papers
-  - label: Committee
+  - label: PC
     longLabel: Programme Committee
     linkType: internal
     linkURL: /pc

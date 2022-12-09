@@ -1,12 +1,12 @@
 ---
 templateKey: pc-page
-title: Programme Committee for ALTA 2021
+title: Programme Committee for ALTA 2022
 description: Programme Committee
 seo:
-  browserTitle: Programme Committee for ALTA 2021
+  browserTitle: Programme Committee for ALTA 2022
   description: >-
     The following people have generously offered their time to act as programme committee members for ALTA
-  title: Programme Committee for ALTA 2021
+  title: Programme Committee for ALTA 2022
 members:
 
   - name: "Abeed Sarkar"
@@ -14,28 +14,19 @@ members:
     
   - name: "Afshin Rahimi"
     affiliation: "The University of Queensland"
-
-  - name: "Andrea Schalley"
-    affiliation: "Karlstad University"
     
   - name: "Antonio Jimeno"
     affiliation: "RMIT University"
 
+  - name: "David Powers"
+    affiliation: "Flinders University"
+
   - name: "Diego Molla"
     affiliation: "Macquarie University"
   
-  - name: "Dominique Estival"
-    affiliation: "Western Sydney University"
-  
   - name: "Fajri Koto"
-    affiliation: "The University of Melbourne"
+    affiliation: "MBZUAI"
   
-  - name: "Gabriela Ferraro"
-    affiliation: "CSIRO"
-
-  - name: "Gholamreza Haffari"
-    affiliation: "Monash University"
-
   - name: "Hamed Hassanzadeh"
     affiliation: "The Australian e-Health Research Centre, CSIRO"
   
@@ -48,59 +39,44 @@ members:
   - name: "Jennifer Biggs"
     affiliation: "Defence Science and Technology Group"
     
-  - name: "Jey Han Lau"
-    affiliation: "University of Melbourne"
-
   - name: "Karin Verspoor"
     affiliation: "RMIT University"
-    
-  - name: "Kristin Stock"
-    affiliation: "Massey University"
-    
-  - name: "Lea Frermann"
-    affiliation: "The University of Melbourne"
-    
-  - name: "Lizhen Qu"
-    affiliation: "Monash University"
-    
-  - name: "Maria Kim"
-    affiliation: "Defence Science and Technology Group"
-    
+
   - name: "Massimo Piccardi"
     affiliation: "University of Technology Sydney"
     
   - name: "Mel Mistica"
     affiliation: "The University of Melbourne"
     
+  - name: "Maria Kim"
+    affiliation: "Defence Science and Technology Group"
+      
   - name: "Nitin Indurkhya"
     affiliation: "The University of New South Wales"
 
+  - name: "Paulo Santos"
+    affiliation: "Flinders University"
+
+  - name: "Pradeesh Pradeesh"
+    affiliation: "The University of Otago"
+    
+  - name: "Richard Leibbrandt"
+    affiliation: "Flinders University"
+    
   - name: "Sarvnaz Karimi"
     affiliation: "CSIRO"
     
-  - name: "Scott Nowson"
-    affiliation: "PwC Middle East"
-    
-  - name: "Stephen Wan"
-    affiliation: "CSIRO"
-    
   - name: "Sunghwan Mac Kim"
-    affiliation: "Hara Research Lab"
+    affiliation: "DCM"
     
   - name: "Timothy Baldwin"
     affiliation: "The University of Melbourne"
     
-  - name: "Trevor Cohn"
-    affiliation: "The University of Melbourne"
+  - name: "Veronica Liesaputra"
+    affiliation: "The University of Otago"
   
-  - name: "William Lane"
-    affiliation: "Charles Darwin University"
-
-  - name: "Wray Lindsay Buntine"
-    affiliation: "Monash University"
-    
   - name: "Xiang Dai"
-    affiliation: "University of Copenhagen"
+    affiliation: "CSIRO"
  
 ---
 

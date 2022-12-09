@@ -60,18 +60,22 @@ main {
 
   &-long::after {
     content: "Long";
+    background-color: blue;
   }
 
   &-abstract::after {
     content: "Abstract";
+    background-color: greenyellow
   }
 
   &-short::after {
     content: "Short";
+    background-color: blueviolet;
   }
 
   &-adcs::after {
     content: "ADCS";
+    background-color: red
   }
 
   &-doctoral::after {
@@ -80,6 +84,7 @@ main {
   
   &-sharedTask::after {
     content: "Shared Task";
+    background-color: purple
   }
   
 }

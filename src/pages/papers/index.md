@@ -125,47 +125,46 @@ _Contrastive Visual and Language Learning for Visual Relationship Detection_
 
 ## Abstracts: 
 
-* Tom Roth, Inigo Jauregi Unanue, Alsharif Abuadbba and Massimo Piccardi.
-_A Multi-Faceted Reward for Adversarial Attacks on Text Classifiers_
+* _A Multi-Faceted Reward for Adversarial Attacks on Text Classifiers_
+Tom Roth, Inigo Jauregi Unanue, Alsharif Abuadbba and Massimo Piccardi.
 
-# abstract - ALTA_2022_A_2.pdf 
+[Paper](/files/ALTA_2022_A_2.pdf)
 
 * Michael Dorin and Judith Dorin.
 _Extended Abstract: Verifying Urarina Language Phonemes With TensorFlow_
 
-# abstract - ALTA_2022_A_3.pdf 
+[Paper](/files/ALTA_2022_A_3.pdf)
 
-* Nathan White
-_Probing of Quantitative Values in Abstractive Summarization Models_
+* _Probing of Quantitative Values in Abstractive Summarization Models_
+Nathan White
+[Paper](/files/ALTA_2022_A_4.pdf)
 
-# abstract - ALTA_2022_A_4.pdf 
 
-* Qiaoyang Luo and Lingqiao Liu
-_Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship Descriptor_
+* _Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship Descriptor_
+Qiaoyang Luo and Lingqiao Liu
+[Paper](/files/ALTA_2022_A_5.pdf)
 
-# abstract - ALTA_2022_A_5.pdf 
+* _Writing Progress in Australian Schools: An Experimental Proof-of-concept Application_
+Charbel El-Khaissi
+[Paper](/files/ALTA_2022_A_1.pdf)
 
-* Charbel El-Khaissi
-_Writing Progress in Australian Schools: An Experimental Proof-of-concept Application_
-
-# abstract - ALTA_2022_A_1.pdf 
 
 
 ## Shared Task: 
 
-* Diego Molla
-<span class="badge badge-sharedTask"></span> _Overview of the 2022 ALTA Shared task: PIBOSO sentence classification, 10 years later_
-[Paper](/files/ALTA_2022_24.pdf)
+* <span class="badge badge-sharedTask"></span> _Overview of the 2022 ALTA Shared task: PIBOSO sentence classification, 10 years later_
+Diego Molla
+[**Paper**](/files/ALTA_2022_24.pdf)
 
-* Biaoyan Fang and Fajri Koto
-<span class="badge badge-sharedTask"></span> _Context-Aware Sentence Classification in Evidence-Based Medicine_
-[Paper](/files/ALTA_2022_25.pdf)
+* <span class="badge badge-sharedTask"></span> _Context-Aware Sentence Classification in Evidence-Based Medicine_
+Biaoyan Fang and Fajri Koto
+[**Paper**](/files/ALTA_2022_25.pdf)
 
-* Abdul Aziz, Md. Akram Hossain, and Abu Nowshed Chy
-<span class="badge badge-sharedTask"></span> _Enhancing the DeBERTa Transformers Model for Classifying Sentences from Biomedical Abstracts_
-[Paper](/files/ALTA_2022_26.pdf)
+* <span class="badge badge-sharedTask"></span> _Enhancing the DeBERTa Transformers Model for Classifying Sentences from Biomedical Abstracts_
+Abdul Aziz, Md. Akram Hossain, and Abu Nowshed Chy
+[**Paper**](/files/ALTA_2022_26.pdf)
 
-* Necva Bolucu, Pinar Uskaner Hepsag
-<span class="badge badge-sharedTask"></span> _Automatic Classification of Evidence Based Medicine Using Transformers_
-[Paper](/files/ALTA_2022_27.pdf)
+* <span class="badge badge-sharedTask"></span> _Automatic Classification of Evidence Based Medicine Using Transformers_
+Necva Bolucu, Pinar Uskaner Hepsag
+[**Paper**](/files/ALTA_2022_27.pdf)
 

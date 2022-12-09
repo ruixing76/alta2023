@@ -107,16 +107,16 @@ The session will be at Flinders University at Tonsley
 
 * 11:30 **ALTA Shared Task Session**
 
-  * <span class="badge sharedTask"></span> _Overview of the 2022 ALTA Shared task: PIBOSO sentence classification, 10 years later_     
+  * <span class="badge badge-sharedTask"></span> _Overview of the 2022 ALTA Shared task: PIBOSO sentence classification, 10 years later_     
     Diego Molla
 
-  * <span class="badge sharedTask"></span> _Context-Aware Sentence Classification in Evidence-Based Medicine_     
+  * <span class="badge badge-sharedTask"></span> _Context-Aware Sentence Classification in Evidence-Based Medicine_     
     Biaoyan Fang and Fajri Koto
   
-  * <span class="badge sharedTask"></span> _Enhancing the DeBERTa Transformers Model for Classifying Sentences from Biomedical Abstracts_     
+  * <span class="badge badge-sharedTask"></span> _Enhancing the DeBERTa Transformers Model for Classifying Sentences from Biomedical Abstracts_     
   Abdul Aziz, Md. Akram Hossain, and Abu Nowshed Chy
 
-  * <span class="badge sharedTask"></span> _Automatic Classification of Evidence Based Medicine Using Transformers_     
+  * <span class="badge badge-sharedTask"></span> _Automatic Classification of Evidence Based Medicine Using Transformers_     
   Necva Bolucu, Pinar Uskaner Hepsag
 
 

@@ -51,7 +51,7 @@ The session will be at Flinders University at Tonsley (Tonsley Theatre 1 and 2, 
 
 Morning/Afternoon Tea - Room No. 1.01-1.03
 
-Poster Session - 1.01-1.03
+Poster Session - Room No. 1.01-1.03
 
 
 

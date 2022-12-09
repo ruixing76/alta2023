@@ -11,11 +11,23 @@ seo:
 
 ## 14th December (Wednesday) Tutorial/Mentoring Day (all times ACDT) 
 
-The session will be at Flinders University at Victoria Square
+The session will be at Flinders University at Victoria Square.
 
-* 09:00 **Registration** 
+* 09:00 **Registration (Room No 2.01)** 
 
 * 09:30 **Doctoral Symposium**
+
+  * <span class="badge badge-doctoral"></span> _Improving Care in Clinical Dentistry with Natural Language Processing of Electronic Dental Records_     
+    Hanna Pethani
+
+  * <span class="badge badge-doctoral"></span> _Misinformation Detection via Transfer Learning_     
+    Lin Tian
+  
+  * <span class="badge badge-doctoral"></span> _A Discourse-Analytic Approach to the Study of Information Disorders: How Online Communities Legitimate Social Bonds When Communing Around Misinformation and Disinformation_     
+    Olivia Inwood
+  
+  * <span class="badge badge-doctoral"></span> _Learning to Adapt Neural Models with Limited Human Supervision in Natural Language Processing _     
+    Thuy-Trang Vu
 
 * 11:00 **Morning Tea**
 
@@ -23,9 +35,13 @@ The session will be at Flinders University at Victoria Square
 
 * 12:30 **Lunch + Mentoring Session**
 
-* 14:00 **Tutorial**
+* 13:30 **Tutorial (Part 1: Misinformation and Human Perception)** – Xiuzhen (Jenny) Zhang
 
-* 15:30 **Afternoon Tea**
+* 14:00 **Tutorial (Part 2: Misinformation and Detection)** – Jey Han Lau
+
+* 15:00 **Afternoon Tea**
+
+* 15:30 **Tutorial (Part 3: Misinformation Mitigation)** – Xiuzhen (Jenny) Zhang
 
 * 17:00 **Informal Meet-n-Greet**
 
@@ -89,7 +105,7 @@ The session will be at Flinders University at Tonsley
 
 * 17:30 **Poster Session**
 
-* 18:30 **ALTA/ADCS Dinner @ Chrysler Bar**
+* 18:30 **ALTA/ADCS Dinner @ Tonsley Hotel Restaurant**
 
 
 ## 16th December (Friday) Day 2 (all times ACDT)
@@ -99,9 +115,9 @@ The session will be at Flinders University at Tonsley
 
 * 09:00 **ALTA Keynote #3** - Thora Tenbrink, Beyond physical robots: How to achieve joint spatial reference with a smart environment
 
-* 09:45 **ALTA Keynote and Rolling Discussion** - Barbara Tversky, Mind in Motion: How Action Shapes Thought
+* 10:00 **ALTA Keynote #4** - Barbara Tversky, Mind in Motion: How Action Shapes Thought
 
-* 10:15 **Rolling Discussion**
+* 10:30 **Rolling Discussion**
 
 * 11:00 **Morning Tea**
 

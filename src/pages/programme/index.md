@@ -11,9 +11,9 @@ seo:
 
 ## 14th December (Wednesday) Tutorial/Mentoring Day (all times ACDT) 
 
-The session will be at Flinders University at Victoria Square.
+The doctoral/mentoring/tutorial sessions will be held at Flinders University at Victoria Square, Room No 2.01-02.
 
-* 09:00 **Registration**  - Room No. 2.01
+* 09:00 **Registration**  - Room No. 2.03
 
 * 09:30 **Doctoral Symposium**
 
@@ -47,11 +47,9 @@ The session will be at Flinders University at Victoria Square.
 
 ## 15th December (Thursday) Day 1 (all times ACDT)
 
-The session will be at Flinders University at Tonsley (Tonsley Theatre 1 and 2, T1 Building).
+ALTA and joint ALTA/ADCS sessions will be held at Flinders University at Tonsley, Theatre 1, T1 Building.
 
-Morning/Afternoon Tea - Room No. 1.01-1.03
-
-Poster Session - Room No. 1.01-1.03
+Morning/Lunch/Afternoon Tea - Room No. 1.01-1.03
 
 
 
@@ -92,7 +90,7 @@ Poster Session - Room No. 1.01-1.03
   * <span class="badge badge-long"></span> _Improving Text-based Early Prediction by Distillation from Privileged Time-Series Text_     
     Jinghui Liu, Daniel Capurro, Anthony Nguyen and Karin Verspoor
 
-* 14:30 **Poster Session**
+* 14:30 **Poster Session** - Room No. 1.01-1.03
 
 * 15:30 **Afternoon Tea**
 
@@ -113,9 +111,9 @@ Poster Session - Room No. 1.01-1.03
 
 ## 16th December (Friday) Day 2 (all times ACDT)
 
-The session will be at Flinders University at Tonsley (Tonsley Theatre 1 and 2, T1 Building).
+ALTA will be held at Flinders University at Tonsley, Theatre 1, T1 Building.
 
-Morning/Afternoon Tea - Room No. 1.01-1.03
+Morning/Lunch/Afternoon Tea - Room No. 1.01-1.03
 
 
 * 09:00 **ALTA Keynote #3** - Thora Tenbrink, Beyond physical robots: How to achieve joint spatial reference with a smart environment

@@ -49,9 +49,9 @@ The session will be at Flinders University at Victoria Square.
 
 The session will be at Flinders University at Tonsley (Tonsley Theatre 1 and 2, T1 Building).
 
-Morning/Afternoon Tea would be held in Room No. 1.01-1.03
+Morning/Afternoon Tea - Room No. 1.01-1.03
 
-Poster Session will be in Room No. 1.01-1.03
+Poster Session - 1.01-1.03
 
 
 
@@ -115,7 +115,7 @@ Poster Session will be in Room No. 1.01-1.03
 
 The session will be at Flinders University at Tonsley (Tonsley Theatre 1 and 2, T1 Building).
 
-Morning/Afternoon Tea would be held in Room No. 1.01-1.03
+Morning/Afternoon Tea - Room No. 1.01-1.03
 
 
 * 09:00 **ALTA Keynote #3** - Thora Tenbrink, Beyond physical robots: How to achieve joint spatial reference with a smart environment

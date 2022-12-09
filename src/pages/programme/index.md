@@ -35,13 +35,13 @@ The session will be at Flinders University at Victoria Square.
 
 * 12:30 **Lunch + Mentoring Session**
 
-* 13:30 **Tutorial (Part 1: Misinformation and Human Perception)** – Xiuzhen (Jenny) Zhang
+* 14:00 **Tutorial (Part 1: Misinformation and Human Perception)** – Xiuzhen (Jenny) Zhang
 
-* 14:00 **Tutorial (Part 2: Misinformation and Detection)** – Jey Han Lau
+* 14:30 **Tutorial (Part 2: Misinformation and Detection)** – Jey Han Lau
 
-* 15:00 **Afternoon Tea**
+* 15:30 **Afternoon Tea**
 
-* 15:30 **Tutorial (Part 3: Misinformation Mitigation)** – Xiuzhen (Jenny) Zhang
+* 16:00 **Tutorial (Part 3: Misinformation Mitigation)** – Xiuzhen (Jenny) Zhang
 
 * 17:00 **Informal Meet-n-Greet**
 

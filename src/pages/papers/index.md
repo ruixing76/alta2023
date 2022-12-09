@@ -9,149 +9,126 @@ seo:
 ---
 
 
-The following papers have been accepted for oral or poster presentation at ALTA 2022.
+The following papers have been accepted for oral or poster presentation at ALTA 2022. 
+The paper can be downloaded by clicking on its title.
 
-* <span class="badge badge-long"> _Using public domain resources and off-the-shelf tools to produce high-quality multimedia texts_
+* <span class="badge badge-long"> [_Using public domain resources and off-the-shelf tools to produce high-quality multimedia texts_](/files/ALTA_2022_2.pdf)
   Manny Rayner, Belinda Chiera and Cathy Chua. 
-# long paper - ALTA_2022_2.pdf
 
-* <span class="badge badge-short"> _The Corpus of Australian and New Zealand Spoken English: A new resource of naturalistic speech transcripts_
+* <span class="badge badge-short"> [_The Corpus of Australian and New Zealand Spoken English: A new resource of naturalistic speech transcripts_](/files/ALTA_2022_1.pdf)
   Steven Coats.
 
-# short paper - ALTA_2022_1.pdf 
 
-* <span class="badge badge-short"> _The Role of Context in Vaccine Stance Prediction for Twitter Users_
+* <span class="badge badge-short"> [_The Role of Context in Vaccine Stance Prediction for Twitter Users_](/files/ALTA_2022_3.pdf)
   Aleney Khoo, Maciej Rybinski, Sarvnaz Karimi and Adam Dunn.
-# short paper - ALTA_2022_3.pdf 
 
-* <span class="badge badge-long"> _TCG-Event: Effective Task Conditioning for Generation-based Event Extraction_
+* <span class="badge badge-long"> [_TCG-Event: Effective Task Conditioning for Generation-based Event Extraction_](/files/ALTA_2022_6.pdf)
   Fatemeh Shiri, Tongtong Wu, Yuanfang Li and Gholamreza Haffari. 
 
-# long paper - ALTA_2022_6.pdf
 
-* <span class="badge badge-long"> _Complex Reading Comprehension Through Question Decomposition_
+
+* <span class="badge badge-long"> [_Complex Reading Comprehension Through Question Decomposition_](/files/ALTA_2022_4.pdf)
   Xiao-Yu Guo, Yuan-Fang Li and Gholamreza Haffari.
-# long paper - ALTA_2022_4.pdf 
 
-* <span class="badge badge-short"> _Robustness of Hybrid Models in Cross-domain Readability Assessment_
+
+* <span class="badge badge-short"> [_Robustness of Hybrid Models in Cross-domain Readability Assessment_](/files/ALTA_2022_7.pdf)
   Ho Hung Lim, Tianyuan Cai, John S. Y. Lee and Meichun Liu.
-# short paper - ALTA_2022_7.pdf 
 
-* <span class="badge badge-long"> _Fine-tuning a Subtle Parsing Distinction Using a Probabilistic Decision Tree: the Case of Postnominal "that" in Noun Complement Clauses vs. Relative Clauses_
+
+* <span class="badge badge-long"> [_Fine-tuning a Subtle Parsing Distinction Using a Probabilistic Decision Tree: the Case of Postnominal "that" in Noun Complement Clauses vs. Relative Clauses_](/files/ALTA_2022_5.pdf)
   Zineddine Tighidet and Nicolas Ballier.
 
-# long paper - ALTA_2022_5.pdf 
 
-* <span class="badge badge-long"></span> Using Aspect-Based Sentiment Analysis to Classify Attitude-bearing Words_
+
+* <span class="badge badge-long"></span> [Using Aspect-Based Sentiment Analysis to Classify Attitude-bearing Words_](/files/ALTA_2022_8.pdf)
   Pradeesh Parameswaran, Andrew Trotman, Veronica Liesaputra and David Eyers.
 
-# long paper - ALTA_2022_8.pdf 
 
-* <span class="badge badge-long"></span> _Specifying Optimisation Problems for Declarative Programs in Precise Natural Language_
+* <span class="badge badge-long"></span> [_Specifying Optimisation Problems for Declarative Programs in Precise Natural Language_](/files/ALTA_2022_9.pdf)
   Rolf Schwitter.
 
-
-# long paper - ALTA_2022_9.pdf 
-
-* <span class="badge badge-long"></span> _Improving Text-based Early Prediction by Distillation from Privileged Time-Series Text_
+* <span class="badge badge-long"></span> [_Improving Text-based Early Prediction by Distillation from Privileged Time-Series Text_](/files/ALTA_2022_10.pdf)
 Jinghui Liu, Daniel Capurro, Anthony Nguyen and Karin Verspoor.
 
-# long paper - ALTA_2022_10.pdf 
 
 
-* <span class="badge badge-short"></span> _A DistilBERTopic Model for Short Text Documents_
+* <span class="badge badge-short"></span> [_A DistilBERTopic Model for Short Text Documents_](/files/ALTA_2022_11.pdf)
   Junaid Rashid, Jungeun Kim, Usman Naseem and Amir Hussain.
 
-# short paper - ALTA_2022_11.pdf 
-
-* <span class="badge badge-short"></span> _Generating Code-Switched Text from Monolingual Text with Dependency Tree_
+* <span class="badge badge-short"></span> [_Generating Code-Switched Text from Monolingual Text with Dependency Tree_](/files/ALTA_2022_12.pdf)
   Bryan Gregorius and Takeshi Okadome.
 
-# short paper - ALTA_2022_12.pdf 
 
-* <span class="badge badge-long"></span>  _Stability of Forensic Text Comparison System_
+* <span class="badge badge-long"></span> [_Stability of Forensic Text Comparison System_](/files/ALTA_2022_13.pdf)
 Susan Brown and Shunichi Ishihara.
-[**Paper**](/files/ALTA_2022_13.pdf)
 
 
-* <span class="badge badge-long"></span> _Academic Curriculum Generation using Wikipedia for External Knowledge_
+* <span class="badge badge-long"></span> [_Academic Curriculum Generation using Wikipedia for External Knowledge_](/files/ALTA_2022_14.pdf)
   Anurag Reddy Muthyala and Vikram Pudi.
-  [**Paper**](/files/ALTA_2022_14.pdf)
 
 
-* <span class="badge badge-long"></span> _Interactive Rationale Extraction for Text Classification_
+* <span class="badge badge-long"></span> [_Interactive Rationale Extraction for Text Classification_](/files/ALTA_2022_15.pdf)
   Jiayi Dai, Mi-Young Kim and Randy Goebel.
-  [**Paper**](/files/ALTA_2022_15.pdf)
 
 
-* <span class="badge badge-long"></span> _Automatic Explanation Generation For Climate Science Claims_
+* <span class="badge badge-long"></span> [_Automatic Explanation Generation For Climate Science Claims_](/files/ALTA_2022_16.pdf)
   Rui Xing, Shraey Bhatia, Timothy Baldwin and Jey Han Lau.
   [**Paper**](/files/ALTA_2022_16.pdf)
 
 
-* <span class="badge badge-long"></span> _Zhangzhou Implosives and Their Variations_
+* <span class="badge badge-long"></span> [_Zhangzhou Implosives and Their Variations_](/files/ALTA_2022_17.pdf)
   Yishan Huang and Gwendolyn Hyslop.
-  [**Paper**](/files/ALTA_2022_17.pdf)
 
 
-* <span class="badge badge-long"></span> _Evaluating the Examiner: The Perils of Pearson Correlation for Validating Text Similarity Metrics_
+* <span class="badge badge-long"></span> [_Evaluating the Examiner: The Perils of Pearson Correlation for Validating Text Similarity Metrics_](/files/ALTA_2022_18.pdf)
   Gisela Vallejo, Timothy Baldwin and Lea Frermann.
-  [**Paper**](/files/ALTA_2022_18.pdf)
 
 
 
-* <span class="badge badge-short"></span> _Can Language Models Help in System Security? Investigating Log Anomaly Detection using BERT_
+* <span class="badge badge-short"></span> [_Can Language Models Help in System Security? Investigating Log Anomaly Detection using BERT_](/files/ALTA_2022_19.pdf)
   Crispin Almodovar, Fariza Sabrina, Sarvnaz Karimi and Salahuddin Azad.
-  [**Paper**](/files/ALTA_2022_19.pdf)
 
 
 # long paper - ALTA_2022_19.pdf 
 
-* <span class="badge badge-short"></span> _A Semantics of Spatial Expressions for interacting with unmanned aerial vehicles_
+* <span class="badge badge-short"></span> [_A Semantics of Spatial Expressions for interacting with unmanned aerial vehicles_](/files/ALTA_2022_20.pdf)
   Lucas Domingos and Paulo Santos.
-  [**Paper**](/files/ALTA_2022_20.pdf)
 
 
-* <span class="badge badge-short"></span> _Estimating the Strength of Authorship Evidence with a Deep-Learning-Based Approach_
+* <span class="badge badge-short"></span> [_Estimating the Strength of Authorship Evidence with a Deep-Learning-Based Approach_](/files/ALTA_2022_21.pdf)
   Shunichi Ishihara, Satoru Tsuge, Mitsuyuki Inaba and Wataru Zaitsu.
-  [**Paper**](/files/ALTA_2022_21.pdf)
 
 
-* <span class="badge badge-long"></span> _Textstar: a Fast and Lightweight Graph-Based Algorithm for Extractive Summarization and Keyphrase Extraction_
+* <span class="badge badge-long"></span> [_Textstar: a Fast and Lightweight Graph-Based Algorithm for Extractive Summarization and Keyphrase Extraction_](/files/ALTA_2022_22.pdf)
   David Brock, Ali Khan, Tam Doan, Alicia Lin, Yifan Guo and Paul Tarau.
-  [**Paper**](/files/ALTA_2022_22.pdf)
 
 
 # long paper - ALTA_2022_22.pdf 
 
-* <span class="badge badge-long"></span> _Contrastive Visual and Language Learning for Visual Relationship Detection_
+* <span class="badge badge-long"></span> [_Contrastive Visual and Language Learning for Visual Relationship Detection_](/files/ALTA_2022_23.pdf)
   Thanh Tran, Maelic Neau, Paulo Santos and David Powers.
-  [**Paper**](/files/ALTA_2022_23.pdf)
+
 
 
 
 ## Abstracts: 
 
-* <span class="badge badge-abstract"></span> _A Multi-Faceted Reward for Adversarial Attacks on Text Classifiers_
+* <span class="badge badge-abstract"></span> [_A Multi-Faceted Reward for Adversarial Attacks on Text Classifiers_](/files/ALTA_2022_A_2.pdf)
   Tom Roth, Inigo Jauregi Unanue, Alsharif Abuadbba and Massimo Piccardi.
-  [**Paper**](/files/ALTA_2022_A_2.pdf)
 
-* <span class="badge badge-abstract"></span> _Extended Abstract: Verifying Urarina Language Phonemes With TensorFlow_
+* <span class="badge badge-abstract"></span> [_Verifying Urarina Language Phonemes With TensorFlow_](/files/ALTA_2022_A_3.pdf)
   Michael Dorin and Judith Dorin.
-  [**Paper**](/files/ALTA_2022_A_3.pdf)
 
-* <span class="badge badge-abstract"></span> _Probing of Quantitative Values in Abstractive Summarization Models_
-  Nathan White
-  [**Paper**](/files/ALTA_2022_A_4.pdf)
+* <span class="badge badge-abstract"></span> [_Probing of Quantitative Values in Abstractive Summarization Models_
+  Nathan White](/files/ALTA_2022_A_4.pdf)
 
 
-* <span class="badge badge-abstract"></span> _Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship Descriptor_
+* <span class="badge badge-abstract"></span> [_Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship Descriptor_](/files/ALTA_2022_A_5.pdf)
   Qiaoyang Luo and Lingqiao Liu
-  [**Paper**](/files/ALTA_2022_A_5.pdf)
 
-* <span class="badge badge-abstract"></span> _Writing Progress in Australian Schools: An Experimental Proof-of-concept Application_
+* <span class="badge badge-abstract"></span> [_Writing Progress in Australian Schools: An Experimental Proof-of-concept Application_](/files/ALTA_2022_A_1.pdf)
   Charbel El-Khaissi
-  [**Paper**](/files/ALTA_2022_A_1.pdf)
+
 
 
 

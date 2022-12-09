@@ -21,7 +21,10 @@ Visa requirements vary by country of citizenship. Please check out [this page](h
 
 ## Location
 14 December: Tutorials will be held in Flinders' [Victoria Square campus](https://www.flinders.edu.au/campus/victoria-square), which is located in the heart of Adelaide’s CBD.
-15-16 December: ALTA main conference will be held in the Flinders' [Tonsley campus](https://www.flinders.edu.au/campus/tonsley), located in Tonsley. The Tonsley campus is just 10 km from Adelaide’s CBD with a direct [rail link and bus services](https://www.adelaidemetro.com.au/) available. 
+15-16 December: ALTA main conference will be held in the Flinders' [Tonsley campus](https://www.flinders.edu.au/campus/tonsley), located in Tonsley. The Tonsley campus is just 10 km from Adelaide’s CBD with a direct [rail link and bus services](https://www.adelaidemetro.com.au/) available.  
+
+For more details on getting to the venue, please refer to the [map](https://www.flinders.edu.au/content/dam/documents/campus/maps/tonsley-maps.pdf)
+
 
 ## Food and Drink
 There are many food and drink venues of various kinds around both the City and Tonsley sites as well as in the Glenelg precint a tramride away (where the conference dinner will be held). Lunch, Morning and afternoon tea will be provided on site for registrants.

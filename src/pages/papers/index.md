@@ -106,19 +106,21 @@ _A Semantics of Spatial Expressions for interacting with unmanned aerial vehicle
 
 # long paper - ALTA_2022_20.pdf 
 
-* Shunichi Ishihara, Satoru Tsuge, Mitsuyuki Inaba and Wataru Zaitsu.
-_Estimating the Strength of Authorship Evidence with a Deep-Learning-Based Approach_
+* <span class="badge badge-short"></span> _Estimating the Strength of Authorship Evidence with a Deep-Learning-Based Approach_
+  Shunichi Ishihara, Satoru Tsuge, Mitsuyuki Inaba and Wataru Zaitsu.
+  [**Paper**](/files/ALTA_2022_21.pdf)
 
-# short paper - ALTA_2022_21.pdf 
 
+* <span class="badge badge-long"></span> _Textstar: a Fast and Lightweight Graph-Based Algorithm for Extractive Summarization and Keyphrase Extraction_
+  David Brock, Ali Khan, Tam Doan, Alicia Lin, Yifan Guo and Paul Tarau.
+  [**Paper**](/files/ALTA_2022_22.pdf)
 
-* David Brock, Ali Khan, Tam Doan, Alicia Lin, Yifan Guo and Paul Tarau.
-_Textstar: a Fast and Lightweight Graph-Based Algorithm for Extractive Summarization and Keyphrase Extraction_
 
 # long paper - ALTA_2022_22.pdf 
 
-* Thanh Tran, Maelic Neau, Paulo Santos and David Powers.
-_Contrastive Visual and Language Learning for Visual Relationship Detection_
+* <span class="badge badge-long"></span> _Contrastive Visual and Language Learning for Visual Relationship Detection_
+  Thanh Tran, Maelic Neau, Paulo Santos and David Powers.
+  [**Paper**](/files/ALTA_2022_23.pdf)
 
 # long paper - ALTA_2022_23.pdf 
 
@@ -126,45 +128,43 @@ _Contrastive Visual and Language Learning for Visual Relationship Detection_
 ## Abstracts: 
 
 * _A Multi-Faceted Reward for Adversarial Attacks on Text Classifiers_
-Tom Roth, Inigo Jauregi Unanue, Alsharif Abuadbba and Massimo Piccardi.
+  Tom Roth, Inigo Jauregi Unanue, Alsharif Abuadbba and Massimo Piccardi.
+  [**Paper**](/files/ALTA_2022_A_2.pdf)
 
-[Paper](/files/ALTA_2022_A_2.pdf)
+* <span class="badge badge-abstract"></span> _Extended Abstract: Verifying Urarina Language Phonemes With TensorFlow_
+  Michael Dorin and Judith Dorin.
+  [**Paper**](/files/ALTA_2022_A_3.pdf)
 
-* Michael Dorin and Judith Dorin.
-_Extended Abstract: Verifying Urarina Language Phonemes With TensorFlow_
-
-[Paper](/files/ALTA_2022_A_3.pdf)
-
-* _Probing of Quantitative Values in Abstractive Summarization Models_
-Nathan White
-[Paper](/files/ALTA_2022_A_4.pdf)
+* <span class="badge badge-abstract"></span> _Probing of Quantitative Values in Abstractive Summarization Models_
+  Nathan White
+  [**Paper**](/files/ALTA_2022_A_4.pdf)
 
 
-* _Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship Descriptor_
-Qiaoyang Luo and Lingqiao Liu
-[Paper](/files/ALTA_2022_A_5.pdf)
+* <span class="badge badge-abstract"></span> _Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship Descriptor_
+  Qiaoyang Luo and Lingqiao Liu
+  [**Paper**](/files/ALTA_2022_A_5.pdf)
 
-* _Writing Progress in Australian Schools: An Experimental Proof-of-concept Application_
-Charbel El-Khaissi
-[Paper](/files/ALTA_2022_A_1.pdf)
+* <span class="badge badge-abstract"></span> _Writing Progress in Australian Schools: An Experimental Proof-of-concept Application_
+  Charbel El-Khaissi
+  [**Paper**](/files/ALTA_2022_A_1.pdf)
 
 
 
 ## Shared Task: 
 
 * <span class="badge badge-sharedTask"></span> _Overview of the 2022 ALTA Shared task: PIBOSO sentence classification, 10 years later_
-Diego Molla
-[**Paper**](/files/ALTA_2022_24.pdf)
+  Diego Molla
+  [**Paper**](/files/ALTA_2022_24.pdf)
 
 * <span class="badge badge-sharedTask"></span> _Context-Aware Sentence Classification in Evidence-Based Medicine_
-Biaoyan Fang and Fajri Koto
-[**Paper**](/files/ALTA_2022_25.pdf)
+  Biaoyan Fang and Fajri Koto
+  [**Paper**](/files/ALTA_2022_25.pdf)
 
 * <span class="badge badge-sharedTask"></span> _Enhancing the DeBERTa Transformers Model for Classifying Sentences from Biomedical Abstracts_
-Abdul Aziz, Md. Akram Hossain, and Abu Nowshed Chy
-[**Paper**](/files/ALTA_2022_26.pdf)
+  Abdul Aziz, Md. Akram Hossain, and Abu Nowshed Chy
+  [**Paper**](/files/ALTA_2022_26.pdf)
 
 * <span class="badge badge-sharedTask"></span> _Automatic Classification of Evidence Based Medicine Using Transformers_
-Necva Bolucu, Pinar Uskaner Hepsag
-[**Paper**](/files/ALTA_2022_27.pdf)
+  Necva Bolucu, Pinar Uskaner Hepsag
+  [**Paper**](/files/ALTA_2022_27.pdf)
 

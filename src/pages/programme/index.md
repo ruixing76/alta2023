@@ -48,7 +48,9 @@ The session will be at Flinders University at Victoria Square.
 ## 15th December (Thursday) Day 1 (all times ACDT)
 
 The session will be at Flinders University at Tonsley (Tonsley Theatre 1 and 2, T1 Building).
+
 Morning/Afternoon Tea would be held in Room # 1.01-1.03
+
 Poster Session will be in Room # 1.01-1.03
 
 
@@ -112,6 +114,7 @@ Poster Session will be in Room # 1.01-1.03
 ## 16th December (Friday) Day 2 (all times ACDT)
 
 The session will be at Flinders University at Tonsley (Tonsley Theatre 1 and 2, T1 Building).
+
 Morning/Afternoon Tea would be held in Room # 1.01-1.03
 
 

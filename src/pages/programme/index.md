@@ -8,6 +8,8 @@ seo:
   title: Schedule | ALTA 2022
 ---
 
+Papers can be found in the [papers](/papers/) section
+
 
 ## 14th December (Wednesday) Tutorial/Mentoring Day (all times ACDT) 
 
@@ -60,9 +62,9 @@ Morning/Lunch/Afternoon Tea - Room No. 1.01-1.03
 
 * 10:30 **Morning Tea** 
 
-* 11:00 **Oral Presentations (Session A)**
+* 11:00 **Oral Presentations (Session A)** - Session Chair: Jonathan Kummerfeld 
 
-  * <span class="badge badge-long"></span> _Using public domain resources and off-the-shelf tools to produce high-quality multimedia texts_     
+  * <span class="badge badge-long"></span> _Using public domain resources and off-the-shelf tools to produce high-quality multimedia texts_]     
     Manny Rayner, Belinda Chiera and Cathy Chua
 
   * <span class="badge badge-long"></span> _TCG-Event: Effective Task Conditioning for Generation-based Event Extraction_     
@@ -94,7 +96,7 @@ Morning/Lunch/Afternoon Tea - Room No. 1.01-1.03
 
 * 15:30 **Afternoon Tea**
 
-* 16:00 **Oral Presentations (Session B)**
+* 16:00 **Oral Presentations (Session B)** 
 
   * <span class="badge badge-long"></span> _Fine-tuning a Subtle Parsing Distinction Using a Probabilistic Decision Tree: the Case of Postnominal "that" in Noun Complement Clauses vs. Relative Clauses_     
     Zineddine Tighidet and Nicolas Ballier
@@ -124,7 +126,7 @@ Morning/Lunch/Afternoon Tea - Room No. 1.01-1.03
 
 * 11:00 **Morning Tea**
 
-* 11:30 **ALTA Shared Task Session**
+* 11:30 **ALTA Shared Task Session** Session Chair: Diego Molla
 
   * <span class="badge badge-sharedTask"></span> _Overview of the 2022 ALTA Shared task: PIBOSO sentence classification, 10 years later_     
     Diego Molla
@@ -143,7 +145,7 @@ Morning/Lunch/Afternoon Tea - Room No. 1.01-1.03
 
 * 12:30 **Lunch**
 
-* 13:30 **Oral Presentations (Session C)**
+* 13:30 **Oral Presentations (Session C)** Session Chair: Gabriela Ferraro
 
   * <span class="badge badge-abstract"></span> _Verifying Urarina Language Phonemes With TensorFlow_     
     Michael Dorin and Judith Dorin
@@ -162,7 +164,7 @@ Morning/Lunch/Afternoon Tea - Room No. 1.01-1.03
 
 * 15:30 **Afternoon Tea**
 
-* 16:00 **Oral Presentations (Session D)**
+* 16:00 **Oral Presentations (Session D)** Session Chair: David Powers
 
   * <span class="badge badge-short"></span> _The Corpus of Australian and New Zealand Spoken English: A new resource of naturalistic speech transcripts_     
   Steven Coats

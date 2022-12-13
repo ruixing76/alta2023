@@ -9,12 +9,20 @@ seo:
 
 ## Combating misinformation on social media: from detection to mitigation
 
+Links to Slide
+
+[Part 1 : Misinformation and human perception](/files/ALTA22_tutorial_part1.pdf)
+[Part 2 : Misinformation detection](/files/ALTA22_tutorial_part2.pdf)
+[Part 3 : Misinformation mitigation](/files/ALTA22_tutorial_part3.pdf)
+
 
 ### Abstract
 
 The spread of misinformation — i.e. false or misleading information — has a profound impact on our society, and in the age of social media, its effect is amplified due to the ease of information sharing. The COVID-19 pandemic is perhaps the latest instance that showed us concrete ramifications of misinformation (e.g. vaccine hesitancy), and more broadly how misinformation can cause social division and undermine public trust in governments. The topical diversity, multi-modality and multi-linguality of misinformation and its complex interaction with humans on social media platforms presents significant challenges and attracts research from the Data Science and NLP communities to combat misinformation. In this tutorial, we present machine learning, text mining and natural language processing techniques as well as recommender system technologies for the detection and mitigation of misinformation on social media. The tutorial will comprise three parts; (1) misinformation and human perception; (2) misinformation detection; and (3) misinformation mitigation.
 
 <br>
+
+
 
 ### By Xiuzhen (Jenny) Zhang and Jey Han Lau
 

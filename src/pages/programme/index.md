@@ -1,6 +1,6 @@
 ---
 templateKey: default-page
-title: Draft Programme – ALTA 2022
+title: Programme – ALTA 2022
 seo:
   browserTitle: Programme | ALTA 2022
   description: >-

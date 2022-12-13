@@ -54,10 +54,6 @@ Susan Brown and Shunichi Ishihara.
   Jiayi Dai, Mi-Young Kim and Randy Goebel.
 
 
-* <span class="badge badge-long"></span> [_Automatic Explanation Generation For Climate Science Claims_](/files/ALTA_2022_16.pdf)
-  Rui Xing, Shraey Bhatia, Timothy Baldwin and Jey Han Lau.
-
-
 * <span class="badge badge-long"></span> [_Zhangzhou Implosives and Their Variations_](/files/ALTA_2022_17.pdf)
   Yishan Huang and Gwendolyn Hyslop.
 
@@ -102,6 +98,9 @@ Susan Brown and Shunichi Ishihara.
 
 * <span class="badge badge-short"></span> [_Estimating the Strength of Authorship Evidence with a Deep-Learning-Based Approach_](/files/ALTA_2022_21.pdf)
   Shunichi Ishihara, Satoru Tsuge, Mitsuyuki Inaba and Wataru Zaitsu.
+
+* <span class="badge badge-short"></span> [_Automatic Explanation Generation For Climate Science Claims_](/files/ALTA_2022_16.pdf)
+  Rui Xing, Shraey Bhatia, Timothy Baldwin and Jey Han Lau.
  
 
 

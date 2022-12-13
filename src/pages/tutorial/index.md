@@ -11,9 +11,9 @@ seo:
 
 Links to Slide
 
-[Part 1 : Misinformation and human perception](/files/ALTA22_tutorial_part1.pdf)
-[Part 2 : Misinformation detection](/files/ALTA22_tutorial_part2.pdf)
-[Part 3 : Misinformation mitigation](/files/ALTA22_tutorial_part3.pdf)
+[Part 1 : Misinformation and human perception](/files/ALTA22_tutorial_part1.pdf) <br>
+[Part 2 : Misinformation detection](/files/ALTA22_tutorial_part2.pdf) <br>
+[Part 3 : Misinformation mitigation](/files/ALTA22_tutorial_part3.pdf) <br>
 
 
 ### Abstract

@@ -14,6 +14,8 @@ seo:
     The premier workshop in Australasia for sharing research in Natural Language Processing and Computational Linguistics. Submissions from students, academics and industry researchers are welcome.
   title: ALTA 2022
 newsItems:
+  - date: 2022-12-14
+    text: Tutorial slides are now avaliable Check [Tutorial](/tutorial).
   - date: 2022-12-09
     text: Papers are now available. Check [Papers](/papers).
   - date: 2022-12-09

@@ -96,7 +96,7 @@ Morning/Lunch/Afternoon Tea - Room No. 1.01-1.03
 
 * 15:30 **Afternoon Tea**
 
-* 16:00 **Oral Presentations (Session B)** 
+* 16:00 **Oral Presentations (Session B)** - Session Chair: Jonathan Kummerfeld 
 
   * <span class="badge badge-long"></span> _Fine-tuning a Subtle Parsing Distinction Using a Probabilistic Decision Tree: the Case of Postnominal "that" in Noun Complement Clauses vs. Relative Clauses_     
     Zineddine Tighidet and Nicolas Ballier

@@ -15,7 +15,7 @@ seo:
   title: ALTA 2022
 newsItems:
   - date: 2022-12-16
-    text: [Proceedings](/files/proceedings_final.pdf) are now available.
+    text: Proceeding is now available. Download [here](/files/proceedings_final.pdf).
   - date: 2022-12-15
     text: ALTA/ADCS will be held on T1 building of Tonsley
   - date: 2022-12-14

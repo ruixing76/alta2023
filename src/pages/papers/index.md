@@ -113,8 +113,8 @@ Susan Brown and Shunichi Ishihara.
 * <span class="badge badge-abstract"></span> [_Verifying Urarina Language Phonemes With TensorFlow_](/files/ALTA_2022_A_3.pdf)
   Michael Dorin and Judith Dorin.
 
-* <span class="badge badge-abstract"></span> [_Probing of Quantitative Values in Abstractive Summarization Models_
-  Nathan White](/files/ALTA_2022_A_4.pdf)
+* <span class="badge badge-abstract"></span> [_Probing of Quantitative Values in Abstractive Summarization Models_](/files/ALTA_2022_A_4.pdf)
+  Nathan White
 
 
 * <span class="badge badge-abstract"></span> [_Zero-shot Slot Filling with Slot-Prefix Prompting and Attention Relationship Descriptor_](/files/ALTA_2022_A_5.pdf)

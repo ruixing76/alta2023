@@ -62,7 +62,7 @@ Susan Brown and Shunichi Ishihara.
 * <span class="badge badge-long"></span> [_Contrastive Visual and Language Learning for Visual Relationship Detection_](/files/ALTA_2022_23.pdf)
   Thanh Tran, Maelic Neau, Paulo Santos and David Powers.
 
-  * <span class="badge badge-long"></span> [_Zhangzhou Implosives and Their Variations_](/files/ALTA_2022_17.pdf)
+* <span class="badge badge-long"></span> [_Zhangzhou Implosives and Their Variations_](/files/ALTA_2022_17.pdf)
   Yishan Huang and Gwendolyn Hyslop.
 
 

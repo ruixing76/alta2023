@@ -55,16 +55,15 @@ Susan Brown and Shunichi Ishihara.
 
 
 
-* <span class="badge badge-long"></span> [_Evaluating the Examiner: The Perils of Pearson Correlation for Validating Text Similarity Metrics_](/files/ALTA_2022_18.pdf)
-  Gisela Vallejo, Timothy Baldwin and Lea Frermann.
-
-
 * <span class="badge badge-long"></span> [_Textstar: a Fast and Lightweight Graph-Based Algorithm for Extractive Summarization and Keyphrase Extraction_](/files/ALTA_2022_22.pdf)
   David Brock, Ali Khan, Tam Doan, Alicia Lin, Yifan Guo and Paul Tarau.
 
 
 * <span class="badge badge-long"></span> [_Contrastive Visual and Language Learning for Visual Relationship Detection_](/files/ALTA_2022_23.pdf)
   Thanh Tran, Maelic Neau, Paulo Santos and David Powers.
+
+  * <span class="badge badge-long"></span> [_Zhangzhou Implosives and Their Variations_](/files/ALTA_2022_17.pdf)
+  Yishan Huang and Gwendolyn Hyslop.
 
 
 ## Short Papers: 
@@ -99,8 +98,9 @@ Susan Brown and Shunichi Ishihara.
 * <span class="badge badge-short"></span> [_Automatic Explanation Generation For Climate Science Claims_](/files/ALTA_2022_16.pdf)
   Rui Xing, Shraey Bhatia, Timothy Baldwin and Jey Han Lau.
 
-* <span class="badge badge-short"></span> [_Zhangzhou Implosives and Their Variations_](/files/ALTA_2022_17.pdf)
-  Yishan Huang and Gwendolyn Hyslop.
+* <span class="badge badge-short"></span> [_Evaluating the Examiner: The Perils of Pearson Correlation for Validating Text Similarity Metrics_](/files/ALTA_2022_18.pdf)
+  Gisela Vallejo, Timothy Baldwin and Lea Frermann.
+
  
 
 

@@ -54,9 +54,6 @@ Susan Brown and Shunichi Ishihara.
   Jiayi Dai, Mi-Young Kim and Randy Goebel.
 
 
-* <span class="badge badge-long"></span> [_Zhangzhou Implosives and Their Variations_](/files/ALTA_2022_17.pdf)
-  Yishan Huang and Gwendolyn Hyslop.
-
 
 * <span class="badge badge-long"></span> [_Evaluating the Examiner: The Perils of Pearson Correlation for Validating Text Similarity Metrics_](/files/ALTA_2022_18.pdf)
   Gisela Vallejo, Timothy Baldwin and Lea Frermann.
@@ -101,6 +98,9 @@ Susan Brown and Shunichi Ishihara.
 
 * <span class="badge badge-short"></span> [_Automatic Explanation Generation For Climate Science Claims_](/files/ALTA_2022_16.pdf)
   Rui Xing, Shraey Bhatia, Timothy Baldwin and Jey Han Lau.
+
+* <span class="badge badge-short"></span> [_Zhangzhou Implosives and Their Variations_](/files/ALTA_2022_17.pdf)
+  Yishan Huang and Gwendolyn Hyslop.
  
 
 

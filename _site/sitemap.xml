@@ -67,6 +67,9 @@
 <loc>http://localhost:4000/calls/main_conference_papers/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/calls/main_conference_papers/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/calls/papers/Mandatory-abstract-submission</loc>
 </url>
 <url>
@@ -145,6 +148,9 @@
 <loc>http://localhost:4000/program/keynotes/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/mentoring/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/organization/</loc>
 </url>
 <url>
@@ -154,7 +160,7 @@
 <loc>http://localhost:4000/calls/papers/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/_pages/calls/papers-final/</loc>
+<loc>http://localhost:4000/_pages/calls/backup/papers-final/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/calls/papers/first/</loc>

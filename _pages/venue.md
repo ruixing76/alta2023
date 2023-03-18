@@ -7,10 +7,9 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-## Abu Dhabi
+## Melbourne
 
-Abu Dhabi is the capital and the second-most populous city of the United Arab Emirates (UAE) after Dubai. Abu Dhabi is also the capital of the Emirate of Abu Dhabi, one of the seven emirates that comprise the UAE federation.
-Situated on a set of islands in the Arabian Gulf, Abu Dhabi is a cosmopolitan city with a very large international presence (90% of residents).  English is the lingua franca. 
+Melbourne is the capital and most populous city of the Australian state of Victoria, and the second-most populous city in both Australia and Oceania.
 
 To find out more, please visit [this page](https://visitabudhabi.ae/en).
 
@@ -18,7 +17,7 @@ To find out more, please visit [this page](https://visitabudhabi.ae/en).
 
 ## Conference Venue
 
-EMNLP 2022 will take place in the Abu Dhabi National Exhibition Centre ([ADNEC](https://adnec.ae/)).
+ALTA 2023 will take place in the Abu Dhabi National Exhibition Centre ([ADNEC](https://adnec.ae/)).
 ADNEC is a multi-award-winning venue offering organizers of exhibitions, conferences, and events outstanding facilities spread over a total space of 151,000 square meters. ADNEC is just 15 minutes away from the rapidly expanding Abu Dhabi International Airport which serves over 50 airlines and 100 destinations in 46 countries around the globe. It is only 20 minutes from downtown Abu Dhabi and 90 minutes from Dubai International Airport.
 
 - Address: Abu Dhabi National Exhibitions Company, Khaleej Al Arabi Street, P.O. Box 5546, Abu Dhabi, United Arab Emirates
@@ -157,7 +156,7 @@ The COVID-19 global situation is continuously changing. For the latest informati
 
 ## Accommodation Information
 
-**PLEASE NOTE DISCOUNTED RATES END OCT. 31, 2022**
+**PLEASE NOTE DISCOUNTED RATES END OCT. 31, 2023**
 {: .notice .notice--info .text-center}
 
 Two hotels have been selected near the conference center that will provide special group rates for attendees.
@@ -177,11 +176,11 @@ Andaz Capital Gate Abu Dhabi, only 15 minutes away from the airport and most key
  
 The 188 stylish guest rooms offer optimum luxury coupled with cutting-edge technology and include digital phone lines, broadband modem points, international direct dialing, and voice mail messaging. The entertainment system offers satellite and interactive television whilst spacious work areas feature high-speed communication lines and Wi-Fi.  
  
-**Rooms are available from 06 December 2022 – 12 December 2022; standard room, single rate AED 850, double rate AED 915. Breakfast is included in rate. Based on availability.**
+**Rooms are available from 06 December 2023 – 12 December 2023; standard room, single rate AED 850, double rate AED 915. Breakfast is included in rate. Based on availability.**
 
-Rooms may be booked directly by clicking the link below. Deadline to reserve rooms: October 31, 2022.
+Rooms may be booked directly by clicking the link below. Deadline to reserve rooms: October 31, 2023.
 
-[**Book your group rate for the 2022 Conference on Empirical Methods in Natural Language Processing**](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN2)
+[**Book your group rate for the 2023 Conference on Empirical Methods in Natural Language Processing**](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc?corp_id=G-EMN2)
 {: .notice .notice--info .text-center}
  
 
@@ -201,11 +200,11 @@ Website: [Abu Dhabi 4-Star Hotel in UAE | Aloft Abu Dhabi (marriott.com)](https:
  
 Celebrate style at Aloft Abu Dhabi featuring loft-inspired design in a thriving metropolis. Set in and connected to the ultra-modern Abu Dhabi National Exhibition Centre, we're steps from the diplomatic district and near the airport and city sights. Meet and mingle with friends at our WXYZ Bar, grab a snack from Refuel by Aloft, our pantry open 24 hours a day, or play in our Glow Restaurant & Lounge. Plus, you can always stay connected with complimentary hotel-wide Internet access, and our plug-and-play connectivity station charges all your electronics and links to the 42” Smart TV to maximize work and play. Breeze into one of our Aloft rooms featuring our ultra-comfortable signature bed, an over-sized shower head and more at Aloft Abu Dhabi. 
  
-**Rooms are available from 06 December 2022 – 12 December 2022; standard room, single rate AED 438, double rate AED 488. Breakfast is included in rate. Based on availability.** 
+**Rooms are available from 06 December 2023 – 12 December 2023; standard room, single rate AED 438, double rate AED 488. Breakfast is included in rate. Based on availability.** 
 
-Rooms may be booked directly by clicking the link below. Deadline to reserve rooms: October 31, 2022.
+Rooms may be booked directly by clicking the link below. Deadline to reserve rooms: October 31, 2023.
 
-[**Book your group rate for The 2022 Conference on Empirical Methods in Natural Language Processing**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1662116653508&key=GRP&app=resvlink)
+[**Book your group rate for The 2023 Conference on Empirical Methods in Natural Language Processing**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1662116653508&key=GRP&app=resvlink)
 {: .notice .notice--info .text-center}    
 
 Alternative accommodation options, for example hostels, B&Bs and short-term lodging, can be found via the usual search engines.    
@@ -217,7 +216,7 @@ from budget-conscious to 5-star luxury.
 <!-- 
 ![hotel]({{ site.baseurl }}/assets/images/abu_dhabi/hotels.png)
 
-These hotels are **two minutes away on foot** to the venue of EMNLP2022:
+These hotels are **two minutes away on foot** to the venue of ALTA2023:
 - [Andaz Capital Gate Abu Dhabi](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc)
 - [Pearl Rotana Capital Centre](https://www.rotana.com/rotanahotelandresorts/unitedarabemirates/abudhabi/pearlrotana)
 - [Aloft Abu Dhabi Hotel](https://www.marriott.com/en-us/hotels/auhnl-aloft-abu-dhabi/overview/)
@@ -246,7 +245,7 @@ Website: [Premier Inn](https://mena.premierinn.com/en/hotel/abu-dhabi-capital-ce
 ## Welcome Reception and Social Event
 
 ### Welcome Reception 
-A Welcome Reception will be held on Thursday December 8, 2022from 7:00pm to 10:00pm. Join us at the Aloft Abu Dhabi Hotel where you can meet and make new friends and catch up with your colleagues over a drink (alcoholic & nonalcoholic drink ticket to be provided) and light canapes. 
+A Welcome Reception will be held on Thursday December 8, 2023from 7:00pm to 10:00pm. Join us at the Aloft Abu Dhabi Hotel where you can meet and make new friends and catch up with your colleagues over a drink (alcoholic & nonalcoholic drink ticket to be provided) and light canapes. 
  
 Admission to the welcome reception is included in the main conference in-person registration. Additional tickets can be bought on site.
      
@@ -254,7 +253,7 @@ Additional Welcome Reception Ticket - $50.
 Welcome Reception - Under 10 - $25.     
 
 ### Social Event 
-The EMNLP Social Event will be held on Saturday December 10, 2022 from 7:00pm – 10:00pm at the [Ritz-Carlton Abu Dhabi, Grand Canal Hotel](https://www.ritzcarlton.com/en/hotels/uae/abu-dhabi?scid=6086e1f4-af86-4268-a5e9-ecef4e9075cf&ppc=ppc&pId=ustbppc&nst=paid&gclid=872a19c941e3106b22547ae374f72f01&gclsrc=3p.ds&msclkid=872a19c941e3106b22547ae374f72f01). With its captivating sunsets and extraordinary view of the Sheikh Zayed Grand Mosque, you will be sure to enjoy an evening out at our Social Event with luxurious foods and libations (alcoholic and nonalcoholic drink ticket provided), along with Abu Dhabi’s local entertainment compliments of the Department of Tourism, and a DJ for some evening dancing.  
+The ALTA Social Event will be held on Saturday December 10, 2023 from 7:00pm – 10:00pm at the [Ritz-Carlton Abu Dhabi, Grand Canal Hotel](https://www.ritzcarlton.com/en/hotels/uae/abu-dhabi?scid=6086e1f4-af86-4268-a5e9-ecef4e9075cf&ppc=ppc&pId=ustbppc&nst=paid&gclid=872a19c941e3106b22547ae374f72f01&gclsrc=3p.ds&msclkid=872a19c941e3106b22547ae374f72f01). With its captivating sunsets and extraordinary view of the Sheikh Zayed Grand Mosque, you will be sure to enjoy an evening out at our Social Event with luxurious foods and libations (alcoholic and nonalcoholic drink ticket provided), along with Abu Dhabi’s local entertainment compliments of the Department of Tourism, and a DJ for some evening dancing.  
 
 Transportation to the event:     
 Charter buses will be available from ADNEC to the Ritz Carlton beginning at 6:30pm to 10:30pm. Departures from the Ritz will stop by Andaz, Aloft and Adnec. 
@@ -556,11 +555,11 @@ Discretion is generally advisable.  -->
 
 **What advice do you have for LGBTQ+ visitors?**
 
-The local organization team has been in touch with leaders of LGBTQ+ affinity groups to discuss how to make the venue most hospitable and answer any concerns they may have. A blog post with advice for LGBTQ+ visitors is available [here](https://2022.emnlp.org/blog/EMNLP-2022-Abu-Dhabi-LGBTQ+-Visitor-Considerations/).
+The local organization team has been in touch with leaders of LGBTQ+ affinity groups to discuss how to make the venue most hospitable and answer any concerns they may have. A blog post with advice for LGBTQ+ visitors is available [here](https://2023.ALTA.org/blog/ALTA-2023-Abu-Dhabi-LGBTQ+-Visitor-Considerations/).
 
 **I have never been to the UAE before, and I have some questions about traveling there. Who can I talk to?**
 
-The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email <emnlp2022abudhabi@googlegroups.com>.
+The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email <ALTA2023abudhabi@googlegroups.com>.
 
 
 

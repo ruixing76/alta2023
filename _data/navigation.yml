@@ -23,8 +23,8 @@ main:
   - title: "Calls"
     url: /calls/main_conference_papers/
     
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
       
   - title: "Committees"
     url: /organization
@@ -36,7 +36,7 @@ main:
     url: /contact 
     
   - title: "Mentoring"
-    url: /faq/
+    url: /mentoring/
   # - title: "Volunteers"
   #   url: /volunteers 
   
@@ -49,8 +49,8 @@ main:
   # - title: "Participants Info"
   #   url: /participants/anti_harassment/
 
-  - title: "FAQ"
-    url: /faq/
+  # - title: "FAQ"
+  #   url: /faq/
  
   # - title: "Ethics"
   #   url: /ethics/faq/
@@ -85,14 +85,14 @@ program:
 calls:
   - title: "Call for"
     children:
-      - title: "Main Conference Papers"
+      - title: "Main Workshop Papers"
         url: /calls/main_conference_papers/
-      - title: "System Demonstrations"
-        url: /calls/System_Demonstrations/
-      - title: "Industry Track Papers"
-        url: /calls/industry_track/
-      - title: "Style Files and Formatting"
-        url: /calls/style-and-formatting/
+      # - title: "System Demonstrations"
+      #   url: /calls/System_Demonstrations/
+      # - title: "Industry Track Papers"
+      #   url: /calls/industry_track/
+      # - title: "Style Files and Formatting"
+      #   url: /calls/style-and-formatting/
 #       - title: "Volunteers"
 #         url: /calls/volunteers/
         

@@ -4,8 +4,8 @@ layout: splash
 permalink: /
 header:
   # overlay_image: "/assets/images/abu_dhabi/Early morning aerial shot of Qasr Al Watan.JPEG.jpg"
-  overlay_image: "https://informationage-staging.s3.amazonaws.com/uploads/2022/10/guide-to-working-in-melbourne-tech-scene.jpeg"
-  caption: 'Photo found online for now'
+  overlay_image: "/assets/images/melbourne/melbourne_scence3.jpg"
+  caption: 'Photo by <a href="https://jeyhan.my/">Jey Han Lau</a>'
 excerpt: "Melbourne<br>December TBD&ndash;TBD, 2023"
 ---
 

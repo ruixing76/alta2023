@@ -13,15 +13,18 @@ main:
   
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
-    
-  - title: "Program"
+
+  - title: "CFP"
+    url: /calls/main_conference_papers/
+
+  - title: "Programme"
     url: /program/
+
+  - title: "Venue"
+    url: /venue
 
   # - title: "Registration"
   #   url: /registration/
-
-  - title: "Calls"
-    url: /calls/main_conference_papers/
     
   # - title: "Blog"
   #   url: /blog/
@@ -29,22 +32,17 @@ main:
   - title: "Committees"
     url: /organization
   
+  - title: "Mentoring"
+    url: /mentoring
+
   - title: "Sponsors"
     url: /sponsors/
-  
-  - title: "Contact"
-    url: /contact 
-    
-  - title: "Mentoring"
-    url: /mentoring/
-  # - title: "Volunteers"
-  #   url: /volunteers 
-  
-  - title: "Venue"
-    url: /venue
 
-  #- title: "Reviewer"
-  #  url: /not_available
+  - title: "Contact"
+    url: /contact
+
+  # - title: "Reviewer"
+  #   url: /not_available
 
   # - title: "Participants Info"
   #   url: /participants/anti_harassment/
@@ -55,6 +53,9 @@ main:
   # - title: "Ethics"
   #   url: /ethics/faq/
 
+
+mentoring:
+  - title: ALTA Mentoring Program
 
 program:
   - title: Program Details
@@ -122,10 +123,10 @@ ethics:
       - title: "Ethics Committee"
         url: /ethics/committee/
 
-reviewer:
-  - title: Reviewer
-    children:
-      - title: "Reviewer Instructions"
+# reviewer:
+#   - title: Reviewer
+#     children:
+#       - title: "Reviewer Instructions"
     #    url: /reviewer/instructions/
     #  - title: "Example Review Form"
     #    url: /downloads/NAACL2021-Review-Form.pdf

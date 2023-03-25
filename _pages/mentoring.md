@@ -1,7 +1,7 @@
 ---
 title: ALTA Mentoring Program
 layout: single
-permalink: /mentoring/
+permalink: /mentoring
 sidebar: false
 toc: true
 toc_sticky: true

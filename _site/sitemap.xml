@@ -148,7 +148,7 @@
 <loc>http://localhost:4000/program/keynotes/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/mentoring/</loc>
+<loc>http://localhost:4000/mentoring</loc>
 </url>
 <url>
 <loc>http://localhost:4000/organization/</loc>

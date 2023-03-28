@@ -1,14 +1,15 @@
 ---
-title: Conference Program
+title: Workshop Program
 layout: single
-excerpt: "NAACL 2021 Conference Program."
+excerpt: "ALTA 2023 Workshop Program."
 permalink: /program/
 toc: false
 sidebar:
     nav: program
 ---
+Currently programme is TBD.
 
-Please refer to the [Conference blog post](/blog/) for more details information.
+<!-- Please refer to the [Conference blog post](/blog/) for more details information.
 Time Zone: GST (GMT+4)
 
 We will have a supply of Conf. Handbooks available at Registration Check-in for in-person participants however for an up to date schedule you can download on line  [here](https://drive.google.com/file/d/1OlPv6QBeo62VVTughj2jkiLeyHd1WnUt/view?usp=sharing).
@@ -110,7 +111,7 @@ __Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), 
 ![adnec-map-1]({{ site.baseurl }}/assets/images/abu_dhabi/ADNEC-Main-Map.png)
 
 ## Exhibitor Floor Plan
-![adnec-map-3]({{ site.baseurl }}/assets/images/abu_dhabi/2022-EMNLP-EXIBITOR-SET.png)
+![adnec-map-3]({{ site.baseurl }}/assets/images/abu_dhabi/2022-EMNLP-EXIBITOR-SET.png) -->
 
 
 

@@ -60,16 +60,17 @@ mentoring:
 program:
   - title: Program Details
     children:
-      - title: "Conference Program"
+      - title: "Workshop Program"
         url: /program/
       - title: "Keynote"
         url: /program/keynotes/
-      - title: "Workshops"
-        url: /program/workshops/
       - title: "Tutorials"
         url: /program/tutorials/
-      - title: "Careers in NLP"
-        url: /program/careers_in_nlp/
+        
+      # - title: "Workshops"
+      #   url: /program/workshops/
+      # - title: "Careers in NLP"
+      #   url: /program/careers_in_nlp/
 #      - title: "Social Programs"
 #        url: /program/social/
 #       - title: "Careers in NLP Panel"
@@ -154,7 +155,7 @@ committees:
     children:
       - title: "Organizing Committee"
         url: /organization/
-      - title: "Senior Program Committee"
+      - title: "Executive Committee"
         url: /committees/program/
       #- title: "Ethics Committee"
       #  url: /ethics/committee/

@@ -1,5 +1,5 @@
 ---
-title: Executive Committee
+title: ALTA Executive Committee
 layout: single
 excerpt: "ALTA 2023 executive committee."
 permalink: /committees/program/

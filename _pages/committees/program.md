@@ -19,9 +19,9 @@ sidebar:
 {% include committee-member.html
    name="Maria Kim"
    picture="/assets/images/committee/alta_exec/default.png"
-   site="https://profiles.uts.edu.au/Massimo.Piccardi"
-   institution="University of Technology Sydney"
-   email="Massimo.Piccardi@uts.edu.au"
+   site="https://alta2022.alta.asn.au"
+   institution="Defence Science and Technology Group"
+   email="maria@alta.asn.au"
 %}
 
 ## Treasurer

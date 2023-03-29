@@ -18,7 +18,7 @@ sidebar:
 ## Secretary
 {% include committee-member.html
    name="Maria Kim"
-   picture="/assets/images/committee/alta_exec/Massimo_Piccardi.jpeg"
+   picture="/assets/images/committee/alta_exec/default.png"
    site="https://profiles.uts.edu.au/Massimo.Piccardi"
    institution="University of Technology Sydney"
    email="Massimo.Piccardi@uts.edu.au"

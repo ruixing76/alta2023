@@ -51,6 +51,22 @@ sidebar:
    email = "karin.verspoor@rmit.edu.au"
 %}
 
+{% include committee-member.html
+   name="Damiano Spina"
+   picture="/assets/images/committee/Damino_Spina.jpeg"
+   site="https://www.damianospina.com/"
+   institution="RMIT University"
+   email = "damiano.spina@rmit.edu.au"
+%}
+
+<h2>Liaison Chair </h2>
+{% include committee-member.html
+   name="Mel Mistica"
+   picture="/assets/images/committee/Mel_Mistica.jpg"
+   site="https://findanexpert.unimelb.edu.au/profile/3575-mel-mistica"
+   institution="University of Melbourne"
+   email = "misticam@unimelb.edu.au"
+%}
 
 <h2>Publication Chair </h2>
 {% include committee-member.html
@@ -61,19 +77,12 @@ sidebar:
    email = "qiongkai.xu@unimelb.edu.au"
 %}
 
-<h2>Finances Chair </h2>
-{% include committee-member.html
-   name="Mel Mistica"
-   picture="/assets/images/committee/Mel_Mistica.jpg"
-   site="https://findanexpert.unimelb.edu.au/profile/3575-mel-mistica"
-   institution="University of Melbourne"
-   email = "misticam@unimelb.edu.au"
-%}
+
 
 <h2>Technology Chair </h2>
 {% include committee-member.html
    name="Rui Xing"
-   picture="https://ruixing76.github.io/images/corgi.jpg"
+   picture="/assets/images/committee/alta_exec/default.png"
    site="https://cis.unimelb.edu.au/people/students/rui-xing"
    institution="University of Melbourne"
    email = "ruixing1@unimelb.edu.au"

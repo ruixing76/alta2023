@@ -14,13 +14,13 @@ main:
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
 
-  - title: "CFP"
+  - title: "CFP (Draft)"
     url: /calls/main_conference_papers/
 
-  - title: "Programme"
+  - title: "Programme(Invalid)"
     url: /program/
 
-  - title: "Venue"
+  - title: "Venue(Draft)"
     url: /venue
 
   # - title: "Registration"
@@ -29,13 +29,13 @@ main:
   # - title: "Blog"
   #   url: /blog/
       
-  - title: "Committees"
+  - title: "Committees(Draft)"
     url: /organization
   
-  - title: "Mentoring"
+  - title: "Mentoring(Draft)"
     url: /mentoring
 
-  - title: "Sponsors"
+  - title: "Sponsors(Draft)"
     url: /sponsors/
 
   - title: "Contact"

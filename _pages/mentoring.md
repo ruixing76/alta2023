@@ -34,7 +34,9 @@ Step 3: Organise a mentoring session either virtually (e.g., Zoom, Kumospace or 
 ## Boundaries of the mentor relationship
 Professional and ethical behaviour is expected at all times in a mentor relationship. A mentor and a mentee should treat the relationship with respect and maintain privacy/confidentiality of conversations. It is important that the mentee makes his/her own decisions and is responsible for his/her own actions.
 
-| Name                | Affiliation                             | Position                 | Email                              | Taking Mentees?* |
+Mentoring list is TBD.
+
+<!-- | Name                | Affiliation                             | Position                 | Email                              | Taking Mentees?* |
 |---------------------|-----------------------------------------|--------------------------|------------------------------------|------------------|
 | Afshin Rahimi       | University of Queensland                | Lecturer                 | a.rahimi@uq.edu.au                 | Yes              |
 | Bahar Salehi        | Go1                                     | Senior Data Scientist    | bahar.salehi@go1.com               | Yes              |
@@ -55,7 +57,7 @@ Professional and ethical behaviour is expected at all times in a mentor relation
 | Shunichi Ishihara   | Australian National University          | Associate Professor      | shunichi.ishihara@anu.edu.au       | Yes              |
 | Stephen Wan         | CSIRO                                   | Senior Scientist         | stephen.wan@data61.csiro.au        | Yes              |
 | Timothy Baldwin     | University of Melbourne                 | Professor                | tb@ldwin.net                       | Yes              |
-| Xiuzhen Zhang       | Royal Melbourne Institute of Technology | Professor                | xiuzhen.zhang@rmit.edu.au          | Yes              |
+| Xiuzhen Zhang       | Royal Melbourne Institute of Technology | Professor                | xiuzhen.zhang@rmit.edu.au          | Yes              | -->
 
 *Mentors: When you are no longer accepting mentees, send an email to exec@alta.asn.au to have your status updated.
 

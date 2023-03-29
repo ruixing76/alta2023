@@ -1,5 +1,5 @@
 ---
-title: Call for Main Workshop Papers
+title: Draft Call for Main Workshop Papers
 layout: single
 permalink: /calls/main_conference_papers/
 sidebar: 

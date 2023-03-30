@@ -14,10 +14,10 @@ main:
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
 
-  - title: "CFP (Draft)"
+  - title: "CFP(Draft)"
     url: /calls/main_conference_papers/
 
-  - title: "Programme(Invalid)"
+  - title: "Programme(Draft)"
     url: /program/
 
   - title: "Venue(Draft)"

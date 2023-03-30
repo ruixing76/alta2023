@@ -10,20 +10,9 @@ sidebar:
     nav: program
 ---
 
-## Tutorial Schedule
+TBD
 
-**Date:** Wednesday 7 Dec 2022, Thursday 8 December 2022
-
-<!-- **Morning Session (08:00–12:00)**
-* [T1](#t1): Pretrained Transformers for Text Ranking: BERT and Beyond
-* [T2](#t2): Fine-grained Interpretation and Causation Analysis in Deep NLP Models
-* [T3](#t3): Deep Learning on Graphs for Natural Language Processing
-* [T4](#t4): A Tutorial on Evaluation Metrics used in Natural Language Generation
-* [T5](#t5): Beyond Paragraphs: NLP for Long Sequences
-
-**Evening Session (16:00–20:00)**
-* [T6](#t6): Crowdsourcing Natural Language Data at Scale: A Hands-On Tutorial -->
-
+<!-- ## Tutorial Schedule
 
 ## T1 (Wednesday 7 Dec, Morning & Afternoon): Meaning Representations for Natural Languages: Design, Models and Applications
 {: #t1}
@@ -53,7 +42,7 @@ Sebastian Ruder, Jonas Pfeiffer, Ivan Vulic
 ## T6 Thursday 8 December, Afternoon): Non-Autoregressive Models for Fast Sequence Generation  
 {: #t6}
 
-Yang Feng, Chenze Shao
+Yang Feng, Chenze Shao -->
 
 
 

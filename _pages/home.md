@@ -62,8 +62,8 @@ TBD
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
-| Mar 17, 2023 | [TBD](blog/Birds-of-a-Feather-(BoF)-Sessions-at-EMNLP/)
-| Feb 17, 2023 | Exec meeting going on...
+| Mar 17, 2023 | TBD
+| Feb 17, 2023 | Exec meeting
 {: .news-table}
 
 <!-- [Older BLOG POSTS](/blog/){: .btn .btn--info}

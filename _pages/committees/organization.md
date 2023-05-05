@@ -51,12 +51,29 @@ sidebar:
    email = "karin.verspoor@rmit.edu.au"
 %}
 
-{% include committee-member.html
+<!-- {% include committee-member.html
    name="Damiano Spina"
    picture="/assets/images/committee/Damino_Spina.jpeg"
    site="https://www.damianospina.com/"
    institution="RMIT University"
    email = "damiano.spina@rmit.edu.au"
+%} -->
+
+{% include committee-member.html
+   name="Christine de Kock"
+   picture="/assets/images/committee/Christine.jpg"
+   site="https://christinedekock.com/"
+   institution="University of Cambridge"
+   email = "christinedekock11@gmail.com"
+%}
+
+<h2>Publicity Chair</h2>
+{% include committee-member.html
+   name="Ekaterina Vylomova"
+   picture="/assets/images/committee/Kat.jpg"
+   site="https://ivri.github.io/"
+   institution="University of Melbourne"
+   email = "ekaterina.vylomova@unimelb.edu.au"
 %}
 
 <h2>Liaison Chair </h2>

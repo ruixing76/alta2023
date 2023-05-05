@@ -117,6 +117,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/ruixing76/alta2023
+    - label: "ALTA"
+      icon: "fa fa-refresh fa-spin fa-3x fa-fw"
+      url: https://www.alta.asn.au/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -126,6 +129,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+      
 
 
 # Reading Files

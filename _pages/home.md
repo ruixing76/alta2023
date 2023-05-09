@@ -6,10 +6,24 @@ header:
   # overlay_image: "/assets/images/abu_dhabi/Early morning aerial shot of Qasr Al Watan.JPEG.jpg"
   overlay_image: "/assets/images/melbourne/melbourne_scence3.jpg"
   caption: 'Photo by <a href="https://jeyhan.my/">Jey Han Lau</a>'
-excerpt: "Melbourne<br>December TBD&ndash;TBD, 2023"
+excerpt: "Melbourne<br>November 29-December 1, 2023"
 ---
+## Welcome!
+The 21st Annual Workshop of the Australasian Language Technology Association (ALTA’23) will take place in **Melbourne, Australia** from **November 29th to December 1st, 2023**. More information will be announced soon.
+
 
 ## News
+<style>
+/*.news-table { font-size: .9em; table-layout: fixed; text-align: left; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 42em; }*/
+.news-table { font-size: .9em; table-layout: fixed;}
+.news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
+.news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
+</style>
+| 2023-04-21 | The ALTA 2023 workshop date has been finalized (Nov 29-Dec 1, 2023).
+| 2023-03-29 | The official ALTA 2023 website is launched.
+{: .news-table}
+
 <!-- [**Proceedings of EMNLP 2022.**](https://aclanthology.org/events/emnlp-2022/)
 {: .text-center .notice--info}
 
@@ -50,12 +64,11 @@ excerpt: "Melbourne<br>December TBD&ndash;TBD, 2023"
 <!-- [**Main Conference Papers submission link**](https://softconf.com/emnlp2022/papers/) is now available.
 {: .text-center .notice--info} -->
 
-TBD
-{: .text-center .notice--info}
 
-## LASTEST BLOG POSTS 
 
-<style>
+<!-- ## LASTEST BLOG POSTS  -->
+
+<!-- <style>
 /*.news-table { font-size: .9em; table-layout: fixed; text-align: left; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 42em; }*/
 .news-table { font-size: .9em; table-layout: fixed;}
@@ -64,7 +77,7 @@ TBD
 </style>
 | Mar 17, 2023 | TBD
 | Feb 17, 2023 | Exec meeting
-{: .news-table}
+{: .news-table} -->
 
 <!-- [Older BLOG POSTS](/blog/){: .btn .btn--info}
 {: .text-center} -->
@@ -129,18 +142,15 @@ The [**Conference Program Schedule**](/program/) is now online.
 
 <style>
 .dates-table { font-size: .9em; }
-.dates-table tr td:nth-child(1) { width: 55%; }
+.dates-table tr td:nth-child(1) { width: 45%; }
 .dates-table tr td:nth-child(2) { width: 25%; }
 .dates-table del { color: #888; }
 </style>
 
-| Conference date (online & offline) | TBD-TBD | December TBD – TBD, 2023 |
+| Tutorial date | Wednesday | November 29, 2023 |
+| Workshop date (online & offline) | Wednesday - Friday | November 29 – December 1, 2023 |
 {: .dates-table}
 
 <!--
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
 !-->
-
-## Welcome!
-
-ALTA 2023 will take place in Melbourne from **December TBD to December TBD, 2023**. And it will be held in hybrid mode, both online and offline.

@@ -12,11 +12,13 @@ toc_icon: "cog"
 **commission link** is now TBD.
 
 ## Overview
-The 21th Annual Workshop of the Australasian Language Technology Association will be held in a hybrid format at University of Melbourne, Melbourne, from the TBD to the TBD of December 2023
+The 21th Annual Workshop of the Australasian Language Technology Association will be held in a hybrid format at University of Melbourne, Melbourne, from the 29th of November to 1st of December 2023.
 
 The hybrid format gives participants a valuable opportunity to socialise either in-person or online venue.
 
-The ALTA 2023 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government researchers and developers.
+More information coming soon...
+
+<!-- The ALTA 2023 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations and posters from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government researchers and developers.
 
 Note that ALTA is listed in recently updated CORE 2022 Conference Rankings as Australasian B. See details from CORE Rankings Portal.
 
@@ -124,4 +126,4 @@ Abstracts ideally should be a few paragraphs and no more than 2 pages
 
 ## Anonymisation
 Short and long papers must be anonymised.
-Abstracts are NOT to be anonymised and must include the author's/authors' affiliation
+Abstracts are NOT to be anonymised and must include the author's/authors' affiliation -->

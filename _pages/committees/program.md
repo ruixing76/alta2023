@@ -18,10 +18,10 @@ sidebar:
 ## Secretary
 {% include committee-member.html
    name="Maria Kim"
-   picture="/assets/images/committee/alta_exec/default.png"
+   picture="/assets/images/committee/alta_exec/Maria.jpeg"
    site="https://alta2022.alta.asn.au"
    institution="Defence Science and Technology Group"
-   email="maria@alta.asn.au"
+   email="maria.kim@dst.defence.gov.au"
 %}
 
 ## Treasurer
@@ -63,7 +63,7 @@ sidebar:
 ## Student Representative
 {% include committee-member.html
    name="Rui Xing"
-   picture="https://ruixing76.github.io/images/corgi.jpg"
+   picture="/assets/images/committee/alta_exec/Rui.JPG"
    site="https://cis.unimelb.edu.au/people/students/rui-xing"
    institution="University of Melbourne"
    email = "ruixing1@unimelb.edu.au"

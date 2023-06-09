@@ -142,13 +142,19 @@ The [**Conference Program Schedule**](/program/) is now online.
 
 <style>
 .dates-table { font-size: .9em; }
-.dates-table tr td:nth-child(1) { width: 45%; }
+.dates-table tr td:nth-child(1) { width: 40%; }
 .dates-table tr td:nth-child(2) { width: 25%; }
 .dates-table del { color: #888; }
 </style>
 
-| Tutorial date | Wednesday | November 29, 2023 |
-| Workshop date (online & offline) | Wednesday - Friday | November 29 – December 1, 2023 |
+| Paper submissions (Long, short papers, industry demos and abstract presentations) | Tuesday | September 5, 2023 |
+| Paper review period (reviewing) | -- | September 13 - October 4, 2023 |
+| Paper review period (consolidate by co-chairs) | -- | October 5 - October 12, 2023 |
+| Author notification | Saturday | October 14, 2023 |
+| Camera ready paper due | Saturday | October 28, 2023 |
+| Proceedings ready | Wednesday | November 15, 2023 |
+| Conference (Tutorial) | Wednesday | November 29, 2023 |
+| Conference (online & offline) | Wednesday - Friday | November 29 – December 1, 2023 |
 {: .dates-table}
 
 <!--

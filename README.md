@@ -1,20 +1,22 @@
-# EMNLP 2022 official website
+# ALTA 2023 official website
 
-This is the code for the official website for the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), based on the code for [NAACL-HLT 2021](https://github.com/naacl-org/naacl-2021-website/), the following is the configuration details.
+This is the code for the official website for the 2023 Annual Workshop of the Australasian Language Technology Association ([ALTA 2023](https://alta2023.alta.asn.au/)), based on the code for [EMNLP 2022](https://github.com/yxni98/EMNLP_2022), the following is the configuration details.
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
 # Table of contents
 
-* [Building Locally](#building-locally)
-   * [Using Ruby](#using-ruby)
-   * [Using Docker](#using-docker)
-      * [Run and Go](#run-and-go)
-      * [Build and Reuse](#build-and-reuse)
-* [Forking for a New Conference](#forking-for-a-new-conference)
-   * [Important Files](#important-files)
-   * [Domain Setup](#domain-setup)
-* [License](#license)
+- [ALTA 2023 official website](#alta-2023-official-website)
+- [Table of contents](#table-of-contents)
+- [Building Locally](#building-locally)
+  - [Using Ruby](#using-ruby)
+  - [Using Docker](#using-docker)
+    - [Run and Go](#run-and-go)
+    - [Build and Reuse](#build-and-reuse)
+- [Forking for a New Conference](#forking-for-a-new-conference)
+  - [Important Files](#important-files)
+  - [Domain Setup](#domain-setup)
+- [License](#license)
 
 # Building Locally
 
@@ -108,7 +110,7 @@ If you fork this repository, the following files are the ones to pay attention t
 
 ## Domain Setup
 
-The following settings connect the the main domain booked for the conference (e.g. `naacl2021.org`) with the underlying Github Pages build. 
+The following settings connect the the main domain booked for the conference (e.g. `alta2023.org`) with the underlying Github Pages build. 
 
 On the domain side, the following DNS settings need to be set up: all four IPs belong to Github, the last row connects the www subdomain to the main domain:
 
@@ -120,7 +122,7 @@ A   @   185.199.111.153
 CNAME www   naacl2021.org
 ```
 
-In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (e.g., `naacl2021.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.
+In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (e.g., `alta2023.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.
 
 # License
 

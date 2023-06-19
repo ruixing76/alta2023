@@ -16,7 +16,7 @@ The 21st Annual Workshop of the Australasian Language Technology Association (AL
 <style>
 /*.news-table { font-size: .9em; table-layout: fixed; text-align: left; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 42em; }*/
-.news-table { font-size: .9em; table-layout: fixed;}
+.news-table { font-size: .8em; table-layout: fixed;}
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
@@ -141,17 +141,17 @@ The [**Conference Program Schedule**](/program/) is now online.
 ## Important Dates
 
 <style>
-.dates-table { font-size: .9em; }
-.dates-table tr td:nth-child(1) { width: 40%; }
-.dates-table tr td:nth-child(2) { width: 25%; }
+.dates-table { font-size: .8em; }
+.dates-table tr td:nth-child(1) { width: 50%; }
+.dates-table tr td:nth-child(2) { width: 10%; }
 .dates-table del { color: #888; }
 </style>
 
-| Paper submissions (Long, short papers, industry demos and abstract presentations) | Tuesday | September 5, 2023 |
+| Paper submissions (Long, short papers, industry demos and abstract presentations) | Tuesday | September 5, 2023 **(11:59pm Anywhere on Earth UTC-12)** |
 | Paper review period (reviewing) | -- | September 13 - October 4, 2023 |
 | Paper review period (consolidate by co-chairs) | -- | October 5 - October 12, 2023 |
 | Author notification | Saturday | October 14, 2023 |
-| Camera ready paper due | Saturday | October 28, 2023 |
+| Camera ready paper due | Saturday | October 28, 2023 **(11:59pm Anywhere on Earth UTC-12)** |
 | Proceedings ready | Wednesday | November 15, 2023 |
 | Conference (Tutorial) | Wednesday | November 29, 2023 |
 | Conference (online & offline) | Wednesday - Friday | November 29 – December 1, 2023 |

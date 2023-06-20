@@ -95,7 +95,8 @@ Authors should submit their papers via OpenReview: <https://openreview.net/group
 Submissions must follow the two-column ACL format. We therefore strongly recommend you use LaTeX style files or Microsoft Word template from: <https://github.com/acl-org/acl-style-files><base target="_blank">
 
 ### Paper Length
-Long papers should be 7-8 pages (excluding references) Short papers should be 3-4 pages (excluding references)
+Long papers should be 7-8 pages (excluding references) \
+Short papers should be 3-4 pages (excluding references) \
 Abstracts ideally should be a few paragraphs and no more than 2 pages Industry demonstration proposals should be 1-2 pages
 
 ### Anonymisation

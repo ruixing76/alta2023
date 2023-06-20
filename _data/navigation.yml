@@ -14,8 +14,8 @@ main:
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
 
-  # - title: "CFP"
-  #   url: /calls/main_conference_papers/
+  - title: "Call For Papers"
+    url: /calls/main_conference_papers/
 
   # - title: "Programme"
   #   url: /program/
@@ -87,7 +87,7 @@ program:
 calls:
   - title: "Call for"
     children:
-      - title: "Main Workshop Papers"
+      - title: "ALTA 2023 Papers"
         url: /calls/main_conference_papers/
       # - title: "System Demonstrations"
       #   url: /calls/System_Demonstrations/

@@ -20,6 +20,7 @@ The 21st Annual Workshop of the Australasian Language Technology Association (AL
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
+| 2023-06-20 | Call for papers is out. Please check [Call for Papers](/calls/main_conference_papers/) page for details.
 | 2023-04-21 | The ALTA 2023 workshop date has been finalized (Nov 29-Dec 1, 2023).
 | 2023-03-29 | The official ALTA 2023 website is launched.
 {: .news-table}

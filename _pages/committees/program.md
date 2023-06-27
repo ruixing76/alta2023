@@ -47,8 +47,8 @@ sidebar:
    name="Gabriela Ferraro"
    picture="/assets/images/committee/alta_exec/Gabriela.jpeg"
    site="https://gabrielaferraro.online/"
-   institution="DATA61"
-   email="gabriela.ferraro@csiro.au"
+   institution="Australian National University"
+   email="Gabriela.Ferraro@anu.edu.au"
 %}
 
 ## Regular member

@@ -65,11 +65,11 @@ toc_label: "&nbsp;Sponsorship Tier"
 #     image_path: /assets/images/logos/Tetrasoft-logo.png
 #     alt: Tetrasoft
 #     title: Tetrasoft 
-# gold:
-#   - url: https://careers.servicenow.com/careers/jobs?keywords=ATG&sortBy=relevance&page=1
-#     image_path: /assets/images/logos/servicenow-logo.jpeg
-#     alt: ServiceNow
-#     title: ServiceNow
+gold:
+  - url: https://www.google.com/
+    image_path: /assets/images/logos/googlelogo_color_416x140dp.png
+    alt: Google
+    title: Google
 #   - url: https://cohere.com/
 #     image_path: /assets/images/logos/cohere-logo.png
 #     alt: Cohere.ai
@@ -174,9 +174,9 @@ for information about sponsorship rates and benefits. -->
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-## Supporting Partner
+<!-- ## Supporting Partner
 
-{% include sponsors-list id="partner" layout="third" %}
+{% include sponsors-list id="partner" layout="third" %} -->
 
 ## Diamond
 
@@ -198,6 +198,6 @@ for information about sponsorship rates and benefits. -->
 
 {% include sponsors-list id="bronze" layout="third" %}
 
-## Diversity and Inclusion: Champion
+<!-- ## Diversity and Inclusion: Champion
 
-{% include sponsors-list id="di_champion" layout="third" %}
+{% include sponsors-list id="di_champion" layout="third" %} -->

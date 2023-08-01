@@ -17,9 +17,7 @@ toc_icon: "cog"
 
 
 ## Overview
-The 21st Annual Workshop of the Australasian Language Technology Association will be held in a hybrid format at Melbourne Connect, Melbourne, from the 29th November to 1st December 2023.
-
-The hybrid format gives participants a valuable opportunity to attend either in-person or online.
+The 21st Annual Workshop of the Australasian Language Technology Association will be held at Melbourne Connect, Melbourne, from the 29th November to 1st December 2023.
 
 The ALTA 2023 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations, posters and demonstrations from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government researchers and developers.
 

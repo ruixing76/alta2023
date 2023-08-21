@@ -15,13 +15,15 @@ toc_icon: "cog"
 - Tutorials: 29 November 2023
 - Main Conference: 30 November and 1 December 2023
 
+**Accepted papers and demonstrations are strongly encouraged to be presented in person; online presentations will be allowed only in exceptional circumstances, such as visa issues.**
+
 
 ## Overview
 The 21st Annual Workshop of the Australasian Language Technology Association will be held at Melbourne Connect, Melbourne, from the 29th November to 1st December 2023.
 
 The ALTA 2023 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations, posters and demonstrations from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government researchers and developers.
 
-Note that ALTA is listed in the CORE 2021 Conference Rankings as Australasian B. See details from [CORE Rankings Portal](https://www.core.edu.au/conference-portal)<base target="_blank">.
+Note that ALTA is listed in the CORE 2021 Conference Rankings as Australasian B. See details from [CORE Rankings Portal](https://www.core.edu.au/conference-portal).
 
 
 ## Topics
@@ -87,10 +89,10 @@ Original research papers that are under review for other publication venues or t
 
 ## Instructions for Authors Paper Submission
  
-Authors should submit their papers via OpenReview: <https://openreview.net/group?id=ALTA.asn.au/2023/Workshop><base target="_blank"> (using the “ALTA 2023 Workshop Submission” button)
+Authors should submit their papers via OpenReview: <https://openreview.net/group?id=ALTA.asn.au/2023/Workshop> (using the “ALTA 2023 Workshop Submission” button)
 
 ### Formatting Guidelines
-Submissions must follow the two-column ACL format. We therefore strongly recommend you use LaTeX style files or Microsoft Word template from: <https://github.com/acl-org/acl-style-files><base target="_blank">
+Submissions must follow the two-column ACL format. We therefore strongly recommend you use LaTeX style files or Microsoft Word template from: <https://github.com/acl-org/acl-style-files>
 
 ### Paper Length
 Long papers should be 7-8 pages (excluding references) \

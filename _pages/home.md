@@ -20,6 +20,8 @@ The 21st Annual Workshop of the Australasian Language Technology Association (AL
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
+| 2023-09-01 | ALTA 2023 submission deadline is extended. Please also check [Call for Papers](/calls/main_conference_papers/) page.
+| 2023-07-04 | ALTA 2023 shared task is out. Please check [ALTA 2023 Shared Task](https://www.alta.asn.au/events/sharedtask2023/) page for more details.
 | 2023-06-20 | Call for papers is out. Please check [Call for Papers](/calls/main_conference_papers/) page for details.
 | 2023-04-21 | The ALTA 2023 workshop date has been finalized (Nov 29-Dec 1, 2023).
 | 2023-03-29 | The official ALTA 2023 website is launched.
@@ -148,7 +150,8 @@ The [**Conference Program Schedule**](/program/) is now online.
 .dates-table del { color: #888; }
 </style>
 
-| Paper submissions (Long, short papers, industry demos and abstract presentations) | Tuesday | September 5, 2023 **(11:59pm Anywhere on Earth UTC-12)** |
+| Paper submissions (Long, short papers, industry demos and abstract presentations) | Tuesday | September 12, 2023 **(11:59pm Anywhere on Earth UTC-12)**  |
+| <del>Paper submissions (Long, short papers, industry demos and abstract presentations)</del> | <del>Tuesday</del> | <del>September 5, 2023 (11:59pm Anywhere on Earth UTC-12)</del>  |
 | Paper review period (reviewing) | -- | September 13 - October 4, 2023 |
 | Paper review period (consolidate by co-chairs) | -- | October 5 - October 12, 2023 |
 | Author notification | Saturday | October 14, 2023 |

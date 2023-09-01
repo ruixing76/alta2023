@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 ## Important Dates
-- Submission Deadline for short/long papers, presentation abstracts and industry demonstrations: **5 September 2023 (11:59pm Anywhere on Earth UTC-12)**
+- Submission Deadline for short/long papers, presentation abstracts and industry demonstrations: <del>5 September 2023 (11:59pm Anywhere on Earth UTC-12)</del> **Extended: 12 September 2023 (11:59pm Anywhere on Earth UTC-12)**
 - Author Notification: 14 October 2023
 - Camera-Ready Deadline: **28 October 2023 (11:59pm Anywhere on Earth UTC-12)**
 - Tutorials: 29 November 2023

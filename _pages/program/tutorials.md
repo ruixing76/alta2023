@@ -10,7 +10,7 @@ sidebar:
     nav: program
 ---
 
-TBD
+The tutorial speakers for ALTA 2023 will be announced soon.
 
 <!-- ## Tutorial Schedule
 

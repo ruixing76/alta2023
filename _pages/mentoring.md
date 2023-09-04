@@ -36,29 +36,6 @@ Professional and ethical behaviour is expected at all times in a mentor relation
 
 Mentoring list is TBD.
 
-<!-- | Name                | Affiliation                             | Position                 | Email                              | Taking Mentees?* |
-|---------------------|-----------------------------------------|--------------------------|------------------------------------|------------------|
-| Afshin Rahimi       | University of Queensland                | Lecturer                 | a.rahimi@uq.edu.au                 | Yes              |
-| Bahar Salehi        | Go1                                     | Senior Data Scientist    | bahar.salehi@go1.com               | Yes              |
-| Borhan Kazimipour   | Australian Taxation Office              | Director of Data Science | Borhan.Kazimipour@ato.gov.au       | Yes              |
-| Daniel Beck         | University of Melbourne                 | Lecturer                 | d.beck@unimelb.edu.au              | Yes              |
-| David Powers        | Flinders University                     | Professor                | david.powers@flinders.edu.au       | Yes              |
-| Diego Molla         | Macquarie University                    | Senior Lecturer          | diego.molla-aliod@mq.edu.au        | Yes              |
-| Gabriela Ferraro    | CSIRO Data61                            | Researcher               | gabriela.ferraro@data61.csiro.au   | Yes              |
-| Jonathan Kummerfeld | University of Sydney                    | Senior Lecturer          | jonathan.kummerfeld@sydney.edu.au  | Yes              |
-| Jennifer Biggs      | Defence Science and Technology Group    | Defence Scientist        | jennifer.biggs@dst.defence.gov.au  | Yes              |
-| Jey Han Lau         | University of Melbourne                 | Lecturer                 | jeyhan.lau@gmail.com               | Yes              |
-| Maria Kim           | Defence Science and Technology Group    | Defence Scientist        | maria.kim@dst.defence.gov.au       | Yes              |
-| Massimo Piccardi    | University of Technology Sydney         | Professor                | massimo.piccardi@uts.edu.au        | Yes              |
-| Meladel Mistica     | University of Melbourne                 | Research Data Specialist | misticam@unimelb.edu.au            | Yes              |
-| Paulo E. Santos     | Flinders University                     | Associate Professor      | paulo.santos@flinders.edu.au       | Yes              |
-| Richard Leibbrandt  | Flinders University                     | Lecturer                 | Richard.leibbrandt@flinders.edu.au | Yes              |
-| Sarvnaz Karimi      | CSIRO                                   | Principal Scientist      | sarvnaz.karimi@csiro.au            | Yes              |
-| Shunichi Ishihara   | Australian National University          | Associate Professor      | shunichi.ishihara@anu.edu.au       | Yes              |
-| Stephen Wan         | CSIRO                                   | Senior Scientist         | stephen.wan@data61.csiro.au        | Yes              |
-| Timothy Baldwin     | University of Melbourne                 | Professor                | tb@ldwin.net                       | Yes              |
-| Xiuzhen Zhang       | Royal Melbourne Institute of Technology | Professor                | xiuzhen.zhang@rmit.edu.au          | Yes              | -->
-
 *Mentors: When you are no longer accepting mentees, send an email to exec@alta.asn.au to have your status updated.
 
 *If you have any questions regarding the ALTA mentoring program, please contact president@alta.asn.au.*

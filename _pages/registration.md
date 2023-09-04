@@ -8,11 +8,11 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-**Registration is now open.**
+**The registration information will be announced soon.**
 {: .notice .notice--info .text-center}
 
 
-We have made every effort to keep registration fees affordable.  Please note that, for the virtual attendees, by paying the registration fee, you will enjoy full access to all tutorials, main conference, and workshops.  For in-person attendees, by paying the full registration fee, you will be able to attend all tutorials, main conference, and workshops of your choosing.  We also offer a workshop-only fee for those in-person attendees who cannot come to the tutorials and main conference but do wish to attend a particular workshop(s).
+<!-- We have made every effort to keep registration fees affordable.  Please note that, for the virtual attendees, by paying the registration fee, you will enjoy full access to all tutorials, main conference, and workshops.  For in-person attendees, by paying the full registration fee, you will be able to attend all tutorials, main conference, and workshops of your choosing.  We also offer a workshop-only fee for those in-person attendees who cannot come to the tutorials and main conference but do wish to attend a particular workshop(s).
 
 ## Registration Form
 To register, please fill [this form](http://www.yesevents.com/emnlp).
@@ -106,6 +106,6 @@ The ACL offers a discount to members from developing countries. We hope this dis
 
 ## Virtual EMNLP 2022 Conference Cancellation Policy
 
-For cancellations received up to two weeks prior to the conference, registration fees will be reimbursed; ACL membership (if paid as part of the registration) is not reimbursable.
+For cancellations received up to two weeks prior to the conference, registration fees will be reimbursed; ACL membership (if paid as part of the registration) is not reimbursable. -->
 
 

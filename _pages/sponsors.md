@@ -99,15 +99,15 @@ gold:
 #     image_path: /assets/images/logos/translated-logo.png
 #     alt: Translated
 #     title: Translated    
-# bronze:
-#   - url: https://babelscape.com
-#     image_path: /assets/images/logos/babelscape-logo.png
-#     alt: Babelscape
-#     title: Babelscape
-#   - url: https://research.adobe.com/
-#     image_path: /assets/images/logos/adobe-logo.png
-#     alt: Adobe
-#     title: Adobe
+bronze:
+  - url: https://redenlab.com/
+    image_path: /assets/images/logos/redenlab-logo.jpg
+    alt: Redenlab
+    title: Redenlab
+  - url: https://www.commbank.com.au/
+    image_path: /assets/images/logos/commonbank-logo.png
+    alt: Commonbank
+    title: Commonbank
 #   - url: https://hltcoe.jhu.edu/opportunities/research-scientists/
 #     image_path: /assets/images/logos/hlt-logo.png
 #     alt: Human Language Technology Center of Excellence (HLTCOE)

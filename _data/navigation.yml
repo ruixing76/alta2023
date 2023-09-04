@@ -1,5 +1,7 @@
 # main links
-#in masthead.html
+# in masthead.html
+# To avoid the font become grey, url string should contain the title
+# TOOO navigation -> page generation
 main:
 
   #- title: "Schedule"
@@ -14,29 +16,32 @@ main:
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
 
-  - title: "Call For Papers"
-    url: /calls/main_conference_papers/
+  - title: "Calls"
+    url: /calls/main_conference_papers
 
-  # - title: "Programme"
-  #   url: /program/
+  - title: "Programme"
+    url: /program/
 
-  # - title: "Venue"
-  #   url: /venue
+  - title: "Venue"
+    url: /venue
 
-  # - title: "Registration"
-  #   url: /registration/
+  - title: "Registration"
+    url: /registration/
     
+  - title: "Shared Task"
+    url: https://www.alta.asn.au/events/sharedtask2023/
+
   # - title: "Blog"
   #   url: /blog/
       
   - title: "Committees"
     url: /organization
   
-  # - title: "Mentoring"
-  #   url: /mentoring
+  - title: "Mentoring"
+    url: https://www.alta.asn.au/mentoring/index.html
 
-  # - title: "Sponsors"
-  #   url: /sponsors/
+  - title: "Sponsors"
+    url: /sponsors/
 
   - title: "Contact"
     url: /contact
@@ -60,7 +65,7 @@ mentoring:
 program:
   - title: Program Details
     children:
-      - title: "Workshop Program"
+      - title: "Conference Program"
         url: /program/
       - title: "Keynote"
         url: /program/keynotes/
@@ -85,7 +90,7 @@ program:
 #        url: /sponsors/list/
 
 calls:
-  - title: "Call for"
+  - title: "calls for"
     children:
       - title: "ALTA 2023 Papers"
         url: /calls/main_conference_papers/
@@ -109,9 +114,9 @@ calls:
   #      url: /calls/reproducibility-checklist/
   #- title: Archived calls
   #  children:
-  #    - title: "First Call for Papers"
+  #    - title: "First calls for Papers"
   #      url: /calls/papers/first/
-  #    - title: "Preliminary Call for Papers"
+  #    - title: "Preliminary calls for Papers"
   #      url: /calls/papers/prelim/
 
 ethics:

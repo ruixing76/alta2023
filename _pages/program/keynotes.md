@@ -10,9 +10,9 @@ sidebar:
     nav: program
 ---
 
-The following speakers have graciously agreed to give keynotes at ALTA 2023.
+<!-- The following speakers have graciously agreed to give keynotes at ALTA 2023. -->
 
-TBD
+The keynote speakers for ALTA 2023 will be announced soon.
 
 <!-- ## Speaker: Mona Diab
 

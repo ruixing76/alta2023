@@ -83,7 +83,10 @@ We look forward to welcoming you to the event!
 
 
 ## Conference dinner
-The conference dinner will be on the evening of November 30th. More details will be announced soon.
+ALTA 2023 will host a conference dinner for all participants on the evening of November 30th. 
+- Time: 6:00pm
+- Restaurant: [Stomping Ground Brewery & Beer Hall - Collingwood](https://www.stompingground.beer/)
+- Location: [100 Gipps Street, Collingwood 3066, Australia](https://www.google.com/maps/place/100+Gipps+St,+Collingwood+VIC+3066/@-37.8046465,144.9884278,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad642e265a1686f:0xe812e06bb39a4903!8m2!3d-37.8046465!4d144.9910027!16s%2Fg%2F11bw3_7jl8?hl=en&entry=ttu)
 
 <!-- ## Childcare
 Please check with the specific hotel where you plan to stay for childcare support. -->

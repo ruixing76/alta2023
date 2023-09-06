@@ -36,7 +36,7 @@ sidebar:
 ## Regular member
 {% include committee-member.html
    name="Diego Molla-Aliod"
-   picture="/assets/images/committee/alta_exec/Diego.webp"
+   picture="/assets/images/committee/alta_exec/Diego.jpg"
    site="https://researchers.mq.edu.au/en/persons/diego-molla-aliod"
    institution="Macquarie University"
    email="diego.molla-aliod@mq.edu.au"
@@ -66,5 +66,5 @@ sidebar:
    picture="/assets/images/committee/alta_exec/Rui.JPG"
    site="https://cis.unimelb.edu.au/people/students/rui-xing"
    institution="University of Melbourne"
-   email = "ruixing1@unimelb.edu.au"
+   email = "rui.xing1@unimelb.edu.au"
 %}

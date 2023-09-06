@@ -99,8 +99,8 @@ sidebar:
 <h2>Technology Chair </h2>
 {% include committee-member.html
    name="Rui Xing"
-   picture="/assets/images/committee/alta_exec/Rui.JPG"
+   picture="/assets/images/committee/alta_exec/Rui.jpg"
    site="https://cis.unimelb.edu.au/people/students/rui-xing"
    institution="University of Melbourne"
-   email = "ruixing1@unimelb.edu.au"
+   email = "rui.xing1@unimelb.edu.au"
 %}

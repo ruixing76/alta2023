@@ -12,8 +12,8 @@ The program for ALTA 2023 will be announced soon.
 Time Zone: AEST (GMT+10)
 
 ## __Wed, Nov 29__
-__Tutorials__: TBD <br>
-__Locations__: The Forum, Superfloor, Melbourne Connect   
+__Tutorials__: time TBD <br>
+__Locations__: The Studio, Ground Floor, Melbourne Connect   
 
 <!-- * 7:30-9:00 __Registration__ (Location: The Link) 
 * 9:00-10:30 __Morning Session 1__
@@ -26,7 +26,7 @@ __Locations__: The Forum, Superfloor, Melbourne Connect
 * 5:30-6:30 __Afternoon Session 3__ (optional) -->
 
 ## __Thu, Nov 30__
-__Main Conference__: TBD <br>
+__Main Conference__: time TBD <br>
 __Locations__: The Forum, Superfloor, Melbourne Connect      
 
 <!-- * 7:30-9:00 __Registration__ (Location: The Link) 
@@ -40,7 +40,7 @@ __Locations__: The Forum, Superfloor, Melbourne Connect
 * 5:30-6:30 __Afternoon Session 3__ (optional) -->
 
 ## __Fri, Dec 1__
-__Main Conference__: TBD <br>
+__Main Conference__: time TBD <br>
 __Locations__: The Forum, Superfloor, Melbourne Connect 
 
 <!-- * 8:00am-4:30 __Registration__ (Location: The Link) 

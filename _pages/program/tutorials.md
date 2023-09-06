@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: Tutorial
 layout: single
 excerpt: "NAACL 2021 Tutorials."
 permalink: /program/tutorials/
@@ -9,8 +9,14 @@ toc_icon: "cog"
 sidebar: 
     nav: program
 ---
+The following speakers have graciously agreed to give a tutorial at ALTA 2023:
+- Mike Conway 
+- Vlada Rozova 
+- Wendy Chapman
 
-The tutorial speakers for ALTA 2023 will be announced soon.
+More details about the tutorial for ALTA 2023 will be announced soon.
+
+
 
 <!-- ## Tutorial Schedule
 

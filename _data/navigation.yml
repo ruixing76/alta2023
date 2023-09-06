@@ -69,7 +69,7 @@ program:
         url: /program/
       - title: "Keynote"
         url: /program/keynotes/
-      - title: "Tutorials"
+      - title: "Tutorial"
         url: /program/tutorials/
         
       # - title: "Workshops"

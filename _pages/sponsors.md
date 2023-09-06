@@ -11,95 +11,20 @@ toc_label: "&nbsp;Sponsorship Tier"
 #     image_path: /assets/images/logos/adceb.png
 #     alt: Abu Dhabi Convention and Exhibition Bureau
 #     title: Abu Dhabi Convention and Exhibition Bureau
+
 # diamond:
-#   - url: https://ai.facebook.com/
-#     image_path: /assets/images/logos/meta-logo.png
-#     alt: Meta
-#     title: Meta
-#   - url: https://www.amazon.science/
-#     image_path: /assets/images/logos/amazon-logo.png
-#     alt: Amazon
-#     title: Amazon
-#   - url: https://machinelearning.apple.com
-#     image_path: /assets/images/logos/apple-logo.jpg
-#     alt: Apple
-#     title: Apple
-#   - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/?utm_medium=cto&utm_content=site-partner&utm_source=site-
-#     image_path: /assets/images/logos/bloomberg-logo.png
-#     alt: Bloomberg
-#     title: Bloomberg
-#   - url: https://research.google
-#     image_path: /assets/images/logos/google-logo.png
-#     alt: Google
-#     title: Google
-#   - url: https://nyuad.nyu.edu/en/
-#     image_path: /assets/images/logos/nyuad-logo.png
-#     alt: New York University Abu Dhabi
-#     title: New York University Abu Dhabi
-#   - url: https://mbzuai.ac.ae/
-#     image_path: /assets/images/logos/mbzuai-logo.png
-#     alt: Mohamed bin Zayed University of Artificial Intelligence
-#     title: Mohamed bin Zayed University of Artificial Intelligence
+
 # platinum:
-#   - url: https://www.microsoft.com
-#     image_path: /assets/images/logos/microsoft-logo.jpg
-#     alt: Microsoft
-#     title: Microsoft
-#   - url: https://megagon.ai
-#     image_path: /assets/images/logos/megagon-logo.png
-#     alt: Megagon
-#     title: Megagon
-#   - url: https://home.baidu.com/home/index
-#     image_path: /assets/images/logos/baidu-logo.png
-#     alt: Baidu
-#     title: Baidu
-#   - url: https://www.bytedance.com/en
-#     image_path: /assets/images/logos/bytedance-logo.png
-#     alt: ByteDance
-#     title: ByteDance  
-#   - url: https://www.scai.sa/
-#     image_path: /assets/images/logos/scai-logo.png
-#     alt: SCAI
-#     title: SCAI  
-#   - url: https://www.tetrasoftfederal.us/
-#     image_path: /assets/images/logos/Tetrasoft-logo.png
-#     alt: Tetrasoft
-#     title: Tetrasoft 
-gold:
+
+# gold:
+
+sponsors:
+  # gold:
   - url: https://www.google.com/
     image_path: /assets/images/logos/googlelogo_color_416x140dp.png
     alt: Google
     title: Google
-#   - url: https://cohere.com/
-#     image_path: /assets/images/logos/cohere-logo.png
-#     alt: Cohere.ai
-#     title: Cohere.ai
-#   - url: https://www.huawei.com/
-#     image_path: /assets/images/logos/huawei-logo.png
-#     alt: Huawei
-#     title: Huawei
-#   - url: https://www.beyond.ai/
-#     image_path: /assets/images/logos/beyond-limits-logo.png
-#     alt: Beyond Limits
-#     title: Beyond Limits
-#   - url: https://www.tii.ae/
-#     image_path: /assets/images/logos/tii-logo.png
-#     alt: Technology Innovation Institute (TII) in Abu Dhabi
-#     title: Technology Innovation Institute (TII) in Abu Dhabi    
-# silver:
-#   - url: https://research.duolingo.com
-#     image_path: /assets/images/logos/duolingo-logo.png
-#     alt: Duolingo
-#     title: Duolingo
-#   - url: https://www.navercorp.com/en/
-#     image_path: /assets/images/logos/naver-logo.png
-#     alt: Naver Labs
-#     title: Naver Labs
-#   - url: https://translated.com/welcome
-#     image_path: /assets/images/logos/translated-logo.png
-#     alt: Translated
-#     title: Translated    
-bronze:
+  # bronze:
   - url: https://redenlab.com/
     image_path: /assets/images/logos/redenlab-logo.jpg
     alt: Redenlab
@@ -178,7 +103,7 @@ for information about sponsorship rates and benefits. -->
 
 {% include sponsors-list id="partner" layout="third" %} -->
 
-## Diamond
+<!-- ## Diamond
 
 {% include sponsors-list id="diamond" layout="third" %}
 
@@ -196,7 +121,11 @@ for information about sponsorship rates and benefits. -->
 
 ## Bronze
 
-{% include sponsors-list id="bronze" layout="third" %}
+{% include sponsors-list id="bronze" layout="third" %} -->
+
+## Sponsors
+
+{% include sponsors-list id="sponsors" layout="third" %}
 
 <!-- ## Diversity and Inclusion: Champion
 

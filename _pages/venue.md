@@ -10,17 +10,21 @@ toc_icon: "cog"
 ## Melbourne
 Melbourne is the coastal capital of the southeastern Australian state of Victoria. Melbourne is home of many of Australia's best-known landmarks, such as the Melbourne Cricket Ground, the National Gallery of Victoria and the World Heritage-listed Royal Exhibition Building. Noted for its cultural heritage, the city gave rise to Australian rules football, Australian impressionism and Australian cinema, and has more recently been recognized as a UNESCO City of Literature and a global centre for street art, live music and theatre. Melbourne has now attracted the largest proportion of international overseas immigrants.
 
+To find out more, please visit these pages:
+- [Visit Melbourne](https://www.visitmelbourne.com/nz)
+- [City of Melbourne](https://www.melbourne.vic.gov.au/about-melbourne/for-visitors/Pages/for-visitors.aspx)
+
 ![melbourne]({{ site.baseurl }}/assets/images/melbourne/melbourne_scence2.jpg)
 
 ## Conference Venue
 ALTA 2023 will take place in the [Melbourne Connect](https://melbconnect.com.au/). As a digital innovation ecosystem, Melbourne Connect represents a physical and programmatic convergence of many organisations and interdisciplinary institutions seeking to leverage research and emerging technologies to disrupt and transform our society. Melbourne Connect is the epicentre of digital talent in Melbourne, accessing an extensive pipeline of highly skilled graduates, emerging researchers and thought-leading academics. Melbourne Connect is powered by The University of Melbourne in partnership with a consortium led by Lendlease.
 
+![melbourne_connect]({{ site.baseurl }}/assets/images/melbourne/melbourne_connect_with_logo.jpg)
+
 - Address: Melbourne Connect, 700 Swanston Street, Carlton, Victoria, Australia
 - Phone: +61 3 9035 5553
 - Web: <https://melbconnect.com.au/>
 - E-mail: <melbourneconnect-info@unimelb.edu.au>
-
-![melbourne_connect]({{ site.baseurl }}/assets/images/melbourne/melbourne_connect.jpg)
 
 ## Conference Venue Map
 

@@ -30,7 +30,7 @@ sponsors:
     alt: Redenlab
     title: Redenlab
   - url: https://www.commbank.com.au/
-    image_path: /assets/images/logos/commonbank-logo.png
+    image_path: /assets/images/logos/commonbank-logo-stack.png
     alt: Commonbank
     title: Commonbank
 #   - url: https://hltcoe.jhu.edu/opportunities/research-scientists/

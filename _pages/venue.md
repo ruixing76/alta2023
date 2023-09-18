@@ -21,7 +21,7 @@ ALTA 2023 will take place in the [Melbourne Connect](https://melbconnect.com.au/
 
 ![melbourne_connect]({{ site.baseurl }}/assets/images/melbourne/melbourne_connect_with_logo.jpg)
 
-- Address: Melbourne Connect, 700 Swanston Street, Carlton, Victoria, Australia
+- Address: [Melbourne Connect, 700 Swanston Street, Carlton, Victoria, Australia](https://maps.app.goo.gl/ewGqK24FNhwLhCJG9)
 - Phone: +61 3 9035 5553
 - Web: <https://melbconnect.com.au/>
 - E-mail: <melbourneconnect-info@unimelb.edu.au>
@@ -90,11 +90,11 @@ We look forward to welcoming you to the event!
 ALTA 2023 will host a conference dinner for all participants on the evening of November 30th. 
 - Time: 6:00pm
 - Restaurant: [Stomping Ground Brewery & Beer Hall - Collingwood](https://www.stompingground.beer/)
-- Location: [100 Gipps Street, Collingwood 3066, Australia](https://www.google.com/maps/place/100+Gipps+St,+Collingwood+VIC+3066/@-37.8046465,144.9884278,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad642e265a1686f:0xe812e06bb39a4903!8m2!3d-37.8046465!4d144.9910027!16s%2Fg%2F11bw3_7jl8?hl=en&entry=ttu)
+- Location: [100 Gipps Street, Collingwood 3066, Australia](https://maps.app.goo.gl/FMCnybhFz2qBJVRm9)
 
 
 ## Environmental Impact
-The ALTA organisers have pledged to have the lowest environmental impact we can. We have done this with our choice of menus, and our choice of preferred accommodation, which is walking distance to Melbourne Connect. We also strongly encourage taking public transport to the venue. Melbourne Connect is very well connected with a tram stop right outside its doors. We will have a "walking bus" from Melbourne Connect to our dinner venue the Stomping Ground in vibrant Collingwood. Melbourne Connect itself is a green building and uses run-off water from the roof for the bathroom stalls. It is designed to maximise sunlight and has sensors in every room to ensure that energy is conserved maximally.
+The ALTA organisers have pledged to have the lowest environmental impact we can. We have done this with our choice of menus, and our choice of preferred accommodation, which is walking distance to Melbourne Connect. We also strongly encourage taking public transport to the venue. Melbourne Connect is very well connected with a tram stop right outside its doors. We will have a "walking bus" from Melbourne Connect to our dinner venue the Stomping Ground in vibrant Collingwood. Melbourne Connect itself is a green building and uses run-off water from the roof for the bathroom stalls. It is designed to maximise sunlight and has sensors in every room to ensure that energy is conserved maximally. All conference catering will be vegetarian (as well as accommodating dietary restrictions including gluten-free and vegan options, as specified in the registration form).
 
 <!-- ## Childcare
 Please check with the specific hotel where you plan to stay for childcare support. -->

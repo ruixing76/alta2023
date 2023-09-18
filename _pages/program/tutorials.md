@@ -1,7 +1,7 @@
 ---
 title: Tutorial
 layout: single
-excerpt: "NAACL 2021 Tutorials."
+excerpt: "ALTA 2023 Tutorials"
 permalink: /program/tutorials/
 toc: true
 toc_sticky: true
@@ -9,12 +9,31 @@ toc_icon: "cog"
 sidebar: 
     nav: program
 ---
-The following speakers have graciously agreed to give a tutorial at ALTA 2023:
+
+# Natural Language Processing for Clinical Text
+
+## Abstract
+Learning from real-world clinical data has great potential to promote the quality of care, improve the efficiency of healthcare systems, and support clinical research. As a large proportion of clinical information is recorded only in unstructured free-text format, applying NLP to process and understand the vast amount of clinical text generated in clinical encounters is essential. Meanwhile, clinical text is known to be messy, contain complicated terminologies requiring clinical expertise to understand and annotate, and is written in different clinical contexts with distinct purposes. All these factors together make clinical NLP research both promising and challenging. In this tutorial, we will discuss the characteristics of clinical text and provide an overview of the classical clinical NLP tools used to process it. We will also present a real-world example to show the effectiveness of different NLP methods in processing and understanding clinical text. Finally, we will discuss how language models can be applied to often scarce clinical datasets, including their strengths and limitations in the medical context. 
+
+## Speakers
+By Wendy Chapman, Mike Conway, Jinghui Liu, Vlada Rozova 
+
+**Wendy Chapman** is Associate Dean of Digital Health and Informatics and the Director of the Centre for the Digital Transformation of Health in the University of Melbourne's Faculty of Medicine, Dentistry, and Health Sciences.  Prof Chapman has an extensive track record in the development and validation of NLP tools and resources for a variety of clinical NLP applications, including negation detection, deidentification, and -- more broadly -- clinical information extraction.
+
+**Mike Conway** is a senior lecturer in digital health at the University of Melbourne's School of Computing & Information Systems and the Centre for Digital Transformation of Health.  His research interests are centred on the application of computational methods — particularly natural language processing — to public health research questions, with much of his research output focused on the broad areas of communicable diseases, mental health, and substance use.  
+
+**Jinghui Liu** is a Postdoctoral Research Fellow at the Australian e-Health Research Centre, Commonwealth Scientific and Industrial Research Organisation (CSIRO). He is interested in studying and applying natural language processing and machine learning techniques to healthcare data and how they can contribute to realising the potential of digital health. He recently obtained his PhD degree from the University of Melbourne.
+
+**Vlada Rozova** is a Postdoctoral Research Fellow with the Centre for Digital Transformation of Health at the University of Melbourne. She is a data scientist and a machine learning practitioner passionate about developing automated systems that can facilitate clinical decision-making. Vlada works with stakeholders of diverse backgrounds to build solutions that address user needs and enjoys seeing the development and implementation of tools from start to end.
+
+
+<!-- trailer -->
+<!-- The following speakers have graciously agreed to give a tutorial at ALTA 2023:
 - Mike Conway 
 - Vlada Rozova 
 - Wendy Chapman
 
-More details about the tutorial for ALTA 2023 will be announced soon.
+More details about the tutorial for ALTA 2023 will be announced soon. -->
 
 
 

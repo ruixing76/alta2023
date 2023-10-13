@@ -8,7 +8,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-**The registration is now open.**
+**Registrations are now open.**
 {: .notice .notice--info .text-center}
 
 ## Registration link

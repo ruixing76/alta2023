@@ -223,6 +223,10 @@
 <loc>http://localhost:4000/participants/zoom-rooms/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/assets/images/logos/rmit_logo.pdf</loc>
+<lastmod>2023-10-13T10:47:34+11:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/conference-program/demo/</loc>
 <lastmod>2023-05-09T21:58:23+10:00</lastmod>
 </url>

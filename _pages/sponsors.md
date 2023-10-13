@@ -12,19 +12,26 @@ toc_label: "&nbsp;Sponsorship Tier"
 #     alt: Abu Dhabi Convention and Exhibition Bureau
 #     title: Abu Dhabi Convention and Exhibition Bureau
 
-# diamond:
+platinum:
+  - url: https://melbconnect.com.au/
+    image_path: /assets/images/logos/melbconnect_logo.png
+    alt: Melbourne Connect
+    title: melbourne_connect
 
-# platinum:
-
-# gold:
-
-sponsors:
-  # gold:
+gold:
+  - url: https://cis.unimelb.edu.au/research/artificial-intelligence
+    image_path: /assets/images/logos/uom_logo.svg
+    alt: Unimelb AI Group
+    title: unimelb_ai
   - url: https://www.google.com/
     image_path: /assets/images/logos/googlelogo_color_416x140dp.png
     alt: Google
     title: Google
-  # bronze:
+  - url: https://www.dst.defence.gov.au/
+    image_path: /assets/images/logos/dstg_logo.png
+    alt: DSTG
+    title: dstg
+bronze:
   - url: https://redenlab.com/
     image_path: /assets/images/logos/redenlab-logo.jpg
     alt: Redenlab
@@ -33,6 +40,16 @@ sponsors:
     image_path: /assets/images/logos/commonbank-logo-stack.png
     alt: Commonbank
     title: Commonbank
+event:
+  - url: https://www.rmit.edu.au/
+    image_path: /assets/images/logos/rmit_logo.png
+    alt: Commonbank
+    title: Commonbank
+  - url: https://www.unimelb.edu.au/mdap
+    image_path: /assets/images/logos/mdap_logo.png
+    alt: MDAP
+    title: mdap
+
 #   - url: https://hltcoe.jhu.edu/opportunities/research-scientists/
 #     image_path: /assets/images/logos/hlt-logo.png
 #     alt: Human Language Technology Center of Excellence (HLTCOE)
@@ -105,7 +122,7 @@ for information about sponsorship rates and benefits. -->
 
 <!-- ## Diamond
 
-{% include sponsors-list id="diamond" layout="third" %}
+{% include sponsors-list id="diamond" layout="third" %} -->
 
 ## Platinum
 
@@ -115,17 +132,17 @@ for information about sponsorship rates and benefits. -->
 
 {% include sponsors-list id="gold" layout="third" %}
 
-## Silver
+<!-- ## Silver
 
-{% include sponsors-list id="silver" layout="third" %}
+{% include sponsors-list id="silver" layout="third" %} -->
 
 ## Bronze
 
-{% include sponsors-list id="bronze" layout="third" %} -->
+{% include sponsors-list id="bronze" layout="third" %}
 
-## Sponsors
+## Event Sponsors
 
-{% include sponsors-list id="sponsors" layout="third" %}
+{% include sponsors-list id="event" layout="minimum" %}
 
 <!-- ## Diversity and Inclusion: Champion
 

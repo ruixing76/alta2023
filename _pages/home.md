@@ -20,7 +20,7 @@ The 21st Annual Workshop of the Australasian Language Technology Association (AL
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
-| 2023-10-16 | ALTA 2023 Author notification date is updated. Please also check [Call for Papers](/calls/main_conference_papers/) page.
+| 2023-10-16 | ALTA 2023 author notification date is updated. Please also check [Call for Papers](/calls/main_conference_papers/) page.
 | 2023-10-13 | ALTA 2023 registrations are now open. Please also see [Registration](/registration) page.
 | 2023-09-01 | ALTA 2023 submission deadline is extended. Please also check [Call for Papers](/calls/main_conference_papers/) page.
 | 2023-07-04 | ALTA 2023 shared task is out. Please check [ALTA 2023 Shared Task](https://www.alta.asn.au/events/sharedtask2023/) page for more details.

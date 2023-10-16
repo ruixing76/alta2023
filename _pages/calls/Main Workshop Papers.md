@@ -10,7 +10,7 @@ toc_icon: "cog"
 ---
 ## Important Dates
 - Submission Deadline for short/long papers, presentation abstracts and industry demonstrations: <del>5 September 2023 (11:59pm Anywhere on Earth UTC-12)</del> **Extended: 12 September 2023 (11:59pm Anywhere on Earth UTC-12)**
-- Author Notification: 14 October 2023
+- Author Notification: <del> 14 October 2023</del>  **Extended: 19 October 2023**
 - Camera-Ready Deadline: **28 October 2023 (11:59pm Anywhere on Earth UTC-12)**
 - Tutorials: 29 November 2023
 - Main Conference: 30 November and 1 December 2023
@@ -23,7 +23,7 @@ The 21st Annual Workshop of the Australasian Language Technology Association wil
 
 The ALTA 2023 workshop is the key local forum for socialising research results in natural language processing and computational linguistics, with presentations, posters and demonstrations from students, industry, and academic researchers. Like previous years, we would also like to encourage submissions and participation from industry and government researchers and developers.
 
-Note that ALTA is listed in the CORE 2021 Conference Rankings as Australasian B. See details from [CORE Rankings Portal](https://www.core.edu.au/conference-portal).
+<!-- Note that ALTA is listed in the CORE 2021 Conference Rankings as Australasian B. See details from [CORE Rankings Portal](https://www.core.edu.au/conference-portal). -->
 
 
 ## Topics

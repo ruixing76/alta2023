@@ -41,6 +41,10 @@ bronze:
     alt: Commonbank
     title: Commonbank
 event:
+  - url: https://melbconnect.com.au/
+    image_path: /assets/images/logos/Melb_Connect_Vertical_Lockup_RGB.png
+    alt: Melbourne Connect
+    title: melbourne_connect
   - url: https://www.rmit.edu.au/
     image_path: /assets/images/logos/rmit_logo.png
     alt: Commonbank
@@ -49,6 +53,11 @@ event:
     image_path: /assets/images/logos/mdap_logo.png
     alt: MDAP
     title: mdap
+  - url: https://www.mq.edu.au/
+    image_path: /assets/images/logos/mq_logo.jpg
+    alt: mq
+    title: mq
+  
 
 #   - url: https://hltcoe.jhu.edu/opportunities/research-scientists/
 #     image_path: /assets/images/logos/hlt-logo.png

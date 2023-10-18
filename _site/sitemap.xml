@@ -130,10 +130,13 @@
 <loc>http://localhost:4000/committees/diversity-inclusion/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/faq/</loc>
+<loc>http://localhost:4000/committees/executive/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/ethics/faq/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/faq/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>

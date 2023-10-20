@@ -39,4 +39,6 @@ To access student registrations for online participation, email [workshop@alta.a
 * Attendance to all keynotes, the workshop tutorial and all workshop presentations
 * Access to all recorded sessions
 
+## Student Travel Funding
 
+There are a number of student travel bursaries provided by the University of Melbourne's AI Group. If you require support for domestic travel to Melbourne, you will be able to request this during registration. Once you register you will be put into a pool to be chosen for travel support.

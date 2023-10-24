@@ -12,7 +12,7 @@ The program for ALTA 2023 will be announced soon.
 Time Zone: AEST (GMT+10)
 
 ## __Wed, Nov 29__
-__Tutorials__: time TBD <br>
+__Tutorials__: 1pm - 4pm <br>
 __Locations__: The Studio, Ground Floor, Melbourne Connect   
 
 <!-- * 7:30-9:00 __Registration__ (Location: The Link) 

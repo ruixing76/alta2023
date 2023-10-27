@@ -50,7 +50,7 @@ public bike parking spaces along grattan and Swanston streets
 ### Taxi routes
 pick up and drop off point are located on grattan street taxi rank located on grattan street
 
-### Train routes
+### Car park
 - Car park: Cardigan House Parking  location: 96 grattan st, Carlton VIC 3053 ([for more information and prices](https://en.parkopedia.com.au/parking/station/cardigan_house/3053/carlton/?arriving=202202092030&leaving=202202092230)). 
 - Car park: University of Melbourne, Parkville campus - eastern precinct car park location: 375 Cardigan st, Carlton VIC 3053 ([for more information and prices](https://en.parkopedia.com.au/parking/carpark/university_of_melbourne_parkville_campus_eastern_precinct_car_park/3053/carlton/?arriving=202202092030&leaving=202202092230)).
 
@@ -89,9 +89,17 @@ We look forward to welcoming you to the event!
 ## Conference dinner
 ALTA 2023 will host a conference dinner for all participants on the evening of November 30th. 
 - Time: 6:00pm
-- Restaurant: [Stomping Ground Brewery & Beer Hall - Collingwood](https://www.stompingground.beer/)
+- Restaurant: [Stomping Ground Brewery & Beer Hall - Collingwood](https://www.stompingground.beer/pages/collingwood)
 - Location: [100 Gipps Street, Collingwood 3066, Australia](https://maps.app.goo.gl/FMCnybhFz2qBJVRm9)
 
+Stomping Ground is an independent brewery located in Collingwood, a few kilometers east of Melbourne Connect.
+
+Depending on weather, mood and energy we recommend one of the following ways to get there after ALTA closes on Thursday:
+1. Walk! Join us for a leisurely 40 minute walk (2.8km) through one of Melbourne's hippest suburbs!
+2. Bus 200 from Grattan/Lygon St to Hoddle St/Johnston St, and walk up Hoddle St to Stomping Ground (700m)
+   [https://maps.app.goo.gl/V7uT59DXbb2NHqKB9](https://maps.app.goo.gl/V7uT59DXbb2NHqKB9)
+3. Bus 202 from Melbourne University/Swanston St to Hoddle St/Johnston St, and walk up Hoddle St to Stomping Ground (700m)
+   [https://maps.app.goo.gl/CV7Ktv99weoTuvv8A](https://maps.app.goo.gl/CV7Ktv99weoTuvv8A)
 
 ## Environmental Impact
 The ALTA organisers have pledged to have the lowest environmental impact we can. We have done this with our choice of menus, and our choice of preferred accommodation, which is walking distance to Melbourne Connect. We also strongly encourage taking public transport to the venue. Melbourne Connect is very well connected with a tram stop right outside its doors. We will have a "walking bus" from Melbourne Connect to our dinner venue the Stomping Ground in vibrant Collingwood. Melbourne Connect itself is a green building and uses run-off water from the roof for the bathroom stalls. It is designed to maximise sunlight and has sensors in every room to ensure that energy is conserved maximally. All conference catering will be vegetarian (as well as accommodating dietary restrictions including gluten-free and vegan options, as specified in the registration form).

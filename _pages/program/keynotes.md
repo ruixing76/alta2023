@@ -12,7 +12,7 @@ sidebar:
 
 <!-- The following speakers have graciously agreed to give keynotes at ALTA 2023. -->
 
-The keynote speakers for ALTA 2023 will be announced soon.
+We will be announcing the details for the keynote speakers of ALTA 2023 shortly.
 
 <!-- ## Speaker: Mona Diab
 

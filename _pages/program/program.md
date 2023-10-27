@@ -7,49 +7,52 @@ toc: false
 sidebar:
     nav: program
 ---
-The program for ALTA 2023 will be announced soon.
-
 Time Zone: AEST (GMT+10)
 
-## __Wed, Nov 29__
-__Tutorials__: 1pm - 4pm <br>
-__Locations__: The Studio, Ground Floor, Melbourne Connect   
+The program for ALTA 2023 is now available. Details are as follows:
 
-<!-- * 7:30-9:00 __Registration__ (Location: The Link) 
-* 9:00-10:30 __Morning Session 1__
-* 10:30-11:00 __Morning Coffee Break__ 
-* 11:00-12:30 __Morning Session 2__
-* 12:30-2:00 __Lunch Break__ 
-* 2:00-3:30 __Afternoon Session 1__
-* 3:30-4:00 __Afternoon Coffee Break__ 
-* 4:00-5:30 __Afternoon Session 2__
-* 5:30-6:30 __Afternoon Session 3__ (optional) -->
+
+## __Wed, Nov 29__
+__Location__: The Studio, Ground Floor, Melbourne Connect   
+
+- 12:00pm: Lunch
+- 1:00pm: Tutorial Part 1
+- 2:00pm: Afternoon Tea
+- 2:15pm: Tutorial Part 2
+- 3:15pm: Break
+- 3:30pm: Tutorial Part 3
+- 4:30pm: Tutorial Conclude and NLP Meetup Refreshments
+- 5:15pm: NLP Meetup@MC
+
 
 ## __Thu, Nov 30__
-__Main Conference__: time TBD <br>
-__Locations__: The Forum, Superfloor, Melbourne Connect      
+__Location__: The Forum, Superfloor, Melbourne Connect      
 
-<!-- * 7:30-9:00 __Registration__ (Location: The Link) 
-* 9:00-10:30 __Morning Session 1__
-* 10:30-11:00 __Morning Coffee Break__ 
-* 11:00-12:30 __Morning Session 2__
-* 12:30-2:00 __Lunch Break__ 
-* 2:00-3:30 __Afternoon Session 1__
-* 3:30-4:00 __Afternoon Coffee Break__ 
-* 4:00-5:30 __Afternoon Session 2__
-* 5:30-6:30 __Afternoon Session 3__ (optional) -->
+- 8:45am: Opening
+- 9:00am: Keynote#1 - Reza Haffari
+- 10:00am: Morning Tea
+- 10:30am: Oral Presentations (Applications)
+- 12:00pm: Keynote#2 - Heng Ji
+- 1:00pm: Lunch
+- 2:00pm: Oral Presentations (Speech / Linguistics)
+- 3:00pm: Afternoon Tea
+- 3:15pm: Panel Discussion
+- 4:15pm: Abstract Presentations / Industry Demonstrations
+- 6:00pm: Dinner@Stomping Ground
+
 
 ## __Fri, Dec 1__
-__Main Conference__: time TBD <br>
-__Locations__: The Forum, Superfloor, Melbourne Connect 
+__Location__: The Forum, Superfloor, Melbourne Connect 
 
-<!-- * 8:00am-4:30 __Registration__ (Location: The Link) 
-* 9:00-10:30 __Session 1__: Plenary Opening + [Keynote 1: Neil Cohn](https://2022.emnlp.org/program/keynotes/#speaker-neil-cohn)  (Hall B, overflow in Hall A rooms)
-* 10:30-11:00 __Morning Coffee Break__ 
-* 11:00-12:30 __Session 2__: Oral Sessions, [Demos, Posters](https://drive.google.com/file/d/10hX5PaA-6mqjzbMPQdFk3OUpj-QFxR20/view), Exhibitions
-* 12:30-2:00 __Lunch Break__ 
-* 2:00-3:30 __Session 3__: Oral Sessions, [Demos, Posters](https://drive.google.com/file/d/10hX5PaA-6mqjzbMPQdFk3OUpj-QFxR20/view), Exhibitions
-* 3:30-4:00 __Afternoon Coffee Break__ 
-* 4:00-5:30 __Session 4__: [Virtual Portals, Posters](https://drive.google.com/file/d/10hX5PaA-6mqjzbMPQdFk3OUpj-QFxR20/view), Exhibitions
-* 5:30-6:30 __Session 5__: Plenary: [Industry Track Keynote: Nazneen Rajani](https://2022.emnlp.org/program/keynotes/#speaker-nazneen-rajani) (Hall B, overflow in Hall A rooms) -->
+- 9:00am: Keynote#3 - Terrence Szymanski
+- 10:00am: Morning Tea
+- 10:30am: Oral Presentations (Medical / ML)
+- 12:00pm: Keynote#4 (Joint Session with AI@MC Symposium) - Heng Ji
+- 1:00pm: Lunch
+- 2:00pm: Oral Presentations (Dialogue)
+- 3:30pm: Afternoon Tea
+- 3:45pm: Oral Presentations (Shared Task)
+- 4:45pm: ALTA AGM
+- 5:00pm: Best Paper Award / Shared Task Award/ Closing
+
 

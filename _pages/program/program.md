@@ -37,7 +37,7 @@ __Location__: The Forum, Superfloor, Melbourne Connect
 - 2:00pm: Oral Presentations (Speech / Linguistics)
 - 3:00pm: Afternoon Tea
 - 3:15pm: Panel Discussion
-- 4:15pm: Abstract Presentations / Industry Demonstrations
+- 4:15pm: Abstract Presentations / Industry Demonstrations (ends at 5:15pm)
 - 6:00pm: Dinner@Stomping Ground
 
 

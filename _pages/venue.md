@@ -101,11 +101,10 @@ Depending on weather, mood and energy we recommend one of the following ways to 
 3. Bus 202 from Melbourne University/Swanston St to Hoddle St/Johnston St, and walk up Hoddle St to Stomping Ground (700m)
    [https://maps.app.goo.gl/CV7Ktv99weoTuvv8A](https://maps.app.goo.gl/CV7Ktv99weoTuvv8A)
 
+We’ll leave from the Forum theatre near the Concierge’s desk at 5:15pm.
+
 ## Environmental Impact
 The ALTA organisers have pledged to have the lowest environmental impact we can. We have done this with our choice of menus, and our choice of preferred accommodation, which is walking distance to Melbourne Connect. We also strongly encourage taking public transport to the venue. Melbourne Connect is very well connected with a tram stop right outside its doors. We will have a "walking bus" from Melbourne Connect to our dinner venue the Stomping Ground in vibrant Collingwood. Melbourne Connect itself is a green building and uses run-off water from the roof for the bathroom stalls. It is designed to maximise sunlight and has sensors in every room to ensure that energy is conserved maximally. All conference catering will be vegetarian (as well as accommodating dietary restrictions including gluten-free and vegan options, as specified in the registration form).
-
-<!-- ## Childcare
-Please check with the specific hotel where you plan to stay for childcare support. -->
 
 
 *We plan on updating this page continuously.* 

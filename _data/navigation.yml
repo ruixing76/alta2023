@@ -21,6 +21,9 @@ main:
 
   - title: "Programme"
     url: /program/
+  
+  - title: "Keynotes"
+    url: /program/keynotes/
 
   - title: "Venue"
     url: /venue
@@ -67,7 +70,7 @@ program:
     children:
       - title: "Conference Program"
         url: /program/
-      - title: "Keynote"
+      - title: "Keynotes"
         url: /program/keynotes/
       - title: "Tutorial"
         url: /program/tutorials/

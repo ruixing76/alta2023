@@ -16,20 +16,21 @@ main:
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
 
-  - title: "Calls"
-    url: /calls/main_conference_papers
 
+  - title: "Keynotes"
+    url: /program/keynotes/
+  
   - title: "Programme"
     url: /program/
   
-  - title: "Keynotes"
-    url: /program/keynotes/
-
   - title: "Venue"
     url: /venue
 
   - title: "Registration"
     url: /registration/
+  
+  - title: "Sponsors"
+    url: /sponsors/
     
   - title: "Shared Task"
     url: https://www.alta.asn.au/events/sharedtask2023/
@@ -43,8 +44,8 @@ main:
   - title: "Mentoring"
     url: https://www.alta.asn.au/mentoring/index.html
 
-  - title: "Sponsors"
-    url: /sponsors/
+  - title: "Calls"
+    url: /calls/main_conference_papers
 
   - title: "Contact"
     url: /contact

@@ -20,7 +20,7 @@ The 21st Annual Workshop of the Australasian Language Technology Association (AL
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
-| 2023-11-05 | Keynote speakers are announced. Please check [Keynotes](/program/keynotes) page.
+| 2023-11-05 | Keynote speakers have been announced. Please check [Keynotes](/program/keynotes) page.
 | 2023-10-27 | The programme is now available. Please check [Programme](/program) page.
 | 2023-10-16 | The author notification date is updated. Please also check [Call for Papers](/calls/main_conference_papers/) page.
 | 2023-10-13 | Registrations are now open. Please see [Registration](/registration) page.

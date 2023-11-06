@@ -269,6 +269,21 @@ figure {
       width: 100%;
     }
   }
+  &.big {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        object-fit: cover;
+        width: 250px;
+        height: 250px;
+        padding: 20px 20px 20px 20px;
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
 }
 
 /* Figure captions */

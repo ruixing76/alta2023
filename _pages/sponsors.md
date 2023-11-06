@@ -17,6 +17,10 @@ platinum:
     image_path: /assets/images/logos/melbconnect_logo.png
     alt: Melbourne Connect
     title: melbourne_connect
+  - url: https://www.telstra.com.au/
+    image_path: /assets/images/logos/telstra.png
+    alt: Telstra
+    title: telstra
 
 gold:
   - url: https://cis.unimelb.edu.au/research/artificial-intelligence
@@ -31,6 +35,13 @@ gold:
     image_path: /assets/images/logos/dstg_logo.png
     alt: DSTG
     title: dstg
+
+silver:
+  - url: https://www.seek.com.au/
+    image_path: /assets/images/logos/seek.png
+    alt: Seek
+    title: seek
+
 bronze:
   - url: https://redenlab.com/
     image_path: /assets/images/logos/redenlab-logo.jpg
@@ -57,45 +68,7 @@ event:
     image_path: /assets/images/logos/mq_logo.jpg
     alt: mq
     title: mq
-  
 
-#   - url: https://hltcoe.jhu.edu/opportunities/research-scientists/
-#     image_path: /assets/images/logos/hlt-logo.png
-#     alt: Human Language Technology Center of Excellence (HLTCOE)
-#     title: Human Language Technology Center of Excellence (HLTCOE)
-#   - url: https://aixplain.com/
-#     image_path: /assets/images/logos/aixplain-logo.png
-#     alt: aiXplain
-#     title: aiXplain
-#   - url: https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-artificial-intelligence-and-robotics.html
-#     image_path: /assets/images/logos/cair-logo.jpg
-#     alt: CAIR
-#     title: CAIR   
-#   - url: https://www.grammarly.com/
-#     image_path: /assets/images/logos/grammarly-logo.png
-#     alt: Grammarly
-#     title: Grammarly
-#   - url: https://www.neclab.eu/
-#     image_path: /assets/images/logos/nec-logo.png
-#     alt: NEC
-#     title: NEC
-# di_champion:
-#   - url: https://www.microsoft.com/en-us/research/
-#     image_path: /assets/images/logos/microsoft-logo.jpg
-#     alt: Microsoft
-#     title: Microsoft
-#   - url: https://nyuad.nyu.edu/en/
-#     image_path: /assets/images/logos/nyuad-logo.png
-#     alt: New York University Abu Dhabi
-#     title: New York University Abu Dhabi
-#   - url: https://research.google
-#     image_path: /assets/images/logos/google-logo.png
-#     alt: Google
-#     title: Google
-#   - url: https://snap.com/
-#     image_path: /assets/images/logos/snap-logo.png
-#     alt: Snap Inc.
-#     title: Snap Inc.
 ---
 
 ALTA 2023 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
@@ -135,15 +108,15 @@ for information about sponsorship rates and benefits. -->
 
 ## Platinum
 
-{% include sponsors-list id="platinum" layout="third" %}
+{% include sponsors-list id="platinum" layout="big"%}
 
 ## Gold
 
 {% include sponsors-list id="gold" layout="third" %}
 
-<!-- ## Silver
+## Silver
 
-{% include sponsors-list id="silver" layout="third" %} -->
+{% include sponsors-list id="silver" layout="third" %}
 
 ## Bronze
 

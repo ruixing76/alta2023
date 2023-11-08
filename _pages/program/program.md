@@ -47,12 +47,12 @@ __Location__: The Forum, Superfloor, Melbourne Connect
 - 1:00pm: **Lunch**
 - 2:00pm: **Oral Presentations (Speech / Linguistics)**
   - **LONG** *The sub-band cepstrum as a tool for local spectral analysis in forensic voice comparison* <br>Shunichi Ishihara and Frantz Clermont
-  - **LONG** *Right the docs: Characterising voice dataset documentation practices used in machine learning*<br>Sara Keretna 
+  - **LONG** *Right the docs: Characterising voice dataset documentation practices used in machine learning*<br>Kathy Reid and Elizabeth T. Williams
   - **LONG** *Encoding Prefixation in Southern Min* <br>Yishan Huang
 - 3:00pm: **Afternoon Tea**
 - 3:15pm: **Panel Discussion**
 - 4:15pm: **Abstract Presentations / Industry Demonstrations (ends at 5:15pm)**
-  - **DEMO** *Application of NLP in multi-national, multi-linguistic clinical trials for dementia* <br>Prof Adam Vogel PhD – Chief Science Officer, Redenlab Inc.
+  - **DEMO** *Application of NLP in multi-national, multi-linguistic clinical trials for dementia* <br>Adam Vogel
   - **DEMO** *AskTelstra: An LLM-Powered QA System for an Enhanced Customer Support*<br>Jack Latrobe, Andrea Chiechi, Danielle Nunns, Sirirat Wisessiri, Stuart Taylor, Vijayaraj Vinuvilla Rajan, Sing Teng, Sara Keretna, Sing Yatphaisan, Zhuohan Xie, Mudit Upadhyay, Anish Chelliah CR, Steve Morris, Rohit Lakhotia and Cat Smith, Telstra, Australia
   - **ABSTRACT** *Characterising Mood Instability on Twitter* <br>Lulu Ilmaknun Qurotaini
   - **ABSTRACT** *Extended Abstract: An Update to the Urarina Language Verification Project (A Work in Progress)* <br>Michael Dorin and Judith Dorin

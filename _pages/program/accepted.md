@@ -20,7 +20,7 @@ Long Papers
 
 **LONG** *The sub-band cepstrum as a tool for local spectral analysis in forensic voice comparison* <br>Shunichi Ishihara and Frantz Clermont
 
-**LONG** *Right the docs: Characterising voice dataset documentation practices used in machine learning*<br>Sara Keretna 
+**LONG** *Right the docs: Characterising voice dataset documentation practices used in machine learning*<br>Kathy Reid and Elizabeth T. Williams
 
 **LONG** *Encoding Prefixation in Southern Min* <br>Yishan Huang
 
@@ -43,7 +43,7 @@ Short Papers
 
 Industry Demonstrations
 ---
-**DEMO** *Application of NLP in multi-national, multi-linguistic clinical trials for dementia* <br>Prof Adam Vogel PhD – Chief Science Officer, Redenlab Inc.
+**DEMO** *Application of NLP in multi-national, multi-linguistic clinical trials for dementia* <br>Adam Vogel
 
 **DEMO** *AskTelstra: An LLM-Powered QA System for an Enhanced Customer Support*<br>Jack Latrobe, Andrea Chiechi, Danielle Nunns, Sirirat Wisessiri, Stuart Taylor, Vijayaraj Vinuvilla Rajan, Sing Teng, Sara Keretna, Sing Yatphaisan, Zhuohan Xie, Mudit Upadhyay, Anish Chelliah CR, Steve Morris, Rohit Lakhotia and Cat Smith, Telstra, Australia
 

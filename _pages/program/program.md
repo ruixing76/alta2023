@@ -18,7 +18,6 @@ Time Zone: AEST (GMT+10)
 
 The program for ALTA 2023 is now available. Details are as follows:
 
-
 ## __Wed, Nov 29__
 __Location__: The Studio, Ground Floor, Melbourne Connect   
 
@@ -74,7 +73,7 @@ __Location__: The Forum, Superfloor, Melbourne Connect
   - **SHORT** *CRF-based recognition of invasive fungal infection concepts in CHIFIR clinical reports* <br>Yang Meng, Vlada Rozova and Karin Verspoor
   - **LONG** *Catching Misdiagnosed Limb Fractures in the Emergency Department Using Cross-institution Transfer Learning* <br>Filip Rusak, Bevan Koopman, Nathan J. Brown, Kevin Chu, Jinghui Liu and Anthony Nguyen
   - **LONG** *Exploring Causal Directions through Word Occurrences: Semi-supervised Bayesian Classification Framework* <br>King Tao Jason Ng and Diego Molla
-- 12:00pm: **ALTA Keynote#4 (Joint Session with AI@MC Symposium)**
+- 12:00pm: **ALTA Keynote#4 (Joint Session with AI@MC Symposium) - Heng Ji**
 - 1:00pm: **Lunch**
 - 2:00pm: **Oral Presentations (Dialogue)**
   - **LONG** *Story Co-telling Dialogue Generation based on Multi-Agent Reinforcement Learning and Story Highlights* <br>YuKai Lee, Chia-Hui Chang
@@ -92,3 +91,5 @@ __Location__: The Forum, Superfloor, Melbourne Connect
   - **SHARED** *Stacking the Odds: Transformer-Based Ensemble for AI-Generated Text Detection* <br>Duke Nguyen, Khaing Myat Noe Naing and Aditya Joshi
 - 4:45pm: **ALTA AGM**
 - 5:00pm: **Best Paper Award / Shared Task Award/ Closing**
+
+*Please inform us if there are any issues with the paper details*

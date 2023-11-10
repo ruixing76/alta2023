@@ -22,6 +22,18 @@ sidebar:
     
 
 The following speakers have graciously agreed to give keynotes at ALTA 2023.
+## Speaker: Reza Haffari
+
+![Reza Haffari](/assets/images/keynotes/reza.jpeg){: .align-center; .smaller}
+
+### Towards Effective NLP Systems: Cultural Norms, Explainability, and Reasoning Enhancement
+
+### Abstract
+Effective real-world NLP systems need to be trustworthy and take users’ contexts into account. As such, they need to recognise and adhere to cultural norms, be able to explain their outcomes, and be capable of complex reasoning with certified knowledge. In this talk, we describe our research towards these goals. First, we discuss the challenges of adhering to socio-cultural norms in cross-cultural and multilingual communications. We present our work on assistive dialogue systems that can identify and address norm violations. Second, we highlight the importance of explaining the outcomes of NLP models while considering the user context. We present methods for generating fast, high-quality, and context-aware explanations. Finally, we look into the limitations of large language models (LLMs) in knowledge hallucination and complex reasoning. We propose a systematic approach to assess LLMs' knowledge using knowledge graphs and enhance their complex reasoning capabilities for improved accuracy and trustworthiness.
+
+### Bio
+Gholamreza (Reza) Haffari is a Professor in the Department of Data Science and Artificial Intelligence (DSAI), Monash University, Australia. He is an Australian Research Council (ARC) Future Fellow and the Director of the Vision and Language Group. Reza’s research has been supported by awards and grants from government and industry, including ARC, Google Research, Amazon Research, eBay Research, and Adobe Research. His research is in the intersection of Natural Language Processing, Deep Learning, and Machine Learning. 
+
 
 ## Speaker: Heng Ji
 

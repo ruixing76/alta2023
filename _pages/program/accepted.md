@@ -2,12 +2,10 @@
 title: Accepted Papers
 layout: single
 excerpt: "ALTA 2023 Accepted Papers."
-permalink: /program/accepted/
+permalink: /program/accepted_papers/
 toc: true
 toc_sticky: true
 toc_icon: "cog"
-sidebar:
-    nav: program
 ---
 <!-- Note that the titles/authors may change and papers may be withdrawn. For the final titles/authors, please refer to the [proceedings on the anthology](https://www.aclweb.org/anthology/events/naacl-2021/). -->
 
@@ -77,3 +75,5 @@ Shared Task
 **SHARED** *Feature-Level Ensemble Learning for Robust Synthetic Text Detection with DeBERTaV3 and XLM-RoBERTa* <br>Saman Sarker Joy and Tanusree Das Aishi
 
 **SHARED** *Stacking the Odds: Transformer-Based Ensemble for AI-Generated Text Detection* <br>Duke Nguyen, Khaing Myat Noe Naing and Aditya Joshi
+
+*Please inform us via [workshop@alta.asn.au](mailto:workshop@alta.asn.au) if there are any issues with paper details*

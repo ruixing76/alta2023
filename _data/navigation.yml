@@ -13,15 +13,14 @@ main:
   #- title: "Virtual Conference Website"
   #  url: "https://underline.io/events/122/reception"
   
-  # - title: "Proceedings"
-  #   url: "https://aclanthology.org/events/emnlp-2022/"
-
-
   - title: "Keynotes"
     url: /program/keynotes/
   
   - title: "Programme"
     url: /program/
+  
+  - title: "Papers"
+    url: /program/accepted_papers/
   
   - title: "Venue"
     url: /venue

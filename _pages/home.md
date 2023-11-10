@@ -9,8 +9,7 @@ header:
 excerpt: "Melbourne<br>November 29-December 1, 2023"
 ---
 ## Welcome!
-The 21st Annual Workshop of the Australasian Language Technology Association (ALTA 2023) will take place in **Melbourne, Australia** from **November 29th to December 1st, 2023**. ALTA 2023 will largely operate as an offline conference this year, with limited online/hybrid capability. More information will be announced soon.
-
+The 21st Annual Workshop of the Australasian Language Technology Association (ALTA 2023) will take place in **Melbourne, Australia** from **November 29th to December 1st, 2023**. ALTA 2023 will largely operate as an offline conference this year, with limited online/hybrid capability.
 
 ## News
 <style>

@@ -12,7 +12,7 @@ toc_icon: "cog"
 Long Papers
 ---
 
-**LONG** *Story Co-telling Dialogue Generation based on Multi-Agent Reinforcement Learning and Story Highlights* <br>YuKai Lee, Chia-Hui Chang
+**LONG** *Story Co-telling Dialogue Generation based on Multi-Agent Reinforcement Learning and Story Highlights* <br>YuKai Lee and Chia-Hui Chang
 
 **LONG** *Turning Flowchart into Dialog: Augmenting Flowchart-grounded Troubleshooting Dialogs via Synthetic Data Generation* <br>Haolan Zhan, Sameen Maruf, Lizhen Qu, Yufei Wang, Ingrid Zukerman and Gholamreza Haffari
 
@@ -30,11 +30,11 @@ Long Papers
 
 Short Papers
 ---
-**SHORT** *Chat Disentanglement: Data for New Domains and Methods for More Accurate Annotation*<br>Sai Gouravajhala, Andrew Vernier, Yiming Shi, Zihan Li, Mark Ackerman, Jonathan Kummerfeld 
+**SHORT** *Chat Disentanglement: Data for New Domains and Methods for More Accurate Annotation*<br>Sai Gouravajhala, Andrew Vernier, Yiming Shi, Zihan Li, Mark Ackerman and Jonathan Kummerfeld 
 
-**SHORT** *Predicting Empathic Accuracy from User-Designer Interviews* <br>Steven Nguyen, Daniel Beck, Katja Holtta-Otto
+**SHORT** *Predicting Empathic Accuracy from User-Designer Interviews* <br>Steven Nguyen, Daniel Beck and Katja Holtta-Otto
 
-**SHORT** *The uncivil empathy: Investigating the relation between empathy and toxicity in online mental health support forums* <br>Ming-Bin Chen, Jey Han Lau, Lea Frermann
+**SHORT** *The uncivil empathy: Investigating the relation between empathy and toxicity in online mental health support forums* <br>Ming-Bin Chen, Jey Han Lau and Lea Frermann
 
 **SHORT** *An Ensemble Method Based on the Combination of Transformers with Convolutional Neural Networks to Detect Artificially Generated Text*<br>Vijini Pilana Liyanage
 
@@ -43,7 +43,7 @@ Industry Demonstrations
 ---
 **DEMO** *Application of NLP in multi-national, multi-linguistic clinical trials for dementia* <br>Adam Vogel
 
-**DEMO** *AskTelstra: An LLM-Powered QA System for an Enhanced Customer Support*<br>Jack Latrobe, Andrea Chiechi, Danielle Nunns, Sirirat Wisessiri, Stuart Taylor, Vijayaraj Vinuvilla Rajan, Sing Teng, Sara Keretna, Sing Yatphaisan, Zhuohan Xie, Mudit Upadhyay, Anish Chelliah CR, Steve Morris, Rohit Lakhotia and Cat Smith, Telstra, Australia
+**DEMO** *AskTelstra: An LLM-Powered QA System for an Enhanced Customer Support*<br>Jack Latrobe, Andrea Chiechi, Danielle Nunns, Sirirat Wisessiri, Stuart Taylor, Vijayaraj Vinuvilla Rajan, Sing Teng, Sara Keretna, Sing Yatphaisan, Zhuohan Xie, Mudit Upadhyay, Anish Chelliah CR, Steve Morris, Rohit Lakhotia and Cat Smith
 
 Abstracts
 ---

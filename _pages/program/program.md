@@ -52,7 +52,7 @@ __Location__: The Forum, Superfloor, Melbourne Connect
 - 3:15pm: **Panel Discussion**
 - 4:15pm: **Abstract Presentations / Industry Demonstrations (ends at 5:15pm)**
   - **DEMO** *Application of NLP in multi-national, multi-linguistic clinical trials for dementia* <br>Adam Vogel
-  - **DEMO** *AskTelstra: An LLM-Powered QA System for an Enhanced Customer Support*<br>Jack Latrobe, Andrea Chiechi, Danielle Nunns, Sirirat Wisessiri, Stuart Taylor, Vijayaraj Vinuvilla Rajan, Sing Teng, Sara Keretna, Sing Yatphaisan, Zhuohan Xie, Mudit Upadhyay, Anish Chelliah CR, Steve Morris, Rohit Lakhotia and Cat Smith, Telstra, Australia
+  - **DEMO** *AskTelstra: An LLM-Powered QA System for an Enhanced Customer Support*<br>Jack Latrobe, Andrea Chiechi, Danielle Nunns, Sirirat Wisessiri, Stuart Taylor, Vijayaraj Vinuvilla Rajan, Sing Teng, Sara Keretna, Sing Yatphaisan, Zhuohan Xie, Mudit Upadhyay, Anish Chelliah CR, Steve Morris, Rohit Lakhotia and Cat Smith
   - **ABSTRACT** *Characterising Mood Instability on Twitter* <br>Lulu Ilmaknun Qurotaini
   - **ABSTRACT** *Extended Abstract: An Update to the Urarina Language Verification Project (A Work in Progress)* <br>Michael Dorin and Judith Dorin
   - **ABSTRACT** *SLEDE: A classification-based evaluation model of second language English conversational dialogue* <br>Rena Gao
@@ -76,9 +76,9 @@ __Location__: The Forum, Superfloor, Melbourne Connect
 - 12:00pm: **ALTA Keynote#4 (Joint Session with AI@MC Symposium) - Heng Ji**
 - 1:00pm: **Lunch**
 - 2:00pm: **Oral Presentations (Dialogue) [Chair: Jonathan Kummerfeld]**
-  - **LONG** *Story Co-telling Dialogue Generation based on Multi-Agent Reinforcement Learning and Story Highlights* <br>YuKai Lee, Chia-Hui Chang
-  - **SHORT** *Chat Disentanglement: Data for New Domains and Methods for More Accurate Annotation*<br>Sai Gouravajhala, Andrew Vernier, Yiming Shi, Zihan Li, Mark Ackerman, Jonathan Kummerfeld 
-  - **SHORT** *Predicting Empathic Accuracy from User-Designer Interviews* <br>Steven Nguyen, Daniel Beck, Katja Holtta-Otto
+  - **LONG** *Story Co-telling Dialogue Generation based on Multi-Agent Reinforcement Learning and Story Highlights* <br>YuKai Lee and Chia-Hui Chang
+  - **SHORT** *Chat Disentanglement: Data for New Domains and Methods for More Accurate Annotation*<br>Sai Gouravajhala, Andrew Vernier, Yiming Shi, Zihan Li, Mark Ackerman and Jonathan Kummerfeld 
+  - **SHORT** *Predicting Empathic Accuracy from User-Designer Interviews* <br>Steven Nguyen, Daniel Beck and Katja Holtta-Otto
   - **SHORT** *The uncivil empathy: Investigating the relation between empathy and toxicity in online mental health support forums* <br>Ming-Bin Chen, Jey Han Lau and Lea Frermann
   - **LONG** *Turning Flowchart into Dialog: Augmenting Flowchart-grounded Troubleshooting Dialogs via Synthetic Data Generation* <br>Haolan Zhan, Sameen Maruf, Lizhen Qu, Yufei Wang, Ingrid Zukerman and Gholamreza Haffari
 - 3:30pm: **Afternoon Tea**

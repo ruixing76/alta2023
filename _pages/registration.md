@@ -3,7 +3,7 @@ title: Registration
 layout: single
 permalink: /registration/
 sidebar: false
-toc: true
+toc: false
 toc_sticky: true
 toc_icon: "cog"
 ---
@@ -11,8 +11,8 @@ toc_icon: "cog"
 **Registrations are now open.**
 {: .notice .notice--info .text-center}
 
-## Registration link
-We have made every effort to keep registration fees affordable. Registration for ALTA 2023 is handled through Humanitix. Please register through [this link](https://events.humanitix.com/alta-2023?c=register).
+## Registration Link
+We have made every effort to keep registration fees affordable. Registration for ALTA 2023 is handled through Humanitix. <span style="font-weight: bold;background-color:yellow">Please register through <a href="https://events.humanitix.com/alta-2023?c=register" target="_blank">here</a></span>.
 
 **Questions?**  If you have any issues with registration, please contact the ALTA workshop committee: [workshop@alta.asn.au](mailto:workshop@alta.asn.au).
 

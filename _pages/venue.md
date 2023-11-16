@@ -88,7 +88,7 @@ We look forward to welcoming you to the event!
 
 ## Conference dinner
 ALTA 2023 will host a conference dinner for all participants on the evening of November 30th. 
-- Time: 6:00pm
+- Time: 6:30pm
 - Restaurant: [Stomping Ground Brewery & Beer Hall - Collingwood](https://www.stompingground.beer/pages/collingwood)
 - Location: [100 Gipps Street, Collingwood 3066, Australia](https://maps.app.goo.gl/FMCnybhFz2qBJVRm9)
 
@@ -96,10 +96,10 @@ Stomping Ground is an independent brewery located in Collingwood, a few kilomete
 
 Depending on weather, mood and energy we recommend one of the following ways to get there after ALTA closes on Thursday:
 1. Walk! Join us for a leisurely 40 minute walk (2.8km) through one of Melbourne's hippest suburbs!
-2. Bus 200 from Grattan/Lygon St to Hoddle St/Johnston St, and walk up Hoddle St to Stomping Ground (700m)
-   [https://maps.app.goo.gl/V7uT59DXbb2NHqKB9](https://maps.app.goo.gl/V7uT59DXbb2NHqKB9)
-3. Bus 202 from Melbourne University/Swanston St to Hoddle St/Johnston St, and walk up Hoddle St to Stomping Ground (700m)
-   [https://maps.app.goo.gl/CV7Ktv99weoTuvv8A](https://maps.app.goo.gl/CV7Ktv99weoTuvv8A)
+2. Bus 202 from Melbourne University/Swanston St to Hoddle St/Johnston St, and walk up Hoddle St to Stomping Ground (700m)
+   [https://maps.app.goo.gl/CV7Ktv99weoTuvv8A](https://maps.app.goo.gl/Fv6GygajqCofmxnz9)
+3. Bus 207 from Grattan/Lygon St to Hoddle St/Johnston St, and walk up Hoddle St to Stomping Ground (700m)
+   [https://maps.app.goo.gl/V7uT59DXbb2NHqKB9](https://maps.app.goo.gl/GZVGdS8HyS8zvSV76)
 
 We’ll leave from the Forum theatre near the Concierge’s desk at 5:30pm.
 

@@ -7,10 +7,9 @@ sidebar:
     nav: "committees"
 ---
 ## Area chairs
-- Lan Du (Monash University)
-- Afshin Rahimi (Amazon)
 - Antonio Jimeno Yepes (The University of Melbourne)
-
+- Afshin Rahimi (Amazon)
+- Lan Du (Monash University)
 
 ## Reviewers 
 - Arpit Sood (Research, Facebook)

@@ -28,7 +28,7 @@ __Location__: The Studio, Ground Floor, Melbourne Connect
 - 3:15pm: **Break**
 - 3:30pm: **Tutorial Part 3**
 - 4:30pm: **Tutorial Conclude and NLP Meetup Refreshments**
-- 5:15pm: **NLP Meetup@MC**
+- 5:15pm: **NLP Meetup@Melbourne Connect**
 
 
 ## __Thu, Nov 30__
@@ -41,7 +41,7 @@ __Location__: The Forum, Superfloor, Melbourne Connect
   - **LONG** *BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Adaptive BanglaBERT and MLP Techniques* <br>Saman Sarker Joy, Tanusree Das Aishi, Naima Tahsin Nodi and Annajiat Alim Rasel
   - **SHORT** *An Ensemble Method Based on the Combination of Transformers with Convolutional Neural Networks to Detect Artificially Generated Text*<br>Vijini Pilana Liyanage and Davide Buscaldi
   - **LONG** *Using C-LARA to evaluate GPT-4's multilingual processing* <br>ChatGPT C-LARA-Instance, Belinda Chiera, Cathy Chua, Chadi Raheb, Manny Rayner and Annika Simonsen, Zhengkang Xiang and Rina Zviel-Girshin
-  - **LONG** *MCASP: Multi-Modal Cross Attention Network for Stock Market Prediction* <br>Kamaladdin Fataliyev and Wei Liu
+  - **LONG** *Melbourne ConnectASP: Multi-Modal Cross Attention Network for Stock Market Prediction* <br>Kamaladdin Fataliyev and Wei Liu
 - 12:00pm: **ALTA Keynote#2** - Heng Ji, SmartBook: An AI Prophetess for Disaster Reporting and Forecasting
 - 1:00pm: **Lunch**
 - 2:00pm: **Oral Presentations (Speech / Linguistics) [Chair: Daniel Beck]**
@@ -73,7 +73,7 @@ __Location__: The Forum, Superfloor, Melbourne Connect
   - **SHORT** *CRF-based recognition of invasive fungal infection concepts in CHIFIR clinical reports* <br>Yang Meng, Vlada Rozova and Karin Verspoor
   - **LONG** *Catching Misdiagnosed Limb Fractures in the Emergency Department Using Cross-institution Transfer Learning* <br>Filip Rusak, Bevan Koopman, Nathan J. Brown, Kevin Chu, Jinghui Liu and Anthony Nguyen
   - **LONG** *Exploring Causal Directions through Word Occurrences: Semi-supervised Bayesian Classification Framework* <br>King Tao Jason Ng and Diego Molla
-- 12:00pm: **ALTA Keynote#4 (Joint Session with AI@MC Symposium) - Heng Ji**
+- 12:00pm: **ALTA Keynote#4 (Joint Session with AI@Melbourne Connect Symposium) - Heng Ji**
 - 1:00pm: **Lunch**
 - 2:00pm: **Oral Presentations (Dialogue) [Chair: Jonathan Kummerfeld]**
   - **LONG** *Story Co-telling Dialogue Generation based on Multi-Agent Reinforcement Learning and Story Highlights* <br>YuKai Lee and Chia-Hui Chang

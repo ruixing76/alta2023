@@ -35,7 +35,7 @@ __Location__: The Studio, Ground Floor, Melbourne Connect
 __Location__: The Forum, Superfloor, Melbourne Connect      
 
 - 8:45am: **Opening**
-- 9:00am: **ALTA Keynote#1** - Reza Haffari
+- 9:00am: **ALTA Keynote#1** - Reza Haffari, Towards Effective NLP Systems: Cultural Norms, Explainability, and Reasoning Enhancement
 - 10:00am: **Morning Tea**
 - 10:30am: **Oral Presentations (Applications) [Chair: Massimo Piccardi]**
   - **LONG** *BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Adaptive BanglaBERT and MLP Techniques* <br>Saman Sarker Joy, Tanusree Das Aishi, Naima Tahsin Nodi and Annajiat Alim Rasel
@@ -66,14 +66,14 @@ __Location__: The Forum, Superfloor, Melbourne Connect
 ## __Fri, Dec 1__
 __Location__: The Forum, Superfloor, Melbourne Connect 
 
-- 9:00am: **ALTA Keynote#3** - Terrence Szymanski
+- 9:00am: **ALTA Keynote#3** - Terrence Szymanski, The commoditisation of NLP in industry
 - 10:00am: **Morning Tea**
 - 10:30am: **Oral Presentations (Medical / ML) [Chair: Antonio Jimeno Yepes]**
   - **SHORT** *Enhancing Bacterial Infection Prediction in Critically Ill Patients by Integrating Clinical Text* <br>Jinghui Liu and Anthony Nguyen
   - **SHORT** *CRF-based recognition of invasive fungal infection concepts in CHIFIR clinical reports* <br>Yang Meng, Vlada Rozova and Karin Verspoor
   - **LONG** *Catching Misdiagnosed Limb Fractures in the Emergency Department Using Cross-institution Transfer Learning* <br>Filip Rusak, Bevan Koopman, Nathan J. Brown, Kevin Chu, Jinghui Liu and Anthony Nguyen
   - **LONG** *Exploring Causal Directions through Word Occurrences: Semi-supervised Bayesian Classification Framework* <br>King Tao Jason Ng and Diego Molla
-- 12:00pm: **ALTA Keynote#4 (Joint Session with AI@Melbourne Connect Symposium) - Heng Ji**
+- 12:00pm: **ALTA Keynote#4** (Joint Session with AI@Melbourne Connect Symposium) - Heng Ji
 - 1:00pm: **Lunch**
 - 2:00pm: **Oral Presentations (Dialogue) [Chair: Jonathan Kummerfeld]**
   - **LONG** *Story Co-telling Dialogue Generation based on Multi-Agent Reinforcement Learning and Story Highlights* <br>YuKai Lee and Chia-Hui Chang

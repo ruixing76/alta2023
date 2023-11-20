@@ -49,7 +49,7 @@ __Location__: The Forum, Superfloor, Melbourne Connect
   - **LONG** *Right the docs: Characterising voice dataset documentation practices used in machine learning*<br>Kathy Reid and Elizabeth T. Williams
   - **LONG** *Encoding Prefixation in Southern Min* <br>Yishan Huang
 - 3:00pm: **Afternoon Tea**
-- 3:15pm: **Panel Discussion**
+- 3:15pm: **Panel Discussion** [Panellists: Long Duong, Reza Haffari, Ed Hovy, Karin Verspoor]
 - 4:15pm: **Abstract Presentations / Industry Demonstrations (ends at 5:15pm)**
   - **DEMO** *Application of NLP in multi-national, multi-linguistic clinical trials for dementia* <br>Adam Vogel
   - **DEMO** *AskTelstra: An LLM-Powered QA System for an Enhanced Customer Support*<br>Jack Latrobe, Andrea Chiechi, Danielle Nunns, Sirirat Wisessiri, Stuart Taylor, Vijayaraj Vinuvilla Rajan, Sing Teng, Sara Keretna, Sing Yatphaisan, Zhuohan Xie, Mudit Upadhyay, Anish Chelliah CR, Steve Morris, Rohit Lakhotia and Cat Smith

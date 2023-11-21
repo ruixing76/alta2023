@@ -119,7 +119,7 @@ A   @   185.199.108.153
 A   @   185.199.109.153 
 A   @   185.199.110.153 
 A   @   185.199.111.153 
-CNAME www   naacl2021.org
+CNAME www   alta2023.org
 ```
 
 In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (e.g., `alta2023.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.

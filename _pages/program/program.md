@@ -38,7 +38,7 @@ __Location__: The Forum, Superfloor, Melbourne Connect
 - 9:00am: **ALTA Keynote#1** - Reza Haffari, Towards Effective NLP Systems: Cultural Norms, Explainability, and Reasoning Enhancement
 - 10:00am: **Morning Tea**
 - 10:30am: **Oral Presentations (Applications) [Chair: Massimo Piccardi]**
-  - **LONG** *BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Adaptive BanglaBERT and MLP Techniques* <br>Saman Sarker Joy, Tanusree Das Aishi, Naima Tahsin Nodi and Annajiat Alim Rasel
+  - **LONG** [*BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Adaptive BanglaBERT and MLP Techniques*](/files/3.pdf) <br>Saman Sarker Joy, Tanusree Das Aishi, Naima Tahsin Nodi and Annajiat Alim Rasel
   - **SHORT** *An Ensemble Method Based on the Combination of Transformers with Convolutional Neural Networks to Detect Artificially Generated Text*<br>Vijini Pilana Liyanage and Davide Buscaldi
   - **LONG** *Using C-LARA to evaluate GPT-4's multilingual processing* <br>ChatGPT C-LARA-Instance, Belinda Chiera, Cathy Chua, Chadi Raheb, Manny Rayner and Annika Simonsen, Zhengkang Xiang and Rina Zviel-Girshin
   - **LONG** *Melbourne ConnectASP: Multi-Modal Cross Attention Network for Stock Market Prediction* <br>Kamaladdin Fataliyev and Wei Liu

@@ -30,6 +30,8 @@ __Location__: The Studio, Ground Floor, Melbourne Connect
 - 4:30pm: **Tutorial Conclude and NLP Meetup Refreshments**
 - 5:15pm: **NLP Meetup@Melbourne Connect**
 
+[Link to Tutorial](/files/t_1.pdf).
+
 
 ## __Thu, Nov 30__
 __Location__: The Forum, Superfloor, Melbourne Connect      
@@ -39,20 +41,20 @@ __Location__: The Forum, Superfloor, Melbourne Connect
 - 10:00am: **Morning Tea**
 - 10:30am: **Oral Presentations (Applications) [Chair: Massimo Piccardi]**
   - **LONG** [*BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Adaptive BanglaBERT and MLP Techniques*](/files/3.pdf) <br>Saman Sarker Joy, Tanusree Das Aishi, Naima Tahsin Nodi and Annajiat Alim Rasel
-  - **SHORT** *An Ensemble Method Based on the Combination of Transformers with Convolutional Neural Networks to Detect Artificially Generated Text*<br>Vijini Pilana Liyanage and Davide Buscaldi
-  - **LONG** *Using C-LARA to evaluate GPT-4's multilingual processing* <br>ChatGPT C-LARA-Instance, Belinda Chiera, Cathy Chua, Chadi Raheb, Manny Rayner and Annika Simonsen, Zhengkang Xiang and Rina Zviel-Girshin
-  - **LONG** *Melbourne ConnectASP: Multi-Modal Cross Attention Network for Stock Market Prediction* <br>Kamaladdin Fataliyev and Wei Liu
+  - **SHORT** [*An Ensemble Method Based on the Combination of Transformers with Convolutional Neural Networks to Detect Artificially Generated Text*](/files/9.pdf)<br>Vijini Pilana Liyanage and Davide Buscaldi
+  - **LONG** [*Using C-LARA to evaluate GPT-4's multilingual processing*](/files/10.pdf) <br>ChatGPT C-LARA-Instance, Belinda Chiera, Cathy Chua, Chadi Raheb, Manny Rayner and Annika Simonsen, Zhengkang Xiang and Rina Zviel-Girshin
+  - **LONG** [*MCASP: Multi-Modal Cross Attention Network for Stock Market Prediction*](/files.29.pdf) <br>Kamaladdin Fataliyev and Wei Liu
 - 12:00pm: **ALTA Keynote#2** - Heng Ji, SmartBook: An AI Prophetess for Disaster Reporting and Forecasting
 - 1:00pm: **Lunch**
 - 2:00pm: **Oral Presentations (Speech / Linguistics) [Chair: Daniel Beck]**
-  - **LONG** *The sub-band cepstrum as a tool for local spectral analysis in forensic voice comparison* <br>Shunichi Ishihara and Frantz Clermont
-  - **LONG** *Right the docs: Characterising voice dataset documentation practices used in machine learning*<br>Kathy Reid and Elizabeth T. Williams
-  - **LONG** *Encoding Prefixation in Southern Min* <br>Yishan Huang
+  - **LONG** [*The sub-band cepstrum as a tool for local spectral analysis in forensic voice comparison*](/files/18.pdf) <br>Shunichi Ishihara and Frantz Clermont
+  - **LONG** [*Right the docs: Characterising voice dataset documentation practices used in machine learning*](/files/22.pdf)<br>Kathy Reid and Elizabeth T. Williams
+  - **LONG** [*Encoding Prefixation in Southern Min*](/files/37.pdf) <br>Yishan Huang
 - 3:00pm: **Afternoon Tea**
 - 3:15pm: **Panel Discussion** [Panellists: Long Duong, Reza Haffari, Ed Hovy and Karin Verspoor]
 - 4:15pm: **Abstract Presentations / Industry Demonstrations (ends at 5:15pm)**
   - **DEMO** *Application of NLP in multi-national, multi-linguistic clinical trials for dementia* <br>Adam Vogel
-  - **DEMO** *AskTelstra: An LLM-Powered QA System for an Enhanced Customer Support*<br>Jack Latrobe, Andrea Chiechi, Danielle Nunns, Sirirat Wisessiri, Stuart Taylor, Vijayaraj Vinuvilla Rajan, Sing Teng, Sara Keretna, Sing Yatphaisan, Zhuohan Xie, Mudit Upadhyay, Anish Chelliah CR, Steve Morris, Rohit Lakhotia and Cat Smith
+  - **DEMO** *AskTelstra: An LLM-Powered QA System for an Enhanced Customer Support* <br>Jack Latrobe, Andrea Chiechi, Danielle Nunns, Sirirat Wisessiri, Stuart Taylor, Vijayaraj Vinuvilla Rajan, Sing Teng, Sara Keretna, Sing Yatphaisan, Zhuohan Xie, Mudit Upadhyay, Anish Chelliah CR, Steve Morris, Rohit Lakhotia and Cat Smith
   - **ABSTRACT** *Characterising Mood Instability on Twitter* <br>Lulu Ilmaknun Qurotaini
   - **ABSTRACT** *Extended Abstract: An Update to the Urarina Language Verification Project (A Work in Progress)* <br>Michael Dorin and Judith Dorin
   - **ABSTRACT** *SLEDE: A classification-based evaluation model of second language English conversational dialogue* <br>Rena Gao
@@ -69,26 +71,26 @@ __Location__: The Forum, Superfloor, Melbourne Connect
 - 9:00am: **ALTA Keynote#3** - Terrence Szymanski, The commoditisation of NLP in industry
 - 10:00am: **Morning Tea**
 - 10:30am: **Oral Presentations (Medical / ML) [Chair: Antonio Jimeno Yepes]**
-  - **SHORT** *Enhancing Bacterial Infection Prediction in Critically Ill Patients by Integrating Clinical Text* <br>Jinghui Liu and Anthony Nguyen
-  - **SHORT** *CRF-based recognition of invasive fungal infection concepts in CHIFIR clinical reports* <br>Yang Meng, Vlada Rozova and Karin Verspoor
-  - **LONG** *Catching Misdiagnosed Limb Fractures in the Emergency Department Using Cross-institution Transfer Learning* <br>Filip Rusak, Bevan Koopman, Nathan J. Brown, Kevin Chu, Jinghui Liu and Anthony Nguyen
-  - **LONG** *Exploring Causal Directions through Word Occurrences: Semi-supervised Bayesian Classification Framework* <br>King Tao Jason Ng and Diego Molla
+  - **SHORT** [*Enhancing Bacterial Infection Prediction in Critically Ill Patients by Integrating Clinical Text*](/files/17.pdf) <br>Jinghui Liu and Anthony Nguyen
+  - **SHORT** [*CRF-based recognition of invasive fungal infection concepts in CHIFIR clinical reports*](/files/26.pdf) <br>Yang Meng, Vlada Rozova and Karin Verspoor
+  - **LONG** [*Catching Misdiagnosed Limb Fractures in the Emergency Department Using Cross-institution Transfer Learning*](/files/34.pdf) <br>Filip Rusak, Bevan Koopman, Nathan J. Brown, Kevin Chu, Jinghui Liu and Anthony Nguyen
+  - **LONG** [*Exploring Causal Directions through Word Occurrences: Semi-supervised Bayesian Classification Framework*](/files/12.pdf) <br>King Tao Jason Ng and Diego Molla
 - 12:00pm: **ALTA Keynote#4** (Joint Session with AI@Melbourne Connect Symposium) - Heng Ji
 - 1:00pm: **Lunch**
 - 2:00pm: **Oral Presentations (Dialogue) [Chair: Jonathan Kummerfeld]**
-  - **LONG** *Story Co-telling Dialogue Generation based on Multi-Agent Reinforcement Learning and Story Highlights* <br>YuKai Lee and Chia-Hui Chang
-  - **SHORT** *Chat Disentanglement: Data for New Domains and Methods for More Accurate Annotation*<br>Sai Gouravajhala, Andrew Vernier, Yiming Shi, Zihan Li, Mark Ackerman and Jonathan Kummerfeld 
-  - **SHORT** *Predicting Empathic Accuracy from User-Designer Interviews* <br>Steven Nguyen, Daniel Beck and Katja Holtta-Otto
-  - **SHORT** *The uncivil empathy: Investigating the relation between empathy and toxicity in online mental health support forums* <br>Ming-Bin Chen, Jey Han Lau and Lea Frermann
-  - **LONG** *Turning Flowchart into Dialog: Augmenting Flowchart-grounded Troubleshooting Dialogs via Synthetic Data Generation* <br>Haolan Zhan, Sameen Maruf, Lizhen Qu, Yufei Wang, Ingrid Zukerman and Gholamreza Haffari
+  - **LONG** [*Story Co-telling Dialogue Generation based on Multi-Agent Reinforcement Learning and Story Highlights*](/files/6.pdf) <br>YuKai Lee and Chia-Hui Chang
+  - **SHORT** [*Chat Disentanglement: Data for New Domains and Methods for More Accurate Annotation*](/files/13.pdf) <br>Sai Gouravajhala, Andrew Vernier, Yiming Shi, Zihan Li, Mark Ackerman and Jonathan Kummerfeld 
+  - **SHORT** [*Predicting Empathic Accuracy from User-Designer Interviews*](/files/24.pdf) <br>Steven Nguyen, Daniel Beck and Katja Holtta-Otto
+  - **SHORT** [*The uncivil empathy: Investigating the relation between empathy and toxicity in online mental health support forums*](/files/27.pdf) <br>Ming-Bin Chen, Jey Han Lau and Lea Frermann
+  - **LONG** [*Turning Flowchart into Dialog: Augmenting Flowchart-grounded Troubleshooting Dialogs via Synthetic Data Generation*](/files/35.pdf) <br>Haolan Zhan, Sameen Maruf, Lizhen Qu, Yufei Wang, Ingrid Zukerman and Gholamreza Haffari
 - 3:30pm: **Afternoon Tea**
 - 3:45pm: **Oral Presentations (Shared Task)**
-  - **SHARED** *Overview of the 2023 ALTA Shared Task: Discriminate between Human-Written and Machine-Generated Text* <br>Diego Molla, Haolan Zhan, Xuanli He and Qiongkai Xu
-  - **SHARED** *A Prompt in the Right Direction: Prompt Based Classification of Machine-Generated Text Detection*<br>Rinaldo Gagiano and Lin Tian
-  - **SHARED** *Automatic Detection of Machine-Generated Text Using Pre-Trained Language Models* <br>Yunhao Fang
-  - **SHARED** *An Ensemble Based Approach To Detecting LLM-Generated Texts* <br>Ahmed EI-Sayed and Omar Nasr
-  - **SHARED** *Feature-Level Ensemble Learning for Robust Synthetic Text Detection with DeBERTaV3 and XLM-RoBERTa* <br>Saman Sarker Joy and Tanusree Das Aishi
-  - **SHARED** *Stacking the Odds: Transformer-Based Ensemble for AI-Generated Text Detection* <br>Duke Nguyen, Khaing Myat Noe Naing and Aditya Joshi
+  - **SHARED** [*Overview of the 2023 ALTA Shared Task: Discriminate between Human-Written and Machine-Generated Text*](/files/st_00.pdf) <br>Diego Molla, Haolan Zhan, Xuanli He and Qiongkai Xu
+  - **SHARED** [*A Prompt in the Right Direction: Prompt Based Classification of Machine-Generated Text Detection*](/files/st_01.pdf) <br>Rinaldo Gagiano and Lin Tian
+  - **SHARED** [*Automatic Detection of Machine-Generated Text Using Pre-Trained Language Models*](/files/st_02.pdf) <br>Yunhao Fang
+  - **SHARED** [*An Ensemble Based Approach To Detecting LLM-Generated Texts*](/files/st_03.pdf) <br>Ahmed EI-Sayed and Omar Nasr
+  - **SHARED** [*Feature-Level Ensemble Learning for Robust Synthetic Text Detection with DeBERTaV3 and XLM-RoBERTa*](/files/st_04.pdf) <br>Saman Sarker Joy and Tanusree Das Aishi
+  - **SHARED** [*Stacking the Odds: Transformer-Based Ensemble for AI-Generated Text Detection*](/files/st_09.pdf) <br>Duke Nguyen, Khaing Myat Noe Naing and Aditya Joshi
 - 4:45pm: **ALTA AGM**
 - 5:00pm: **Best Paper Award / Shared Task Award/ Closing**
 

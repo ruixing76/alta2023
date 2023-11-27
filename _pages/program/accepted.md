@@ -12,31 +12,39 @@ toc_icon: "cog"
 Long Papers
 ---
 
-**LONG** *Story Co-telling Dialogue Generation based on Multi-Agent Reinforcement Learning and Story Highlights* <br>YuKai Lee and Chia-Hui Chang
+**LONG** [*Story Co-telling Dialogue Generation based on Multi-Agent Reinforcement Learning and Story Highlights*](/files/6.pdf) <br>YuKai Lee and Chia-Hui Chang
 
-**LONG** *Turning Flowchart into Dialog: Augmenting Flowchart-grounded Troubleshooting Dialogs via Synthetic Data Generation* <br>Haolan Zhan, Sameen Maruf, Lizhen Qu, Yufei Wang, Ingrid Zukerman and Gholamreza Haffari
+**LONG** [*Turning Flowchart into Dialog: Augmenting Flowchart-grounded Troubleshooting Dialogs via Synthetic Data Generation*](/files/35.pdf) <br>Haolan Zhan, Sameen Maruf, Lizhen Qu, Yufei Wang, Ingrid Zukerman and Gholamreza Haffari
 
-**LONG** *The sub-band cepstrum as a tool for local spectral analysis in forensic voice comparison* <br>Shunichi Ishihara and Frantz Clermont
+**LONG** [*The sub-band cepstrum as a tool for local spectral analysis in forensic voice comparison*](/files/18.pdf) <br>Shunichi Ishihara and Frantz Clermont
 
-**LONG** *Right the docs: Characterising voice dataset documentation practices used in machine learning*<br>Kathy Reid and Elizabeth T. Williams
+**LONG** [*Right the docs: Characterising voice dataset documentation practices used in machine learning*](/files/22.pdf)<br>Kathy Reid and Elizabeth T. Williams
 
-**LONG** *Encoding Prefixation in Southern Min* <br>Yishan Huang
+**LONG** [*Encoding Prefixation in Southern Min*](/files/37.pdf) <br>Yishan Huang
 
-**LONG** *BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Adaptive BanglaBERT and MLP Techniques* <br>Saman Sarker Joy, Tanusree Das Aishi, Naima Tahsin Nodi and Annajiat Alim Rasel and Davide Buscaldi
+**LONG** [*BanglaClickBERT: Bangla Clickbait Detection from News Headlines using Domain Adaptive BanglaBERT and MLP Techniques*](/files/3.pdf) <br>Saman Sarker Joy, Tanusree Das Aishi, Naima Tahsin Nodi and Annajiat Alim Rasel
 
-**LONG** *Using C-LARA to evaluate GPT-4's multilingual processing* <br>ChatGPT C-LARA-Instance, Belinda Chiera, Cathy Chua, Chadi Raheb, Manny Rayner, Annika Simonsen, Zhengkang Xiang and Rina Zviel-Girshin
+**LONG** [*Using C-LARA to evaluate GPT-4's multilingual processing*](/files/10.pdf) <br>ChatGPT C-LARA-Instance, Belinda Chiera, Cathy Chua, Chadi Raheb, Manny Rayner and Annika Simonsen, Zhengkang Xiang and Rina Zviel-Girshin
 
-**LONG** *MCASP: Multi-Modal Cross Attention Network for Stock Market Prediction* <br>Kamaladdin Fataliyev and Wei Liu
+**LONG** [*MCASP: Multi-Modal Cross Attention Network for Stock Market Prediction*](/files.29.pdf) <br>Kamaladdin Fataliyev and Wei Liu
+
+**LONG** [*Catching Misdiagnosed Limb Fractures in the Emergency Department Using Cross-institution Transfer Learning*](/files/34.pdf) <br>Filip Rusak, Bevan Koopman, Nathan J. Brown, Kevin Chu, Jinghui Liu and Anthony Nguyen
+
+**LONG** [*Exploring Causal Directions through Word Occurrences: Semi-supervised Bayesian Classification Framework*](/files/12.pdf) <br>King Tao Jason Ng and Diego Molla
 
 Short Papers
 ---
-**SHORT** *Chat Disentanglement: Data for New Domains and Methods for More Accurate Annotation*<br>Sai Gouravajhala, Andrew Vernier, Yiming Shi, Zihan Li, Mark Ackerman and Jonathan Kummerfeld 
+**SHORT** [*Chat Disentanglement: Data for New Domains and Methods for More Accurate Annotation*](/files/13.pdf) <br>Sai Gouravajhala, Andrew Vernier, Yiming Shi, Zihan Li, Mark Ackerman and Jonathan Kummerfeld 
 
-**SHORT** *Predicting Empathic Accuracy from User-Designer Interviews* <br>Steven Nguyen, Daniel Beck and Katja Holtta-Otto
+**SHORT** [*Predicting Empathic Accuracy from User-Designer Interviews*](/files/24.pdf) <br>Steven Nguyen, Daniel Beck and Katja Holtta-Otto
 
-**SHORT** *The uncivil empathy: Investigating the relation between empathy and toxicity in online mental health support forums* <br>Ming-Bin Chen, Jey Han Lau and Lea Frermann
+**SHORT** [*The uncivil empathy: Investigating the relation between empathy and toxicity in online mental health support forums*](/files/27.pdf) <br>Ming-Bin Chen, Jey Han Lau and Lea Frermann
 
-**SHORT** *An Ensemble Method Based on the Combination of Transformers with Convolutional Neural Networks to Detect Artificially Generated Text*<br>Vijini Pilana Liyanage
+**SHORT** [*An Ensemble Method Based on the Combination of Transformers with Convolutional Neural Networks to Detect Artificially Generated Text*](/files/9.pdf)<br>Vijini Pilana Liyanage and Davide Buscaldi
+
+**SHORT** [*Enhancing Bacterial Infection Prediction in Critically Ill Patients by Integrating Clinical Text*](/files/17.pdf) <br>Jinghui Liu and Anthony Nguyen
+
+**SHORT** [*CRF-based recognition of invasive fungal infection concepts in CHIFIR clinical reports*](/files/26.pdf) <br>Yang Meng, Vlada Rozova and Karin Verspoor
 
 
 Industry Demonstrations
@@ -64,16 +72,16 @@ Abstracts
 
 Shared Task
 ---
-**SHARED** *Overview of the 2023 ALTA Shared Task: Discriminate between Human-Written and Machine-Generated Text* <br>Diego Molla, Haolan Zhan, Xuanli He and Qiongkai Xu
+**SHARED** [*Overview of the 2023 ALTA Shared Task: Discriminate between Human-Written and Machine-Generated Text*](/files/st_00.pdf) <br>Diego Molla, Haolan Zhan, Xuanli He and Qiongkai Xu
 
-**SHARED** *A Prompt in the Right Direction: Prompt Based Classification of Machine-Generated Text Detection*<br>Rinaldo Gagiano and Lin Tian
+**SHARED** [*A Prompt in the Right Direction: Prompt Based Classification of Machine-Generated Text Detection*](/files/st_01.pdf) <br>Rinaldo Gagiano and Lin Tian
 
-**SHARED** *Automatic Detection of Machine-Generated Text Using Pre-Trained Language Models* <br>Yunhao Fang
+**SHARED** [*Automatic Detection of Machine-Generated Text Using Pre-Trained Language Models*](/files/st_02.pdf) <br>Yunhao Fang
 
-**SHARED** *An Ensemble Based Approach To Detecting LLM-Generated Texts* <br>Ahmed EI-Sayed and Omar Nasr
+**SHARED** [*An Ensemble Based Approach To Detecting LLM-Generated Texts*](/files/st_03.pdf) <br>Ahmed EI-Sayed and Omar Nasr
 
-**SHARED** *Feature-Level Ensemble Learning for Robust Synthetic Text Detection with DeBERTaV3 and XLM-RoBERTa* <br>Saman Sarker Joy and Tanusree Das Aishi
+**SHARED** [*Feature-Level Ensemble Learning for Robust Synthetic Text Detection with DeBERTaV3 and XLM-RoBERTa*](/files/st_04.pdf) <br>Saman Sarker Joy and Tanusree Das Aishi
 
-**SHARED** *Stacking the Odds: Transformer-Based Ensemble for AI-Generated Text Detection* <br>Duke Nguyen, Khaing Myat Noe Naing and Aditya Joshi
+**SHARED** [*Stacking the Odds: Transformer-Based Ensemble for AI-Generated Text Detection*](/files/st_09.pdf) <br>Duke Nguyen, Khaing Myat Noe Naing and Aditya Joshi
 
 *Please inform us via [workshop@alta.asn.au](mailto:workshop@alta.asn.au) if there are any issues with paper details*

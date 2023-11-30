@@ -107,4 +107,4 @@ We’ll leave from the Forum theatre near the Concierge’s desk at 5:30pm.
 The ALTA organisers have pledged to have the lowest environmental impact we can. We have done this with our choice of menus, and our choice of preferred accommodation, which is walking distance to Melbourne Connect. We also strongly encourage taking public transport to the venue. Melbourne Connect is very well connected with a tram stop right outside its doors. We will have a "walking bus" from Melbourne Connect to our dinner venue the Stomping Ground in vibrant Collingwood. Melbourne Connect itself is a green building and uses run-off water from the roof for the bathroom stalls. It is designed to maximise sunlight and has sensors in every room to ensure that energy is conserved maximally. All conference catering will be vegetarian (as well as accommodating dietary restrictions including gluten-free and vegan options, as specified in the registration form).
 
 
-*We plan on updating this page continuously.* 
+<!-- *We plan on updating this page continuously.*  -->

@@ -19,6 +19,7 @@ The 21st Annual Workshop of the Australasian Language Technology Association (AL
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
+| 2023-12-01 | New opportunities from the Advanced Strategic Capability Accelerator. Please check details from [here](https://www.asca.gov.au/opportunities).
 | 2023-11-27 | ALTA 2023 Proceedings is now available. Please download from [here](/files/proceedings.pdf).
 | 2023-11-09 | ALTA 2023 full programme is now available. Please check [Programme](/program) page.
 | 2023-11-05 | Keynote speakers have been announced. Please check [Keynotes](/program/keynotes) page.
